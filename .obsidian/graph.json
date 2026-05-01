@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:Regras",
+      "color": {
+        "a": 1,
+        "rgb": 12862789
+      }
+    },
+    {
+      "query": "tag:Mundo",
+      "color": {
+        "a": 1,
+        "rgb": 1674430
+      }
+    },
+    {
+      "query": "tag:Personagem  ",
+      "color": {
+        "a": 1,
+        "rgb": 7870292
+      }
+    },
+    {
+      "query": "tag:Inimigos",
+      "color": {
+        "a": 1,
+        "rgb": 6031882
+      }
+    },
+    {
+      "query": "tag:Prisma",
+      "color": {
+        "a": 1,
+        "rgb": 9411742
+      }
+    },
+    {
+      "query": "tag:Classes",
+      "color": {
+        "a": 1,
+        "rgb": 8660912
+      }
+    },
+    {
+      "query": "tag:Jogadores",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 0.967708333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.21875,
+  "repelStrength": 14.6875,
+  "linkStrength": 0.979166666666667,
+  "linkDistance": 162,
+  "scale": 0.5359795996225935,
+  "close": true
+}

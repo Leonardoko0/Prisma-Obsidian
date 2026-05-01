@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "X_L-5cykyBJmJOtnoDMZd",
+      "name": "Full Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "20KvPVxquk9gDWGjQsbqF",
+      "name": "Prisma",
+      "value": "#4b0881"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Pasta 1/Nota 1.md",
+      "color": "X_L-5cykyBJmJOtnoDMZd"
+    },
+    {
+      "path": "Rpg",
+      "color": "20KvPVxquk9gDWGjQsbqF"
+    }
+  ]
+}

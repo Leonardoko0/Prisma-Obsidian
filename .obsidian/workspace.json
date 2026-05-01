@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "49646a58ce1c4c59",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28f0a427a01484e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ecb3b2b920014de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Criação De Personagem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criação De Personagem"
+            }
+          },
+          {
+            "id": "b6e25721242c73cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Vestimentas e Armaduras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vestimentas e Armaduras"
+            }
+          },
+          {
+            "id": "01f2308ab39ef858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Aparatos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aparatos"
+            }
+          },
+          {
+            "id": "4d06b2e8ae63a1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Armas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armas"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e014edc74d7f91f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2acf6cb41b8e300d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2b690b6cb680a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b63093089f41eb12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b634a535f00ca9bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "4b99027977eea2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ecfaed829826046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b97ff2df1de38d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RPG"
+            }
+          },
+          {
+            "id": "83872a623a29d962",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RPG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RPG"
+            }
+          },
+          {
+            "id": "05ff9e526ed71609",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "272b2deed8d09d59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RPG"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "iconic:Open rulebook": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "01f2308ab39ef858",
+  "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Rpg/Personagens/Criação De Personagem.md",
+    "Rpg/Personagens/Equipamento.md",
+    "Rpg/Personagens/Aparatos.md",
+    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Implantes.md",
+    "Rpg/Personagens/Itens Gerais.md",
+    "Carga e Peso.md",
+    "Rpg/Personagens/Background.md",
+    "Rpg/Personagens/Classes.md",
+    "Rpg/Personagens/Atributos.md",
+    "Rpg/Personagens/Traits.md",
+    "Raça.md",
+    "Rpg/Regras/Regras.md",
+    "Rpg/Prisma.md",
+    "Rpg/Personagens/Criação De Personagem.html",
+    "Sem título.canvas",
+    "Minha PEÇA.canvas",
+    "Pasta 1/Nota 1.md",
+    "Brain Storm/Ideias.md",
+    "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Rpg/Bestiário.md",
+    "Rpg/Inimigos/Raiders.md",
+    "Rpg/Inimigos/Scavengers.md",
+    "Rpg/Inimigos/Reikgon.md",
+    "Rpg/Sistema MAGE 1.md",
+    "Pasted image 20260421161824.png",
+    "Pasted image 20260415182201.png",
+    "Pasted image 20260415162431.png",
+    "Recording 20260414191404.m4a",
+    "Pasted image 20260310203514.png",
+    "Sem título.base",
+    "Rpg/Inimigos",
+    "Pasted image 20250903001834.png",
+    "Pasted image 20250903001844.png",
+    "Imagems/Pasted image 20250903001800.png",
+    "Rpg/Organizações",
+    "Rpg/Regras",
+    "Rpg/Personagens",
+    "Rpg",
+    "Sem título 1.canvas",
+    "Brain Storm",
+    "Pasta 1",
+    "Imagems/Pasted image 20250826201738.png",
+    "Imagems/Pasted image 20250826202503.png",
+    "Imagems/Pasted image 20250826202233.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
