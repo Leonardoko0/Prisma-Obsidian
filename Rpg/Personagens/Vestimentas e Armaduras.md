@@ -119,6 +119,8 @@
 
 # Armaduras
 
-|   Nome   | Preço | Durabilidade  | Absorção | Propriedade |
-| :------: | :---: | :-----------: | :------: | :---------: |
-| Enforcer | 200u  | 1d8 Balístico |  1,5 kg  |   9m/16m    |
+|  Nome  | Preço | Durabilidade | Absorção | Propriedade |
+| :----: | :---: | :----------: | :------: | :---------: |
+| Pintos |       |              |          |             |
+|        |       |              |          |             |
+|        |       |              |          |             |
