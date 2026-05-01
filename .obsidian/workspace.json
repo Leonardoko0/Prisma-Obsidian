@@ -53,17 +53,10 @@
             "id": "4d06b2e8ae63a1da",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Minha PEÇA.canvas",
-                "viewState": {
-                  "x": 1175.5,
-                  "y": 40.00000000000023,
-                  "zoom": -1.6508387379596994
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Minha PEÇA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -222,11 +215,14 @@
   "active": "4d06b2e8ae63a1da",
   "lastOpenFiles": [
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Sem título 1.canvas",
+    "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Criação De Personagem.md",
-    "Rpg/Personagens/Equipamento.md",
+    "Rpg/Personagens/Traits.md",
+    "Rpg/Personagens/Raça.md",
+    "Minha PEÇA.canvas",
+    "Sem título 1.canvas",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Implantes.md",
     "Rpg/Personagens/Itens Gerais.md",
@@ -234,13 +230,10 @@
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Atributos.md",
-    "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Regras/Regras.md",
     "Rpg/Prisma.md",
     "Rpg/Personagens/Criação De Personagem.html",
     "Sem título.canvas",
-    "Minha PEÇA.canvas",
     "Pasta 1/Nota 1.md",
     "Brain Storm/Ideias.md",
     "Rpg/Personagens/Arbiter.md",

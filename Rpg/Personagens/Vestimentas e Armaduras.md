@@ -119,8 +119,8 @@
 
 # Armaduras
 
-| Nome | Preço | Durabilidade | Absorção | Propriedade |
-| :--: | :---: | :----------: | :------: | :---------: |
-|      |       |              |          |             |
-|      |       |              |          |             |
-|      |       |              |          |             |
+|  Nome  | Preço | Durabilidade | Absorção | Propriedade |
+| :----: | :---: | :----------: | :------: | :---------: |
+| Pintos |       |              |          |             |
+|        |       |              |          |             |
+|        |       |              |          |             |
