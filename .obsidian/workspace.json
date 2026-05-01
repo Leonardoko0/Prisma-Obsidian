@@ -53,10 +53,17 @@
             "id": "4d06b2e8ae63a1da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "canvas",
+              "state": {
+                "file": "Minha PEÇA.canvas",
+                "viewState": {
+                  "x": 1175.5,
+                  "y": 40.00000000000023,
+                  "zoom": -1.6508387379596994
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Minha PEÇA"
             }
           }
         ],
