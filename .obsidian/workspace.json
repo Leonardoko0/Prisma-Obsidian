@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,10 +216,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "01f2308ab39ef858",
+  "active": "4d06b2e8ae63a1da",
   "lastOpenFiles": [
-    "Armadura.md",
     "Rpg/Personagens/Armas.md",
+    "Armadura.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
