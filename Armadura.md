@@ -6,8 +6,6 @@ Defesa: Demarca sua nova Dificuldade de acerto e dependendo da armadura você po
 
 Durabilidade: é "Vida" da sua armadura que é quanto dano ela pode absorver no total, após quebrada você pode consertá-la em um descanso longo
 
-Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque
+Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque, descontado da durabilidade
 
-Resistência:
-
-Tipos de proteção:
+Tipos de proteção: Os tipos de dano que a Durabilidade/Absorção
