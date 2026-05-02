@@ -53,10 +53,14 @@
             "id": "4d06b2e8ae63a1da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Armadura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armadura"
             }
           },
           {
@@ -74,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +230,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4d06b2e8ae63a1da",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
     "Armadura.md",
     "SalvaGuarda.md",
