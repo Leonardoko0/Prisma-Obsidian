@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,10 +216,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "4d06b2e8ae63a1da",
   "lastOpenFiles": [
-    "Armadura.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Armadura.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "SalvaGuarda.md",
