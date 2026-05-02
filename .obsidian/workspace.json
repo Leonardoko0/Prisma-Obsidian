@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +216,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "01f2308ab39ef858",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
+    "Armadura.md",
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Armadura.md",
     "Rpg/Personagens/Aparatos.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Traits.md",
@@ -231,7 +232,6 @@
     "Sem título 1.canvas",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Implantes.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",

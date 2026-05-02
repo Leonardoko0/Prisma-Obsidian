@@ -119,8 +119,8 @@
 
 # Armaduras
 
-| Nome | Preço | Defesa | Durabilidade | Absorção | Propriedade |
-| :--: | :---: | ------ | :----------: | :------: | :---------: |
-|      |       |        |              |          |             |
-|      |       |        |              |          |             |
-|      |       |        |              |          |             |
+|     Nome      | Preço | Defesa | Durabilidade | Absorção | Propriedade |
+| :-----------: | :---: | ------ | :----------: | :------: | :---------: |
+| Armadura Leve | 450u  |        |              |          |             |
+|               |       |        |              |          |             |
+|               |       |        |              |          |             |
