@@ -5,3 +5,5 @@ Armaduras são um aspecto decisivo no combate, uma boa armadura pode mudar o rum
 Defesa: Demarca sua nova Dificuldade de acerto e dependendo da armadura você pode adicionar agilidade na DT
 
 Durabilidade: é "Vida" da sua armadura que é quanto dano ela pode absorver no total, após quebrada você pode consertá-la em um descanso longo
+
+Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque
