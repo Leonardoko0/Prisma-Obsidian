@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,14 +230,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "ff3195a73000c07d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Aparatos.md",
     "Armadura.md",
-    "SalvaGuarda.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "SalvaGuarda.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Armas.md",
-    "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Raça.md",
