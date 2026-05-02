@@ -10,4 +10,4 @@ Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque
 
 Resistência:
 
-
+Tipos de proteção:
