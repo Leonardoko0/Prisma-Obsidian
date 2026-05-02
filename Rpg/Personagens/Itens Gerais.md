@@ -1,1 +1,3 @@
 #Personagem[[Equipamento]]
+
+ENEMY plate

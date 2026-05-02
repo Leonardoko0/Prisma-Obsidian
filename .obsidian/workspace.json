@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Armas.md",
+                "file": "Rpg/Personagens/Itens Gerais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armas"
+              "title": "Itens Gerais"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,14 +216,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "01f2308ab39ef858",
   "lastOpenFiles": [
-    "Rpg/Personagens/Armas.md",
-    "Armadura.md",
-    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Aparatos.md",
+    "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Armadura.md",
+    "Rpg/Personagens/Aparatos.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Raça.md",
