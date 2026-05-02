@@ -11,3 +11,4 @@ Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque, d
 Tipos de proteção: Os tipos de dano que a Durabilidade/Absorção Abrangem
 
  Comum: Cortante, Contundente, Perfurante, Balístico,
+ Calor:  

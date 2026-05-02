@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Aparatos.md",
+                "file": "Rpg/Personagens/Armas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aparatos"
+              "title": "Armas"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,15 +216,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "01f2308ab39ef858",
+  "active": "4d06b2e8ae63a1da",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Armadura.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "SalvaGuarda.md",
-    "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Raça.md",
     "Minha PEÇA.canvas",
