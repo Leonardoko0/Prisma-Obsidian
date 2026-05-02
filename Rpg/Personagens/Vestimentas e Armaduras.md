@@ -122,5 +122,5 @@
 |     Nome      | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
 | :-----------: | :---: | :----: | :----------: | :------: | :----------: |
 | Armadura Leve | 450u  |   12   |      10      |    3     | (Comum) Leve |
-|               |       |        |              |          |              |
+|   Armadura    |       |        |              |          |              |
 |               |       |        |              |          |              |
