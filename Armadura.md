@@ -8,4 +8,6 @@ Durabilidade: é "Vida" da sua armadura que é quanto dano ela pode absorver no 
 
 Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque, descontado da durabilidade
 
-Tipos de proteção: Os tipos de dano que a Durabilidade/Absorção
+Tipos de proteção: Os tipos de dano que a Durabilidade/Absorção Abrangem
+
+ Comum: Cortante, Perfurante, Balístico, Contundente 
