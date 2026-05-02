@@ -2,4 +2,4 @@
 
 Armaduras são um aspecto decisivo no combate, uma boa armadura pode mudar o rumo do combate e consequentemente salvar sua vida. Armaduras tem diversos aspectos listados aqui
 
-Defesa: Demarca sua no
+Defesa: Demarca sua nova Dificuldade de acerto, normalmente sua 
