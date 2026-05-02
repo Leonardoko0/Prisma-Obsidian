@@ -4,3 +4,4 @@ Armaduras são um aspecto decisivo no combate, uma boa armadura pode mudar o rum
 
 Defesa: Demarca sua nova Dificuldade de acerto e dependendo da armadura você pode adicionar agilidade na DT
 
+Durab
