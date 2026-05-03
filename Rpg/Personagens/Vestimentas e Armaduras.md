@@ -121,7 +121,8 @@
 ##
 ##
 ##
-#
+##
+## Aegis
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
 | :----------: | :---: | :----: | :----------: | :------: | :----------: |
