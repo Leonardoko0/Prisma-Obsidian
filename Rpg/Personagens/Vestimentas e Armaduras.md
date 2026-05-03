@@ -121,6 +121,6 @@
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
 | :----------: | :---: | :----: | :----------: | :------: | :----------: |
-| Couraça Mk.1 | 450u  |   12   |      10      |    3     | (Comum) Leve |
-|              |       |        |              |          |              |
+| Couraça Mk.1 | 450u  |   12   |      5       |    2     | (Comum) Leve |
+|    Malha     |       |        |              |          |              |
 |              |       |        |              |          |              |
