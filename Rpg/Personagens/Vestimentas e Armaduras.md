@@ -119,8 +119,8 @@
 
 # Armaduras
 
-| Nome | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
-| :--: | :---: | :----: | :----------: | :------: | :----------: |
-|      | 450u  |   12   |      10      |    3     | (Comum) Leve |
-|      |       |        |              |          |              |
-|      |       |        |              |          |              |
+|     Nome     | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
+| :----------: | :---: | :----: | :----------: | :------: | :----------: |
+| Couraça Mk.1 | 450u  |   12   |      10      |    3     | (Comum) Leve |
+|              |       |        |              |          |              |
+|              |       |        |              |          |              |
