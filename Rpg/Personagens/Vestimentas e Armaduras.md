@@ -118,10 +118,10 @@
 - Tipo de Acesso: Rápido (2)
 
 # Armaduras
+## Defensivas
 ##
-##
-##
-##
+## Sentinelas
+## Bastiões
 ## Aegis
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
