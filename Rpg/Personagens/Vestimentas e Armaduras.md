@@ -119,7 +119,7 @@
 
 # Armaduras
 ## Defensivas
-##
+## Vigias
 ## Sentinelas
 ## Bastiões
 ## Aegis
