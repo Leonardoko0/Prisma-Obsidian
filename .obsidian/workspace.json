@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,12 +216,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "01f2308ab39ef858",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Itens Gerais.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Armadura.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Aparatos.md",
