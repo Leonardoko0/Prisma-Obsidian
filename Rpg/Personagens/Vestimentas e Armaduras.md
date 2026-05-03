@@ -118,6 +118,10 @@
 - Tipo de Acesso: Rápido (2)
 
 # Armaduras
+##
+##
+##
+#
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Propriedade  |
 | :----------: | :---: | :----: | :----------: | :------: | :----------: |
