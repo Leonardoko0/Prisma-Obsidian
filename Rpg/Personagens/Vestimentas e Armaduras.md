@@ -118,7 +118,7 @@
 - Tipo de Acesso: Rápido (2)
 
 # Armaduras
-## Defensivas
+## Protetoras 
 ## Vigias
 ## Sentinelas
 ## Bastiões
