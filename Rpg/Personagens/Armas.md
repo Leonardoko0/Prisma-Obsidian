@@ -16,7 +16,7 @@
 |     M9P+     | 250u  |   1d6 Sônico   | 2,0 kg | 15m/27m  |  19/x2  | (Pressão) Silenciado      |
 |   Mark 629   | 400u  | 1d12 Balístico | 3,0 kg | 10m/14m  |   x2    | (Long) Pesado             |
 |  Ruger LCP   | 200u  | 1d4 Balístico  | 1,0 kg | 7 m/14 m |  18/x4  | (Small) Silenciado,Rápido |
-|              |       |                |        |          |         |                           |
+
 
 #### Enforcer M10
 - Preço: 200u

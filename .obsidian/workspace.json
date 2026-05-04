@@ -49,7 +49,8 @@
               "title": "Armas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +202,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "9ea3e93637cb8c21",
   "lastOpenFiles": [
-    "Rpg/Quebras-ou-Fendas.md",
     "Rpg/Prisma.md",
+    "Rpg/Quebras-ou-Fendas.md",
     "Rpg/Mundo.md",
     "Rpg/Fendas Malignas.md",
     "Rpg/Dissônancias.md",
