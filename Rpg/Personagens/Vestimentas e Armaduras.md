@@ -118,12 +118,7 @@
 - Tipo de Acesso: Rápido (2)
 
 # Armaduras
-## Protetoras 
-
-## Vigias
-## Sentinelas
-## Bastiões
-## Aegis
+## Protetoras
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação | Propriedade  |
 | :----------: | :---: | :----: | :----------: | :------: | :-------: | :----------: |
@@ -131,3 +126,10 @@
 |  Malha C-11  |  750  |   13   |      6       |    2     |           |   (Comum)    |
 |  Orion C-0   | 1150  |   11   |      12      |    4     |           |   (Comum)    |
 |              |       |        |              |          |           |              |
+
+## Vigias
+## Sentinelas
+## Bastiões
+## Aegis
+
+
