@@ -10,7 +10,9 @@ Absorção: é a quantidade máxima de dano que pode ser absorvida por ataque, d
 
 Adaptação: O nível que o seu personagem tem de compatibilidade com sua armadura. ela define quanto  vc vai adicionar de durabilidade e absorção ao subir de nível.
 
-Níveis de Armadura: Existem 
+Níveis de Armadura: Existem 5 Níveis de armaduras existentes
+ Protetoras: Vai do nível 1 a 5
+   
 
 
 
