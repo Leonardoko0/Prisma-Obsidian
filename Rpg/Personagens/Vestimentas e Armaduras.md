@@ -128,6 +128,12 @@
 | Helix Shell  | 850u  |   13   |      8       |    4     |    2/1    | (COM, RAD)  |
 |   Heat-UF    | 1000u |   13   |      12      |    6     |    3/2    | (ISO, RAD)  |
 | Striker 3-K  | 750u  |   12   |      14      |    7     |    4/2    |  (COM, HF)  |
+### Couraça Mk.1
+### Malha C-11
+### Orion C-0
+### Helix Shell
+### Heat-UF
+### Striker 3-K
 
 ## Vigias
 ## Sentinelas
