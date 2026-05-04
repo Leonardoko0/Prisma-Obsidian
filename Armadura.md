@@ -17,8 +17,6 @@ Níveis de Armadura: Existem 5 Níveis de armaduras existentes
  Bastiões: Vai do nível 16 a 20
  Aegis: Um nível de proteção absoluto, possui capacidades que ultrapassa o comum das mais diversas formas.
 
-
-
 Tipos de proteção: Os tipos de dano que a Durabilidade/Absorção Abrangem
  Comum: Cortante, Contundente, Perfurante, Balístico,
  Isolante:  Queimadura, Congelante
