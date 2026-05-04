@@ -138,22 +138,22 @@
 ### Malha C-11
 - Preço: 750u
 - Defesa: 14
-- Durabilidade:
-- Absorção:
-- Adaptação:
-- Propriedades: 
+- Durabilidade: 8
+- Absorção: 4
+- Adaptação: 3/1
+- Propriedades: (COM)
 ### Orion C-0
-- Preço:
-- Defesa:
-- Durabilidade:
-- Absorção:
-- Adaptação:
-- Propriedades: 
+- Preço: 1250u
+- Defesa: 14
+- Durabilidade: 12
+- Absorção: 4
+- Adaptação: 4/1,5
+- Propriedades: (COM)
 ### Helix Shell
-- Preço:
-- Defesa:
-- Durabilidade:
-- Absorção:
+- Preço: 850u
+- Defesa: 13
+- Durabilidade: 10
+- Absorção: 5
 - Adaptação:
 - Propriedades: 
 ### Heat-UF
