@@ -122,10 +122,10 @@
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação | Propriedade  |
 | :----------: | :---: | :----: | :----------: | :------: | :-------: | :----------: |
-| Couraça Mk.1 | 450u  |   12   |      6       |    2     |   2/0,5   | (Comum) Leve |
-|  Malha C-11  | 750u  |   13   |      6       |    2     |    3/1    |   (Comum)    |
-|  Orion C-0   | 1150u |   11   |      12      |    4     |   4/1,5   |   (Comum)    |
-| Helix Shell  | 850u  |   12   |              |          |           |              |
+| Couraça Mk.1 | 450u  |   13   |      6       |    2     |   2/0,5   | (Comum) Leve |
+|  Malha C-11  | 750u  |   14   |      6       |    2     |    3/1    |   (Comum)    |
+|  Orion C-0   | 1150u |   12   |      12      |    4     |   4/1,5   |   (Comum)    |
+| Helix Shell  | 850u  |   13   |              |          |           |              |
 
 ## Vigias
 ## Sentinelas
