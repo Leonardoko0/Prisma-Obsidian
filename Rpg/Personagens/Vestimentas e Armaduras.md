@@ -154,14 +154,14 @@
 - Defesa: 13
 - Durabilidade: 10
 - Absorção: 5
-- Adaptação:
-- Propriedades: 
+- Adaptação: 2/1
+- Propriedades: (COM, RAD)
 ### Heat-UF
-- Preço:
-- Defesa:
-- Durabilidade:
-- Absorção:
-- Adaptação:
+- Preço: 600u
+- Defesa: 12 + (Max 1 agilidade)
+- Durabilidade: 12
+- Absorção: 6
+- Adaptação: 3/2
 - Propriedades: 
 ### Striker 3-K
 - Preço:
