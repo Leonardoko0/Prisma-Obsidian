@@ -15,7 +15,7 @@ Níveis de Armadura: Existem 5 Níveis de armaduras existentes
  Vigias: Vai do nível 6 a 10
  Sentinelas: Vai do nível 11 a 15
  Bastiões: Vai do nível 16 a 20
- Aegis: Um nível de proteção absoluto, possui capacidades que 
+ Aegis: Um nível de proteção absoluto, possui capacidades que ultrapassa o comum das mais diversas formas
 
 
 
