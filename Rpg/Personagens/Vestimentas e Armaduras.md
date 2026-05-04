@@ -162,14 +162,14 @@
 - Durabilidade: 12
 - Absorção: 6
 - Adaptação: 3/2
-- Propriedades: 
+- Propriedades: (ISO, RAD) Leve
 ### Striker 3-K
-- Preço:
-- Defesa:
-- Durabilidade:
-- Absorção:
-- Adaptação:
-- Propriedades: 
+- Preço: 950u
+- Defesa: 13
+- Durabilidade: 14
+- Absorção: 7
+- Adaptação: 4/2
+- Propriedades: (COM, HF)
 ## Vigias
 ## Sentinelas
 ## Bastiões
