@@ -129,18 +129,47 @@
 |   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Leve |
 | Striker 3-K  | 950u  |   13   |      14      |    7     |    4/2    |    (COM, HF)    |
 ### Couraça Mk.1
+- Preço: 750u
+- Defesa: 13 + (Max 2 agilidade)
+- Durabilidade:
+- Absorção:
+- Adaptação:
+- Propriedades: 
+### Malha C-11
 - Preço:
 - Defesa:
 - Durabilidade:
 - Absorção:
 - Adaptação:
 - Propriedades: 
-### Malha C-11
 ### Orion C-0
+- Preço:
+- Defesa:
+- Durabilidade:
+- Absorção:
+- Adaptação:
+- Propriedades: 
 ### Helix Shell
+- Preço:
+- Defesa:
+- Durabilidade:
+- Absorção:
+- Adaptação:
+- Propriedades: 
 ### Heat-UF
+- Preço:
+- Defesa:
+- Durabilidade:
+- Absorção:
+- Adaptação:
+- Propriedades: 
 ### Striker 3-K
-
+- Preço:
+- Defesa:
+- Durabilidade:
+- Absorção:
+- Adaptação:
+- Propriedades: 
 ## Vigias
 ## Sentinelas
 ## Bastiões
