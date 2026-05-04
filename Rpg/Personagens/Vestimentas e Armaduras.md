@@ -131,13 +131,13 @@
 ### Couraça Mk.1
 - Preço: 750u
 - Defesa: 13 + (Max 2 agilidade)
-- Durabilidade:
-- Absorção:
-- Adaptação:
-- Propriedades: 
+- Durabilidade: 6
+- Absorção: 2
+- Adaptação: 2/0,5
+- Propriedades: (COM) Leve
 ### Malha C-11
-- Preço:
-- Defesa:
+- Preço: 750u
+- Defesa: 14
 - Durabilidade:
 - Absorção:
 - Adaptação:
