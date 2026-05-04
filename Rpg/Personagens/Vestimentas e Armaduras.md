@@ -125,7 +125,7 @@
 | Couraça Mk.1 | 450u  |   12   |      6       |    2     |   2/0,5   | (Comum) Leve |
 |  Malha C-11  |  750  |   13   |      6       |    2     |    3/1    |   (Comum)    |
 |  Orion C-0   | 1150  |   11   |      12      |    4     |   4/1,5   |   (Comum)    |
-|              |       |        |              |          |           |              |
+|    Helix     |       |        |              |          |           |              |
 
 ## Vigias
 ## Sentinelas
