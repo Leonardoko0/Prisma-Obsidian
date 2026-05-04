@@ -122,7 +122,7 @@
 
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação | Propriedade |
 | :----------: | :---: | :----: | :----------: | :------: | :-------: | :---------: |
-| Couraça Mk.1 | 450u  |   13   |      6       |    2     |   2/0,5   | (COM) Leve  |
+| Couraça Mk.1 | 550u  |   13   |      6       |    2     |   2/0,5   | (COM) Leve  |
 |  Malha C-11  | 750u  |   14   |      6       |    2     |    3/1    |    (COM)    |
 |  Orion C-0   | 1150u |   14   |      12      |    4     |   4/1,5   |    (COM)    |
 | Helix Shell  | 850u  |   13   |      8       |    4     |    2/1    | (COM, RAD)  |
