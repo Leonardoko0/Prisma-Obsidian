@@ -35,8 +35,7 @@
               "title": "Armadura"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,10 +187,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Armadura.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Equipamento.md",
