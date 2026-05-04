@@ -127,7 +127,7 @@
 |  Orion C-0   | 1150u |   14   |      12      |    4     |   4/1,5   |      (COM)      |
 | Helix Shell  | 850u  |   13   |      8       |    4     |    2/1    | (COM, RAD, ISO) |
 |   Heat-UF    | 1000u |   13   |      12      |    6     |    3/2    |      (ISO)      |
-| Striker 3-K  | 700u  |   12   |      14      |    7     |    4/2    |      (COM)      |
+| Striker 3-K  | 750u  |   12   |      14      |    7     |    4/2    |    (COM, HF)    |
 
 ## Vigias
 ## Sentinelas
