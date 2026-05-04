@@ -126,8 +126,8 @@
 |  Malha C-11  | 750u  |   14   |      6       |    2     |    3/1    |      (COM)      |
 |  Orion C-0   | 1150u |   13   |      12      |    4     |   4/1,5   |      (COM)      |
 | Helix Shell  | 850u  |   13   |      8       |    4     |    2/1    | (COM, RAD, ISO) |
-|   Heat-UF    | 1000u |   13   |      12      |    6     |    3/2    |                 |
-|              |       |        |              |          |           |                 |
+|   Heat-UF    | 1000u |   13   |      12      |    6     |    3/2    |      (ISO)      |
+|   Gir 14-K   |       |        |              |          |           |                 |
 
 ## Vigias
 ## Sentinelas
