@@ -13,9 +13,9 @@ Adaptação: O nível que o seu personagem tem de compatibilidade com sua armadu
 Níveis de Armadura: Existem 5 Níveis de armaduras existentes
  Protetoras: Vai do nível 1 a 5
  Vigias: Vai do nível 6 a 10
- Sentinelas: vai do nível
- Bastiões:
- Aegis:
+ Sentinelas: Vai do nível 11 a 15
+ Bastiões: Vai do nível 16 a 20
+ Aegis: Um nível de proteção absoluto, possui capacidades que 
 
 
 
