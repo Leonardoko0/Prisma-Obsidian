@@ -25,7 +25,7 @@
 - Carga: 1
 - Alcance: 9m/16m
 - Crítico: x2
-- Munição: (Small)
+- Munição: (Small) 14 Balas
 - Propriedades: N/a
 - Discrição:
 #### Caldwell Handcannon
@@ -35,7 +35,7 @@
 - Carga: 1
 - Alcance: 6m/8m
 - Crítico: x2
-- Munição: (Shell)
+- Munição: (Shell) 2 Balas
 - Propriedades: Curto Alcance
 - Discrição:
 #### STI DVC ltd. Custom
@@ -45,7 +45,7 @@
 - Carga: 1
 - Alcance: 10m/18m
 - Crítico: 19/x3
-- Munição: (Light)
+- Munição: (Light) 20 Balas
 - Propriedades: N/a
 - Discrição:
 #### Enforcer “Diablos”
