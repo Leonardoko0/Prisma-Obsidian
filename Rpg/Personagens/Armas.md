@@ -17,7 +17,6 @@
 |   Mark 629   | 400u  | 1d12 Balístico | 3,0 kg | 10m/14m  |   x2    | (Long) Pesado             |
 |  Ruger LCP   | 200u  | 1d4 Balístico  | 1,0 kg | 7 m/14 m |  18/x4  | (Small) Silenciado,Rápido |
 
-
 #### Enforcer M10
 - Preço: 200u
 - Dano: 1d8 Balístico
@@ -251,6 +250,7 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria em Atributo: Aumenta um atributo da arma (Dano, Alcance, etc)
 - Melhoria Característica: Dá um perk especial pra arma
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
+## Munição
 ## Dicionário 
 ### Leve
 ### Pesado
