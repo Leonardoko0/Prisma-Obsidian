@@ -1,7 +1,6 @@
 #Personagem [[Equipamento]]
 
 ## Armas Ofensivas
-
 ### Distancia
 
 |     Nome     | Preço |      Dano      |  Peso  | Alcance  | Crítico | Propriedades              |
