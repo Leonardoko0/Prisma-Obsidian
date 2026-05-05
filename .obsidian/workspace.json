@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +202,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "272b2deed8d09d59",
+  "active": "9ea3e93637cb8c21",
   "lastOpenFiles": [
     "Rpg/Prisma.md",
     "Rpg/Quebras-ou-Fendas.md",
