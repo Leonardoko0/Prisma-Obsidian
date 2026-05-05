@@ -105,7 +105,7 @@
 - Carga: 2
 - Alcance: 10m/14m
 - Crítico: x2
-- Munição: (Long)
+- Munição: (Long) 6 Balas
 - Propriedades: Pesado 
 - Discrição:
 #### Ruger LCP Modded
@@ -115,7 +115,7 @@
 - Carga: 1
 - Alcance: 7 m/14 m
 - Crítico: 18/x4
-- Munição: (Small)
+- Munição: (Small) 7 Balas
 - Propriedades: Silenciado, Rápido
 - Discrição:
 ### Corporal
