@@ -75,7 +75,7 @@
 - Carga: 1
 - Alcance: 8m/14m
 - Crítico: x2
-- Munição: (Light)
+- Munição: (Light) 30 Balas
 - Propriedades: Automático
 - Discrição:
 #### H&K MP5A3
@@ -85,7 +85,7 @@
 - Carga: 2
 - Alcance: 12m/18m
 - Crítico: 19/x2
-- Munição: (Small)
+- Munição: (Small) 25 Balas
 - Propriedades: Automático
 - Discrição:
 #### BlackDown M9P+
@@ -95,7 +95,7 @@
 - Carga: 1
 - Alcance: 15m/27m
 - Crítico: 19/x2
-- Munição: (Pressure Load)
+- Munição: (Pressure Load) 4 Cargas
 - Propriedades: Silenciado, Sem projétil  
 - Discrição:
 #### M&A Mark 629
