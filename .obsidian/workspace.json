@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +195,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "9ea3e93637cb8c21",
   "lastOpenFiles": [
-    "Rpg/Organizações/Reikgons.md",
     "Rpg/Prisma.md",
+    "Rpg/Organizações/Reikgons.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Quebras-ou-Fendas.md",
     "Rpg/Mundo.md",
