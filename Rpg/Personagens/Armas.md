@@ -251,9 +251,9 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
 ## Munição
 ### Cartucho
-###
-###
-###
+### Leve
+### Média
+### Pesada
 ###
 ###
 
