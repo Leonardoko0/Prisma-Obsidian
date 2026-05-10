@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "47f920fb7adf5d1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
             "id": "b6e25721242c73cf",
             "type": "leaf",
             "state": {
@@ -19,16 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Prisma"
-            }
-          },
-          {
-            "id": "47f920fb7adf5d1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
             }
           },
           {
@@ -195,7 +195,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
     "Rpg/Organizações/Reikgons.md",
     "Rpg/Prisma.md",
