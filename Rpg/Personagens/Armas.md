@@ -254,10 +254,12 @@ Cada Arma pode ser melhorada um total de 3 vezes
 Flexível, mas medíocre.
 Funciona como um fuzil automático ou uma pistola de alto impacto, dependendo da arma. A munição pequena só é usada por pistolas, revólveres, fuzis de assalto e submetralhadoras
 ### Média (ME)
+Utilizado apenas por fuzis de assalto, fuzis de batalha e metralhadoras leves.
 ### Pesada (HV)
 ### Cartucho (SH)
 Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
 ### Longa (LG)
+
 ### Carga (CH)
 
 
