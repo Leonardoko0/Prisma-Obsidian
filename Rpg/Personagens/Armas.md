@@ -250,12 +250,12 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria Característica: Dá um perk especial pra arma
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
 ## Munição
-### Pequena ()
-### Média
-### Pesada
-### Cartucho
-### Longa
-### Carga
+### Pequena (SM)
+### Média (ME)
+### Pesada (HV)
+### Cartucho (SH)
+### Longa (LG)
+### Carga (CH)
 
 
 ## Dicionário 
