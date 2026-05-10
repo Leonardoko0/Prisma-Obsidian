@@ -256,6 +256,7 @@ Funciona como um fuzil automático ou uma pistola de alto impacto, dependendo da
 ### Média (ME)
 ### Pesada (HV)
 ### Cartucho (SH)
+Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
 ### Longa (LG)
 ### Carga (CH)
 
