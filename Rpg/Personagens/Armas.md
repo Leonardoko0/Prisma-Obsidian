@@ -259,7 +259,7 @@ Utilizado apenas por fuzis de assalto, fuzis de batalha e metralhadoras leves.
 ### Cartucho (SH)
 Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
 ### Longa (LG)
-
+Lenta, com recuo alto, mas de alto poder de fogo. Usada apenas por rifles de precisão, DMRs, rifles de batalha e revólveres. Armas de munição longa são as mais raras de se encontrar.
 ### Carga (CH)
 
 
