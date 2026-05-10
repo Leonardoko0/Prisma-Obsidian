@@ -45,8 +45,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +194,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ea3e93637cb8c21",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Quebras-ou-Fendas.md",
     "Rpg/Mundo.md",
     "Rpg/Fendas Malignas.md",
