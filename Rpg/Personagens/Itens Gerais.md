@@ -5,6 +5,7 @@ ENEMY plate
 ## Drogas
 ## Granadas
 ## Kits
-##
-##
-##
+###
+###
+###
+## Munições
