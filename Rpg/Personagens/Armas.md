@@ -251,6 +251,8 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
 ## Munição
 ### Pequena (SM)
+Flexível, mas medíocre.
+Funciona como um fuzil automático ou uma pistola de alto impacto, dependendo da arma. A munição pequena só é usada por pistolas, revólveres, fuzis de assalto e submetralhadoras
 ### Média (ME)
 ### Pesada (HV)
 ### Cartucho (SH)
