@@ -259,7 +259,7 @@ Munições Pesadas são projetadas para máximo impacto e alto poder de perfura�
 ### Cartucho (SH)
 Cartuchos concentram grande poder de impacto em disparos de curta distância, espalhando múltiplos projéteis ao mesmo tempo. Embora percam eficiência em alcance elevado, são extremamente potentes em combate próximo. Compatíveis principalmente com escopetas e armas de dispersão, são ideais para confrontos intensos em espaços fechados..
 ### Longa (LG)
-Lenta, com recuo alto, mas de alto poder de fogo. Usada apenas por rifles de precisão, DMRs, rifles de batalha e revólveres. Armas de munição longa são as mais raras de se encontrar.
+Munições Longas são desenvolvidas para alta precisão e alto desempenho em longas distâncias, mantendo estabilidade e poder de impacto mesmo após percorrer grandes trajetos. Seu calibre especializado favorece disparos precisos e letais, sendo capaz de atravessar proteções leves e neutralizar alvos com poucos tiros. Utilizadas por rifles de precisão e armas de elite, são ideais para combate estratégico, reconhecimento e eliminações à distância.
 ### Carga (CH)
 
 
