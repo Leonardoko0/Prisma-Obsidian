@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "9ea3e93637cb8c21",
   "lastOpenFiles": [
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Armas.md",
@@ -226,7 +227,6 @@
     "Sem título 1.canvas",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Implantes.md",
-    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Atributos.md",

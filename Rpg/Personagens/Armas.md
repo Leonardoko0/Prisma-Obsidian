@@ -5,16 +5,16 @@
 
 |     Nome     | Preço |      Dano      |  Peso  | Alcance  | Crítico | Propriedades              |
 | :----------: | :---: | :------------: | :----: | :------: | :-----: | :------------------------ |
-|   Enforcer   | 200u  | 1d8 Balístico  | 1,5 kg |  9m/16m  |   x2    | (Small)                   |
-|   Caldwell   | 250u  | 3d4 Balístico  | 2,0 kg |  6m/8m   |   x2    | (Shell) Curto Alcance     |
-| STI DVC ltd. | 200u  | 1d6 Balístico  | 1,0 kg | 10m/18m  |  19/x3  | (Light)                   |
-|   Enforcer   | 350u  | 1d12 balístico | 2,5 kg |  7m/12m  |  19/x2  | (Medium) Supressor Luz    |
-|   V.S.M 9    | 275u  | 2d4 Queimadura | 3,5 kg |    8m    |   x3    | (Power) Burst 3 Tiros     |
-|   Skorpion   | 450u  | 2d6 Balístico  | 2,0 kg |  8m/14m  |   x2    | (Light) Automático        |
-|    MP5A3     | 650u  | 2d6 Balístico  | 4,0 kg | 12m/18m  |  19/x2  | (Small) Automático        |
-|     M9P+     | 250u  |   1d6 Sônico   | 2,0 kg | 15m/27m  |  19/x2  | (Pressão) Silenciado      |
-|   Mark 629   | 400u  | 1d12 Balístico | 3,0 kg | 10m/14m  |   x2    | (Long) Pesado             |
-|  Ruger LCP   | 200u  | 1d4 Balístico  | 1,0 kg | 7 m/14 m |  18/x4  | (Small) Silenciado,Rápido |
+|   Enforcer   | 200u  | 1d8 Balístico  | 3,5 kg |  9m/16m  |   x2    | (Small)                   |
+|   Caldwell   | 250u  | 3d4 Balístico  | 4,0 kg |  6m/8m   |   x2    | (Shell) Curto Alcance     |
+| STI DVC ltd. | 200u  | 1d6 Balístico  | 3,0 kg | 10m/18m  |  19/x3  | (Light)                   |
+|   Enforcer   | 350u  | 1d12 balístico | 4,5 kg |  7m/12m  |  19/x2  | (Medium) Supressor Luz    |
+|   V.S.M 9    | 275u  | 2d4 Queimadura | 5,5 kg |    8m    |   x3    | (Power) Burst 3 Tiros     |
+|   Skorpion   | 450u  | 2d6 Balístico  | 4,0 kg |  8m/14m  |   x2    | (Light) Automático        |
+|    MP5A3     | 650u  | 2d6 Balístico  | 6,0 kg | 12m/18m  |  19/x2  | (Small) Automático        |
+|     M9P+     | 250u  |   1d6 Sônico   | 4,0 kg | 15m/27m  |  19/x2  | (Pressão) Silenciado      |
+|   Mark 629   | 400u  | 1d12 Balístico | 5,0 kg | 10m/14m  |   x2    | (Long) Pesado             |
+|  Ruger LCP   | 200u  | 1d4 Balístico  | 3,0 kg | 7 m/14 m |  18/x4  | (Small) Silenciado,Rápido |
 
 #### Enforcer M10
 - Preço: 200u
