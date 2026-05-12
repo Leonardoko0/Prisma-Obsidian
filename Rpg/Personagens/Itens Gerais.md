@@ -71,7 +71,8 @@ Apesar de ter esse preço, tipos diferentes de cargas tem preços diferentes
 
 | Tipo da Carga | Preço Adicional | Peso Adicional |
 | :-----------: | :-------------: | :------------: |
-|    Plasma     |     0,25/p      |                |
+|    Plasma     |  25u x Pacote   |       0        |
+|    Energia    |                 |                |
 
 #### Pacote Pequeno (6)
 - Preço 125u
