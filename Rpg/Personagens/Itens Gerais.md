@@ -11,12 +11,24 @@ ENEMY plate
 ## Munições
 ### Balas pequenas
 #### Pacote Pequeno (15)
+- Preço
+- Peso
 #### Pacote Médio (30)
+- Preço
+- Peso
 #### Pacote Grande (45)
+- Preço
+- Peso
 ### Balas Médias
 #### Pacote Pequeno (30)
+- Preço
+- Peso
 #### Pacote Médio (60)
+- Preço
+- Peso
 #### Pacote Grande (90)
+- Preço
+- Peso
 ### Balas Grandes
 #### Pacote Pequeno (20)
 #### Pacote Médio (40)
