@@ -255,6 +255,7 @@ Balas Pequenas são munições leves e versáteis, projetadas para diversos tipo
 ### Média (ME)
 Balas Médias equilibram poder de fogo, alcance e controle, tornando-se uma opção confiável para combates versáteis. Possuem impacto superior às munições leves sem comprometer totalmente a estabilidade da arma, sendo eficazes tanto em confrontos próximos quanto a médias distâncias. Compatíveis com carabinas, rifles de batalha e algumas armas automáticas pesadas.
 ### Pesada (HV)
+Munições Pesadas são projetadas para máximo impacto e alto poder de perfuração, capazes de causar danos devastadores mesmo contra alvos protegidos ou blindados. Seu calibre elevado reduz a velocidade de disparo e aumenta o recuo, exigindo armas robustas e operadores preparados para controlá-las. Utilizadas por metralhadoras pesadas, rifles de precisão de grande calibre e armamentos antimaterial, são ideais para confrontos de longa distância e combate de alta intensidade.
 ### Cartucho (SH)
 Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
 ### Longa (LG)
