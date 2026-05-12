@@ -69,6 +69,10 @@ ENEMY plate
 ### Carga
 Apesar de ter esse preço, tipos diferentes de cargas tem preços diferentes
 
+| Tipo da Carga | Preço Adicional | Peso Adicional |
+| :-----------: | :-------------: | :------------: |
+|    Plasma     |     0,25/p      |                |
+
 #### Pacote Pequeno (6)
 - Preço 125u
 - Peso 0,5
