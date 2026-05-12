@@ -253,7 +253,7 @@ Cada Arma pode ser melhorada um total de 3 vezes
 ### Pequena (SM)
 Balas Pequenas são munições leves e versáteis, projetadas para diversos tipos de situações. Embora tenham poder de impacto limitado, ainda podem ser utilizadas em diversos tipos de armas como pistolas, revólveres, submetralhadoras e alguns fuzis de assalto.
 ### Média (ME)
-Utilizado apenas por fuzis de assalto, fuzis de batalha e metralhadoras leves.
+Balas Médias equilibram poder de fogo, alcance e controle, tornando-se uma opção confiável para combates versáteis. Possuem impacto superior às munições leves sem comprometer totalmente a estabilidade da arma, sendo eficazes tanto em confrontos próximos quanto a médias distâncias. Compatíveis com carabinas, rifles de batalha e algumas armas automáticas pesadas, oferecem desempenho consistente contra alvos protegidos e situações de combate intenso..
 ### Pesada (HV)
 ### Cartucho (SH)
 Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
