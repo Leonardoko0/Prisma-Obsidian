@@ -9,3 +9,12 @@ ENEMY plate
 ###
 ###
 ## Munições
+### Pacote pequeno
+###
+###
+###
+###
+###
+###
+###
+###
