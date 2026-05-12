@@ -37,15 +37,15 @@ ENEMY plate
 - Preço 350u
 - Peso 3
 #### Pacote Grande (60)
-- Preço 500
+- Preço 500u
 - Peso 4,5
 ### Cartuchos
 #### Pacote Pequeno (12)
-- Preço
-- Peso
+- Preço 150u
+- Peso 1
 #### Pacote Médio (24)
-- Preço
-- Peso
+- Preço 250
+- Peso 2
 #### Pacote Grande (36)
 - Preço
 - Peso
