@@ -2,7 +2,7 @@
 ## Significado
 Peso é um conceito fundamental, querendo ou não vai definir o que você tem a capacidade de levar. ele é dividido em três conceitos 
 
-Peso: A capacidade física de quanto um personagem aguenta carregar no corpo. Definida por 5+ (força x 5)
+Peso: A capacidade física de quanto um personagem aguenta carregar no corpo. Definida por força (número) x 3
 
 Carga: Quanto espaços no corpo você tem para carregar itens. Definido por roupas, mochilas e apetrechos e dividido em Acessos
 
