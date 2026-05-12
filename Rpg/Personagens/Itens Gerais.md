@@ -10,9 +10,13 @@ ENEMY plate
 ###
 ## Munições
 
-| SM  | ME  |
-| :-: | :-: |
-|     |     |
+| SM  |     |     |     |     |
+| :-: | :-: | :-: | :-: | :-: |
+| ME  |     |     |     |     |
+| HV  |     |     |     |     |
+| LG  |     |     |     |     |
+| SH  |     |     |     |     |
+|     |     |     |     |     |
 
 ### Balas pequenas
 #### Pacote Pequeno (15)
