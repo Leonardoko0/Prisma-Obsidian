@@ -10,11 +10,11 @@ ENEMY plate
 ###
 ## Munições
 
-|         |   SM   | ME  | HV  | SH  | LG  |
-| ------- | :----: | :-: | :-: | :-: | :-: |
-| Pequena | 100u & |     |     |     |     |
-| Média   |        |     |     |     |     |
-| Grande  |        |     |     |     |     |
+|         |     SM     | ME  | HV  | SH  | LG  |
+| ------- | :--------: | :-: | :-: | :-: | :-: |
+| Pequena | 100u & 0,5 |     |     |     |     |
+| Média   | 150u & 1,0 |     |     |     |     |
+| Grande  | 200u & 1,5 |     |     |     |     |
 
 
 ### Balas pequenas
