@@ -67,10 +67,12 @@ ENEMY plate
 - Preço 350u
 - Peso 3
 ### Carga
-#### Pacote Pequeno (10)
-- Preço 150u
-- Peso 1
-#### Pacote Médio (20)
+#### Pacote Pequeno (6)
+- Preço 125u
+- Peso 0,5
+#### Pacote Médio (12)
 - Preço 250u
-- Peso 2
-#### Pacote Grande (30)
+- Peso 1
+#### Pacote Grande (18)
+- Preço
+- Peso 1,5
