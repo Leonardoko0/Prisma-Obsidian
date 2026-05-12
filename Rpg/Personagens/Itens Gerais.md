@@ -9,10 +9,10 @@ ENEMY plate
 ###
 ###
 ## Munições
-### Pacote pequeno (Balas pequenas) (20)
-###
-###
-###
+### Balas pequenas
+#### Pacote Pequeno
+#### Pacote Médio
+#### Pacote G
 ###
 ###
 ###
