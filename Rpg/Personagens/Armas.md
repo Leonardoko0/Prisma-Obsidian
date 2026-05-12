@@ -251,8 +251,7 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
 ## Munição
 ### Pequena (SM)
-Flexível, mas medíocre.
-Dependendo da arma funciona como um fuzil automático ou uma pistola de alto impacto. A munição pequena só é usada por pistolas, revólveres, fuzis de assalto e submetralhadoras
+Balas Pequenas são munições leves e versáteis, projetadas para armas de disparo rápido e recuo controlado. Embora tenham poder de impacto limitado, compensam com alta cadência e facilidade de manuseio, sendo eficientes em combates contínuos e situações que exigem mobilidade. Compatíveis com pistolas, revólveres, submetralhadoras e alguns fuzis de assalto, são uma escolha comum para armamentos leves e automáticos.
 ### Média (ME)
 Utilizado apenas por fuzis de assalto, fuzis de batalha e metralhadoras leves.
 ### Pesada (HV)
