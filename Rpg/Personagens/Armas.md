@@ -251,13 +251,13 @@ Cada Arma pode ser melhorada um total de 3 vezes
 - Melhoria Final: Altera mecânicas da arma (Habilidades, Condições Especificas, Sinergia)
 ## Munição
 ### Pequena (SM)
-Balas Pequenas são munições leves e versáteis, projetadas para diversos tipos de situações. Embora tenham poder de impacto limitado, ainda podem ser utilizadas em diversos tipos de armas como pistolas, revólveres, submetralhadoras e alguns fuzis de assalto.
+Munições Pequenas são munições leves e versáteis, projetadas para diversos tipos de situações. Embora tenham poder de impacto limitado, ainda podem ser utilizadas em diversos tipos de armas como pistolas, revólveres, submetralhadoras e alguns fuzis de assalto.
 ### Média (ME)
-Balas Médias equilibram poder de fogo, alcance e controle, tornando-se uma opção confiável para combates versáteis. Possuem impacto superior às munições leves sem comprometer totalmente a estabilidade da arma, sendo eficazes tanto em confrontos próximos quanto a médias distâncias. Compatíveis com carabinas, rifles de batalha e algumas armas automáticas pesadas.
+Munições Médias equilibram poder de fogo, alcance e controle, tornando-se uma opção confiável para combates versáteis. Possuem impacto superior às munições leves sem comprometer totalmente a estabilidade da arma, sendo eficazes tanto em confrontos próximos quanto a médias distâncias. Compatíveis com carabinas, rifles de batalha e algumas armas automáticas pesadas.
 ### Pesada (HV)
-Munições Pesadas são projetadas para máximo impacto e alto poder de perfuração, capazes de causar danos devastadores mesmo contra alvos protegidos ou blindados. Seu calibre elevado reduz a velocidade de disparo e aumenta o recuo, exigindo armas robustas e operadores preparados para controlá-las. Utilizadas por armas pesadas de diversos tipos como rifles .
+Munições Pesadas são projetadas para máximo impacto e alto poder de perfuração, capazes de causar danos devastadores mesmo contra alvos protegidos ou blindados. Seu calibre elevado reduz a velocidade de disparo e aumenta o recuo, exigindo armas robustas e operadores preparados para controlá-las. Utilizadas por armas pesadas de diversos tipos como rifles e pistolas.
 ### Cartucho (SH)
-Potente para curta distância e disparando geralmente 12 projéteis por tiro, a munição Shell é principalmente usada por espingardas.
+Cartuchos concentram grande poder de impacto em disparos de curta distância, espalhando múltiplos projéteis capazes de atingir vários pontos do alvo ao mesmo tempo. Embora percam eficiência em alcance elevado, são extremamente devastadores em combate próximo, causando dano massivo e forte poder de parada. Compatíveis principalmente com escopetas e armas de dispersão, são ideais para confrontos intensos em espaços fechados..
 ### Longa (LG)
 Lenta, com recuo alto, mas de alto poder de fogo. Usada apenas por rifles de precisão, DMRs, rifles de batalha e revólveres. Armas de munição longa são as mais raras de se encontrar.
 ### Carga (CH)
