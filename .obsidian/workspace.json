@@ -49,7 +49,8 @@
               "title": "Armas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
@@ -217,7 +219,6 @@
     "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Aparatos.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Traits.md",
