@@ -6,11 +6,11 @@ ENEMY plate
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
 #### Antibióticos Augmenting
+#### Zanustina hemostática
 #### Shot (MorfiHeroico)
 #### Shot (MetaCocaína)
 #### Shot INVIL
-####
-####
+#### Injetor BL1 (Neloprefina)
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
