@@ -6,11 +6,11 @@ ENEMY plate
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
 - Preço: 25
-- Peso:
-- Efeito:
+- Peso: 0,1
+- Efeito: Antibiótico
 #### Antibióticos Augmentina
 - Preço: 75
-- Peso:
+- Peso: 0,1
 - Efeito:
 #### Zanustina hemostática
 - Preço: 150
