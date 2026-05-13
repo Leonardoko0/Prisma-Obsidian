@@ -6,13 +6,13 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 
-|     Nome     | Preço | Peso | Efeito |
-| :----------: | :---: | :--: | :----: |
-| Granada M68  | 100u  | 0,1  |        |
-|   Pulso-K    |       | 0,1  |        |
-|  Flash-84B   |  75u  | 0,1  |        |
-|    ST-801    |  75u  | 0,1  |        |
-| Spark-Plasma |       | 0,1  |        |
+|     Nome     | Preço | Peso |        Efeito         |
+| :----------: | :---: | :--: | :-------------------: |
+| Granada M68  | 100u  | 0,1  |    8d6 Perfuração     |
+|   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |
+|  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |
+|    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |
+| Spark-Plasma |       | 0,1  |    Dano 8d8 Plasma    |
 
 #### Granada M68
 - Preço 100u
@@ -32,7 +32,7 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 #### ST-801
 - Preço 75u
 - Peso 0,1
-- Efeito: Cortina de fumaça 4x4
+- Efeito: Cortina de Fumaça 4x4
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) 
 #### Spark-Plasma
 - Preço 200u
