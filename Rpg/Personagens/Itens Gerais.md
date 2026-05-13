@@ -8,7 +8,8 @@ ENEMY plate
 #### Granada M68
 - Preço 100
 - Peso 0,1
-- Dano 8d6 Balítico 
+- Dano 8d6 Perfuração
+Jogue a granada contra o Alvo 
 #### Pulso-K
 - Preço
 - Peso
