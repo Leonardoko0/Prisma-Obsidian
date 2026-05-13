@@ -15,7 +15,7 @@ ENEMY plate
 - Efeito: Antibiótico amenizador e anulador de infecção (Dura 6 cenas) 
 #### Zanustina hemostática
 - Preço: 150
-- Peso:
+- Peso: 0,1
 - Efeito:
 #### Shot (MorfiHeroico)
 - Preço: 300
