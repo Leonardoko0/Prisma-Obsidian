@@ -4,18 +4,23 @@ ENEMY plate
 
 ## Drogas
 ### Tarja Preta
+####
+####
+####
+####
+##
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
 ### Ofensivas
 
 |     Nome     | Preço | Peso |        Efeito         | Taxa de Erro |
-| :----------: | :---: | :--: | :-------------------: | ------------ |
-| Granada M68  | 100u  | 0,1  |    8d6 Perfuração     |              |
-|   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |              |
-|  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |              |
-|    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |              |
-| Spark-Plasma | 200u  | 0,3  |    Dano 8d8 Plasma    |              |
+| :----------: | :---: | :--: | :-------------------: | :----------: |
+| Granada M68  | 100u  | 0,1  |    8d6 Perfuração     |     1d6      |
+|   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |     1d6      |
+|  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |     1d4      |
+|    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |     1d4      |
+| Spark-Plasma | 200u  | 0,3  |    Dano 8d8 Plasma    |     1d8      |
 
 #### Granada M68
 - Preço 100u
