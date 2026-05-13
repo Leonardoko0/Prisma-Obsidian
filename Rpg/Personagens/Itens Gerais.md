@@ -7,7 +7,8 @@ ENEMY plate
 ### Ofensivas
 #### Granada M68
 #### Pulso-K
-#### Flash-
+#### Flash-84B
+####
 ### Combatentes
 ### Predadoras
 ## Kits
