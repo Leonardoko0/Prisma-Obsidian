@@ -5,19 +5,19 @@ ENEMY plate
 ## Drogas
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
-- Preço:
+- Preço: 25
 - Peso:
 - Efeito:
 #### Antibióticos Augmentina
-- Preço:
+- Preço: 75
 - Peso:
 - Efeito:
 #### Zanustina hemostática
-- Preço:
+- Preço: 150
 - Peso:
 - Efeito:
 #### Shot (MorfiHeroico)
-- Preço:
+- Preço: 300
 - Peso:
 - Efeito:
 #### Shot (MetaCocaína)
