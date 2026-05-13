@@ -8,7 +8,9 @@ ENEMY plate
 #### Granada M68
 #### Pulso-K
 #### Flash-84B
-####
+#### Spark-Plasma
+#### ST-801 (Conm)
+
 ### Combatentes
 ### Predadoras
 ## Kits
