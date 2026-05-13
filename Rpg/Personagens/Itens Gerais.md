@@ -18,7 +18,8 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 #### Flash-84B
 - Preço 75u
 - Peso 0,1
-- Efeito: Cegueira, Surdez  
+- Efeito: Cegueira, Surdez 
+Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de agilidade com a DT do seu arremesso 
 #### ST-801
 - Preço
 - Peso
