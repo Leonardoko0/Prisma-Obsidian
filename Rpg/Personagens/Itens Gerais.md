@@ -6,6 +6,7 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 #### Granada M68
+#### Pulso-K
 ####
 ### Combatentes
 ### Predadoras
