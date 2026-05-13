@@ -10,8 +10,8 @@ ENEMY plate
 | :----------: | :---: | :--: | :----: |
 | Granada M68  | 100u  | 0,1  |        |
 |   Pulso-K    |       | 0,1  |        |
-|  Flash-84B   |       | 0,1  |        |
-|    ST-801    |       | 0,1  |        |
+|  Flash-84B   |  75u  | 0,1  |        |
+|    ST-801    |  75u  | 0,1  |        |
 | Spark-Plasma |       | 0,1  |        |
 
 #### Granada M68
