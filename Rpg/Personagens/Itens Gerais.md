@@ -5,7 +5,7 @@ ENEMY plate
 ## Drogas
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
-#### Antibióticos Augmenting
+#### Antibióticos Augmentina
 #### Zanustina hemostática
 #### Shot (MorfiHeroico)
 #### Shot (MetaCocaína)
