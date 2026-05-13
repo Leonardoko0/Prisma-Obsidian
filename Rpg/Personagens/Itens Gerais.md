@@ -23,12 +23,12 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 #### ST-801
 - Preço 75u
 - Peso 0,1
-- Efeito: Cortina de fumaça 
+- Efeito: Cortina de fumaça 4x4
+Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) 
 #### Spark-Plasma
-- Preço
-- Peso
-- Dano
-
+- Preço 200u
+- Peso 0,1
+- Dano 8d8 Plasma
 
 ### Combatentes
 ### Predadoras
