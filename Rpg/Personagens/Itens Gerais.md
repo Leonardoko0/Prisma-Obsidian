@@ -8,7 +8,9 @@ ENEMY plate
 ####
 ####
 ####
-##
+####
+####
+####
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
