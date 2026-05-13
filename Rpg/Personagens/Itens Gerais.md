@@ -6,14 +6,18 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 #### Granada M68
-- Preço
-- Peso
-- Dano
+- Preço 100
+- Peso 0,1
+- Dano 8d6 Balítico 
 #### Pulso-K
 - Preço
 - Peso
 - Dano
 #### Flash-84B
+- Preço
+- Peso
+- Dano
+#### ST-801
 - Preço
 - Peso
 - Dano
