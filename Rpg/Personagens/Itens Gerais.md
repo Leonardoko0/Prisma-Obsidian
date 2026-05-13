@@ -6,9 +6,13 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 
-| Nome | Pre |
-| ---- | --- |
-|      |     |
+|     Nome     | Preço | Peso | Efeito |
+| :----------: | :---: | :--: | :----: |
+| Granada M68  | 100u  | 0,1  |        |
+|   Pulso-K    |       | 0,1  |        |
+|  Flash-84B   |       | 0,1  |        |
+|    ST-801    |       | 0,1  |        |
+| Spark-Plasma |       | 0,1  |        |
 
 #### Granada M68
 - Preço 100u
