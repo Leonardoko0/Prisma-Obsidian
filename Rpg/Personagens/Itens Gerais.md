@@ -5,6 +5,11 @@ ENEMY plate
 ## Drogas
 ## Granadas
 ### Ofensivas
+
+| Nome | Pre |
+| ---- | --- |
+|      |     |
+
 #### Granada M68
 - Preço 100u
 - Peso 0,1

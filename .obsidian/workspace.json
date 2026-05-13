@@ -25,10 +25,14 @@
             "id": "b6e25721242c73cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Vestimentas e Armaduras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vestimentas e Armaduras"
             }
           },
           {
@@ -45,8 +49,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +198,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b6e25721242c73cf",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
-    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Itens Gerais.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
     "Rpg/Quebras-ou-Fendas.md",
@@ -212,7 +216,6 @@
     "Sem título.base",
     "Sem título.md",
     "Sem título.canvas",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Equipamento.md",
