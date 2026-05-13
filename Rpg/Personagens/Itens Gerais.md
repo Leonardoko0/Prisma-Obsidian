@@ -21,15 +21,15 @@ ENEMY plate
 - Peso:
 - Efeito:
 #### Shot (MetaCocaína)
-- Preço:
+- Preço: 350
 - Peso:
 - Efeito:
 #### Shot INVIL
-- Preço:
+- Preço: 300
 - Peso:
 - Efeito:
 #### Estimulante Injetor BL1 (Neloprefina)
-- Preço:
+- Preço: 300
 - Peso:
 - Efeito:
 ### Tarja Negra
