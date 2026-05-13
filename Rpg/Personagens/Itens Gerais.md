@@ -4,6 +4,9 @@ ENEMY plate
 
 ## Drogas
 ## Granadas
+### Ofensivas
+### Combatentes
+### Predadoras
 ## Kits
 ###
 ###

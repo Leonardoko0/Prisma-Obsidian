@@ -49,8 +49,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ea3e93637cb8c21",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
