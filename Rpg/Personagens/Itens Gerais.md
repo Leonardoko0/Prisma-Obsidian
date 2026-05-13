@@ -9,7 +9,7 @@ ENEMY plate
 - Preço 100
 - Peso 0,1
 - Dano 8d6 Perfuração
-Jogue a granada contra o Alvo (DT arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda 
+Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de agilidade com a DT do seu arremesso 
 #### Pulso-K
 - Preço
 - Peso
