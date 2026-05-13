@@ -10,7 +10,7 @@ ENEMY plate
 #### Shot (MorfiHeroico)
 #### Shot (MetaCocaína)
 #### Shot INVIL
-#### Injetor BL1 (Neloprefina)
+#### Estimulante Injetor BL1 (Neloprefina)
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
