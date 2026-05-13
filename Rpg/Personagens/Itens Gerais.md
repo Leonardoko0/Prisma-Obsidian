@@ -5,7 +5,7 @@ ENEMY plate
 ## Drogas
 ## Granadas
 ### Ofensivas
-#### 
+#### Granada M68
 ####
 ### Combatentes
 ### Predadoras
