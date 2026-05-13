@@ -21,6 +21,7 @@ ENEMY plate
 - Preço 100u
 - Peso 0,1
 - Dano 8d6 Perfuração
+- Taxa de Erro: 1d6
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Agi) com a DT do seu arremesso 
 #### Pulso-K
 - Preço 350u
