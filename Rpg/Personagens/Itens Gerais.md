@@ -9,7 +9,7 @@ ENEMY plate
 - Preço 100
 - Peso 0,1
 - Dano 8d6 Perfuração
-Jogue a granada contra o Alvo 
+Jogue a granada contra o Alvo (DT arremesso: 10+1cada 3 espaços)
 #### Pulso-K
 - Preço
 - Peso
