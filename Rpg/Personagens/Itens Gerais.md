@@ -12,7 +12,7 @@ ENEMY plate
 |   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |
 |  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |
 |    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |
-| Spark-Plasma |       | 0,1  |    Dano 8d8 Plasma    |
+| Spark-Plasma | 200u  | 0,1  |    Dano 8d8 Plasma    |
 
 #### Granada M68
 - Preço 100u
