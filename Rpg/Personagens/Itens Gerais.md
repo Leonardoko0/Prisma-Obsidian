@@ -23,7 +23,7 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 #### ST-801
 - Preço 75u
 - Peso 0,1
-- Efeito: Curt
+- Efeito: Cortina de fumaça 
 #### Spark-Plasma
 - Preço
 - Peso
