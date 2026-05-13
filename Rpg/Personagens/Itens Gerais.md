@@ -19,11 +19,11 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 - Preço 75u
 - Peso 0,1
 - Efeito: Cegueira, Surdez 
-Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Con)
+Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Con) DT 15 ou recebe os efeitos
 #### ST-801
-- Preço
-- Peso
-- Dano
+- Preço 75u
+- Peso 0,1
+- Efeito: Curt
 #### Spark-Plasma
 - Preço
 - Peso
