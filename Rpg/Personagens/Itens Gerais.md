@@ -6,19 +6,19 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 #### Granada M68
-- Preço 100
+- Preço 100u
 - Peso 0,1
 - Dano 8d6 Perfuração
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de agilidade com a DT do seu arremesso 
 #### Pulso-K
-- Preço 350
+- Preço 350u
 - Peso 0,1
 - Dano 12d10 EMP
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de agilidade com a DT do seu arremesso
 #### Flash-84B
-- Preço
-- Peso
-- Dano
+- Preço 75u
+- Peso 0,1
+- Efeito: Cegueira, Surdez  
 #### ST-801
 - Preço
 - Peso
