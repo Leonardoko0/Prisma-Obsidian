@@ -6,10 +6,22 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 #### Granada M68
+- Preço
+- Peso
+- Dano
 #### Pulso-K
+- Preço
+- Peso
+- Dano
 #### Flash-84B
+- Preço
+- Peso
+- Dano
 #### Spark-Plasma
-#### ST-801 (Conm)
+- Preço
+- Peso
+- Dano
+
 
 ### Combatentes
 ### Predadoras
