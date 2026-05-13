@@ -16,7 +16,7 @@ ENEMY plate
 #### Zanustina hemostática
 - Preço: 150
 - Peso: 0,1
-- Efeito: Analgésico (Vantagem em salvaguardas contra dor), pode 
+- Efeito: Analgésico (Vantagem em salvaguardas contra dor), pode ignorar membros quebrados pela duração.
 #### Shot (MorfiHeroico)
 - Preço: 300
 - Peso:
