@@ -7,12 +7,12 @@ ENEMY plate
 #### Comprimidos de Amoxicilina
 - Preço: 25
 - Peso: 0,1
-- Efeito: Antibiótico amenizador de infecção
+- Efeito: Antibiótico amenizador de infecção (Dura 2 cenas)
 - Usos: 2
 #### Antibióticos Augmentina
 - Preço: 75
 - Peso: 0,1
-- Efeito:
+- Efeito: Antibiótico amenizador de infecção 
 #### Zanustina hemostática
 - Preço: 150
 - Peso:
