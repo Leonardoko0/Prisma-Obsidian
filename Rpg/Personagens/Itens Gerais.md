@@ -9,13 +9,13 @@ ENEMY plate
 ## Granadas
 ### Ofensivas
 
-|     Nome     | Preço | Peso |        Efeito         |
-| :----------: | :---: | :--: | :-------------------: |
-| Granada M68  | 100u  | 0,1  |    8d6 Perfuração     |
-|   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |
-|  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |
-|    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |
-| Spark-Plasma | 200u  | 0,1  |    Dano 8d8 Plasma    |
+|     Nome     | Preço | Peso |        Efeito         | Taxa de Erro |
+| :----------: | :---: | :--: | :-------------------: | ------------ |
+| Granada M68  | 100u  | 0,1  |    8d6 Perfuração     |              |
+|   Pulso-K    | 350u  | 0,1  |       12d10 EMP       |              |
+|  Flash-84B   |  75u  | 0,1  |   Cegueira, Surdez    |              |
+|    ST-801    |  75u  | 0,1  | Cortina de Dumaça 4x4 |              |
+| Spark-Plasma | 200u  | 0,3  |    Dano 8d8 Plasma    |              |
 
 #### Granada M68
 - Preço 100u
@@ -27,21 +27,25 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 - Preço 350u
 - Peso 0,1
 - Dano 12d10 EMP
+- Taxa de Erro 1d6
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Agi) com a DT do seu arremesso
 #### Flash-84B
 - Preço 75u
 - Peso 0,1
 - Efeito: Cegueira, Surdez 
+- Taxa de Erro 1d4
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Con) DT 15 ou recebe os efeitos
 #### ST-801
 - Preço 75u
 - Peso 0,1
 - Efeito: Cortina de Fumaça 4x4
+- Taxa de Erro 1d4
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) 
 #### Spark-Plasma
 - Preço 200u
 - Peso 0,1
 - Dano 8d8 Plasma
+- Taxa de Erro 1d8
 Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o alvo tem direito a um salvaguarda de (Agi) com a DT do seu arremesso 
 ### Combatentes
 ### Predadoras
