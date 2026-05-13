@@ -3,6 +3,9 @@
 ENEMY plate
 
 ## Drogas
+### Tarja Preta
+### Tarja Negra
+### Tarja Vazia
 ## Granadas
 ### Ofensivas
 
