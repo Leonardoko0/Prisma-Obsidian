@@ -19,7 +19,7 @@ ENEMY plate
 - Efeito: Analgésico (Vantagem em salvaguardas contra dor), pode ignorar membros quebrados pela duração. (Dura 3 rodadas)
 #### Shot (MorfiHeroico)
 - Preço: 300
-- Peso:
+- Peso: 0,1
 - Efeito:
 #### Shot (MetaCocaína)
 - Preço: 350
