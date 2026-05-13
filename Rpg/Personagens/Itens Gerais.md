@@ -5,8 +5,17 @@ ENEMY plate
 ## Drogas
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
+- Preço:
+- Peso:
+- Efeito:
 #### Antibióticos Augmentina
+- Preço:
+- Peso:
+- Efeito:
 #### Zanustina hemostática
+- Preço:
+- Peso:
+- Efeito:
 #### Shot (MorfiHeroico)
 #### Shot (MetaCocaína)
 #### Shot INVIL
