@@ -12,7 +12,7 @@ ENEMY plate
 #### Antibióticos Augmentina
 - Preço: 75
 - Peso: 0,1
-- Efeito: Antibiótico amenizador de infecção 
+- Efeito: Antibiótico amenizador e anulador de infecção (Dura 6 cenas) 
 #### Zanustina hemostática
 - Preço: 150
 - Peso:
