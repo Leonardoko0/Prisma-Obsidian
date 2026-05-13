@@ -7,7 +7,7 @@ ENEMY plate
 #### Comprimidos de Amoxicilina
 #### Antibióticos Augmenting
 #### Shot (MorfiHeroico)
-####
+#### Shot (MetaCocaína)
 ####
 ####
 ####
