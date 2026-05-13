@@ -5,7 +5,7 @@ ENEMY plate
 ## Drogas
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
-#### Antibióticos Augmentin
+#### Antibióticos Augmenting
 ####
 ####
 ####
