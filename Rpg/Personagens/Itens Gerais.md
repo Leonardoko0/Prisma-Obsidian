@@ -17,9 +17,21 @@ ENEMY plate
 - Peso:
 - Efeito:
 #### Shot (MorfiHeroico)
+- Preço:
+- Peso:
+- Efeito:
 #### Shot (MetaCocaína)
+- Preço:
+- Peso:
+- Efeito:
 #### Shot INVIL
+- Preço:
+- Peso:
+- Efeito:
 #### Estimulante Injetor BL1 (Neloprefina)
+- Preço:
+- Peso:
+- Efeito:
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
