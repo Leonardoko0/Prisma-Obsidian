@@ -20,7 +20,7 @@ ENEMY plate
 #### Shot (MorfiHeroico)
 - Preço: 300
 - Peso: 0,1
-- Efeito:
+- Efeito: Sedativo (DT 15 )
 #### Shot (MetaCocaína)
 - Preço: 350
 - Peso:
