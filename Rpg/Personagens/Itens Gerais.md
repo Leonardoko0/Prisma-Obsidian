@@ -28,7 +28,7 @@ ENEMY plate
 #### Shot INVIL
 - Preço: 300
 - Peso: 0,1
-- Efeito: Estimulante: aumente sua velocidade de recarga fazendo que trocar de pente em um slot rápido se torne ação livre
+- Efeito: Estimulante: aumente sua velocidade de recarga fazendo que trocar de pente em um slot rápido se torne ação livre e pentes em slots normais como ação de movimento
 #### Estimulante Injetor BL1 (Neloprefina)
 - Preço: 300
 - Peso:
