@@ -20,15 +20,15 @@ ENEMY plate
 #### Shot (MorfiHeroico)
 - Preço: 300
 - Peso: 0,1
-- Efeito: Sedativo (DT 15 Constituição) aplicar fora do combate em uma cena de descanso faz você recuperar 3 dados de vida 
+- Efeito: Sedativo (DT 15 Constituição) aplicar fora do combate em uma cena de descanso faz você recuperar 3 dados de vida (Cada rodada desacordado o alvo pode refazer o teste)
 #### Shot (MetaCocaína)
 - Preço: 350
 - Peso: 0,1
-- Efeito: Estimulante: Ganhe vantagens em testes de Agilidade e Sentido, além disso ganhe +2 em Destreza manual , e Salvaguarda de reflexo
+- Efeito: Estimulante: Ganhe vantagens em testes de Agilidade e Sentido, além disso ganhe +2 em Destreza manual , e Salvaguarda de reflexo (Cena)
 #### Shot INVIL
 - Preço: 300
 - Peso: 0,1
-- Efeito: Estimulante: aumente sua velocidade de recarga fazendo que trocar de pente em 
+- Efeito: Estimulante: aumente sua velocidade de recarga fazendo que trocar de pente em um slot rápido se torne ação livre
 #### Estimulante Injetor BL1 (Neloprefina)
 - Preço: 300
 - Peso:
