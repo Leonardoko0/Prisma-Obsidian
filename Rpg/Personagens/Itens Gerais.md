@@ -24,11 +24,11 @@ ENEMY plate
 #### Shot (MetaCocaína)
 - Preço: 350
 - Peso: 0,1
-- Efeito: Estimulante: Ganhe vantagens em testes de Agilidade e Sentido, além disso ganhe +2 em Destreza manua Salvaguarda de reflexo, e Destreza manual
+- Efeito: Estimulante: Ganhe vantagens em testes de Agilidade e Sentido, além disso ganhe +2 em Destreza manual , e Salvaguarda de reflexo
 #### Shot INVIL
 - Preço: 300
-- Peso:
-- Efeito:
+- Peso: 0,1
+- Efeito: Estimulante:
 #### Estimulante Injetor BL1 (Neloprefina)
 - Preço: 300
 - Peso:
