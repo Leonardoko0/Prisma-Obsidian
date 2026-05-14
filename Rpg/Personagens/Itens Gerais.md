@@ -20,7 +20,7 @@ ENEMY plate
 #### Shot (MorfiHeroico)
 - Preço: 300
 - Peso: 0,1
-- Efeito: Sedativo (DT 15 )
+- Efeito: Sedativo (DT 15 Constituição) aplicar fora do combate em uma cena de descanso faz você recuperar 1 dados de vida 
 #### Shot (MetaCocaína)
 - Preço: 350
 - Peso:
