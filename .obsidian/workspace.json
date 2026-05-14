@@ -49,8 +49,7 @@
               "title": "Perícias"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +198,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9f72ad2ef71f6364",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
@@ -225,7 +225,6 @@
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Raça.md",
     "Sem título 1.canvas",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Implantes.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",
