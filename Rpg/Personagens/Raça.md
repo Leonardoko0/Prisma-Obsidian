@@ -29,7 +29,7 @@ Você volta sua mente ao Plano Etéreo, buscando a marca que ecoa além do véu 
 Enquanto ativo:
 Você ganha 12m (8 espaços) de movimento aério. 
 Suas asas iluminam 8 espaços ao seu arredor com luz forte e outros 8 com luz fraca.
-Ataques de longa distancia realizados por você sofrem desvantagens em quando você estiver no ar.
+Ataques de longa distancia realizados por você sofrem desvantagens em quando você estiver no ar. além disso você deve descer no chão para realizar ataques corpo a corpo
 ### Aumento Em Atributo
 Adicione +2 no contador de Inteligência e +1 em sentido 
 ### Treinamento em Armamento 
