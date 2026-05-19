@@ -51,7 +51,7 @@ Enquanto estiver sob esse efeito, a velocidade de descida do alvo é reduzida, p
 Escolha entre 3 marcas das tribos originarias
 
 **Oighear:** Seu corpo é tomado por uma tempestade de frio até sua pele se tornar azulada e rígida, você abandona a fluidez do ar para assumir uma resistência ancestral congelante
-Enquanto ativo, 
+Enquanto ativo, você pode criar extensões do seu corpo em gelo
 você recebe resistência a dano congelante e imunidade ao efeito "Frio".
 Além disso, sua presença irradia uma aura congelante:  
 Inimigos a até 2 espaços de distância recebem Frio 1, enquanto inimigos adjacentes recebem Frio 2. 
