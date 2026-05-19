@@ -49,7 +49,7 @@ Enquanto estiver sob esse efeito, a velocidade de descida do alvo é reduzida, p
 
 ### Habilidade: Marcas
 Conjuração: Ação
-Alvo: (Oighear, Stoirm: Você) (Fearg: 
+Alvo: (Oighear, Stoirm: Você) (Fearg: inimigo,alcance longo)
 Usos: (Oighear, Stoirm: proficiência dividido por 2) (Fearg: proficiência)
 Duração: 
 
