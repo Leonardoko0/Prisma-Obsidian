@@ -48,6 +48,11 @@ Uma brisa suave e constante envolve seu corpo, fluindo pela sua pele como se sem
 Enquanto estiver sob esse efeito, a velocidade de descida do alvo é reduzida, permitindo uma queda lenta de até 18 metros. Se a criatura tocar o solo antes de completar essa distância, ela não sofre qualquer dano de queda.
 
 ### Habilidade: Marcas
+Conjuração: Ação
+Alvo: Você
+Usos: (Oighear, Stoirm: proficiência dividido por 2) (Fearg: )
+Duração: Até o fim da queda 
+
 Escolha entre 3 marcas das tribos originarias
 
 **Oighear:** Seu corpo é tomado por uma tempestade de frio até sua pele se tornar azulada e rígida, você abandona a fluidez do ar para assumir uma resistência ancestral congelante
