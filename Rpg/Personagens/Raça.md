@@ -65,7 +65,7 @@ Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e sã
 **Fearg:** Seu corpo começa a acelerar em raiva e nuvem escuras, deixando sua pele escura como nuvens em um tempo ruim. Você começa a acessar emoções como raiva e medo para influenciar o campo de batalha.
 Enquanto ativo, a cada rodada faça um alvo rodar um salvaguarda para criar um efeito mental específico
 - Medo
-- Paralizado
+- Paralisado
 - 
 
 a cada 25 por cento da sua vida solte um burst explosivo de energia jogando inimigos atacantes 3 espaços para trás e causando 3d6 de dano explosivo
