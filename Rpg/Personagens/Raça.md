@@ -56,8 +56,10 @@ Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, 
 - Placas protetivas criadas aumentam sua DT em 1
 - Equipamentos diversos criados dão diversos efeitos variados dependendo da criatividade e  devem ser negociados com o mestre antes de serem permitidos. EX: posso criar um patins de gelo para me movimentar mais rápido no combate
 
-**Stoirm:** Seu corpo entra em um estado de fricção intensa, liberando faíscas elétricas. Você assume um estado onde cria uma interferência energética pesada ao seu arredor criando perigosos picos de energia 
-Enquanto ativo, aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
+**Stoirm:** Seu corpo entra em um estado de fricção intensa, liberando faíscas elétricas. Você assume um estado onde cria uma interferência energética pesada ao seu arredor criando perigosos picos de energia
+Enquanto ativo, ataques de oportunidade 
+
+ aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
 Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e são expelidos 1,5m para trás
 
 **Fearg:** Seu corpo começa a acelerar em raiva e nuvem escuras, deixando sua pele escura como nuvens em um tempo ruim. Você abandona parte de sua vitalidade por força bruta 
