@@ -66,7 +66,7 @@ Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e sã
 Ative para, um alvo em visão rodar um salvaguarda (DT 15), na falha crie um efeito mental específico entre:
 - Medo: (Car/Moral): O alvo tenta fugir para o mais longe de você quando possível rodada
 - Paralisado: (Sen/Vontade): O alvo não pode se mover porém ainda pode reagir
-- Frenzy: (Int/Lucidez): O alvo vai pra luta de forma descontrolada 
+- Frenzy: (Int/Lucidez): O alvo vai pra luta de forma e deve usar movimento para se aproximar da criatura mais próxima para então atacar
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Agilidade e +1 em sentido 
