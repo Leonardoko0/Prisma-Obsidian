@@ -59,13 +59,10 @@ Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, 
 **Stoirm:** Seu corpo entra em um estado de fricção intensa, liberando faíscas elétricas. Você assume um estado onde cria uma interferência energética pesada ao seu arredor criando perigosos picos de energia
 Enquanto ativo, você desfere uma corrente elétrica em alvo que tentarem realizar um ataque de oportunidade em você, 2d6 energia (+1d6 nos níveis 5, 11 e 17). Além disso ser acertado corpo a corpo com esse modo ativo repele inimigos (Salvaguarda de agilidade 15) em 1d3 espaços para trás. a repulsão só funciona com o primeiro alvo que te atacar no turno
 
- aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
-Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e são expelidos 1,5m para trás
-
 **Fearg:** Seu corpo começa a acelerar em raiva e nuvem escuras, deixando sua pele escura como nuvens em um tempo ruim. Você começa a acessar emoções como raiva e medo para influenciar o campo de batalha.
 Ative para, um alvo em visão rodar um salvaguarda (DT 15), na falha crie um efeito mental específico entre:
-- Medo: (Car/Moral): O alvo tenta fugir para o mais longe de você quando possível rodada
-- Paralisado: (Sen/Vontade): O alvo não pode se mover porém ainda pode reagir
+- Medo: (Car/Moral): A criatura deve utilizar seu movimento para se afastar de você sempre que possível.
+- Paralisado: (Sen/Vontade): A criatura não pode se mover até o início do próximo turno dela, porém ainda pode realizar reações.
 - Frenzy: (Int/Lucidez): A criatura entra em um estado agressivo e impulsivo, devendo se aproximar e atacar a criatura mais próxima sempre que possível.
 
 ### Aumento Em Atributo
