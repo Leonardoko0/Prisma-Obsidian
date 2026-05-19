@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Perícias.md",
+                "file": "SalvaGuarda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perícias"
+              "title": "SalvaGuarda"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "9f72ad2ef71f6364",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
+    "SalvaGuarda.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Itens Gerais.md",
@@ -236,9 +238,7 @@
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",
-    "SalvaGuarda.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Raça.md",
     "Sem título 1.canvas",
     "Rpg/Personagens/Implantes.md",
     "Rpg/Personagens/Background.md",
