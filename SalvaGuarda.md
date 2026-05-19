@@ -7,4 +7,4 @@
 |    Força     | Tenacidade  |
 |   Carisma    |    Moral    |
 | Inteligência |   Lucidez   |
-|   Sentido    |   Vontede   |
+|   Sentido    |   Vontade   |
