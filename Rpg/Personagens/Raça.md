@@ -66,7 +66,7 @@ Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e sã
 Enquanto ativo, a cada rodada faça um alvo rodar um salvaguarda para criar um efeito mental específico
 - Medo
 - Paralisado
-- 
+- Frenzy
 
 a cada 25 por cento da sua vida solte um burst explosivo de energia jogando inimigos atacantes 3 espaços para trás e causando 3d6 de dano explosivo
 
