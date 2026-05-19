@@ -63,7 +63,8 @@
               "title": "Raça"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,13 +213,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "265c52f0c573af77",
   "lastOpenFiles": [
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Perícias.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
