@@ -62,8 +62,10 @@ Enquanto ativo, você desfere uma corrente elétrica em alvo que tentarem realiz
  aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
 Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e são expelidos 1,5m para trás
 
-**Fearg:** Seu corpo começa a acelerar em raiva e nuvem escuras, deixando sua pele escura como nuvens em um tempo ruim. Você começa a acessar emoções como raiva e medo para influenciar  
-Enquanto ativo a cada 25 por cento da sua vida solte um burst explosivo de energia jogando inimigos atacantes 3 espaços para trás e causando 3d6 de dano explosivo
+**Fearg:** Seu corpo começa a acelerar em raiva e nuvem escuras, deixando sua pele escura como nuvens em um tempo ruim. Você começa a acessar emoções como raiva e medo para influenciar o campo de batalha 
+Enquanto ativo,
+
+a cada 25 por cento da sua vida solte um burst explosivo de energia jogando inimigos atacantes 3 espaços para trás e causando 3d6 de dano explosivo
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Agilidade e +1 em sentido 
