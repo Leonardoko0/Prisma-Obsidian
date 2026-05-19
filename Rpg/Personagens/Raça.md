@@ -66,7 +66,7 @@ Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e sã
 Ative para, um alvo em visão rodar um salvaguarda (DT 15), na falha crie um efeito mental específico entre:
 - Medo: ()
 - Paralisado: ()
-- Frenzy: ()
+- Frenzy: (Int/Lucidez)
 
 a cada 25 por cento da sua vida solte um burst explosivo de energia jogando inimigos atacantes 3 espaços para trás e causando 3d6 de dano explosivo
 

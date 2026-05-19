@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9f72ad2ef71f6364",
+  "active": "265c52f0c573af77",
   "lastOpenFiles": [
-    "Rpg/Personagens/Raça.md",
     "SalvaGuarda.md",
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Itens Gerais.md",
