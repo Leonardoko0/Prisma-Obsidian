@@ -56,12 +56,6 @@ Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, 
 - Placas protetivas criadas aumentam sua DT em 1
 - Equipamentos diversos criados dão diversos efeitos variados dependendo da criatividade e  devem ser negociados com o mestre antes de serem permitidos. EX: posso criar um patins de gelo para me movimentar mais rápido no combate
 
-OU
-
-você recebe resistência a dano congelante e imunidade ao efeito "Frio".
-Além disso, sua presença irradia uma aura congelante:  
-Inimigos a até 2 espaços de distância recebem Frio 1, enquanto inimigos adjacentes recebem Frio 2. 
-
 **Stoirm:** Seu corpo entra em um estado de fricção intensa, liberando faíscas elétricas. Você abandona o controle sereno das brisas e assume um caos direcionado, rápido e imparável.
 Enquanto ativo, aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
 Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e são expelidos 1,5m para trás
