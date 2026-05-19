@@ -32,7 +32,7 @@ ENEMY plate
 #### Estimulante Injetor BL1 (Neloprefina)
 - Preço: 300
 - Peso: 0,1
-- Efeito: Nega todos os efeitos mentais e ganha 3 de estâmina temporária 
+- Efeito: Nega todos os efeitos mentais e ganha 3 de Estâmina temporária 
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
