@@ -54,7 +54,7 @@ Escolha entre 3 marcas das tribos originarias
 Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, placas protetivas e equipamentos auxiliares 
 - Armas criadas causam 1d6 de dano (+1d4 nos níveis 5, 11 e 17) elas podem seu utilizadas na ação pancada
 - Placas protetivas criadas aumentam sua DT em 1
-- Equipamentos diversos  devem ser negociados com o mestre antes de ser permitidos. 
+- Equipamentos diversos criados dão diversos efeitos variados dependendo da criatividade e  devem ser negociados com o mestre antes de serem permitidos. EX: 
 você recebe resistência a dano congelante e imunidade ao efeito "Frio".
 Além disso, sua presença irradia uma aura congelante:  
 Inimigos a até 2 espaços de distância recebem Frio 1, enquanto inimigos adjacentes recebem Frio 2. 
