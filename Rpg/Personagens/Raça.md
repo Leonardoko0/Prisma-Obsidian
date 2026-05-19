@@ -52,12 +52,12 @@ Escolha entre 3 marcas das tribos originarias
 
 **Oighear:** Seu corpo é tomado por uma tempestade de frio até sua pele se tornar azulada e rígida, você abandona a fluidez do ar para assumir uma resistência ancestral congelante
 Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, placas protetivas e equipamentos auxiliares 
-- Armas criadas causam 1d6 de dano (+1d4 nos níveis 5, 11 e 17) elas podem seu utilizadas na ação pancada
+- Armas criadas causam 1d6 de dano gélido (+1d4 nos níveis 5, 11 e 17) elas podem seu utilizadas na ação pancada
 - Placas protetivas criadas aumentam sua DT em 1
 - Equipamentos diversos criados dão diversos efeitos variados dependendo da criatividade e  devem ser negociados com o mestre antes de serem permitidos. EX: posso criar um patins de gelo para me movimentar mais rápido no combate
 
 **Stoirm:** Seu corpo entra em um estado de fricção intensa, liberando faíscas elétricas. Você assume um estado onde cria uma interferência energética pesada ao seu arredor criando perigosos picos de energia
-Enquanto ativo, ataques de oportunidade 
+Enquanto ativo, você desfere uma corrente elétrica em alvo que tentarem realizar um ataque de oportunidade em você (2d6) 
 
  aumente sua velocidade em 4,5m (3 Espaços) e fica imune a terreno difícil
 Além disso inimigos adjacente a seu movimento tomam 1d6 de dano elétrico e são expelidos 1,5m para trás
