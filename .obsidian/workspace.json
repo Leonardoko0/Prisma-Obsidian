@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "265c52f0c573af77",
   "lastOpenFiles": [
+    "Sakata.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
-    "Sakata.md",
     "Tônio.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Borba.md",
