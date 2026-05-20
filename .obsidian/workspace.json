@@ -18,34 +18,6 @@
             }
           },
           {
-            "id": "847143e171a2fda1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Nômade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nômade"
-            }
-          },
-          {
-            "id": "265c52f0c573af77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Perícias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perícias"
-            }
-          },
-          {
             "id": "cc88df1690669f33",
             "type": "leaf",
             "state": {
@@ -93,16 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Nave Principal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Nave Principal"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,11 +223,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f8d71441440077e0",
+  "active": "a92f5866f1696fa1",
   "lastOpenFiles": [
-    "Sem título.md",
-    "Bases Planetárias.md",
     "Sistema de Base.md",
+    "Bases Planetárias.md",
+    "Nave Principal.md",
     "Sakata.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
