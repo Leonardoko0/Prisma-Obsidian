@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Traits.md",
+                "file": "Rpg/Personagens/Atributos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Atributos"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Sakata"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +212,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Traits.md",
+    "Sakata.md",
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Nômade.md",
-    "Sakata.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
