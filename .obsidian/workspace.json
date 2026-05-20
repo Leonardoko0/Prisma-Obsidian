@@ -18,49 +18,21 @@
             }
           },
           {
-            "id": "37e8fcf2fb0e3a00",
+            "id": "1e00eaacec124853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missões Principais.md",
+                "file": "Cargos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Missões Principais"
-            }
-          },
-          {
-            "id": "b5d286a1cc6d6e12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Missões Secundárias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Missões Secundárias"
-            }
-          },
-          {
-            "id": "62315aeae4425c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contratos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Contratos"
+              "title": "Cargos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +182,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "62315aeae4425c11",
+  "active": "1e00eaacec124853",
   "lastOpenFiles": [
+    "Cargos.md",
+    "Bicos.md",
     "Contratos.md",
     "Missões Secundárias.md",
     "Missões Principais.md",
@@ -236,8 +210,6 @@
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Regras.md",
-    "Submarino (Mudar o Nome).md",
-    "Barcos (Mudar nome).md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
