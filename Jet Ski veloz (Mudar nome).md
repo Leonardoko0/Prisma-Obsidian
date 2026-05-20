@@ -1,1 +1,1 @@
-#Veículo  [[Carros e motos (Adicionar nome)]]
+#Veículo  [[Tipos]]
