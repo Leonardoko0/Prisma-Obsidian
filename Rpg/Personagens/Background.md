@@ -31,3 +31,5 @@ Você é um criminoso, pode ser tanto um bandido de gangue quanto um chantageado
 Perícias treinadas: Crime, Destreza Manual
 Atributos Extra: Agi 2, Int 1
 Equipamento: um kit de ferramentas baseado na sua especialidade e também uma economia de 350u
+### Aprendiz
+Você teve uma 
