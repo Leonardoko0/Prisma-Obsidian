@@ -34,5 +34,5 @@ Equipamento: um kit de ferramentas baseado na sua especialidade e também uma ec
 ### Aprendiz
 Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a procurar a entrar na organização
 
-Perícias treinadas:
+Perícias treinadas: Tática e Atletismo
 Equipamento inicial: 
