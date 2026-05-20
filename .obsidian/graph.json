@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:veículo",
       "color": {
         "a": 1,
         "rgb": 14701233
