@@ -19,6 +19,15 @@ Perícias treinadas:
 Equipamento inicial: 
 ## Traits
 ## Atributos
+
+|     |     |
+| :-: | :-: |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
 ## Classes 
 O nômade é uma classe de linha de frente, focada em decapitar inimigos antes que eles possam te alcançar
 
