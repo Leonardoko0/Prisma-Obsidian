@@ -86,9 +86,23 @@
               "icon": "lucide-file",
               "title": "Jet Ski veloz (Mudar nome)"
             }
+          },
+          {
+            "id": "b99eb76ea2b02d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Submarino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Submarino"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -238,10 +252,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1b70c7cf50a3de9d",
+  "active": "b99eb76ea2b02d13",
   "lastOpenFiles": [
-    "Jet Ski veloz (Mudar nome).md",
+    "Submarino.md",
     "Barcos (Mudar nome).md",
+    "Jet Ski veloz (Mudar nome).md",
     "Rpg/Personagens/Raça.md",
     "Carros e motos (Adicionar nome).md",
     "Sakata.md",
@@ -265,7 +280,6 @@
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Artilherista.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
