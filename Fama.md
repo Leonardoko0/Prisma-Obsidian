@@ -1,4 +1,5 @@
 #Regras [[Regras]]
 ## Fama individual 
 -10 pro 0 pro +10
-## Fama
+## Fama de Grupo
+## Expepi
