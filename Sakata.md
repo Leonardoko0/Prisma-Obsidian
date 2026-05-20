@@ -25,8 +25,8 @@ Equipamento inicial:
 | Constituição |     |
 |    Força     |     |
 | Inteligência |     |
-|              |     |
-|              |     |
+|   Carisma    |     |
+|   Sentido    |     |
 
 ## Classes 
 O nômade é uma classe de linha de frente, focada em decapitar inimigos antes que eles possam te alcançar
@@ -98,4 +98,30 @@ A arte de combater com uma lâmina fina de duelo, controlando os ataques inimigo
 **Amparos:** Ao usar a reação aparar e ultrapassar o dano inimigo com sucesso, permite gastar 1PP para realizar um ataque de riposta.
 Aparar com sucesso preenche um selo
 ## Perícias
+|     Perícia     | Atributo | Penalidade de Carga | Treinado |
+| :-------------: | :------: | :-----------------: | :------: |
+|    Acrobacia    |   Agi    |         Sim         |          |
+|  Adestramento   |   Car    |                     |          |
+|      Arte       |   Int    |                     |          |
+|    Atletismo    |   For    |         Sim         |          |
+|    Ciências     |   Int    |                     |          |
+|      Crime      |   Agi    |         Sim         |          |
+| Destreza manual |   Agi    |         Sim         |          |
+|   Diplomacia    |   Car    |                     |          |
+|    Enganação    |   Car    |                     |          |
+| Etiqueta Social |   Car    |                     |          |
+|      Éter       |   Int    |                     |          |
+|   Furtividade   |   Agi    |         Sim         |          |
+|    História     |   Int    |                     |          |
+|  Improvisação   |   Int    |                     |          |
+|   Intimidação   |   Car    |                     |          |
+|    Intuição     |   Sen    |                     |          |
+|  Investigação   |   Int    |                     |          |
+|    Medicina     |   Int    |                     |          |
+|    Percepção    |   Sen    |                     |          |
+|     Cognato     |   Sen    |                     |          |
+|    Pilotagem    |   Agi    |                     |          |
+|    Religião     |   Int    |                     |          |
+|     Tática      |   Int    |                     |          |
+|   Tecnologia    |   Int    |                     |          |
 ## Equipamento

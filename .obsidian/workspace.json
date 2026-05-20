@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Traits.md",
+                "file": "Rpg/Personagens/Perícias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Perícias"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Sakata"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,14 +213,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "847143e171a2fda1",
   "lastOpenFiles": [
-    "Sakata.md",
-    "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Atributos.md",
-    "Rpg/Personagens/Raça.md",
-    "Rpg/Personagens/Nômade.md",
+    "Sakata.md",
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Criação De Personagem.md",
+    "Rpg/Personagens/Traits.md",
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Artilherista.md",
     "Tônio.md",
@@ -232,7 +234,6 @@
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Implantes.md",
     "Rpg/Personagens/Aparatos.md",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
