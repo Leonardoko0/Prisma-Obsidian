@@ -73,7 +73,8 @@
               "title": "Sistema de Base"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,11 +223,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "8ba652857abfb0b6",
   "lastOpenFiles": [
-    "Rpg/Personagens/Perícias.md",
     "Sistema de Base.md",
     "Sakata.md",
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
