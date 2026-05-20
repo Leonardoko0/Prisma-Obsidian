@@ -59,8 +59,7 @@
               "title": "Carro (Adicionar nome)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,14 +208,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Aparatos.md",
+    "Sakata.md",
+    "Melhoramento.md",
     "Carro (Adicionar nome).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
-    "Sakata.md",
     "Rpg/Personagens/Atributos.md",
-    "Melhoramento.md",
     "Rpg/Personagens/Raça.md",
     "Locomoção.md",
     "Sistema de salas.md",
@@ -236,7 +236,6 @@
     "Tônio.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Borba.md",
-    "Lucas.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
