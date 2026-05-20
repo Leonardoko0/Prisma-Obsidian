@@ -46,59 +46,17 @@
             }
           },
           {
-            "id": "61d8abf28f4de5e0",
+            "id": "a0f1d724fb920783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carros e motos (Adicionar nome).md",
+                "file": "Mechas ().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carros e motos (Adicionar nome)"
-            }
-          },
-          {
-            "id": "1b70c7cf50a3de9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barcos (Mudar nome).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barcos (Mudar nome)"
-            }
-          },
-          {
-            "id": "134c66365e72e604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jet Ski veloz (Mudar nome).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jet Ski veloz (Mudar nome)"
-            }
-          },
-          {
-            "id": "b99eb76ea2b02d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Submarino (Mudar o Nome).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Submarino (Mudar o Nome)"
+              "title": "Mechas ()"
             }
           }
         ],
@@ -252,8 +210,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61d8abf28f4de5e0",
+  "active": "a0f1d724fb920783",
   "lastOpenFiles": [
+    "Mechas ().md",
     "Submarino (Mudar o Nome).md",
     "Jet Ski veloz (Mudar nome).md",
     "Barcos (Mudar nome).md",
@@ -279,7 +238,6 @@
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Criação De Personagem.md",
-    "Rpg/Personagens/Traits.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
