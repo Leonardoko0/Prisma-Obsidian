@@ -63,8 +63,7 @@
               "title": "Sakata"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +212,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
     "Sakata.md",
     "Rpg/Personagens/Traits.md",

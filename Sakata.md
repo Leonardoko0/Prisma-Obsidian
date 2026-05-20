@@ -20,13 +20,13 @@ Equipamento inicial:
 ## Traits
 ## Atributos
 
-|     |     |
-| :-: | :-: |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+|  Agilidade   |     |
+| :----------: | :-: |
+| Constituição |     |
+|    Força     |     |
+| Inteligência |     |
+|              |     |
+|              |     |
 
 ## Classes 
 O nômade é uma classe de linha de frente, focada em decapitar inimigos antes que eles possam te alcançar
