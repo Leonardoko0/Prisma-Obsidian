@@ -82,5 +82,11 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 **LV 10, imparável:** Após ter 3 ou mais Tags fica imune a ataques de oportunidade. Gaste 1PP para evitar terreno difícil pela rodada
 
 **LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Tag
+#### **Duelista** 
+A arte de combater com uma lâmina fina de duelo, controlando os ataques inimigos contra eles mesmo, abrindo aberturas para estocadas poderosas
+
+**LV 3, En Garde:** A Kira possui o efeito de "alcance" e seu dano muda para perfuração 
+**Amparos:** Ao usar a reação aparar e ultrapassar o dano inimigo com sucesso, permite gastar 1PP para realizar um ataque de riposta.
+Aparar com sucesso preenche um selo
 ## Perícias
 ## Equipamento
