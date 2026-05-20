@@ -54,7 +54,7 @@
 - Alcance: 7m/12m
 - Crítico: 19/x2
 - Munição: (Medium) 9 Balas
-- Propriedades: Supressor Luz (Talvez )
+- Propriedades: Supressor Luz (Talvez peso)
 - Discrição:
 #### V.S.M 9
 - Preço: 275u
