@@ -23,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Sistema de Traje de Sobrevivência (No Man´s Sky)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,9 +181,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7ab39a5b05736f2",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
     "Sistema de Comida (Decaying winter).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Itens Gerais.md",
