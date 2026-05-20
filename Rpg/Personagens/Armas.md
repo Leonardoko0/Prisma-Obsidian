@@ -190,7 +190,7 @@
 - Peso: 3,5 
 - Carga: 2
 - Alcance: 1,5 m
-- Crítico: 1,5 m
+- Crítico: x2
 - Propriedades: Pesado, Duas Mãos
 - Discrição:
 #### Marreta
