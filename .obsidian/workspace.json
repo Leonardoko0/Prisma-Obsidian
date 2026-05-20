@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
     "Sakata.md",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Traits.md",
