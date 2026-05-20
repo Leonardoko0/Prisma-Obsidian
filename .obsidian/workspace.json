@@ -11,10 +11,14 @@
             "id": "47f920fb7adf5d1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Atributos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atributos"
             }
           },
           {
@@ -210,10 +214,10 @@
   },
   "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
-    "Rpg/Personagens/Raça.md",
+    "Sakata.md",
     "Carro (Adicionar nome).md",
     "Melhoramento.md",
-    "Sakata.md",
+    "Rpg/Personagens/Raça.md",
     "Locomoção.md",
     "Sistema de salas.md",
     "Níveis de Nave.md",
