@@ -59,8 +59,7 @@
               "title": "Carro (Adicionar nome)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +208,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61d8abf28f4de5e0",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Carro (Adicionar nome).md",
     "Melhoramento.md",
     "Sakata.md",
@@ -228,7 +228,6 @@
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Artilherista.md",
     "Tônio.md",
