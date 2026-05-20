@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Itens Gerais.md",
+                "file": "Rpg/Personagens/Raça.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itens Gerais"
+              "title": "Raça"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Tônio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +212,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "847143e171a2fda1",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Tônio.md",
+    "Sakata.md",
     "Borba.md",
     "Lucas.md",
-    "Sakata.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Raça.md",
