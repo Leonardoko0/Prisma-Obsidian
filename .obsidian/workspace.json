@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,12 +213,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "847143e171a2fda1",
   "lastOpenFiles": [
+    "Rpg/Personagens/Criação De Personagem.md",
+    "Tônio.md",
     "Borba.md",
     "Lucas.md",
     "Sakata.md",
-    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "SalvaGuarda.md",
@@ -240,7 +241,6 @@
     "Rpg/Mundo.md",
     "Rpg/Fendas Malignas.md",
     "Rpg/Dissônancias.md",
-    "Rpg/Derrames.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
