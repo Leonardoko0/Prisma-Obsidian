@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "847143e171a2fda1",
   "lastOpenFiles": [
+    "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Nômade.md",
@@ -234,7 +235,6 @@
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
-    "Rpg/Personagens/Traits.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
