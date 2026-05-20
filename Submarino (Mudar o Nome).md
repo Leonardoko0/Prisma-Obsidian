@@ -1,1 +1,1 @@
-#Veículo  [[Jet Ski veloz (Mudar nome)]]
+#Veículo  [[Tipos]]
