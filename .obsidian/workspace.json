@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Veículo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,13 +238,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61d8abf28f4de5e0",
+  "active": "134c66365e72e604",
   "lastOpenFiles": [
+    "Barcos (Mudar nome).md",
+    "Carros e motos (Adicionar nome).md",
     "Sakata.md",
     "Rpg/Personagens/Background.md",
     "Jet Ski veloz (Mudar nome).md",
-    "Barcos (Mudar nome).md",
-    "Carros e motos (Adicionar nome).md",
     "Rpg/Personagens/Raça.md",
     "Melhoramento.md",
     "Rpg/Personagens/Itens Gerais.md",
