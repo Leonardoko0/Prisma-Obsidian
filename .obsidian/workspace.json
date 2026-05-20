@@ -111,8 +111,7 @@
               "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +260,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7e534aa3cad4756",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
     "Exoveículos.md",
     "Base Mãe.md",
