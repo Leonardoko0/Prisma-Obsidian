@@ -25,10 +25,14 @@
             "id": "847143e171a2fda1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Artilherista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artilherista"
             }
           },
           {
@@ -60,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +213,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "847143e171a2fda1",
   "lastOpenFiles": [
+    "Rpg/Personagens/Background.md",
     "Sakata.md",
     "Rpg/Personagens/Raça.md",
-    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Tônio.md",
