@@ -1,1 +1,1 @@
-#Veículo  [[Melhoramento]] [[Jet Ski veloz (Mudar nome)]]
+#Veículo  [[Jet Ski veloz (Mudar nome)]]

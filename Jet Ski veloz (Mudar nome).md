@@ -1,1 +1,1 @@
-#Veículo [[Melhoramento]]  [[Carros e motos (Adicionar nome)]]
+#Veículo  [[Carros e motos (Adicionar nome)]]

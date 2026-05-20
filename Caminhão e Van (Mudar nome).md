@@ -1,1 +1,1 @@
-#Veículo [[Melhoramento]] [[Submarino (Mudar o Nome)]]
+#Veículo [[Submarino (Mudar o Nome)]] [[Mechas (Mudar nome)]]
