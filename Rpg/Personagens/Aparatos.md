@@ -5,7 +5,7 @@
 - 1 Uso
 - Ação de Movimento
 
-Nega todos os efeitos negativos respiratórios (Toxinas, Infecção, venenos...) O filtro dura 3 rodadas após ser utilizado, porém ele pode ser destruído com ataques direcionados para finalizar o efeito antes
+Nega todos os efeitos negativos respiratórios (Toxinas, Infecção, venenos...) O filtro dura 6 rodadas após ser utilizado, porém ele pode ser destruído com ataques direcionados para finalizar o efeito antes
 
 "Por que caralhos eles não adicionam esses filtros nos respiradores normais" -Yosef
 ### Emissor H.O.L.O
