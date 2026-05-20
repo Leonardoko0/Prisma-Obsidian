@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,15 +213,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "847143e171a2fda1",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Nômade.md",
+    "Sakata.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Background.md",
-    "Sakata.md",
     "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Atributos.md",
     "Tônio.md",
     "Rpg/Personagens/Itens Gerais.md",
