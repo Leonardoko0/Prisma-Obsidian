@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,14 +227,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "847143e171a2fda1",
+  "active": "b6e25721242c73cf",
   "lastOpenFiles": [
+    "Rpg/Personagens/Itens Gerais.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Implantes.md",
     "Rpg/Personagens/Aparatos.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
@@ -243,7 +244,6 @@
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Raça.md",
     "SalvaGuarda.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
