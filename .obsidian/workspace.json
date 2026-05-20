@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "847143e171a2fda1",
+  "active": "265c52f0c573af77",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Background.md",
     "Sakata.md",
@@ -233,7 +234,6 @@
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
