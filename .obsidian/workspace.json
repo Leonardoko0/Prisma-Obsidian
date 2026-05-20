@@ -59,8 +59,7 @@
               "title": "Apelidos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "13ee364c25cf79e9",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
-    "Apelidos.md",
-    "Fama.md",
     "Influencia no Prisma.md",
+    "Fama.md",
+    "Apelidos.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Exploração de Zonas Negras.md",
     "Venda de Itens Dissonantes.md",
