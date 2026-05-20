@@ -71,6 +71,8 @@ Ative para, um alvo em visão rodar um salvaguarda (DT 15), na falha crie um efe
 - Frenzy: (Int/Lucidez): A criatura entra em um estado agressivo e impulsivo, devendo se aproximar e atacar a criatura mais próxima sempre que possível.
 Criaturas que passarem do salvaguarda ficam imunes ao efeito pela cena
 
+*Sem*
+
 ### Aumento Em Atributo
 Adicione +2 no contador de Agilidade e +1 em sentido 
 ### Treinamento E Armamento 
