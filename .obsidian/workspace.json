@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265c52f0c573af77",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
+    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Sakata.md",
     "Tônio.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Borba.md",
     "Lucas.md",
@@ -229,7 +230,6 @@
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Background.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Prisma.md",
     "Rpg/Organizações/Reikgons.md",
