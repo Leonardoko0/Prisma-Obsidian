@@ -100,9 +100,18 @@
               "icon": "lucide-file",
               "title": "Exoveículo"
             }
+          },
+          {
+            "id": "04a574837f0eb547",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +260,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7e534aa3cad4756",
+  "active": "47f920fb7adf5d1b",
   "lastOpenFiles": [
     "Exoveículo.md",
     "Base Mãe.md",
