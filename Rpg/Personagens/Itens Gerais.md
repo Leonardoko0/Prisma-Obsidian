@@ -80,7 +80,15 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 ### Predadoras
 ## Kits
 ### ENEMY plate (Black Powder)
+- Preço: 100u
+- Peso: 0,1
+- Usos:
+- Efeito:
 ### ENEMY plate (Full Damage)
+- Preço: 100u
+- Peso: 0,1
+- Usos:
+- Efeito:
 ###
 ## Munições
 
