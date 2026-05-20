@@ -11,10 +11,14 @@
             "id": "cc88df1690669f33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Tipos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos"
             }
           },
           {
@@ -51,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barcos (Mudar nome).md",
+                "file": "Caminhão e Van (Mudar nome).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barcos (Mudar nome)"
+              "title": "Caminhão e Van (Mudar nome)"
             }
           },
           {
@@ -73,7 +77,8 @@
               "title": "Carga e Peso"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,20 +228,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "e8e025e3b903ecab",
   "lastOpenFiles": [
-    "Caminhão e Van (Mudar nome).md",
     "Barcos (Mudar nome).md",
+    "Mechas (Mudar nome).md",
+    "Rpg/Personagens/Background.md",
+    "Tipos.md",
+    "Caminhão e Van (Mudar nome).md",
     "Carros e motos (Adicionar nome).md",
     "Jet Ski veloz (Mudar nome).md",
     "Submarino (Mudar o Nome).md",
-    "Mechas (Mudar nome).md",
-    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Raça.md",
     "Sakata.md",
-    "Melhoramento.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",

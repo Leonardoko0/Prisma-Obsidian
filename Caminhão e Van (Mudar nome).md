@@ -1,1 +1,1 @@
-#Veículo [[Submarino (Mudar o Nome)]] [[Melhoramento]]
+#Veículo [[Submarino (Mudar o Nome)]] [[Tipos]]
