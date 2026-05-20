@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47f920fb7adf5d1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
             "id": "cc88df1690669f33",
             "type": "leaf",
             "state": {
@@ -83,8 +73,7 @@
               "title": "Carga e Peso"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +223,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d19943716faf224",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
-    "Mechas (Mudar nome).md",
     "Rpg/Personagens/Background.md",
+    "Mechas (Mudar nome).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
     "Caminhão e Van (Mudar nome).md",
