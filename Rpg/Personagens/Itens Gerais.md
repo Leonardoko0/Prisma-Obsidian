@@ -79,8 +79,8 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 ### Combatentes
 ### Predadoras
 ## Kits
-###
-###
+### ENEMY plate (Black Powder)
+### ENEMY plate (Full Damage)
 ###
 ## Munições
 
