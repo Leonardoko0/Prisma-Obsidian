@@ -4,4 +4,6 @@
 ### -1 a -5
 ### Vantagem
 ### Desvantagem
-### Sucesso autómatico 
+### Sucesso Automático
+### Falha Automática
+## Modi
