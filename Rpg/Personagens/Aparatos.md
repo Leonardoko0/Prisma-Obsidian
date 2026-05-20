@@ -4,6 +4,7 @@
 ### Respirador de Emergência
 - 1 Uso
 - Ação de Movimento
+- Duração: 6 rodadas/ Cena
 
 Nega todos os efeitos negativos respiratórios (Toxinas, Infecção, venenos...) O filtro dura 6 rodadas após ser utilizado, porém ele pode ser destruído com ataques direcionados para finalizar o efeito antes
 
