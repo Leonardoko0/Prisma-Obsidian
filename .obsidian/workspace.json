@@ -59,7 +59,8 @@
               "title": "Carro (Adicionar nome)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,14 +209,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
+    "Carro (Adicionar nome).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Sakata.md",
     "Rpg/Personagens/Atributos.md",
     "Melhoramento.md",
-    "Carro (Adicionar nome).md",
     "Rpg/Personagens/Raça.md",
     "Locomoção.md",
     "Sistema de salas.md",
