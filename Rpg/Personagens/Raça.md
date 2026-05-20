@@ -56,7 +56,7 @@ Duração: (Oighear, Stoirm: Cena) (Fearg: instantâneo)
 Escolha entre 3 marcas das tribos originarias
 
 **Oighear:** Seu corpo é tomado por uma tempestade de frio até sua pele se tornar azulada e rígida, você abandona a fluidez do ar para assumir uma resistência ancestral congelante
-Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, placas protetivas e equipamentos auxiliares.
+Enquanto ativo, você pode criar extensões do seu corpo em gelo como lâminas, placas protetivas e equipamentos auxiliares. (Pode gerar 1 )
 - Armas criadas causam 1d6 de dano gélido (+1d4 nos níveis 5, 11 e 17) elas podem seu utilizadas na ação pancada
 - Placas protetivas criadas aumentam sua DT em 1
 - Equipamentos diversos criados dão diversos efeitos variados dependendo da criatividade e  devem ser negociados com o mestre antes de serem permitidos. EX: posso criar um patins de gelo para me movimentar mais rápido no combate
