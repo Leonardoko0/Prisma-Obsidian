@@ -69,7 +69,7 @@ Ative para, um alvo em visão rodar um salvaguarda (DT 15), na falha crie um efe
 - Medo: (Car/Moral): A criatura deve utilizar seu movimento para se afastar de você sempre que possível.
 - Paralisado: (Sen/Vontade): A criatura não pode se mover até o início do próximo turno dela, porém ainda pode realizar reações.
 - Frenzy: (Int/Lucidez): A criatura entra em um estado agressivo e impulsivo, devendo se aproximar e atacar a criatura mais próxima sempre que possível.
-CX
+Criaturas que passarem do salvaguarda ficam imunes ao efeito pela cena
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Agilidade e +1 em sentido 
