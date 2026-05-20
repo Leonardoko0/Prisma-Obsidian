@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exoveículo.md",
+                "file": "Exoveículos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exoveículo"
+              "title": "Exoveículos"
             }
           },
           {
@@ -111,7 +111,8 @@
               "title": "Nova aba"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,9 +261,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "d7e534aa3cad4756",
   "lastOpenFiles": [
-    "Exoveículo.md",
+    "Exoveículos.md",
     "Base Mãe.md",
     "Bases Provisórias.md",
     "Bases Planetárias.md",
