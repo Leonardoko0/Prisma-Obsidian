@@ -18,6 +18,10 @@ Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a p
 Perícias treinadas:
 Equipamento inicial: 
 ## Traits
+### **Persistente**
+“Cair é apenas uma desculpa para se levantar”
+
+Ao ficar morrendo recebe vantagem no primeiro dado e caso você não falhe no salvaguarda de morte nem uma vez, você se levanta com 1 de PV
 ## Atributos
 
 |  Agilidade   |     |
