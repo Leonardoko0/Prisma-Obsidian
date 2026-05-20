@@ -6,4 +6,4 @@
 ### Desvantagem
 ### Sucesso Automático
 ### Falha Automática
-## Modi
+## Modificador de Sessão
