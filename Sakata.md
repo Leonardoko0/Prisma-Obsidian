@@ -5,4 +5,5 @@
 ## Traits
 ## Atributos
 ## Classes 
-## Perícias 
+## Perícias
+## Equipamento
