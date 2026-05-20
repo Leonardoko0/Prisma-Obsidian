@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Automovies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Automovies"
             }
           }
         ],
@@ -197,7 +197,7 @@
   },
   "active": "8d19943716faf224",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Automovies.md",
     "Sakata.md",
     "Locomoção.md",
     "Sistema de salas.md",
