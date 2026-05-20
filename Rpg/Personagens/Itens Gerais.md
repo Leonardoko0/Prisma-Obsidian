@@ -1,7 +1,4 @@
 #Personagem[[Equipamento]]
-
-ENEMY plate
-
 ## Drogas
 ### Tarja Preta
 #### Comprimidos de Amoxicilina
