@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Influencia no Prisma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Influencia no Prisma"
+            }
+          },
+          {
+            "id": "13ee364c25cf79e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Famas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Famas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,9 +196,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5c756a9ac8ca6c03",
+  "active": "13ee364c25cf79e9",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Famas.md",
+    "Influencia no Prisma.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Exploração de Zonas Negras.md",
     "Venda de Itens Dissonantes.md",
@@ -209,7 +224,6 @@
     "Exoveículos.md",
     "Mechas (Mudar nome).md",
     "Rpg/Personagens/Background.md",
-    "Jet Ski veloz (Mudar nome).md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
