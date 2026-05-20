@@ -63,7 +63,8 @@
               "title": "Sakata"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,14 +213,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47f920fb7adf5d1b",
+  "active": "265c52f0c573af77",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
+    "Sakata.md",
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Traits.md",
-    "Sakata.md",
-    "Rpg/Personagens/Perícias.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Artilherista.md",
