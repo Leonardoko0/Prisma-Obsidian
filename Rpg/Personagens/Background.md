@@ -32,4 +32,7 @@ Perícias treinadas: Crime, Destreza Manual
 Atributos Extra: Agi 2, Int 1
 Equipamento: um kit de ferramentas baseado na sua especialidade e também uma economia de 350u
 ### Aprendiz
-Você teve uma figura que fez parte do prisma e dessa forma foi influenciado  
+Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a procurar a entrar na organização
+
+Perícias treinadas:
+Equipamento inicial: 

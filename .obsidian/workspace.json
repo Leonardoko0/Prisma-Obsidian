@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Background.md",
+                "file": "Rpg/Personagens/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Background"
+              "title": "Traits"
             }
           },
           {
@@ -215,12 +215,12 @@
   },
   "active": "265c52f0c573af77",
   "lastOpenFiles": [
-    "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Background.md",
-    "Sakata.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Criação De Personagem.md",
+    "Rpg/Personagens/Background.md",
+    "Rpg/Personagens/Nômade.md",
+    "Sakata.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Atributos.md",
     "Tônio.md",
     "Rpg/Personagens/Itens Gerais.md",

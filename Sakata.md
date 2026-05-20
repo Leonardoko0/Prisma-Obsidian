@@ -12,6 +12,11 @@ Escolha 1 tipo de munição de pólvora para ser treinado ou um tipo de arma bra
 ### Idiomas
 Fluente em Galático Comum e outra língua humana de sua escolha
 ## Background
+### Aprendiz
+Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a procurar a entrar na organização
+
+Perícias treinadas:
+Equipamento inicial: 
 ## Traits
 ## Atributos
 ## Classes 
