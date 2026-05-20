@@ -6,4 +6,4 @@
 ### Desvantagem
 ### Sucesso Automático
 ### Falha Automática
-## Modificador de Sessão
+## Cartas Maximum (Modificador de Sessão)
