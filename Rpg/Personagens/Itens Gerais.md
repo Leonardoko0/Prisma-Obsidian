@@ -83,22 +83,22 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 - Preço: 200u
 - Peso: 1
 - Usos: 1
-- Efeito:
+- Efeito: Concerta 50 porcento da sua armadura
 ### ENEMY plate (Full Damage)
 - Preço: 350u
 - Peso: 1,5
 - Usos: 1
-- Efeito:
+- Efeito: Concerta 100 porcento da sua armadura
 ### ENEMY plate (BP Pack)
 - Preço: 500u
 - Peso: 2
 - Usos: 3
-- Efeito:
+- Efeito: Concerta 50 porcento da sua armadura
 ### ENEMY plate (FD Pack)
 - Preço: 800u
 - Peso: 3,5
 - Usos: 3
-- Efeito:
+- Efeito: Concerta sua armadura
 ## Munições
 
 |    -    |     SM     |     ME     |     HV     |     SH     |     LG     |     CH     |
