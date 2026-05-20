@@ -85,15 +85,19 @@ Jogue a granada contra o alvo (DT Arremesso: 5+1cada 3 espaços) ao acertar o al
 - Usos: 1
 - Efeito:
 ### ENEMY plate (Full Damage)
-- Preço: 100u
-- Peso: 0,1
-- Usos:
+- Preço: 350u
+- Peso: 1,5
+- Usos: 1
 - Efeito:
 ### ENEMY plate (BP Pack)
+- Preço: 500u
+- Peso: 2
+- Usos: 3
+- Efeito:
 ### ENEMY plate (FD Pack)
-- Preço: 100u
-- Peso: 0,1
-- Usos:
+- Preço: 800u
+- Peso: 3,5
+- Usos: 3
 - Efeito:
 ## Munições
 
