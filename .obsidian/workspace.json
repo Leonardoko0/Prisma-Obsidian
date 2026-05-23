@@ -35,8 +35,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +185,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Pasted image 20260523170531.png",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
@@ -236,7 +235,6 @@
     "Pasta 1",
     "Imagems/Pasted image 20250826201738.png",
     "Imagems/Pasted image 20250826202503.png",
-    "Imagems/Pasted image 20250826202233.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
