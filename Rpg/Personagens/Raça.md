@@ -85,6 +85,6 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Casca de Quitina
 ### Habilidade:
 ### Aumento Em Atributo
-Adicione +2 no contador de Inteligência e +1 em sentido 
+Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
 ### Idiomas 
