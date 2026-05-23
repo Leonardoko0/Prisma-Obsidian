@@ -83,7 +83,7 @@ Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 Fluente em Galático comum e uma das 3 línguas de tribos 
 ## **Appolideos**
 ### Habilidade: Casca de Quitina
-### Habilidade
+### Habilidade:
 ### Aumento Em Atributo
-###
+### Treinamento Em Armamento
 ###
