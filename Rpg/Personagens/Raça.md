@@ -86,7 +86,7 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Adaptação Corporal
 escolha entre várias modificações físicas provenientes da sua raça
 #### Ariolium e Pulvilos
-#### Pelos Em Escamas
+#### Pó De As 
 #### Olhos Aracnídeos
 
 ### Aumento Em Atributo
