@@ -86,4 +86,4 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade:
 ### Aumento Em Atributo
 ### Treinamento Em Armamento
-###
+### Idiomas 
