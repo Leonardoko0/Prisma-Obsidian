@@ -86,11 +86,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,8 +188,10 @@
   },
   "active": "cc88df1690669f33",
   "lastOpenFiles": [
-    "Rpg/Personagens/Background.md",
+    "Pasted image 20260523170531.png",
     "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Raça.md",
+    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
     "Apelidos.md",
@@ -212,8 +214,6 @@
     "Cartas de Fuga.md",
     "Perseguição.md",
     "Pontos de Inspiração.md",
-    "Sistema de Cartas.md",
-    "Rpg/Personagens/Aparatos.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
