@@ -34,7 +34,7 @@ Suas asas iluminam 8 espaços ao seu arredor com luz forte e outros 8 com luz fr
 Ataques de longa distancia realizados por você sofrem desvantagens em quando você estiver no ar. além disso você deve descer no chão para realizar ataques corpo a corpo
 ### Aumento Em Atributo
 Adicione +2 no contador de Inteligência e +1 em sentido 
-### Treinamento em Armamento 
+### Treinamento Em Armamento 
 Escolha entre ser treinado com armas de células energéticas ou armas brancas de perfuração 
 ### Idiomas
 Fluente em Galático comum e em Lux Menor, escolha em ser fluente em outra língua ou ser fluente em Lux Maior
@@ -77,13 +77,13 @@ Criaturas que passarem do salvaguarda ficam imunes ao efeito pela cena
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Agilidade e +1 em sentido 
-### Treinamento E Armamento 
+### Treinamento Em Armamento 
 Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 ### Idiomas 
 Fluente em Galático comum e uma das 3 línguas de tribos 
 ## **Appolideos**
-### Habilidade: Casca de inseto 
-###
-###
+### Habilidade: Casca de Quitina
+### Habilidade
+### Aumento Em Atributo
 ###
 ###
