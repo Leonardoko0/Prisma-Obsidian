@@ -79,3 +79,4 @@ Adicione +2 no contador de Agilidade e +1 em sentido
 Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 ### Idiomas 
 Fluente em Galático comum e uma das 3 línguas de tribos 
+## **Appolideos**
