@@ -88,4 +88,4 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
 ### Idiomas 
-Fluente em Galático comum e feromático  
+Fluente em Galático comum e feromônico  
