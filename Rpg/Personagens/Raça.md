@@ -86,7 +86,8 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Adaptação Corporal
 escolha entre várias modificações físicas provenientes da sua raça
 #### Ariolium
-#### Cerdas 
+#### Pelos Em Escamas
+
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
