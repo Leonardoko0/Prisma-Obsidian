@@ -1,7 +1,7 @@
 #classes [[Classes]]
 O Arbiter é uma classe de linha de frente, focada em explodir inimigos com seu canhão de mão, desferindo ataques devastadores
 
-**Pontos de vida**: 1d10 + modificador de vigor
+**Pontos de vida**: 1d4 + modificador de vigor
 
 **Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Tática, intimidação, Percepção. E duas perícias extras.
 

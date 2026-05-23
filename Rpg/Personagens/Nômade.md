@@ -1,7 +1,7 @@
 #classes [[Classes]]
 O nômade é uma classe de linha de frente, focada em decapitar inimigos antes que eles possam te alcançar
 
-**Pontos de vida**: 1d6 +modificador de vigor
+**Pontos de vida**: 1d4 +modificador de vigor
 
 **Proficiências**: Escolha Duas entre Acrobacia, Atletismo, Destreza manual, Éter Furtividade, Percepção. E duas perícias extras.
 
