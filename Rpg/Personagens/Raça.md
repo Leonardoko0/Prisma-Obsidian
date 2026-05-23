@@ -82,3 +82,8 @@ Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 ### Idiomas 
 Fluente em Galático comum e uma das 3 línguas de tribos 
 ## **Appolideos**
+### Habilidade: Casca de inseto 
+###
+###
+###
+###
