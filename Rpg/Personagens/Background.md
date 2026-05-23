@@ -11,25 +11,21 @@ Além de ajudar a definir sua Lore, os Backgrounds também concedem perícias, a
 Você era um bandido, fazia parte dos Scavenger, porém algo mudou e por algum motivo você decidiu fugir de seu passado e se tornar um agente do prisma.
 
 Perícias treinadas: Furtividade, Destreza Manual
-Atributos Extra
 Equipamento: uma arma ofensiva corporal de sua escolha (uma arma que você leva dês do tempo dos Scavs) além disso você tem uma pequena economia de 200u
 ### **Mercenário**
 Você é um lutador de aluguel, que não se importa se a missão é ética ou não, suas missões variavam de assassinatos a escoltas porém por algum motivo você decidiu se juntar ao prisma
 
 Perícias treinadas: intimidação, Tática
-Atributos Extra
 Equipamento: uma arma ofensiva à distância com o preço de 300 menor e um equipamento
 ### **Militar**
 Você fez parte de algum exercito e sabe como lidar com situações de risco e por algum motivo você decidiu entrar para o prisma
 
 Perícias treinadas: Tática, Atletismo
-Atributos Extra
 Equipamento: uma arma ofensiva à distância com o preço de 300 menor e uma armadura simples do seu antigo exercito
 ### **Criminoso**
 Você é um criminoso, pode ser tanto um bandido de gangue quanto um chantageador conhecido por enganar por dinheiro, porém por algum motivo você decidiu entrar para o prisma
 
 Perícias treinadas: Crime, Destreza Manual
-Atributos Extra: Agi 2, Int 1
 Equipamento: um kit de ferramentas baseado na sua especialidade e também uma economia de 350u
 ### Aprendiz
 Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a procurar a entrar na organização
