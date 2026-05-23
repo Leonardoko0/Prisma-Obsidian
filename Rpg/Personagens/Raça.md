@@ -9,7 +9,7 @@ Escolha duas perícias para ter Expertise
 
 Expertise: Dobre seu bonus de proficiência com a perícias específica
 ### Habilidade: Expertise Humana
-Escolha entre ter mais um t
+Escolha entre ter mais um Trait de sua escolha ou 3 Perícias treinadas a a mais 
 ### Aumento Em Atributo
 Escolha um atributo para receber um +1 na contagem e outro para receber +2
 ### Treinamento Em Armamento Humano
