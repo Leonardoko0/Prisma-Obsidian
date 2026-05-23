@@ -85,7 +85,7 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Casca de Quitina
 ### Habilidade: Adaptação Corporal
 escolha entre várias modificações físicas provenientes da sua raça
-#### Ariolium e Pulvilos
+#### Unhas tarsais
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 
