@@ -146,10 +146,30 @@ Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Bulbo Fotóforos
+- Conjuração: Ação
+- Usos: Proficiência 
+- Duração: cena
+- Alvo: Você
 #### Órgão elétrico
+- Conjuração: 
+- Usos:  
+- Duração: 
+- Alvo: 
 #### Dente Adaptado
+- Conjuração: 
+- Usos:  
+- Duração: 
+- Alvo: 
 #### Cromatóforos
+- Conjuração: 
+- Usos:  
+- Duração: 
+- Alvo: 
 #### Cnidócitos
+- Conjuração: 
+- Usos:  
+- Duração: 
+- Alvo: 
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
