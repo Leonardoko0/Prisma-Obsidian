@@ -95,10 +95,11 @@ Sua quitina cresce frequentemente e serve como armadura quando não estiver usan
 *Regenerativa*: Recarrega após um descanso curto
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
-#### Unhas tarsais
-- Usos: Proficiência+2 
+#### Unhas Tarsais
+- Usos: Proficiência 
 - Duração: cena
-- Alvo:
+- Alvo: Você
+Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
