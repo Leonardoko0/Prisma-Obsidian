@@ -96,6 +96,7 @@ Sua quitina cresce frequentemente e serve como armadura quando não estiver usan
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Unhas Tarsais
+- Conjuração: Ação
 - Usos: Proficiência 
 - Duração: cena
 - Alvo: Você
@@ -103,6 +104,7 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
+- Conjuração: Ação
 - Usos: Proficiência
 - Duração: instantâneo 
 - Alvo: Você
