@@ -150,7 +150,7 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 - Usos: Proficiência 
 - Duração: cena/instantâneo 
 - Alvo: Alvo na área
-Você ato
+Você ativa seu bulbo bioluminescênte 
 #### Órgão elétrico
 - Conjuração: 
 - Usos:  
