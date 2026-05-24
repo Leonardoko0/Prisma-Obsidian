@@ -162,7 +162,7 @@ Você cria uma descarga elétrica em um alvo deixando-o paralisado pela próxima
 - Usos: Passiva
 - Duração: Passiva
 - Alvo: Você
-Você tem dentes dignos de serem utilizados para combate (Ou para triturar grandes quantidades de comida). Você pode realizar a
+Você tem dentes dignos de serem utilizados para combate (Ou para triturar grandes quantidades de comida). Você pode realizar ações de pancada como mordida que causam 1d8 de dano perfurante além disso ao tirar 7 ou 8 o alvo fica sangrando e toma +1d4 de dano de sangramento
 #### Cromatóforos
 - Conjuração: 
 - Usos:  
