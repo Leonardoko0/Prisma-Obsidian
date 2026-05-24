@@ -103,9 +103,10 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode subir paredes em 90 graus que não sejam totalmente lisas. Você não tem mobilidade total com isso e anda apenas metade do que andaria no chão além disso se estiver em sobrepeso essa habilidade não funciona
 #### Pó de Mariposa
 - Conjuração: Reação 
-- Usos: Proficiência
+- Usos/Durabilidade: Proficiência
 - Duração: instantâneo 
-- Alvo: Você
+- Alvo: Inimigo Reagido
+
 #### Olhos Aracnídeos
 - Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
