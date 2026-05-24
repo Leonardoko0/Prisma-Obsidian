@@ -168,7 +168,7 @@ Você tem dentes dignos de serem utilizados para combate (Ou para triturar grand
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: Você
-Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar você fica 
+Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar você fica invisível por duas rodadas 
 #### Cnidócitos
 - Conjuração: 
 - Usos:  
