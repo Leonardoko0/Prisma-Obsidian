@@ -174,7 +174,7 @@ Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar v
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: Você
-
+Você possui uma neuroto
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
