@@ -35,7 +35,8 @@
               "title": "Raça"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7b4aaba853bec5d2",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Raça.md",
     "Pasted image 20260523170531.png",
@@ -196,7 +198,6 @@
     "Apelidos.md",
     "Fama.md",
     "Influencia no Prisma.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Exploração de Zonas Negras.md",
     "Venda de Itens Dissonantes.md",
     "Mineração de Asteroides.md",

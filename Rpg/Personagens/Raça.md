@@ -84,6 +84,9 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ## **Appolideos**
  (**Fazer Sub raça com probóscide (Pernilongo)**)
 ### Habilidade: Casca de Quitina
+Sua quitina cresce frequentemente e serve como armadura quando não estiver usando uma
+
+ 
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Unhas tarsais
