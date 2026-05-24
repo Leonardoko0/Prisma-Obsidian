@@ -138,5 +138,6 @@ Fluente em Galático comum e feromônico
 ## Aumento Em Atributo
 Adiciona +2 no contado de Constituição e +1 em Força
 ## Treinamento Em Armamento
+Escolha entre ser treinado em armas de energia, um tipo de munição de polvóra 
 ## Idiomas
 ## Thalassos
