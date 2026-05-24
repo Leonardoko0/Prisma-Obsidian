@@ -143,7 +143,8 @@ Escolha entre ser treinado em armas de energia, um tipo de munição de pólvora
 ### Idiomas
 Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## **Thalassos**
-### Habilidade:
+### Habilidade: Adaptação Corporal
+
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
 ### Treinamento Em Armamento
