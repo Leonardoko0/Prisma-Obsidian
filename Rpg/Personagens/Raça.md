@@ -146,6 +146,7 @@ Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Bulbo Fotóforos
+#### órgão elétrico
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
