@@ -134,3 +134,4 @@ Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 ### Idiomas 
 Fluente em Galático comum e feromônico  
 ## Silicar
+## Thalassos
