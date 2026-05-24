@@ -140,5 +140,5 @@ Adiciona +2 no contado de Constituição e +1 em Força
 ## Treinamento Em Armamento
 Escolha entre ser treinado em armas de energia, um tipo de munição de pólvora ou armas de impacto
 ## Idiomas
-Fluente em Galático comum e qualquer ou
+Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## Thalassos
