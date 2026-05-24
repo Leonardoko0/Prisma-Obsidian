@@ -136,6 +136,6 @@ Fluente em Galático comum e feromônico
 ## Silicar
 ## Habilidade:
 ## Aumento Em Atributo
-## Treinamento Em a
-##
+## Treinamento Em Armamento
+## Idiomas
 ## Thalassos
