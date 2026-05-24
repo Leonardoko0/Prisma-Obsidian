@@ -154,8 +154,9 @@ Você ativa seu bulbo bioluminescênte iluminando uma área de 5 espaços com lu
 #### Órgão elétrico
 - Conjuração: Ação
 - Usos: Proficiência dividido pela metade
-- Duração: Instantâ
-- Alvo: 
+- Duração: Instantâneo
+- Alvo: 1 alvo corpo a corpo
+Você cria uma des
 #### Dente Adaptado
 - Conjuração: 
 - Usos:  
