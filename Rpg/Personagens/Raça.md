@@ -91,8 +91,8 @@ Sua quitina cresce frequentemente e serve como armadura quando não estiver usan
  - Durabilidade: 9
  - Absorção: 2
  - Propriedades: (COM) Leve, Regenerativa
-
-Regenerativa: Recarrega após um descanso curto
+ 
+*Regenerativa*: Recarrega após um descanso curto
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Unhas tarsais
