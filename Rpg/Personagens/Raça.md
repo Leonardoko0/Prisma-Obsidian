@@ -108,10 +108,11 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 - Alvo: Inimigo Reagido
 Pode ser usado para criar um efeito extra na reação ou ao ser acertado em corpo a corpo. Ao usar uma nuvem de micro escamas voam no ar deixando o inimigo cego, o alvo pode realizar um salvaguarda de Con (DT 15) ou fica cego pela próxima rodada 
 #### Olhos Aracnídeos
-- Conjuração: livre (Uma vez por rodada)
+- Conjuração: Ação
 - Usos: Proficiência
-- Duração: instantâneo 
+- Duração: Cena 
 - Alvo: Você
+
 #### Fúrcula Desenvolvida
 - Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
