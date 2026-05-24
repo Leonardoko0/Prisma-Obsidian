@@ -149,6 +149,7 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 #### Órgão elétrico
 #### Dente Adaptado
 #### Cromatóforos
+#### Cnidócitos
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
