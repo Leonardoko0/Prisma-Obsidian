@@ -33,7 +33,7 @@ Você ganha 12m (8 espaços) de movimento aério.
 Suas asas iluminam 8 espaços ao seu arredor com luz forte e outros 8 com luz fraca.
 Ataques de longa distancia realizados por você sofrem desvantagens em quando você estiver no ar. além disso você deve descer no chão para realizar ataques corpo a corpo
 ### Aumento Em Atributo
-Adicione +2 no contador de Inteligência e +1 em sentido 
+Adicione +2 no contador de Inteligência e +1 em Carisma 
 ### Treinamento Em Armamento 
 Escolha entre ser treinado com armas de células energéticas ou armas brancas de perfuração 
 ### Idiomas
@@ -133,7 +133,7 @@ Adicione +2 no contador de Sentido e +1 em Agilidade
 Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 ### Idiomas 
 Fluente em Galático comum e feromônico  
-## Silicar
+## **Silicar**
 ### Habilidade:
 ### Aumento Em Atributo
 Adiciona +2 no contado de Constituição e +1 em Força
@@ -141,7 +141,7 @@ Adiciona +2 no contado de Constituição e +1 em Força
 Escolha entre ser treinado em armas de energia, um tipo de munição de pólvora ou armas de impacto
 ### Idiomas
 Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
-## Thalassos
+## **Thalassos**
 ### Habilidade:
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
