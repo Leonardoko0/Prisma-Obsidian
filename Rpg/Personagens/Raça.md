@@ -126,7 +126,7 @@ Você usa um musculo extra localizado na sua perna, realizando um poderoso salto
 - Usos: Proficiência
 - Duração: instantâneo/Cena 
 - Alvo: Você
-Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode canalizar essa luz para criar um grande burst de luz e finalizar a habilidade. Ao usar o modo canalizado gaste duyas ilumine por 8 espaços com luz cegante 32 espaços com luz forte e mais 32 espaços com luz fraca
+Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode canalizar essa luz para criar um grande burst de luz e finalizar a habilidade. Ao usar o modo canalizado gaste duas cargas da habilidade e ilumine por 8 espaços com luz cegante 32 espaços com luz forte e mais 32 espaços com luz fraca. Alvos pegos na área cegante fazer um Salvaguarda de Sentido (15) ou ficam cegos pela próxima rodada
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
