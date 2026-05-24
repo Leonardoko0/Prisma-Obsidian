@@ -130,5 +130,6 @@ Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
+Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 ### Idiomas 
 Fluente em Galático comum e feromônico  
