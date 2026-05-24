@@ -126,7 +126,7 @@ Você usa um musculo extra localizado na sua perna, realizando um poderoso salto
 - Usos: Proficiência
 - Duração: instantâneo/Cena 
 - Alvo: Você
-Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso
+Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode canalizar  
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
