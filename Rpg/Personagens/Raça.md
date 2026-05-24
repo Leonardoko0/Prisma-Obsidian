@@ -176,7 +176,7 @@ Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar v
 - Alvo: Você
 Você possui uma neurotoxina leve que você pode aplicar no seu próximo ataque. Ao usar você faz seu próximo ataque corpo a corpo causar paralisia por 1d2 rodadas, alvo roda um salvaguarda de Con (DT 15).
 ### Habilidade: Ser Aquático 
-Você é uma criatura feita p
+Você é uma criatura feita pra nadar em água e em outros líquidos e possui um corpo adaptado para tanto ambientes com água quanto para ambientes com oxigênio 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
 ### Treinamento Em Armamento
