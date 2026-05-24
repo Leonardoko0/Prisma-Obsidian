@@ -136,7 +136,7 @@ Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 Fluente em Galático comum e feromônico  
 ## **Silicar**
 ### Habilidade: Autômato
-O seu corpo de silício funciona diferente dos demais seres, seu metal não sofre os mesmos efeitos da carne. Você é imune a dano de veneno e de doenças comuns, além disso você possui uma capacidade sem igual de mutar seu corpo com implantes simples.
+O seu corpo de silício funciona diferente dos demais seres, seu metal não sofre os mesmos efeitos da carne. Você tem resistência a dano de veneno, calor e de doenças comuns, além disso você possui uma capacidade sem igual de mutar seu corpo com implantes.
 **Implantando:** Você inicia com um implantes simples que não desconta da sua vida que além disso pode ser alterado em um descanso simples gastando metade do dinheiro necessário.
 ### Aumento Em Atributo
 Adiciona +2 no contado de Constituição e +1 em Força
