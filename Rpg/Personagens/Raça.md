@@ -86,9 +86,9 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Casca de Quitina
 Sua quitina cresce frequentemente e serve como armadura quando não estiver usando uma
 
- **Armadura de Quitina**
-  - Defesa: 12 + (Max 2 agilidade)
-  - Durabilidade: 9
+**Armadura de Quitina**
+ - Defesa: 12 + (Max 2 agilidade)
+ - Durabilidade: 9
   - Absorção: 2
   - Propriedades: (COM) Leve
  
