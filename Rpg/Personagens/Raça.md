@@ -124,8 +124,9 @@ Você usa um musculo extra localizado na sua perna, realizando um poderoso salto
 #### Órgão Fotóforos
 - Conjuração: Ação
 - Usos: Proficiência
-- Duração: instantâneo/CX 
+- Duração: instantâneo/Cena 
 - Alvo: Você
+Você escolhe 
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
