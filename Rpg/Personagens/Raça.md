@@ -82,7 +82,7 @@ Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 ### Idiomas 
 Fluente em Galático comum e uma das 3 línguas de tribos 
 ## **Appolideos**
- **Fazer Sub raça com probóscide**
+ (**Fazer Sub raça com probóscide (Pernilongo)**)
 ### Habilidade: Casca de Quitina
 ### Habilidade: Adaptação Corporal
 escolha entre várias modificações físicas provenientes da sua raça
