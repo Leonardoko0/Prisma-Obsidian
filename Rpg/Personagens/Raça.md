@@ -104,7 +104,7 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
-- Conjuração: Ação
+- Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
 - Duração: instantâneo 
 - Alvo: Você
