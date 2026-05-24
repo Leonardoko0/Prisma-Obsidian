@@ -144,4 +144,7 @@ Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## Thalassos
 ### Habilidade:
 ### Aumento Em Atributo
-### Treinamento Em a
+### Treinamento Em Armamento
+Escolha entre ser treinado em armas de pressão o
+### Idiomas
+Fluente em Galático comum em profundo
