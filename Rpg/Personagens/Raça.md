@@ -18,6 +18,7 @@ Escolha 1 tipo de munição de pólvora para ser treinado ou um tipo de arma bra
 Fluente em Galático Comum e outra língua humana de sua escolha
 
 ## **Éthralis**
+(**Fazer Sub-raça baseada no Erebus**)
 ### Habilidade: Asas Éterias
 Conjuração: Ação padrão
 Alvo: Você
@@ -82,7 +83,7 @@ Escolha entre ser treinado com armas de lançamento ou um tipo de arma branca
 ### Idiomas 
 Fluente em Galático comum e uma das 3 línguas de tribos 
 ## **Appolideos**
- (**Fazer Sub raça com probóscide (Pernilongo)**)
+ (**Fazer Sub-raça com probóscide (Pernilongo)**)
 ### Habilidade: Casca de Quitina
 Sua quitina cresce frequentemente e serve como armadura quando não estiver usando uma
 
