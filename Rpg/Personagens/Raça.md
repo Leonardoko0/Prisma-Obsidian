@@ -135,7 +135,8 @@ Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 ### Idiomas 
 Fluente em Galático comum e feromônico  
 ## **Silicar**
-### Habilidade:
+### Habilidade: Autômato
+O seu corpo de silício funciona diferente dos demais seres, sua 
 ### Aumento Em Atributo
 Adiciona +2 no contado de Constituição e +1 em Força
 ### Treinamento Em Armamento
