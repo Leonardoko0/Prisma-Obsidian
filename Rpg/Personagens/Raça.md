@@ -126,7 +126,7 @@ Você usa um musculo extra localizado na sua perna, realizando um poderoso salto
 - Usos: Proficiência
 - Duração: instantâneo/Cena 
 - Alvo: Você
-Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode canalizar essa luz para criar um grande burst 
+Você começa a imitir luz fraca por 8 espaços pelo seu corpo, além disso pode canalizar essa luz para criar um grande burst de luz e finalizar a habilidade. Ao usar o modo cana
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
 ### Treinamento Em Armamento
