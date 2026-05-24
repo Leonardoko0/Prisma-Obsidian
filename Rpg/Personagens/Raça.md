@@ -144,7 +144,7 @@ Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## Thalassos
 ### Habilidade:
 ### Aumento Em Atributo
-Adiciona +2 no contador 
+Adiciona +2 no contador de Carisma e +1 em Constituição
 ### Treinamento Em Armamento
 Escolha entre ser treinado em armas de pressão ou armas de corte
 ### Idiomas
