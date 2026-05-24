@@ -99,7 +99,7 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 - Usos: Proficiência 
 - Duração: cena
 - Alvo: Você
-Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode subir paredes em 90 graus que não sejam totalmente lisas
+Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode subir paredes em 90 graus que não sejam totalmente lisas. Você não tem mobilidade total com isso e anda apenas metade do que andaria no chão
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
