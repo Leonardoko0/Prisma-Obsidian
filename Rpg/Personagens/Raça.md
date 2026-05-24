@@ -162,7 +162,7 @@ Você cria uma descarga elétrica em um alvo deixando-o paralisado pela próxima
 - Usos: Passiva
 - Duração: Passiva
 - Alvo: Você
-Você tem dentes dignos de serem utilizados para combate
+Você tem dentes dignos de serem utilizados para combate (Ou para triturar grandes quantidades de comida). 
 #### Cromatóforos
 - Conjuração: 
 - Usos:  
