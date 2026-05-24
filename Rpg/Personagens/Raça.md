@@ -148,8 +148,9 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 #### Bulbo Fotóforos
 - Conjuração: Ação
 - Usos: Proficiência 
-- Duração: cena
-- Alvo: Você
+- Duração: cena/instantâneo 
+- Alvo: Alvo na área
+Você ato
 #### Órgão elétrico
 - Conjuração: 
 - Usos:  
