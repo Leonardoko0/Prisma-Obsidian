@@ -170,10 +170,11 @@ Você tem dentes dignos de serem utilizados para combate (Ou para triturar grand
 - Alvo: Você
 Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar você fica camuflado por duas rodadas. o inimigo pode fazer um teste de percepção para te perceber contra seu teste furtividade com um +5. Atacar um alvo nesse estado finaliza a habilidade
 #### Cnidócitos
-- Conjuração: 
-- Usos:  
-- Duração: 
-- Alvo: 
+- Conjuração: Ação
+- Usos: Proficiência dividido pela metade
+- Duração: Instantâneo
+- Alvo: Você
+
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
