@@ -103,6 +103,9 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
+- Usos: Proficiência
+- Duração: instantâneo 
+- Alvo: Voc
 #### Órgão Fotóforos
 #### Garras e Presas 
 
