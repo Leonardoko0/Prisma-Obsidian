@@ -145,7 +145,7 @@ Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## **Thalassos**
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
-
+### Habilidade: Ser Aquatico 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
 ### Treinamento Em Armamento
