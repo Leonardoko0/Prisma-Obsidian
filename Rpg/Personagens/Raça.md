@@ -89,6 +89,7 @@ escolha entre várias modificações físicas provenientes da sua raça
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
+#### Órgão Fotóforos
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
