@@ -168,7 +168,7 @@ Você tem dentes dignos de serem utilizados para combate (Ou para triturar grand
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: Você
-Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar você fica camuflado por duas rodadas. o inimigo pode fazer um teste de sentido para te per 
+Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar você fica camuflado por duas rodadas. o inimigo pode fazer um teste de percepção para te perceber contra seu teste furtividade com um +5. Atacar um alvo nesse estado finaliza a habilidade
 #### Cnidócitos
 - Conjuração: 
 - Usos:  
