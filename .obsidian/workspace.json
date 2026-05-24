@@ -35,8 +35,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Raça.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
     "Pasted image 20260523170531.png",
     "Rpg/Personagens/Background.md",

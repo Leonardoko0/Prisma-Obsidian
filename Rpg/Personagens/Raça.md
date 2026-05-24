@@ -87,7 +87,8 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 Sua quitina cresce frequentemente e serve como armadura quando não estiver usando uma
 
  **Armadura de Quitina**
-   as 
+  - Defesa: 12 + (Max 2 agilidade)
+  - Durabilidade: 10
  
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
