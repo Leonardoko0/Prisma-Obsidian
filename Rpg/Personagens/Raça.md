@@ -109,7 +109,8 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 - Duração: instantâneo 
 - Alvo: Você
 Você usa um musculo extra localizado na sua perna, realizando um poderoso salto que pode ser utilizado já no ar ou no chão para ganhar movimento extra.
-*No chão:* Atira  
+*No chão:* Se move 4,5m/3 espaços para qualquer direção
+*No Ar:* De um pulo no ar se movendo mais 6m/
 #### Órgão Fotóforos
 #### Garras e Presas 
 
