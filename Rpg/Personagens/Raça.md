@@ -88,6 +88,7 @@ escolha entre várias modificações físicas provenientes da sua raça
 #### Unhas tarsais
 #### Pó de Mariposa
 #### Olhos Aracnídeos
+#### Fúrcula Desenvolvida
 
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
