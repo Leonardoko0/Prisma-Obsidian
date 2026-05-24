@@ -168,6 +168,7 @@ Você tem dentes dignos de serem utilizados para combate (Ou para triturar grand
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: Você
+Você tem escamas 
 #### Cnidócitos
 - Conjuração: 
 - Usos:  
