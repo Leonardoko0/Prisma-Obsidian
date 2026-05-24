@@ -89,8 +89,11 @@ Sua quitina cresce frequentemente e serve como armadura quando não estiver usan
 **Armadura de Quitina**
  - Defesa: 12 + (Max 2 agilidade)
  - Durabilidade: 9
-  - Absorção: 2
-  - Propriedades: (COM) Leve
+ - Absorção: 2
+ - Propriedades: (COM) Leve, Regenerativa
+
+Regenerativa: Recarrega após um desc
+
  
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
