@@ -122,9 +122,9 @@ Você usa um musculo extra localizado na sua perna, realizando um poderoso salto
 *No chão:* Se move 4,5m/3 espaços para qualquer direção
 *No Ar:* De um pulo no ar se movendo mais 6m/4 espaços na direção pulada
 #### Órgão Fotóforos
-- Conjuração: livre (Uma vez por rodada)
+- Conjuração: Ação
 - Usos: Proficiência
-- Duração: instantâneo 
+- Duração: instantâneo/CX 
 - Alvo: Você
 ### Aumento Em Atributo
 Adicione +2 no contador de Sentido e +1 em Agilidade 
