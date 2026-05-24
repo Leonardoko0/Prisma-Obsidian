@@ -156,7 +156,7 @@ Você ativa seu bulbo bioluminescênte iluminando uma área de 5 espaços com lu
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: 1 alvo corpo a corpo
-Você cria uma descarga elétrica em um alvo deixando-o paralisado pela próxima rodada. Ao usar você ataca um alvo causando 1d6 energia +()
+Você cria uma descarga elétrica em um alvo deixando-o paralisado pela próxima rodada. Ao usar você ataca um alvo causando 1d6 energia (+1d6 nos leveis 5, 11 e 17) além disso 
 #### Dente Adaptado
 - Conjuração: 
 - Usos:  
