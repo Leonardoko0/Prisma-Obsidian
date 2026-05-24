@@ -86,6 +86,8 @@ Fluente em Galático comum e uma das 3 línguas de tribos
 ### Habilidade: Casca de Quitina
 Sua quitina cresce frequentemente e serve como armadura quando não estiver usando uma
 
+ **Armadura de Quitina**
+   as 
  
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
