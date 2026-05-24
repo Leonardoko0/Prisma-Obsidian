@@ -100,13 +100,13 @@ escolha uma entre várias modificações físicas provenientes da sua raça
 - Usos: Proficiência 
 - Duração: cena
 - Alvo: Você
-Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode subir paredes em 90 graus que não sejam totalmente lisas. Você não tem mobilidade total com isso e anda apenas metade do que andaria no chão além disso se estiver em sobrepeso essa habilidade não funciona
+Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode subir paredes em 90 graus que não sejam totalmente lisas. Você não tem mobilidade total com isso e apenas anda metade do que andaria no chão, além disso se estiver em sobrepeso essa habilidade não funciona
 #### Pó de Mariposa
 - Conjuração: Reação 
 - Usos/Durabilidade: Proficiência dividido por dois
 - Duração: instantâneo 
 - Alvo: Inimigo Reagido
-Pode ser usado para criar um efeito extra na reação ou ao ser acertado, 
+Pode ser usado para criar um efeito extra na reação ou ao ser acertado em corpo a corpo.  
 #### Olhos Aracnídeos
 - Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
