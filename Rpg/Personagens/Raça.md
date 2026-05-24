@@ -96,6 +96,9 @@ Sua quitina cresce frequentemente e serve como armadura quando não estiver usan
 ### Habilidade: Adaptação Corporal
 escolha uma entre várias modificações físicas provenientes da sua raça
 #### Unhas tarsais
+- Usos: Proficiência+2 
+- Duração: cena
+- Alvo:
 #### Pó de Mariposa
 #### Olhos Aracnídeos
 #### Fúrcula Desenvolvida
