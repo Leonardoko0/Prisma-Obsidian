@@ -106,7 +106,7 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 - Usos/Durabilidade: Proficiência dividido por dois
 - Duração: instantâneo 
 - Alvo: Inimigo Reagido
-Pode usar para criar um efeito extra na reação, 
+Pode ser usado para criar um efeito extra na reação ou ao ser acertado, 
 #### Olhos Aracnídeos
 - Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
