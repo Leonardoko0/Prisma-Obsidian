@@ -112,7 +112,7 @@ Pode ser usado para criar um efeito extra na reação ou ao ser acertado em corp
 - Usos: Proficiência
 - Duração: Cena 
 - Alvo: Você
-
+Você abre todos os seus olhos ganhando uma visão panorámica 
 #### Fúrcula Desenvolvida
 - Conjuração: livre (Uma vez por rodada)
 - Usos: Proficiência
