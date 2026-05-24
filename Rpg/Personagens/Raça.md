@@ -144,6 +144,7 @@ Escolha entre ser treinado em armas de energia, um tipo de munição de pólvora
 Fluente em Galático comum e qualquer outras 2 línguas de sua escolha
 ## **Thalassos**
 ### Habilidade: Adaptação Corporal
+escolha uma entre várias modificações físicas provenientes da sua raça
 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
