@@ -106,7 +106,7 @@ Você força sua pele para expor suas Unhas Tarsais e por uma cena você pode su
 - Usos: Proficiência
 - Duração: instantâneo 
 - Alvo: Você
-Você usa um musculo extra na sua perna realizando um poderoso salto que pode ou ser utilizado já no ar ou no chão para ganhar movimento extra.
+Você usa um musculo extra localizado na sua perna, realizando um poderoso salto que pode ou ser utilizado já no ar ou no chão para ganhar movimento extra.
 #### Órgão Fotóforos
 #### Garras e Presas 
 
