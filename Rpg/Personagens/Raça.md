@@ -158,10 +158,11 @@ Você ativa seu bulbo bioluminescênte iluminando uma área de 5 espaços com lu
 - Alvo: 1 alvo corpo a corpo
 Você cria uma descarga elétrica em um alvo deixando-o paralisado pela próxima rodada. Ao usar você ataca um alvo causando 1d6 energia (+1d6 nos leveis 5, 11 e 17) além disso o alvo roda um salvaguarda de Con (DT 15) ou fica paralisado pela próxima rodada. Se o alvo estiver molhado a DT sobe em 5 e dura mais uma rodada.
 #### Dente Adaptado
-- Conjuração: 
-- Usos:  
-- Duração: 
-- Alvo: 
+- Conjuração: Passiva
+- Usos: Passiva
+- Duração: Passiva
+- Alvo: Você
+Você tem dentes dignos de serem utilizados para combate
 #### Cromatóforos
 - Conjuração: 
 - Usos:  
