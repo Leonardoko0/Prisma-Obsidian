@@ -174,7 +174,7 @@ Você tem escamas refletoras de luz que podem se camuflar no ambiente. Ao usar v
 - Usos: Proficiência dividido pela metade
 - Duração: Instantâneo
 - Alvo: Você
-Você possui uma neurotoxina leve que você pode aplicar no seu próximo ataque 
+Você possui uma neurotoxina leve que você pode aplicar no seu próximo ataque. Ao usar você aplica veneno no alvo deixando ele paralisado por 1d2 rodadas
 ### Habilidade: Ser Aquático 
 ### Aumento Em Atributo
 Adiciona +2 no contador de Carisma e +1 em Constituição
