@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "611ab202ce2606ca",
   "lastOpenFiles": [
-    "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Sovereign.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
