@@ -4,7 +4,7 @@
 
 O Artillerista é uma classe especializada em armas de fogo. Focado em alta precisão e recarga veloz, até as piores armas se tornam administráveis
 
-**Pontos de vida**: 1d6 + modificador de vigor
+**Pontos de vida**: 1d4 + modificador de vigor
 
 **Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Furtividade, intimidação, Percepção, Tática. E duas perícias extras.
 

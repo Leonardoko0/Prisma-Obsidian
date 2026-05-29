@@ -11,10 +11,14 @@
             "id": "7b4aaba853bec5d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Artilherista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artilherista"
             }
           },
           {
@@ -37,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sove.md",
+                "file": "Sovereign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sove"
+              "title": "Sovereign"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +199,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "611ab202ce2606ca",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
-    "Sove.md",
+    "Sovereign.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
@@ -212,7 +216,6 @@
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Atributos.md",
     "Pasted image 20260523170531.png",
     "Apelidos.md",
