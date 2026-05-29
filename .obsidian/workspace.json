@@ -67,14 +67,18 @@
             "id": "5ada0ce29ae6e0bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Armas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armas"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,18 +228,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ada0ce29ae6e0bc",
+  "active": "cc88df1690669f33",
   "lastOpenFiles": [
-    "Rpg/Personagens/Perícias.md",
     "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
