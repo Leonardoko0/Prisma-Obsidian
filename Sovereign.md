@@ -11,7 +11,9 @@
 
 Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade para atacar, além disso você sempre é treinado com essa arma. Ao acertar você aplica o efeito de "Cata Sonho" a condição pode ser terminada com um salvaguarda de Int (DT: Arremesso) a cada rodada seguinte 
 
-|    Dano    | Alcance | Crítico |  Propriedades   |
-| :--------: | :-----: | :-----: | :-------------: |
-| 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso |
-**Cata Sonho:** O alvo pode ser observado através das paredes pelo Sovereign, além disso o alvo recebe desvantagem em salvaguardas de Int, Car e Sen (Essa desvantagem não conta para o teste de resistir ao efeito de cata sonho")
+|    Dano    | Alcance | Crítico |           Propriedades           |
+| :--------: | :-----: | :-----: | :------------------------------: |
+| 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |
+**Cata Sonho:** O alvo pode ser observado através das paredes pelo Sovereign, além disso o alvo recebe desvantagem em salvaguardas de Int, Car e Sen (Essa desvantagem não conta para o teste de resistir ao efeito de "cata sonho")
+
+**Soberania **
