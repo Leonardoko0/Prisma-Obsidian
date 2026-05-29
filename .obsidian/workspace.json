@@ -77,8 +77,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,11 +227,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
-    "Sovereign.md",
-    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Artilherista.md",
+    "Rpg/Personagens/Arbiter.md",
+    "Sovereign.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Classes.md",

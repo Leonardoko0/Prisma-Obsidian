@@ -9,4 +9,5 @@
 ## **Apanhador de Sonhos**
 **Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigos e intimidadora**  
 
-Gaste 2PP para arremessar a faca (6m/9m)
+Gaste 2PP para arremessar a faca (6m/9m), você utiliza agilidade para atacar além disso você sempre é treinado com essa arma
+
