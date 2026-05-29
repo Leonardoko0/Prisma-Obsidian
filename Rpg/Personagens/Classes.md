@@ -6,4 +6,4 @@ Cada classe concede um conjunto de características especiais ou equipamentos ú
 ### [[Arbiter]]
 ### [[Artilherista]]
 ### [[Nômade]]
-
+### [[Sovereign]]
