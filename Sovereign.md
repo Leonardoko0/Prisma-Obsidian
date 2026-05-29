@@ -11,6 +11,6 @@
 
 Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade para atacar, além disso você sempre é treinado com essa arma
 
-|    Dano    | Alcance | Crítico |   Propriedades   |
-| :--------: | :-----: | :-----: | :--------------: |
-| 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso  |
+|    Dano    | Alcance | Crítico |  Propriedades   |
+| :--------: | :-----: | :-----: | :-------------: |
+| 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso |
