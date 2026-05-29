@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Perícias"
             }
+          },
+          {
+            "id": "5ada0ce29ae6e0bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,14 +224,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc88df1690669f33",
+  "active": "5ada0ce29ae6e0bc",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
     "Sovereign.md",
-    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Artilherista.md",
+    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Equipamento.md",
