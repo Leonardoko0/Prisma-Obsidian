@@ -52,5 +52,5 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## Sandman
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 ## **Dementador Expansivo**
-(Faz os dots de Dissover )
+(Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 ##
