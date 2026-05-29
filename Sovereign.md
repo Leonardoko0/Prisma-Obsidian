@@ -7,4 +7,4 @@
 **Salvaguardas**:
 
 ## **Apanhador de Sonhos**
-Uma faca e emana um forte **pressentimento  
+Uma faca que emana um forte pressentimento inexplicável   
