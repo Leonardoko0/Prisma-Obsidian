@@ -14,4 +14,4 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |    Dano    | Alcance | Crítico |  Propriedades   |
 | :--------: | :-----: | :-----: | :-------------: |
 | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso |
-**Cata Sonho:** O alvo pode ser observado através das paredes 
+**Cata Sonho:** O alvo pode ser observado através das paredes pelo Sovereign, além disso o alvo recebe dee
