@@ -11,3 +11,6 @@
 
 Gaste 2PP para arremessar a faca (6m/9m), você utiliza agilidade para atacar além disso você sempre é treinado com essa arma
 
+|     Dano      | Alcance | Crítico | Propriedades |
+| :-----------: | :-----: | :-----: | :----------: |
+| 4d6 Explosivo |  6m/9m  |   2x    |              |
