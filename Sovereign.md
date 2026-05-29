@@ -9,3 +9,4 @@
 ## **Apanhador de Sonhos**
 **Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigos e intimidadora**  
 
+Gaste 2PP
