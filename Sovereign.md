@@ -18,28 +18,28 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **Soberania:** Após arremessar a faca outra exatamente igual se cria na sua mão e a arremessada desaparece 
 ## **Árvore de Habilidade**
-| Nível | Proficiência |    Dano    | Alcance | Crítico |           Propriedades           | Dissolver |
-| :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | --------- |
-|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |           |
-|   2   |      +2      |    2d3     |  6m/9m  |   2x    |           Treinamento            |           |
-|   3   |      +2      |    2d3     |  6m/9m  |   2x    |            Subclasse             |           |
-|   4   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   5   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   6   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   7   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   8   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   9   |      +4      |            |         |         |                                  |           |
-|  10   |      +4      |            |         |         |                                  |           |
-|  11   |      +4      |            |         |         |                                  |           |
-|  12   |      +4      |            |         |         |                                  |           |
-|  13   |      +5      |            |         |         |                                  |           |
-|  14   |      +5      |            |         |         |                                  |           |
-|  15   |      +5      |            |         |         |                                  |           |
-|  16   |      +5      |            |         |         |                                  |           |
-|  17   |      +6      |            |         |         |                                  |           |
-|  18   |      +6      |            |         |         |                                  |           |
-|  19   |      +6      |            |         |         |                                  |           |
-|  20   |      +6      |            |         |         |                                  |           |
+| Nível | Proficiência |    Dano    | Alcance | Crítico |            Propriedades             | Dissolver |
+| :---: | :----------: | :--------: | :-----: | :-----: | :---------------------------------: | --------- |
+|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |  Leve, Arremesso, **"Soberania"**   |           |
+|   2   |      +2      |    2d3     |  6m/9m  |   2x    |             Treinamento             |           |
+|   3   |      +2      |    2d3     |  6m/9m  |   2x    |              Subclasse              |           |
+|   4   |      +2      |    2d3     |  6m/9m  |   2x    |      Melhoramento de Atributo       |           |
+|   5   |      +3      |    2d3     |  6m/9m  |   2x    | Treinamento, Treinamento de Perícia |           |
+|   6   |      +3      |    2d3     |  6m/9m  |   2x    |                                     |           |
+|   7   |      +3      |    2d3     |  6m/9m  |   2x    |                                     |           |
+|   8   |      +3      |    2d3     |  6m/9m  |   2x    |      Melhoramento de Atributo       |           |
+|   9   |      +4      |            |         |         |                                     |           |
+|  10   |      +4      |            |         |         |             Treinamento             |           |
+|  11   |      +4      |            |         |         |       Treinamento de Perícia        |           |
+|  12   |      +4      |            |         |         |      Melhoramento de Atributo       |           |
+|  13   |      +5      |            |         |         |                                     |           |
+|  14   |      +5      |            |         |         |                                     |           |
+|  15   |      +5      |            |         |         |             Treinamento             |           |
+|  16   |      +5      |            |         |         |      Melhoramento de Atributo       |           |
+|  17   |      +6      |            |         |         |       Treinamento de Perícia        |           |
+|  18   |      +6      |            |         |         |             Treinamento             |           |
+|  19   |      +6      |            |         |         |      Melhoramento de Atributo       |           |
+|  20   |      +6      |            |         |         |                                     |           |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
