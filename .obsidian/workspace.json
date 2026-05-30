@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Arbiter.md",
+                "file": "Rpg/Personagens/Nômade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbiter"
+              "title": "Nômade"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +213,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "611ab202ce2606ca",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
-    "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Criação De Personagem.md",

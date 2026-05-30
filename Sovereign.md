@@ -35,7 +35,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |  13   |      +5      |            |         |         |     Proficiência de Combate      |    3d4    |
 |  14   |      +5      |            |         |         |            Subclasse             |    4d4    |
 |  15   |      +5      |            |         |         |           Treinamento            |    4d4    |
-|  16   |      +5      |            |         |         |     Melhoramento de Atributo     |    4d4    |
+|  16   |      +5      |            |         |         |   Melhoramento de Atributo ()    |    4d4    |
 |  17   |      +6      |            |         |         |      Treinamento de Perícia      |    4d4    |
 |  18   |      +6      |            |         |         |           Treinamento            |    5d4    |
 |  19   |      +6      |            |         |         |     Melhoramento de Atributo     |    5d4    |

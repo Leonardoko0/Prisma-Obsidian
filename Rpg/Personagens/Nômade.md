@@ -22,15 +22,15 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 | Nível | Proficiência | Kira Blade  |   Kaifuku    |            Características             |
 | :---: | :----------: | :---------: | :----------: | :------------------------------------: |
 |  1*   |      +2      | 4d4+4 Corte |              |               Kira Blade               |
-|  2*   |      +2      |    4d4+4    |              |      Treinamento (Karui Suteppu)       |
-|  3*   |      +2      |    4d4+4    |              |                 Trilha                 |
-|  4*   |      +2      |    4d4+4    | 1d6 por selo |   Melhoramento de Atributo (Kaifuku)   |
-|  5*   |      +3      |    4d4+4    |              |              Treinamento               |
+|  2*   |      +2      |             |              |      Treinamento (Karui Suteppu)       |
+|  3*   |      +2      |             |              |                 Trilha                 |
+|  4*   |      +2      |             | 1d6 por selo |   Melhoramento de Atributo (Kaifuku)   |
+|  5*   |      +3      |             |              |              Treinamento               |
 |  6*   |      +3      |    6d4+6    |              |        Treinamento de Perícias         |
-|  7*   |      +3      |    6d4+6    |              |        Proficiencia de Combate         |
-|  8*   |      +3      |    6d4+6    |     2d8      | Melhoramento de Atributo (Guarda Alta) |
-|  9*   |      +4      |    6d4+6    |              |                 Trilha                 |
-|  10*  |      +4      |    6d4+6    |              |        Treinamento (Imparável)         |
+|  7*   |      +3      |             |              |        Proficiencia de Combate         |
+|  8*   |      +3      |             |     2d8      | Melhoramento de Atributo (Guarda Alta) |
+|  9*   |      +4      |             |              |                 Trilha                 |
+|  10*  |      +4      |             |              |        Treinamento (Imparável)         |
 |  11*  |      +4      |    8d4+8    |              |        Treinamento de Perícias         |
 |  12*  |      +4      |    8d4+8    |              |        Melhoramento de Atributo        |
 |  13*  |      +5      |    8d4+8    |     2d10     |        Proficiência de Combate         |
