@@ -43,7 +43,7 @@ Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(t
 
 **LV 2/5/10/15/18 Treinamento:** Escolha um treinamento na tabela, treinamentos são habilidades ativas ou passivas que garantem vantagens em diversas situações
 
-**LV 5/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
+**LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa 
@@ -65,7 +65,6 @@ Argos a IA de 100 olhos, Sempre analisando todos os arredores preparada para qua
 **LV 3, Olhos Vermelhos:** Gaste 3 PP e sua ação prismática para ativar um campo de luzes infravermelhas pelo resto do combate. o campo tem 9m de diâmetro, qualquer inimigo que adentrar a área fica exposto a um possível disparo
 Na sua rodada você pode realizar um ataque com Argos a qualquer alvo dentro da zona infravermelha, todo disparo é teleguiado e evita cobertura parcial. Você troca seu dado de ataque para inteligência. Após o disparo a zona se apaga e é necessário gastar 1 PP para continuar ativado
 O dano do disparo é igual do Bullet Punch
-
 
 **LV 9,:** Junto com a ativação da Zona você pode escolher entre algumas ordens especificas para Argos deixar preparadas
 **Contramedida Efetiva:** Pode gastar um reação para atirar em um alvo que entrou na Zona Infra
