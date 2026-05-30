@@ -21,8 +21,8 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 | Nível | Proficiência |    Dano    | Alcance | Crítico |           Propriedades           | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | --------- |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |           |
-|   2   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   3   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
+|   2   |      +2      |    2d3     |  6m/9m  |   2x    |           Treinamento            |           |
+|   3   |      +2      |    2d3     |  6m/9m  |   2x    |            Subclasse             |           |
 |   4   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
 |   5   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
 |   6   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
