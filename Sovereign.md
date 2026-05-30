@@ -19,16 +19,16 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **Soberania:** Após arremessar a faca outra exatamente igual se cria na sua mão e a arremessada desaparece 
 ## **Árvore de Habilidade**
 | Nível | Proficiência |    Dano    | Alcance | Crítico |           Propriedades           | Dissolver |
-| :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | --------- |
+| :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | :-------: |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |           |
-|   2   |      +2      |    2d3     |  6m/9m  |   2x    |           Treinamento            |           |
-|   3   |      +2      |    2d3     |  6m/9m  |   2x    |            Subclasse             |           |
-|   4   |      +2      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |           |
-|   5   |      +3      |    2d3     |  6m/9m  |   2x    |           Treinamento,           |           |
-|   6   |      +3      |    2d3     |  6m/9m  |   2x    |      Treinamento de Perícia      |           |
-|   7   |      +3      |    2d3     |  6m/9m  |   2x    |     Proficiência de Combate      |           |
-|   8   |      +3      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |           |
-|   9   |      +4      |            |         |         |            Subclasse             |           |
+|   2   |      +2      |    2d3     |  6m/9m  |   2x    |   Treinamento (Dissolver alma)   |    1d4    |
+|   3   |      +2      |    2d3     |  6m/9m  |   2x    |            Subclasse             |    1d4    |
+|   4   |      +2      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |    1d4    |
+|   5   |      +3      |    2d3     |  6m/9m  |   2x    |           Treinamento,           |    1d4    |
+|   6   |      +3      |    2d3     |  6m/9m  |   2x    |      Treinamento de Perícia      |    2d4    |
+|   7   |      +3      |    2d3     |  6m/9m  |   2x    |     Proficiência de Combate      |    2d4    |
+|   8   |      +3      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |    2d4    |
+|   9   |      +4      |            |         |         |            Subclasse             |    2d4    |
 |  10   |      +4      |            |         |         |           Treinamento            |           |
 |  11   |      +4      |            |         |         |      Treinamento de Perícia      |           |
 |  12   |      +4      |            |         |         |     Melhoramento de Atributo     |           |

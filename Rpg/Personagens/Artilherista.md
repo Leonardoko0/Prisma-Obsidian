@@ -49,7 +49,7 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 
 **LV 2/5/10/15/18 Treinamento:** Escolha um treinamento na tabela, treinamentos são habilidades ativas ou passivas que garantem vantagens em diversas situações
 
-**LV 5/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
+**LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
