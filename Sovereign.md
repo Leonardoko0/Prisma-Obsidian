@@ -21,13 +21,13 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 | Nível | Proficiência |    Dano    | Alcance | Crítico |           Propriedades           | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | --------- |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |           |
-|   2   |      +2      |    2d3     |  6m/9m  |         |                                  |           |
-|   3   |      +2      |    2d3     |  6m/9m  |         |                                  |           |
+|   2   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
+|   3   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
 |   4   |      +2      |    2d3     |  6m/9m  |   2x    |                                  |           |
-|   5   |      +3      |    2d3     |  6m/9m  |         |                                  |           |
-|   6   |      +3      |    2d3     |  6m/9m  |         |                                  |           |
-|   7   |      +3      |    2d3     |  6m/9m  |         |                                  |           |
-|   8   |      +3      |    2d3     |  6m/9m  |         |                                  |           |
+|   5   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
+|   6   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
+|   7   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
+|   8   |      +3      |    2d3     |  6m/9m  |   2x    |                                  |           |
 |   9   |      +4      |            |         |         |                                  |           |
 |  10   |      +4      |            |         |         |                                  |           |
 |  11   |      +4      |            |         |         |                                  |           |
@@ -54,4 +54,4 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 ## Dream Caster
-##
+## A
