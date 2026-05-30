@@ -29,17 +29,17 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |   7   |      +3      |    2d3     |  6m/9m  |   2x    |     Proficiência de Combate      |    2d4    |
 |   8   |      +3      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |    2d4    |
 |   9   |      +4      |            |         |         |            Subclasse             |    2d4    |
-|  10   |      +4      |            |         |         |           Treinamento            |           |
-|  11   |      +4      |            |         |         |      Treinamento de Perícia      |           |
-|  12   |      +4      |            |         |         |     Melhoramento de Atributo     |           |
-|  13   |      +5      |            |         |         |     Proficiência de Combate      |           |
-|  14   |      +5      |            |         |         |            Subclasse             |           |
-|  15   |      +5      |            |         |         |           Treinamento            |           |
-|  16   |      +5      |            |         |         |     Melhoramento de Atributo     |           |
-|  17   |      +6      |            |         |         |      Treinamento de Perícia      |           |
-|  18   |      +6      |            |         |         |           Treinamento            |           |
-|  19   |      +6      |            |         |         |     Melhoramento de Atributo     |           |
-|  20   |      +6      |            |         |         |            Subclasse             |           |
+|  10   |      +4      |            |         |         |           Treinamento            |    3d4    |
+|  11   |      +4      |            |         |         |      Treinamento de Perícia      |    3d4    |
+|  12   |      +4      |            |         |         |     Melhoramento de Atributo     |    3d4    |
+|  13   |      +5      |            |         |         |     Proficiência de Combate      |    3d4    |
+|  14   |      +5      |            |         |         |            Subclasse             |    4d4    |
+|  15   |      +5      |            |         |         |           Treinamento            |    4d4    |
+|  16   |      +5      |            |         |         |     Melhoramento de Atributo     |    4d4    |
+|  17   |      +6      |            |         |         |      Treinamento de Perícia      |    4d4    |
+|  18   |      +6      |            |         |         |           Treinamento            |    5d4    |
+|  19   |      +6      |            |         |         |     Melhoramento de Atributo     |    5d4    |
+|  20   |      +6      |            |         |         |            Subclasse             |    5d4    |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
