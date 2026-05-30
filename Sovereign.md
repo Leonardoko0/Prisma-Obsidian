@@ -21,10 +21,10 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 | Nível | Proficiência |    Dano    | Alcance | Crítico |           Propriedades           | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :------------------------------: | :-------: |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    | Leve, Arremesso, **"Soberania"** |           |
-|   2   |      +2      |    2d3     |  6m/9m  |   2x    |   Treinamento (Dissolver alma)   |    1d4    |
+|   2   |      +2      |    2d3     |  6m/9m  |   2x    |   Treinamento (Dissolver Alma)   |    1d4    |
 |   3   |      +2      |    2d3     |  6m/9m  |   2x    |            Subclasse             |    1d4    |
 |   4   |      +2      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |    1d4    |
-|   5   |      +3      |    2d3     |  6m/9m  |   2x    |           Treinamento,           |    1d4    |
+|   5   |      +3      |    2d3     |  6m/9m  |   2x    |   Treinamento, (Sangue Sonho)    |    1d4    |
 |   6   |      +3      |    2d3     |  6m/9m  |   2x    |      Treinamento de Perícia      |    2d4    |
 |   7   |      +3      |    2d3     |  6m/9m  |   2x    |     Proficiência de Combate      |    2d4    |
 |   8   |      +3      |    2d3     |  6m/9m  |   2x    |     Melhoramento de Atributo     |    2d4    |
