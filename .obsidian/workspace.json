@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalidades Notáveis.md",
+                "file": "Rpg/Personagens/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personalidades Notáveis"
+              "title": "Traits"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "021a70d35a55cab8",
+  "active": "b2bc139294b5ac49",
   "lastOpenFiles": [
-    "Achille Ithrix.md",
     "Personalidades Notáveis.md",
+    "Achille Ithrix.md",
     "Rpg/Personagens/Armas.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",

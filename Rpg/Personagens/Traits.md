@@ -6,7 +6,7 @@ Traits nem sempre devem ser interpretados de forma literal ou extrema. Um person
 Além disso, Traits também concedem habilidades simples, porém únicas. Em muitos casos, essas habilidades são específicas e situacionais, não sendo úteis o tempo todo, mas, quando entram em cena, podem fazer toda a diferença.
 
 Um personagem pode desenvolver novos Traits ao longo da campanha, desde que isso faça sentido dentro da narrativa. Se o jogador considerar que é o momento apropriado, é importante conversar com o mestre para definir os detalhes, as motivações e como esse novo traço se manifesta na prática.
-## Traits
+## Traits de Personalidade
 ### **Impaciente
 “Atira primeiro, pensa depois”
 
@@ -39,3 +39,4 @@ Ao ficar morrendo recebe vantagem no primeiro dado e caso você não falhe no sa
 “Sozinho você sobrevive”
 
 Quando sozinho recebe vantagem em furtividade, atletismo, acrobacia e em salvaguarda de agilidade e força ligados com reflexo
+## Traits 
