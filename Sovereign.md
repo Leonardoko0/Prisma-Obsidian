@@ -21,13 +21,13 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 | Nível | Proficiência |    Dano    | Alcance | Crítico |             Propriedades             | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :----------------------------------: | :-------: |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |   Leve, Arremesso, **"Soberania"**   |           |
-|   2   |      +2      |     -      |  6m/9m  |   2x    |     Treinamento (Dissolver Alma)     |    1d4    |
-|   3   |      +2      |     -      |  6m/9m  |   2x    |              Subclasse               |     -     |
-|   4   |      +2      |     -      |  6m/9m  |   2x    |       Melhoramento de Atributo       |     -     |
-|   5   |      +3      |    3d4     |  6m/9m  |   2x    |     Treinamento, (Sangue Sonho)      |     -     |
-|   6   |      +3      |     -      |  6m/9m  |   2x    |        Treinamento de Perícia        |    2d4    |
-|   7   |      +3      |     -      |  6m/9m  |   2x    |       Proficiência de Combate        |     -     |
-|   8   |      +3      |     -      |  6m/9m  |   2x    |       Melhoramento de Atributo       |     -     |
+|   2   |      +2      |     -      |         |         |     Treinamento (Dissolver Alma)     |    1d4    |
+|   3   |      +2      |     -      |         |         |              Subclasse               |     -     |
+|   4   |      +2      |     -      |         |         |       Melhoramento de Atributo       |     -     |
+|   5   |      +3      |    3d4     |         |         |     Treinamento, (Sangue Sonho)      |     -     |
+|   6   |      +3      |     -      |         |         |        Treinamento de Perícia        |    2d4    |
+|   7   |      +3      |     -      |         |         |       Proficiência de Combate        |     -     |
+|   8   |      +3      |     -      |         |         |       Melhoramento de Atributo       |     -     |
 |   9   |      +4      |    5d4     |         |         |              Subclasse               |     -     |
 |  10   |      +4      |     -      |         |         |    Treinamento(Molde d Pesadelo)     |    3d4    |
 |  11   |      +4      |     -      |         |         |        Treinamento de Perícia        |     -     |
