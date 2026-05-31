@@ -21,25 +21,25 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 | Nível | Proficiência |    Dano    | Alcance | Crítico |             Propriedades             | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :----------------------------------: | :-------: |
 |   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |   Leve, Arremesso, **"Soberania"**   |           |
-|   2   |      +2      |     -      |         |         |     Treinamento (Dissolver Alma)     |    1d4    |
-|   3   |      +2      |     -      |         |         |              Subclasse               |     -     |
-|   4   |      +2      |     -      |         |         |       Melhoramento de Atributo       |     -     |
-|   5   |      +3      |    3d4     |         |         |     Treinamento, (Sangue Sonho)      |     -     |
-|   6   |      +3      |     -      |         |         |        Treinamento de Perícia        |    2d4    |
-|   7   |      +3      |     -      |         |         |       Proficiência de Combate        |     -     |
-|   8   |      +3      |     -      |         |         |       Melhoramento de Atributo       |     -     |
-|   9   |      +4      |    5d4     |         |         |              Subclasse               |     -     |
-|  10   |      +4      |     -      |         |         |    Treinamento(Molde d Pesadelo)     |    3d4    |
-|  11   |      +4      |     -      |         |         |        Treinamento de Perícia        |     -     |
-|  12   |      +4      |     -      |         |         |       Melhoramento de Atributo       |     -     |
-|  13   |      +5      |    6d5     |         |         |       Proficiência de Combate        |     -     |
-|  14   |      +5      |     -      |         |         |              Subclasse               |    4d4    |
-|  15   |      +5      |     -      |         |         |             Treinamento              |     -     |
-|  16   |      +5      |     -      |         |         | Melhoramento de Atributo (Colateral) |     -     |
-|  17   |      +6      |    7d6     |         |         |        Treinamento de Perícia        |     -     |
-|  18   |      +6      |     -      |         |         |             Treinamento              |    5d4    |
-|  19   |      +6      |     -      |         |         |       Melhoramento de Atributo       |     -     |
-|  20   |      +6      |     -      |         |         |              Subclasse               |     -     |
+|   2   |      +2      |     -      |    -    |    -    |     Treinamento (Dissolver Alma)     |    1d4    |
+|   3   |      +2      |     -      |    -    |    -    |              Subclasse               |     -     |
+|   4   |      +2      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
+|   5   |      +3      |    3d4     |    -    |    -    |     Treinamento, (Sangue Sonho)      |     -     |
+|   6   |      +3      |     -      | 9m/12m  |    -    |        Treinamento de Perícia        |    2d4    |
+|   7   |      +3      |     -      |    -    |    -    |       Proficiência de Combate        |     -     |
+|   8   |      +3      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
+|   9   |      +4      |    5d4     |    -    |    -    |              Subclasse               |     -     |
+|  10   |      +4      |     -      |    -    |    -    |    Treinamento(Molde d Pesadelo)     |    3d4    |
+|  11   |      +4      |     -      |    -    |    -    |        Treinamento de Perícia        |     -     |
+|  12   |      +4      |     -      | 12m/15m |    -    |       Melhoramento de Atributo       |     -     |
+|  13   |      +5      |    6d5     |    -    |    -    |       Proficiência de Combate        |     -     |
+|  14   |      +5      |     -      |    -    |    -    |              Subclasse               |    4d4    |
+|  15   |      +5      |     -      |    -    |    -    |             Treinamento              |     -     |
+|  16   |      +5      |     -      |    -    |    -    | Melhoramento de Atributo (Colateral) |     -     |
+|  17   |      +6      |    7d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
+|  18   |      +6      |     -      |    -    |    -    |             Treinamento              |    5d4    |
+|  19   |      +6      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
+|  20   |      +6      |     -      |    -    |    -    |              Subclasse               |     -     |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
