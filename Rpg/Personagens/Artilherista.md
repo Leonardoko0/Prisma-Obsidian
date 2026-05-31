@@ -36,7 +36,7 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 |  10   |      +4      |    -     |       -       |    -    |    -    |     Treinamento(Artista de precisão)     |
 |  11   |      +4      |    -     |      4d8      |    -    |    -    |           Treinamento Perícias           |
 |  12   |      +4      |    -     |       -       |    -    |    -    |         Melhoramento de Atributo         |
-|  13   |      +5      |  +PP 3   |       -       | 35m/60m |    -    | Proficiência de Combate (Perfurante +2)  |
+|  13   |      +5      |  +PP 3   |       -       | 35m/60m |    -    |         Proficiência de Combate          |
 |  14   |      +5      |    -     |       -       |    -    |    -    |                Subclasse                 |
 |  15   |      +5      |    -     |       -       |    -    |    -    |               Treinamento                |
 |  16   |      +5      |    -     |     5d10      |    -    |    -    | Melhoramento de Atributo (Perfurante +3) |
@@ -56,7 +56,7 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 
 **LV 2** **Saque rápido**: Gasta sua ação Prismática(3PP) para dar um disparo fora de seu turno
 
-**LV 5/14/16 Bala perfurante:** Gaste 2/3/4 PP para sua bala atravessar uma quantidade extra de 1/2/3 alvos
+**LV 5/16 Bala perfurante:** Gaste 2/4 PP para sua bala atravessar uma quantidade extra de 1/2 alvos
 
 **LV 10 Artista de precisão:** Gasta 1 PP para mudar sua bala como ação de movimento, o dano dado pela arma abaixa em 1dado porém não recebe desvantagem de distância maxima
 
