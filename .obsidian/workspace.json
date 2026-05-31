@@ -101,7 +101,8 @@
               "title": "Aila (Sledge Queen)"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,14 +252,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "611ab202ce2606ca",
+  "active": "5f8e5d15320cbec2",
   "lastOpenFiles": [
-    "Aila (Sledge Queen).md",
     "Achille Ithrix (O Grilo Amarelo).md",
+    "Rpg/Personagens/Traits.md",
+    "Aila (Sledge Queen).md",
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
     "Rpg/Personagens/Raça.md",
-    "Rpg/Personagens/Traits.md",
     "Personalidades Notáveis.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Perícias.md",
