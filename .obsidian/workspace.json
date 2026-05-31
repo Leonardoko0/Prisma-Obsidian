@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Perícias.md",
+                "file": "Rpg/Personagens/Raça.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perícias"
+              "title": "Raça"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Armas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,14 +214,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7b4aaba853bec5d2",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
