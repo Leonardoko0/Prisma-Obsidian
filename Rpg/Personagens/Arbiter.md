@@ -56,7 +56,7 @@ Falha: O personagem sofre 1d6+3 de dano para cada 3 pontos que falhar no teste
 
 **LV 10, Especialista em Explosões:** Quando receber dano explosivo pode gastar 1 PP para rodar um salva guarda de agilidade contra o ataque, no sucesso negue metade do dano
 
-**LV 14, Mobilidade:** Agora ao utilizar **Impulse Shot** pode gastar um PP extra para se mover mais 6m
+**LV 14, Mobilidade:** Agora ao utilizar **Impulse Shot** pode gastar um PP extra para se mover mais 4,5m
 
 **LV 3/9/14/20, Militarismo explosivo:** São suas técnicas provenientes de um estilo, mais conhecido como seu Militarismo Explosivo, São o conjunto de habilidade que faz você ser diferente de outro Arbiter
 ## **Argos**
