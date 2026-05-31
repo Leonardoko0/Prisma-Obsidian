@@ -25,15 +25,15 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |   3   |      +2      |     -      |    -    |    -    |              Subclasse               |     -     |
 |   4   |      +2      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |   5   |      +3      |    3d4     |    -    |    -    |     Treinamento, (Sangue Sonho)      |     -     |
-|   6   |      +3      |     -      | 9m/12m  |    -    |        Treinamento de Perícia        |    2d4    |
-|   7   |      +3      |     -      |    -    |    -    |       Proficiência de Combate        |     -     |
+|   6   |      +3      |     -      |    -    |    -    |        Treinamento de Perícia        |    2d4    |
+|   7   |      +3      |     -      | 9m/12m  |    -    |       Proficiência de Combate        |     -     |
 |   8   |      +3      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |   9   |      +4      |    5d4     |    -    |    -    |              Subclasse               |     -     |
 |  10   |      +4      |     -      |    -    |    -    |    Treinamento(Molde d Pesadelo)     |    3d4    |
 |  11   |      +4      |     -      |    -    |    -    |        Treinamento de Perícia        |     -     |
-|  12   |      +4      |     -      | 12m/15m |    -    |       Melhoramento de Atributo       |     -     |
+|  12   |      +4      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |  13   |      +5      |    6d5     |    -    |    -    |       Proficiência de Combate        |     -     |
-|  14   |      +5      |     -      |    -    |    -    |              Subclasse               |    4d4    |
+|  14   |      +5      |     -      | 12/15m  |    -    |              Subclasse               |    4d4    |
 |  15   |      +5      |     -      |    -    |    -    |             Treinamento              |     -     |
 |  16   |      +5      |     -      |    -    |    -    | Melhoramento de Atributo (Colateral) |     -     |
 |  17   |      +6      |    7d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
