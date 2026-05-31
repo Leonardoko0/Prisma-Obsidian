@@ -25,25 +25,25 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 | Nível | Proficiência | Dead-eye |     Dano      | Alcance | Crítico |               Propriedades               |
 | :---: | :----------: | :------: | :-----------: | :-----: | :-----: | :--------------------------------------: |
 |   1   |      +2      |  +PP 1   | 3d6 Bálistico | 25m/50m |   3x    |  (Carga) Pesado, Perdurante, Barulhento  |
-|   2   |      +2      |          |      3d6      | 25m/50m |   3x    |        Treinamento (Saque Rápido)        |
-|   3   |      +2      |          |      3d6      | 25m/50m |   3x    |                Subclasse                 |
-|   4   |      +2      |          |      3d6      | 25m/50m |   3x    |         Melhoramento de Atributo         |
-|   5   |      +3      |          |      3d6      | 25m/50m |   3x    |       Treinamento (Perfurante +1)        |
-|   6   |      +3      |          |      4d6      | 25m/50m |   3x    |           Treinamento Perícias           |
-|   7   |      +3      |  +PP 2   |      4d6      | 30m/55m |   3x    |         Proficiência de combate          |
-|   8   |      +3      |  +PP 2   |      4d6      | 30m/55m |  19/3x  |         Melhoramento de Atributo         |
-|   9   |      +4      |  +PP 2   |      4d6      | 30m/55m |  19/3x  |                Subclasse                 |
-|  10   |      +4      |  +PP 2   |      4d6      | 30m/55m |  19/3x  |     Treinamento(Artista de precisão)     |
-|  11   |      +4      |  +PP 2   |      4d8      | 30m/55m |  19/3x  |           Treinamento Perícias           |
-|  12   |      +4      |  +PP 2   |      4d8      | 30m/55m |  19/3x  |         Melhoramento de Atributo         |
-|  13   |      +5      |  +PP 3   |      4d8      | 35m/60m |  19/3x  | Proficiência de Combate (Perfurante +2)  |
-|  14   |      +5      |  +PP 3   |      4d8      | 35m/60m |  19/3x  |                Subclasse                 |
-|  15   |      +5      |  +PP 3   |      4d8      | 35m/60m |  19/3x  |               Treinamento                |
-|  16   |      +5      |  +PP 3   |     5d10      | 35m/60m |  19/3x  | Melhoramento de Atributo (Perfurante +3) |
-|  17   |      +6      |  +PP 4   |     5d10      | 35m/60m |  18/3x  |           Treinamento Perícias           |
-|  18   |      +6      |  +PP 4   |     5d10      | 35m/60m |  18/3x  |               Treinamento                |
-|  19   |      +6      |  +PP 4   |     5d10      | 40m/70m |  18/3x  |         Melhoramento de Atributo         |
-|  20   |      +6      |  +PP 4   |     5d10      | 40m/70m |  18/3x  |                Subclasse                 |
+|   2   |      +2      |    -     |               |         |         |        Treinamento (Saque Rápido)        |
+|   3   |      +2      |    -     |               |         |         |                Subclasse                 |
+|   4   |      +2      |    --    |               |         |         |         Melhoramento de Atributo         |
+|   5   |      +3      |          |               |         |         |       Treinamento (Perfurante +1)        |
+|   6   |      +3      |          |      4d6      |         |         |           Treinamento Perícias           |
+|   7   |      +3      |  +PP 2   |               | 30m/55m |         |         Proficiência de combate          |
+|   8   |      +3      |          |               |         |  19/3x  |         Melhoramento de Atributo         |
+|   9   |      +4      |          |               |         |         |                Subclasse                 |
+|  10   |      +4      |          |               |         |         |     Treinamento(Artista de precisão)     |
+|  11   |      +4      |          |      4d8      |         |         |           Treinamento Perícias           |
+|  12   |      +4      |          |               |         |         |         Melhoramento de Atributo         |
+|  13   |      +5      |  +PP 3   |               | 35m/60m |         | Proficiência de Combate (Perfurante +2)  |
+|  14   |      +5      |          |               |         |         |                Subclasse                 |
+|  15   |      +5      |          |               |         |         |               Treinamento                |
+|  16   |      +5      |          |     5d10      |         |         | Melhoramento de Atributo (Perfurante +3) |
+|  17   |      +6      |  +PP 4   |               |         |  18/3x  |           Treinamento Perícias           |
+|  18   |      +6      |          |               |         |         |               Treinamento                |
+|  19   |      +6      |          |               | 40m/70m |         |         Melhoramento de Atributo         |
+|  20   |      +6      |          |               |         |         |                Subclasse                 |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
