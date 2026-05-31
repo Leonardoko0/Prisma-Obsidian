@@ -24,20 +24,20 @@ Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(t
 |  4*   |      +2      |                |              |        Melhoramento de Atributo         |
 |  5*   |      +3      |                |              |               Treinamento               |
 |  6*   |      +3      |      5d6       |     4d10     | Treinamento de Perícias (Bullet Punch)  |
-|  7*   |      +3      |      5d6       |     4d10     |         Proficiencia de Combate         |
-|  8*   |      +3      |      5d6       |     4d10     |        Melhoramento de Atributo         |
-|  9*   |      +4      |      5d6       |     4d10     |                 Trilha                  |
-|  10*  |      +4      |      5d6       |     5d10     | Treinamento (Especialista em Explosões) |
+|  7*   |      +3      |                |              |         Proficiencia de Combate         |
+|  8*   |      +3      |                |              |        Melhoramento de Atributo         |
+|  9*   |      +4      |                |              |                 Trilha                  |
+|  10*  |      +4      |                |              | Treinamento (Especialista em Explosões) |
 |  11*  |      +4      |      5d8       |     5d12     |         Treinamento de Perícias         |
-|  12*  |      +4      |      5d8       |     5d12     |        Melhoramento de Atributo         |
-|  13*  |      +5      |      5d8       |     5d12     |         Proficiência de Combate         |
-|  14*  |      +5      |      5d8       |     6d12     |           Trilha (Mobilidade)           |
-|  15*  |      +5      |      5d8       |     6d12     |               Treinamento               |
+|  12*  |      +4      |                |              |        Melhoramento de Atributo         |
+|  13*  |      +5      |                |              |         Proficiência de Combate         |
+|  14*  |      +5      |                |              |           Trilha (Mobilidade)           |
+|  15*  |      +5      |                |              |               Treinamento               |
 |  16*  |      +5      |      6d10      |     6d12     |         Treinamento de Atributo         |
-|  17*  |      +6      |      6d10      |     6d12     |         Treinamento de Perícias         |
-|  18*  |      +6      |      6d10      |     7d12     |               Treinamento               |
-|  19*  |      +6      |      6d10      |     7d12     |        Melhoramento de Atributo         |
-|  20*  |      +6      |      6d10      |     7d12     |                 Trilha                  |
+|  17*  |      +6      |                |              |         Treinamento de Perícias         |
+|  18*  |      +6      |                |              |               Treinamento               |
+|  19*  |      +6      |                |              |        Melhoramento de Atributo         |
+|  20*  |      +6      |                |     7d12     |                 Trilha                  |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
