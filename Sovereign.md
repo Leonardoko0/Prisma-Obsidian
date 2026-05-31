@@ -24,10 +24,10 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |   2   |      +2      |     -      |  6m/9m  |   2x    |     Treinamento (Dissolver Alma)     |    1d4    |
 |   3   |      +2      |     -      |  6m/9m  |   2x    |              Subclasse               |    1d4    |
 |   4   |      +2      |     -      |  6m/9m  |   2x    |       Melhoramento de Atributo       |    1d4    |
-|   5   |      +3      |    2d3     |  6m/9m  |   2x    |     Treinamento, (Sangue Sonho)      |    1d4    |
-|   6   |      +3      |    2d3     |  6m/9m  |   2x    |        Treinamento de Perícia        |    2d4    |
-|   7   |      +3      |    2d3     |  6m/9m  |   2x    |       Proficiência de Combate        |    2d4    |
-|   8   |      +3      |    2d3     |  6m/9m  |   2x    |       Melhoramento de Atributo       |    2d4    |
+|   5   |      +3      |    3d4     |  6m/9m  |   2x    |     Treinamento, (Sangue Sonho)      |    1d4    |
+|   6   |      +3      |     -      |  6m/9m  |   2x    |        Treinamento de Perícia        |    2d4    |
+|   7   |      +3      |     -      |  6m/9m  |   2x    |       Proficiência de Combate        |    2d4    |
+|   8   |      +3      |     -      |  6m/9m  |   2x    |       Melhoramento de Atributo       |    2d4    |
 |   9   |      +4      |            |         |         |              Subclasse               |    2d4    |
 |  10   |      +4      |            |         |         |    Treinamento(Molde d Pesadelo)     |    3d4    |
 |  11   |      +4      |            |         |         |        Treinamento de Perícia        |    3d4    |
