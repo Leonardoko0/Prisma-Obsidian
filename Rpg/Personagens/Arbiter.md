@@ -19,10 +19,10 @@ Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(t
 | Nível | Proficiência | KnuckleBlaster | Bullet Punch |             Características             |
 | :---: | :----------: | :------------: | :----------: | :-------------------------------------: |
 |  1*   |      +2      |      4d6       |              |             KnuckleBlaster              |
-|  2*   |      +2      |      4d6       |              |       Treinamento (Impulse Shot)        |
-|  3*   |      +2      |      4d6       |              |                 Trilha                  |
-|  4*   |      +2      |      4d6       |              |        Melhoramento de Atributo         |
-|  5*   |      +3      |      4d6       |              |               Treinamento               |
+|  2*   |      +2      |                |              |       Treinamento (Impulse Shot)        |
+|  3*   |      +2      |                |              |                 Trilha                  |
+|  4*   |      +2      |                |              |        Melhoramento de Atributo         |
+|  5*   |      +3      |                |              |               Treinamento               |
 |  6*   |      +3      |      5d6       |     4d10     | Treinamento de Perícias (Bullet Punch)  |
 |  7*   |      +3      |      5d6       |     4d10     |         Proficiencia de Combate         |
 |  8*   |      +3      |      5d6       |     4d10     |        Melhoramento de Atributo         |
