@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sovereign.md",
+                "file": "Rpg/Personagens/Artilherista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sovereign"
+              "title": "Artilherista"
             }
           },
           {
@@ -215,11 +215,11 @@
   },
   "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
-    "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Artilherista.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Nômade.md",
-    "Sovereign.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Criação De Personagem.md",
