@@ -50,7 +50,7 @@ Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(t
 
 **LV 2, Impulse Shot:** Como Ação de movimento ou Ação prismática, Gaste 1 PP para se mover 6 metros para qualquer direção,
 
-**LV 6, Long Shot:** Como ação completa ou Ação prismática, Gaste 3 PP para tentar realizar um soco na carga explosiva causando um tipo de efeito lança mísseis, Faça um teste de força puro de DT 15
+**LV 6, Long Shot:** Como ação completa ou Ação prismática, Gaste 3 PP para tentar realizar um soco na carga explosiva causando um tipo de efeito lança mísseis, Faça um teste de ataque com proficiência de DT 15
 Sucesso: atire a carga por 9m
 Falha: O personagem sofre 1d6+3 de dano para cada 3 pontos que falhar no teste
 
