@@ -87,7 +87,8 @@
               "title": "Achille Ithrix (O Grilo Amarelo)"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,7 +238,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "611ab202ce2606ca",
+  "active": "021a70d35a55cab8",
   "lastOpenFiles": [
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
