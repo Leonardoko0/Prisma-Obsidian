@@ -54,7 +54,9 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 6, Sangue Sonho:**
 
-**LV 10, Molde **
+**LV 10, Molde de Pesadelo**
+
+
 ## Sandman
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 ## **Dementador Expansivo**
