@@ -50,13 +50,13 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Dissolver Alma:**
+**LV 2, Dissolver Alma:** 
 
-**LV 6, Sangue Sonho:**
+**LV 6, Sangue Sonho:** 
 
-**LV 10, Molde de Pesadelo**
+**LV 10, Molde de Pesadelo** 
 
-**LV 16, Colateral:**
+**LV 16, Colateral:** 
 ## Sandman
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 ## **Dementador Expansivo**
