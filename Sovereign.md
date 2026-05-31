@@ -26,7 +26,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |   4   |      +2      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |   5   |      +3      |    3d4     |    -    |    -    |     Treinamento, (Sangue Sonho)      |     -     |
 |   6   |      +3      |     -      |    -    |    -    |        Treinamento de Perícia        |    2d4    |
-|   7   |      +3      |     -      | 9m/12m  |    -    |       Proficiência de Combate        |     -     |
+|   7   |      +3      |     -      |  9/12m  |    -    |       Proficiência de Combate        |     -     |
 |   8   |      +3      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |   9   |      +4      |    5d4     |    -    |    -    |              Subclasse               |     -     |
 |  10   |      +4      |     -      |    -    |    -    |    Treinamento(Molde d Pesadelo)     |    3d4    |
@@ -39,7 +39,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |  17   |      +6      |    7d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
 |  18   |      +6      |     -      |    -    |    -    |             Treinamento              |    5d4    |
 |  19   |      +6      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
-|  20   |      +6      |     -      |    -    |    -    |              Subclasse               |     -     |
+|  20   |      +6      |     -      | 15/18m  |    -    |              Subclasse               |     -     |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
