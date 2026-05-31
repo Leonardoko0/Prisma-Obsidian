@@ -81,10 +81,14 @@
             "id": "021a70d35a55cab8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Achille.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Achille"
             }
           }
         ],
@@ -240,6 +244,7 @@
   },
   "active": "021a70d35a55cab8",
   "lastOpenFiles": [
+    "Achille.md",
     "Personalidades Notáveis.md",
     "Rpg/Personagens/Armas.md",
     "Sovereign.md",
@@ -266,7 +271,6 @@
     "Venda de Itens Dissonantes.md",
     "Mineração de Asteroides.md",
     "Exploração.md",
-    "Cargos.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
