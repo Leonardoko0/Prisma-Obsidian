@@ -25,11 +25,11 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 | Nível | Proficiência | Dead-eye |     Dano      | Alcance | Crítico |               Propriedades               |
 | :---: | :----------: | :------: | :-----------: | :-----: | :-----: | :--------------------------------------: |
 |   1   |      +2      |  +PP 1   | 3d6 Bálistico | 25m/50m |   3x    |  (Carga) Pesado, Perdurante, Barulhento  |
-|   2   |      +2      |  +PP 1   |      3d6      | 25m/50m |   3x    |        Treinamento (Saque Rápido)        |
-|   3   |      +2      |  +PP 1   |      3d6      | 25m/50m |   3x    |                Subclasse                 |
-|   4   |      +2      |  +PP 1   |      3d6      | 25m/50m |   3x    |         Melhoramento de Atributo         |
-|   5   |      +3      |  +PP 1   |      3d6      | 25m/50m |   3x    |       Treinamento (Perfurante +1)        |
-|   6   |      +3      |  +PP 1   |      4d6      | 25m/50m |   3x    |           Treinamento Perícias           |
+|   2   |      +2      |          |      3d6      | 25m/50m |   3x    |        Treinamento (Saque Rápido)        |
+|   3   |      +2      |          |      3d6      | 25m/50m |   3x    |                Subclasse                 |
+|   4   |      +2      |          |      3d6      | 25m/50m |   3x    |         Melhoramento de Atributo         |
+|   5   |      +3      |          |      3d6      | 25m/50m |   3x    |       Treinamento (Perfurante +1)        |
+|   6   |      +3      |          |      4d6      | 25m/50m |   3x    |           Treinamento Perícias           |
 |   7   |      +3      |  +PP 2   |      4d6      | 30m/55m |   3x    |         Proficiência de combate          |
 |   8   |      +3      |  +PP 2   |      4d6      | 30m/55m |  19/3x  |         Melhoramento de Atributo         |
 |   9   |      +4      |  +PP 2   |      4d6      | 30m/55m |  19/3x  |                Subclasse                 |

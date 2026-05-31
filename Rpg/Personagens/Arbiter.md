@@ -16,28 +16,28 @@ Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(t
 | 4d6 Explosivo | Corporal |   2x    | (Carga) Implante, Amplo, Barulhento |
 ## **Árvore de Habilidade
 
-| Nível | Proficiência | KnuckleBlaster | Bullet Punch |             Características             |
-| :---: | :----------: | :------------: | :----------: | :-------------------------------------: |
-|  1*   |      +2      |      4d6       |              |             KnuckleBlaster              |
-|  2*   |      +2      |                |              |       Treinamento (Impulse Shot)        |
-|  3*   |      +2      |                |              |                 Trilha                  |
-|  4*   |      +2      |                |              |        Melhoramento de Atributo         |
-|  5*   |      +3      |                |              |               Treinamento               |
-|  6*   |      +3      |      5d6       |     4d10     | Treinamento de Perícias (Bullet Punch)  |
-|  7*   |      +3      |                |              |         Proficiencia de Combate         |
-|  8*   |      +3      |                |              |        Melhoramento de Atributo         |
-|  9*   |      +4      |                |              |                 Trilha                  |
-|  10*  |      +4      |                |              | Treinamento (Especialista em Explosões) |
-|  11*  |      +4      |      5d8       |     5d12     |         Treinamento de Perícias         |
-|  12*  |      +4      |                |              |        Melhoramento de Atributo         |
-|  13*  |      +5      |                |              |         Proficiência de Combate         |
-|  14*  |      +5      |                |              |           Trilha (Mobilidade)           |
-|  15*  |      +5      |                |              |               Treinamento               |
-|  16*  |      +5      |      6d10      |     6d12     |         Treinamento de Atributo         |
-|  17*  |      +6      |                |              |         Treinamento de Perícias         |
-|  18*  |      +6      |                |              |               Treinamento               |
-|  19*  |      +6      |                |              |        Melhoramento de Atributo         |
-|  20*  |      +6      |                |     7d12     |                 Trilha                  |
+| Nível | Proficiência | KnuckleBlaster | Bullet Punch  |             Características             |
+| :---: | :----------: | :------------: | :-----------: | :-------------------------------------: |
+|  1*   |      +2      | 4d6 Explosivo  |               |             KnuckleBlaster              |
+|  2*   |      +2      |       -        |               |       Treinamento (Impulse Shot)        |
+|  3*   |      +2      |       -        |               |                 Trilha                  |
+|  4*   |      +2      |       -        |               |        Melhoramento de Atributo         |
+|  5*   |      +3      |       -        |               |               Treinamento               |
+|  6*   |      +3      |      5d6       | 4d10Explosivo | Treinamento de Perícias (Bullet Punch)  |
+|  7*   |      +3      |       -        |       -       |         Proficiencia de Combate         |
+|  8*   |      +3      |       -        |       -       |        Melhoramento de Atributo         |
+|  9*   |      +4      |       -        |       -       |                 Trilha                  |
+|  10*  |      +4      |       -        |       -       | Treinamento (Especialista em Explosões) |
+|  11*  |      +4      |      5d8       |     5d12      |         Treinamento de Perícias         |
+|  12*  |      +4      |       -        |       -       |        Melhoramento de Atributo         |
+|  13*  |      +5      |       -        |       -       |         Proficiência de Combate         |
+|  14*  |      +5      |       -        |       -       |           Trilha (Mobilidade)           |
+|  15*  |      +5      |       -        |       -       |               Treinamento               |
+|  16*  |      +5      |      6d10      |     6d12      |         Treinamento de Atributo         |
+|  17*  |      +6      |       -        |       -       |         Treinamento de Perícias         |
+|  18*  |      +6      |       -        |       -       |               Treinamento               |
+|  19*  |      +6      |       -        |       -       |        Melhoramento de Atributo         |
+|  20*  |      +6      |       -        |     7d12      |                 Trilha                  |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
