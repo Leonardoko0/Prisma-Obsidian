@@ -50,7 +50,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Dissolver Alma:** Agora o efeito "Cata Sonho" dissolve o espírito do alvo lentamente dando dano continuo Etério
+**LV 2, Dissolver Alma:** Agora o efeito "Cata Sonho" dissolve o espírito do alvo lentamente, dando dano continuo Etério enquanto o efeito estiver ativo.
 
 **LV 6, Sangue Sonho:** 
 
