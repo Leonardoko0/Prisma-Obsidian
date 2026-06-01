@@ -52,7 +52,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 2, Dissolver Alma:** Agora o efeito "Cata Sonho" dissolve o espírito do alvo lentamente, dando dano continuo Etério enquanto o efeito estiver ativo.
 
-**LV 6, Sangue Sonho:** 
+**LV 6, Sangue Sonho:** Voc
 
 **LV 10, Molde de Pesadelo** 
 
