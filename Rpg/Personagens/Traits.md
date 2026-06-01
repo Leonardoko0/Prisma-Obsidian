@@ -40,3 +40,4 @@ Ao ficar morrendo recebe vantagem no primeiro dado e caso você não falhe no sa
 
 Quando sozinho recebe vantagem em furtividade, atletismo, acrobacia e em salvaguarda de agilidade e força ligados com reflexo
 ## Traits de Qualidades e Defeitos
+/
