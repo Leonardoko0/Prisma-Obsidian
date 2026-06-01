@@ -59,6 +59,13 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 16, Colateral:** Gastando 1 PP. Se a Cytherean acertar gere 2 facas etérias no chão que voam assim que outros alvo chegarem perto. Cada faca voa 4,5m e o alvo deve fazer um salvaguarda de Agi (DT 20) ou é acertado e sofre o efeito "Cata Sonho" 
 ## Sandman
 
+**LV 3,** 
+
+**LV 9,** 
+
+**LV 14,**
+
+**LV 20,** 
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 ## Dream Caster
