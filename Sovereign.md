@@ -63,3 +63,4 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 ## Dream Caster
 ## Invólucro Etério
+(Cria fantasmas(Hex) para ajudar no combate)
