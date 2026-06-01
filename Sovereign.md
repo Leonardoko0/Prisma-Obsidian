@@ -52,7 +52,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 2, Dissolver Alma:** Agora o efeito "Cata Sonho" dissolve o espírito do alvo lentamente, dando dano continuo Etério enquanto o efeito estiver ativo.
 
-**LV 6, Sangue Sonho:** Você molda uma faca falsa feita do seu próprio sangue e então a usa sem gastar PP. Se corte dando 1d6 para usar sua habilidade de forma enfraquecida uma categoria a baixo (Ex:)
+**LV 6, Sangue Sonho:** Você molda uma faca falsa feita do seu próprio sangue e então a usa sem gastar PP. Se corte dando 1d6 para usar sua habilidade de forma enfraquecida uma categoria a baixo (Ex: se o dano for 3d6 por padrão ele será diminuido )
 
 **LV 10, Molde de Pesadelo** 
 
