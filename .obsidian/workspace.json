@@ -49,8 +49,7 @@
               "title": "Nômade"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b2bc139294b5ac49",
+  "active": "7b4aaba853bec5d2",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Traits.md",
     "Sovereign.md",
     "Rpg/Personagens/Raça.md",
@@ -215,7 +215,6 @@
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",
