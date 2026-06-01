@@ -54,7 +54,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 6, Sangue Sonho:** Você molda uma faca falsa feita do seu próprio sangue e então a usa sem gastar PP. Se corte dando 1d6 para usar sua habilidade de forma enfraquecida uma categoria a baixo (Ex: se o dano for 3d4 por padrão ele será diminuído para 2d3) Olhar a tabela de Árvore de Habilidade.
 
-**LV 10, Molde de Pesadelo**: Escolha entre os 3 
+**LV 10, Molde de Pesadelo**: Escolha entre os 3 atributos físico For, Agi e Con para adicionar como desvantagem no efeito "Cata Sonho"
 
 **LV 16, Colateral:** 
 ## Sandman
