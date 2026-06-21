@@ -72,7 +72,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ### Torço/Órgãos
 #### Pulmões
 - Modificador: -4
-- Efeito:
+- Efeito: o alvo recupera apenas metade da sua estâmina pelas próximas 1d2 rodadas
 #### Coração
 - Modificador: -6
 - Efeito:
