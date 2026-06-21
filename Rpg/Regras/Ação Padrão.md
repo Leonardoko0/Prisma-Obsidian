@@ -16,8 +16,8 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 
 - Agarrado: não pode se mover, além disso tem desvantagem em teste de ataque enquanto segurado e atacantes recebem vantagens em ataques. A cada rodada posterior o alvo pode realizar o teste novamente para se soltar 
 
-- **Asfixiar:** Faça um novo teste de Força contra a Salvaguarda de Fortitude (Constituição) do alvo. Se for bem-sucedido, você aplica 1 acerto. Além disso, para cada 5 pontos de diferença entre os resultados a seu favor, aplique 1 acerto adicional.
-  Quando o alvo acumular uma quantidade de acertos igual a **1 + sua Constituição**, ele fica **inconsciente**.
+- **Asfixiar:** Faça um novo teste de Força contra o Salvaguarda de Fortitude (Con) do alvo. Se for bem-sucedido, você aplica 1 acerto. Além disso, para cada 5 pontos de diferença entre os resultados a seu favor, aplique 1 acerto adicional.
+  Quando o alvo acumular uma quantidade de acertos igual a 1 +(Con), ele fica inconsciente.
 
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
