@@ -6,10 +6,9 @@
 ## Manobra
 ### Agarrar
 ### Derrubar
+### Desarmar
 ### Empurrar
-### 
-###
-###
+
 ## Golpe Direcionado
 ## Investida
 ## Preparar
