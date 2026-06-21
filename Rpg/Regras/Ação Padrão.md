@@ -76,6 +76,8 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 #### Coração
 - Modificador: -6
 - Efeito: +2 na margem de crítico, Ruptura cardíaca
+
+-  Ruptura Cardíaca:
 #### Diafragma
 - Modificador: -4
 - Efeito: O alvo fica fadigado pelas próximas 1d2 rodadas
