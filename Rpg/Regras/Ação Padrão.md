@@ -2,7 +2,7 @@
 
 ## Lutar
 ### Atacar
-Ataca o alvo com a arma em mãos
+Ataca o alvo com a arma em mãos. Não Custa estamina 
 ### Avançar
 ### Investida
 ## Manobra
