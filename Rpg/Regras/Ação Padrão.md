@@ -21,9 +21,10 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
- *--Gastando um de estâmina você deixa o alvo --* 
+ *--Gastando um de estâmina você deixa o alvo lento--* 
  
  - Caído: ataques corpo a corpo tem vantagens sobre o alvo  
+ - Lento: Todas as formas de deslocamento do personagem são reduzidas à metade
 ### Desarmar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube a arma no chão. Alvos maiores que você ou que estejam segurando a arma com duas mão recebem vantagens 
 *--Gastando um de estâmina você arremessa a arma do alvo 1d4+1 espaços pra longe do alvo--* 
