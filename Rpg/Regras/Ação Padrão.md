@@ -7,4 +7,5 @@
 ## Investida
 ## Preparar
 ## Procurar Ponto Fraco
-##
+## Esconder
+## 
