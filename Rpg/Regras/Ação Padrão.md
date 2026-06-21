@@ -16,7 +16,7 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 
 - Agarrado: não pode se mover, além disso tem desvantagem em teste de ataque enquanto segurado e atacantes recebem vantagens em ataques. A cada rodada posterior o alvo pode realizar o teste novamente para se soltar 
 
-- Asfixiar: rode novamente um teste de (For) dessa vez contra o Salvaguarda de Fortitude (Con) do alvo
+- Asfixiar: rode novamente um teste de (For) dessa vez contra o Salvaguarda de Fortitude (Con) do alvo, se passar recebe um acerto e se tirar
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
 
