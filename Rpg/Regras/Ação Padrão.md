@@ -19,6 +19,7 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 
  - Caído: ataques corpo a corpo tem vantagens sobre o alvo  
 ### Desarmar
+Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube a arma no chão
 ### Empurrar
 
 ## Golpe Direcionado
