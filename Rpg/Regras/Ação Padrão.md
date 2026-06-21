@@ -13,7 +13,7 @@ Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descu
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar deixe-o "Agarrado", enquanto você o segura seu movimento é cortado pela metade.
 É preciso ter uma mão livre para realizar essa ação
 
-- Agarrado: não pode se mover, além disso tem desvantagem em teste de ataque enquanto segurado. A cada rodada 
+- Agarrado: não pode se mover, além disso tem desvantagem em teste de ataque enquanto segurado. A cada rodada posterior o alvo pode realizar o teste novamente 
 
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
