@@ -36,30 +36,30 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ### Cabeça
 #### Olhos
 - Modificador: -3 no ataque
-- Efeito: deixa o alvo semi cego por 1d2 rodadas
+- Efeito: Deixa o alvo semi cego por 1d2 rodadas
 
-- Semi Cego: o alvo sofre desvantagens em testes ligados a visão
+- Semi Cego: O alvo sofre desvantagens em testes ligados a visão
 #### Tímpano
 - Modificador: -2 no ataque
-- Efeito: deixa o alvo surdo por 1d3 rodadas
+- Efeito: Deixa o alvo surdo por 1d3 rodadas
 
-- Surdo: o alvo sofre desvantagens em testes ligado a audição e falha automática em testes que precisam dela
+- Surdo: O alvo sofre desvantagens em testes ligado a audição e falha automática em testes que precisam dela
 #### Mandíbula
 - Modificador: -2 no ataque
-- Efeito: o alvo fica incapaz de se comunicar com palavras perfeitamente
+- Efeito: O alvo fica incapaz de se comunicar com palavras perfeitamente
 #### Têmpora
 - Modificador: -5
 - Efeito: +1 na margem de crítico, atordoamento
 
-- Atordoamento: o alvo deve rodar um salvaguarda de Fortitude contra o ataque ao falhar fica atordoado
+- Atordoamento: O alvo deve rodar um salvaguarda de Fortitude contra o ataque ao falhar fica atordoado
 - Atordoado: O alvo perde sua próxima rodada e não pode agir 
 ### Braços
 #### Braço
 - Modificador: -1
 - Efeito:
 #### Mão
-- Modificador:
-- Efeito:
+- Modificador: -2
+- Efeito: O alvo recebe desvantagens contra testes de des
 ### Pernas
 #### Perna
 - Modificador:
