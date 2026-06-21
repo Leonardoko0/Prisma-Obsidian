@@ -17,11 +17,11 @@
 #### Mandíbula
 #### Têmpora
 ### Braços
-### Braço
-### Mão
+#### Braço
+#### Mão
 ### Pernas
 #### Perna
-####
+#### Pé
 
 ## Preparar
 ## Procurar Ponto Fraco
