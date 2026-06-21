@@ -10,6 +10,7 @@ Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descu
   *--Gastando dois de estâmina você evita a condição--* 
 ## Manobra
 ### Agarrar
+Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
 ### Desarmar
