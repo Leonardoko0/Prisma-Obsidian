@@ -56,18 +56,18 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ### Braços
 #### Braço
 - Modificador: -2
-- Efeito: Causa fratura superficial (Braço)
+- Efeito: Causa fratura superficial (Braço) por 1d3 rodadas
 
-- Fratura Superficial (Braço): não pode realizar ações como: Pancada, Fintar
+- Fratura Superficial (Braço): não pode realizar ações como: Pancada, Fintar ou Mirar
 #### Mão
 - Modificador: -2
 - Efeito: O alvo recebe desvantagens contra testes de desarmar
 ### Pernas
 #### Perna
-- Modificador:
-- Efeito:
+- Modificador: -2 
+- Efeito: Causa fratura superficial (Perna) por 1d3 rodadas
 #### Pé
-- Modificador:
+- Modificador: -3
 - Efeito:
 ### Torço/Órgãos
 #### Pulmões
