@@ -36,16 +36,16 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ### Cabeça
 #### Olhos
 - Modificador: -2 no ataque
-- Efeito deixa o alvo
+- Efeito: deixa o alvo semi-cego
 #### Tímpano
 - Modificador:
-- Efeito
+- Efeito:
 #### Mandíbula
 - Modificador:
-- Efeito
+- Efeito:
 #### Têmpora
 - Modificador:
-- Efeito
+- Efeito:
 ### Braços
 #### Braço
 #### Mão
