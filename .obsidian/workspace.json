@@ -47,7 +47,8 @@
               "title": "Ação Padrão"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,12 +198,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "b2bc139294b5ac49",
   "lastOpenFiles": [
-    "Rpg/Personagens/Raça.md",
+    "Base Mãe.md",
     "Rpg/Regras/Ação Padrão.md",
-    "Rpg/Personagens/Nômade.md",
+    "Rpg/Regras/Combate.md",
     "Sovereign.md",
+    "Rpg/Personagens/Raça.md",
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Traits.md",
     "Yosef (Traidor).md",
     "Shirose Schnee (Caçadora de Prata).md",
@@ -224,8 +227,6 @@
     "Rpg/Personagens/Atributos.md",
     "Pasted image 20260523170531.png",
     "Apelidos.md",
-    "Fama.md",
-    "Influencia no Prisma.md",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Sem título.canvas",
