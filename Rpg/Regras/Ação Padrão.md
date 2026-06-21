@@ -12,9 +12,10 @@ Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descu
 ### Agarrar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar deixe-o "Agarrado", enquanto você o segura seu movimento é cortado pela metade.
 É preciso ter uma mão livre para realizar essa ação
-*--Gastando um de estâmina você arremessa a arma do alvo 1d4+1 espaços pra longe do alvo--* 
+*--Gastando um de estâmina você começa a asfixiar o alvo--* 
 
 - Agarrado: não pode se mover, além disso tem desvantagem em teste de ataque enquanto segurado e atacantes recebem vantagens em ataques. A cada rodada posterior o alvo pode realizar o teste novamente para se soltar 
+- Asfixiar:
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
 
