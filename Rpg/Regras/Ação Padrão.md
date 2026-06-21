@@ -71,10 +71,10 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Efeito: O alvo recebe desvantagens contra testes de derrubar
 ### Torço/Órgãos
 #### Pulmões
-- Modificador:
+- Modificador: -4
 - Efeito:
 #### Coração
-- Modificador:
+- Modificador: -6
 - Efeito:
 #### Diafragma
 - Modificador:
