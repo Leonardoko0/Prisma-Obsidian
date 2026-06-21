@@ -23,7 +23,7 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 *--Gastando um de estâmina você arremessa a arma do alvo 1d4+1 espaços pra longe do alvo--* 
 ### Empurrar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar empurra o alvo junto com você por 1d3 tile e +1d3 a cada para cada 5 pontos adicionais na diferença dos testes. Ao bater em algo após o empurrão o alvo sofre 1d4+Força+(1d4 a cada 3m percorridos)
-*--Gastando um de estâmina você arressa--* 
+*--Gastando um de estâmina você arremessa o alvo ao invés de acompanhar no empurrão--* 
 ## Golpe Direcionado
 ### Cabeça
 #### Olhos
