@@ -55,8 +55,10 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Atordoado: O alvo perde sua próxima rodada e não pode agir 
 ### Braços
 #### Braço
-- Modificador: -1
-- Efeito:
+- Modificador: -2
+- Efeito: Causa fratura superficial (Braço)
+
+- Fra
 #### Mão
 - Modificador: -2
 - Efeito: O alvo recebe desvantagens contra testes de desarmar
