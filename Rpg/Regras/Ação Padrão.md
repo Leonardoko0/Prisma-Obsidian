@@ -15,6 +15,14 @@
 #### Olhos
 #### Tímpano
 #### Mandíbula
+#### Têmpora
+### Braços
+### Braço
+### Mão
+### Pernas
+#### Perna
+####
+
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
