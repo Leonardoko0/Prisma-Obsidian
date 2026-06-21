@@ -4,7 +4,7 @@
 ### Atacar
 Ataca o alvo com a arma em mãos. Não Custa estâmina 
 ### Avançar
-Ataca o alvo com a sua arma e então o empurra um tile para trás ocupando o seu tile
+Ataque o alvo com sua arma corpo a corpo. Em seguida, empurre-o um tile para trás e mova-se para o tile que ele ocupava.
 ### Investida
 ## Manobra
 ### Agarrar
