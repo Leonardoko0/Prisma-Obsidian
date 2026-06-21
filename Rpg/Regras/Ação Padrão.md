@@ -51,7 +51,8 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -5
 - Efeito: +1 na margem de crítico, atordoamento
 
-
+- Atordoamento: o alvo deve rodar um salvaguarda de Fortitude contra o ataque 
+- 
 ### Braços
 #### Braço
 - Modificador:
