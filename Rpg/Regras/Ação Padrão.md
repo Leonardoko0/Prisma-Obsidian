@@ -46,9 +46,9 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Surdo: o alvo sofre desvantagens em testes ligado a audição e falha automática em testes que precisam dela
 #### Mandíbula
 - Modificador: -2 no ataque
-- Efeito:
+- Efeito: o alvo fica incapaz de se comunicar com palavras perfeitamente
 #### Têmpora
-- Modificador: -
+- Modificador: -4
 - Efeito:
 ### Braços
 #### Braço
