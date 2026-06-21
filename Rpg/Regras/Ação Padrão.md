@@ -1,1 +1,3 @@
 #Regras [[Combate]]
+
+## Lutar
