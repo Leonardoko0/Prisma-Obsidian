@@ -43,7 +43,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -1
 - Efeito: deixa o alvo surdo por 1d3 rodadas
 
-- 
+- Surdo: o alvo sofre desvantagens em testes ligado a audição e falha au
 #### Mandíbula
 - Modificador:
 - Efeito:
