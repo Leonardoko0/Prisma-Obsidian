@@ -2,6 +2,7 @@
 
 ## Lutar
 ### Atacar
+Ataca o alvo com a arma em mãos
 ### Avançar
 ### Investida
 ## Manobra
