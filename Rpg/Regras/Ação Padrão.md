@@ -36,7 +36,9 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ### Cabeça
 #### Olhos
 - Modificador: -2 no ataque
-- Efeito: deixa o alvo semi-cego
+- Efeito: deixa o alvo semi cego
+
+- Semi Cego: o alvo sofre desvantagens em testes de percepção ligados a visão, além disso 
 #### Tímpano
 - Modificador:
 - Efeito:
