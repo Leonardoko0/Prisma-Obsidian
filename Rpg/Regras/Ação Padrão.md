@@ -2,9 +2,9 @@
 
 ## Lutar
 ### Atacar
-Ataca o alvo com a arma em mãos. Não Custa estâmina 
+Ataca o alvo com a arma em mãos. Não custa estâmina 
 ### Avançar
-Ataque o alvo com sua arma corpo a corpo. Em seguida, empurre-o um tile para trás e mova-se para o tile que ele ocupava.
+Ataque o alvo com sua arma corpo a corpo. Em seguida, empurre-o um tile para trás e mova-se para o tile que ele ocupava. Custa um de estâmina
 ### Investida
 ## Manobra
 ### Agarrar
