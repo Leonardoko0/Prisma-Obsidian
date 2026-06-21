@@ -27,5 +27,5 @@
 #### Coração
 #### Diafragma
 ## Preparar
-## Procurar Ponto Fraco
+## Analisar
 ## Esconder
