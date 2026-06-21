@@ -48,8 +48,10 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -2 no ataque
 - Efeito: o alvo fica incapaz de se comunicar com palavras perfeitamente
 #### Têmpora
-- Modificador: -4
-- Efeito:
+- Modificador: -5
+- Efeito: +1 na margem de crítico, atordoamento
+
+
 ### Braços
 #### Braço
 - Modificador:
