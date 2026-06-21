@@ -10,7 +10,8 @@ Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descu
   *--Gastando dois de estâmina você evita a condição--* 
 ## Manobra
 ### Agarrar
-Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar o alvo fica "Agarrado". é preciso ter uma mão liv
+Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar o alvo fica "Agarrado". É preciso ter uma mão livre para realizar essa ação
+- Agarrado: não pode se mover, além disso
 
 ### Derrubar
 Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se passar derrube-o no chão
