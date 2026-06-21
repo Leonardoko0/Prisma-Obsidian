@@ -35,17 +35,17 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do nível de dificuldade do acerto
 ### Cabeça
 #### Olhos
-- Modificador: -2 no ataque
+- Modificador: -3 no ataque
 - Efeito: deixa o alvo semi cego por 1d2 rodadas
 
 - Semi Cego: o alvo sofre desvantagens em testes ligados a visão
 #### Tímpano
-- Modificador: -1
+- Modificador: -2
 - Efeito: deixa o alvo surdo por 1d3 rodadas
 
 - Surdo: o alvo sofre desvantagens em testes ligado a audição e falha automática em testes que precisam dela
 #### Mandíbula
-- Modificador:
+- Modificador: -2
 - Efeito:
 #### Têmpora
 - Modificador:
