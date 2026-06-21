@@ -35,9 +35,17 @@ Rode um teste de ataque (For) contra um teste de Atletismo/Acrobacia do alvo, se
 Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do nível de dificuldade do acerto
 ### Cabeça
 #### Olhos
+- Modificador: -2 no ataque
+- Efeito deixa o alvo
 #### Tímpano
+- Modificador:
+- Efeito
 #### Mandíbula
+- Modificador:
+- Efeito
 #### Têmpora
+- Modificador:
+- Efeito
 ### Braços
 #### Braço
 #### Mão
