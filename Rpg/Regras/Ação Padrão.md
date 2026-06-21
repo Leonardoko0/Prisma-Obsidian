@@ -22,7 +22,8 @@
 ### Pernas
 #### Perna
 #### Pé
-
+### Torço/Órgãos
+ 
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
