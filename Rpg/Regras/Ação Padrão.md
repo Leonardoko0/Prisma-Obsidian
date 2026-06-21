@@ -77,8 +77,10 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -6
 - Efeito:
 #### Diafragma
-- Modificador:
-- Efeito:
-## Preparar
+- Modificador: -4
+- Efeito: O alvo fica fadigado 
+
+- 
+## Prepara
 ## Analisar
 ## Esconder
