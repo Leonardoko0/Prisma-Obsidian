@@ -38,7 +38,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -2 no ataque
 - Efeito: deixa o alvo semi cego
 
-- Semi Cego: o alvo sofre desvantagens em testes de percepção ligados a visão, além disso 
+- Semi Cego: o alvo sofre desvantagens em testes de percepção ligados a visão,
 #### Tímpano
 - Modificador:
 - Efeito:
