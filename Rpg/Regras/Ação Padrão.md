@@ -59,7 +59,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Efeito:
 #### Mão
 - Modificador: -2
-- Efeito: O alvo recebe desvantagens contra testes de des
+- Efeito: O alvo recebe desvantagens contra testes de desarmar
 ### Pernas
 #### Perna
 - Modificador:
