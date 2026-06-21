@@ -74,7 +74,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -4
 - Efeito: o alvo recupera apenas metade da sua estâmina pelas próximas 1d2 rodadas
 #### Coração
-- Modificador: -6
+- Modificador: -7
 - Efeito: +2 na margem de crítico, Ruptura cardíaca
 
 -  Ruptura Cardíaca: o alvo perde 10 por cento da sua vida ou 3d6(12) (o que for maior) até ser curado

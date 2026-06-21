@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7b4aaba853bec5d2",
+  "active": "b2bc139294b5ac49",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Regras/Ação Padrão.md",
     "SalvaGuarda.md",
-    "Sovereign.md",
     "Rpg/Regras/Armadura.md",
     "Base Mãe.md",
     "Rpg/Regras/Combate.md",
