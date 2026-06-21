@@ -23,6 +23,9 @@
 #### Perna
 #### Pé
 ### Torço/Órgãos
+#### Pulmões
+#### Coração
+#### Diafragma
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
