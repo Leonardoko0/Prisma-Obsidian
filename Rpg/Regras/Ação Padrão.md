@@ -1,8 +1,9 @@
 #Regras [[Combate]]
 
 ## Lutar
-### **Atacar**
-### **Avançar**
+### Atacar
+### Avançar
+### Investida
 ## Manobra
 ### Agarrar
 ### Derrubar
@@ -10,7 +11,6 @@
 ### Empurrar
 
 ## Golpe Direcionado
-## Investida
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
