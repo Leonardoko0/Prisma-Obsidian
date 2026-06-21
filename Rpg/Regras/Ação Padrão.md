@@ -13,6 +13,8 @@
 ## Golpe Direcionado
 ### Cabeça
 #### Olhos
+#### Tímpano
+#### Mandíbula
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
