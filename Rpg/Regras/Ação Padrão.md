@@ -11,6 +11,8 @@
 ### Empurrar
 
 ## Golpe Direcionado
+### Cabeça
+#### Olhos
 ## Preparar
 ## Procurar Ponto Fraco
 ## Esconder
