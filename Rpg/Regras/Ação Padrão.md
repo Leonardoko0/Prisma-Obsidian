@@ -58,7 +58,7 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Modificador: -2
 - Efeito: Causa fratura superficial (Braço)
 
-- Fra
+- Fratura Superficial (Braço): não pode realizar ações como: Pancada, Fintar
 #### Mão
 - Modificador: -2
 - Efeito: O alvo recebe desvantagens contra testes de desarmar
