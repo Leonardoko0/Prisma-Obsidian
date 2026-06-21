@@ -11,6 +11,7 @@ Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descu
 ## Manobra
 ### Agarrar
 ### Derrubar
+Rode um teste de ataque (For) contra um teste contrario de atletismo
 ### Desarmar
 ### Empurrar
 
