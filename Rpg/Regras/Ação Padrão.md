@@ -4,3 +4,7 @@
 ### **Atacar**
 ### **Avançar**
 ## Manobra
+## Investida
+## Preparar
+## Procurar Ponto Fraco
+##
