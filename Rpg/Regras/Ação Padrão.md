@@ -40,26 +40,40 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 
 - Semi Cego: o alvo sofre desvantagens em testes ligados a visão
 #### Tímpano
-- Modificador: -2
+- Modificador: -2 no ataque
 - Efeito: deixa o alvo surdo por 1d3 rodadas
 
 - Surdo: o alvo sofre desvantagens em testes ligado a audição e falha automática em testes que precisam dela
 #### Mandíbula
-- Modificador: -2
+- Modificador: -2 no ataque
 - Efeito:
 #### Têmpora
-- Modificador:
+- Modificador: -
 - Efeito:
 ### Braços
 #### Braço
+- Modificador:
+- Efeito:
 #### Mão
+- Modificador:
+- Efeito:
 ### Pernas
 #### Perna
+- Modificador:
+- Efeito:
 #### Pé
+- Modificador:
+- Efeito:
 ### Torço/Órgãos
 #### Pulmões
+- Modificador:
+- Efeito:
 #### Coração
+- Modificador:
+- Efeito:
 #### Diafragma
+- Modificador:
+- Efeito:
 ## Preparar
 ## Analisar
 ## Esconder
