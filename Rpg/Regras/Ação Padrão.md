@@ -4,10 +4,12 @@
 ### **Atacar**
 ### **Avançar**
 ## Manobra
+### Agarrar
 ### Derrubar
+### Empurrar
+### 
 ###
 ###
-
 ## Golpe Direcionado
 ## Investida
 ## Preparar
