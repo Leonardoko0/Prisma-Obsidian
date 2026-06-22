@@ -8,3 +8,4 @@ Faça um teste de atletismo (DT 15/20 terreno difícil) se passar ande o dobro d
 ## Fintar
 Faça um teste de enganação contra um salvaguarda de sentido do alvo, se passar ganhe vantagem no próximo ataque. Custa um de estâmina
 ## Pancada
+Rode um ataCause um dano igual a sua força e aplique efeitos que usem a pancada 
