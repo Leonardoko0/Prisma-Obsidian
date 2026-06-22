@@ -2,7 +2,7 @@
 ## Aparar
 Rode o dano da sua arma sem modificadores diversos, essa será sua mitigação de dano, caso o seu dano seja superior ao dano dado anule o ataque inimigo. Custa um de estâmina
 ## Esquiva
-Adicione seu bôm
+Adicione seu bônus de proficiência em sua defesa, caso a esquiva seja um sucesso você 
 ## Contra-Ataque
 Caso o inimigo erre, você pode atacar o alvo. é preciso definir essa reação antes do inimigo errar. Custa um de estâmina
 ## Redirecionar
