@@ -6,5 +6,6 @@ Adicione seu bônus de proficiência em sua defesa, caso a esquiva seja um suces
 ## Contra-Ataque
 Caso o inimigo erre, você pode atacar o alvo. é preciso definir essa reação antes do inimigo errar. Custa um de estâmina
 ## Redirecionar
+Faça um teste de destreza manual, caso passe do teste atacante, redirecione o ataque para um espaço adjacente 
 ## Retaliação
 Não reaja e tome o golpe, porém logo em seguida ataque o alvo com a ação "Atacar" . Custa um de estâmina
