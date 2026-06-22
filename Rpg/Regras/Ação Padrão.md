@@ -88,5 +88,5 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ## Preparar
 Você armazena uma ação especifica, quando os fatores forem compridos a ação será ativada, dura até o inicio do seu próximo turno. Não custa estâmina
 ## Analisar
-Passe sua ação observando o alvo e tire vantagens disso, rode percepção ou tática (DT 15/20/25 depende do nível do alvo) se passar receba informação so 
+Passe sua ação observando o alvo e tire vantagens disso, rode percepção ou tática (DT 15/20/25 depende do nível do alvo) se passar, receba informação sobre o alvo ou um bônus em alguma coisa que o player quis
 ## Esconder
