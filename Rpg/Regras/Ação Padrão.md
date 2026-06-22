@@ -85,6 +85,6 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 - Efeito: O alvo fica fadigado pelas próximas 1d2 rodadas
 
 - Fadigado: Seu movimento é cordado pela metade, além disso você não pode realizar qualquer outra ação não especial que te mova
-## Prepara
+## Preparar
 ## Analisar
 ## Esconder
