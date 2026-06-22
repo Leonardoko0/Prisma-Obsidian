@@ -86,5 +86,6 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 
 - Fadigado: Seu movimento é cordado pela metade, além disso você não pode realizar qualquer outra ação não especial que te mova
 ## Preparar
+Você armazena uma ação especifica, quando os fatores dessa ação forem compridos 
 ## Analisar
 ## Esconder
