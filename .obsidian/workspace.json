@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,13 +268,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e99781a211e66b94",
+  "active": "dbcbc81c803675ed",
   "lastOpenFiles": [
+    "Rpg/Personagens/Artilherista.md",
     "Reações.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Regras/Estâmina.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Nômade.md",
