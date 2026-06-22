@@ -96,7 +96,6 @@ LV 3 Peta: Use sangue nas suas habilidades e desbloqueie Kaifuku um LV antes do 
 **LV 14, Transporte Sanguíneo:** Gaste 3PP e sua ação completa para atravessar uma ferida de um alvo a 45m de distancia saindo dessa ferida. O alvo 8d8+16 de dano corte, o alvo deve fazer um teste de constituição se passar toma metade do dano e evita teletransporte
 
 **LV 20, Vital:** Saiba a localização de qualquer alvo machucado a 1Km de distancia e sua porcentagem de vida (100/75/50/25)
-
 Você pode se concentrar no alvo para usar "Transporte Sanguíneo" nessa distancia
 
 Pode gastar 2PP para Atacar um alvo com menos da metade da vidam, dobre o dano dado 
