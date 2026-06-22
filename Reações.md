@@ -5,4 +5,4 @@ Rode o dano da sua arma sem modificadores diversos, essa será sua mitigação d
 ## Contra-Ataque
 ## Redirecionar
 ## Retaliação
-Não reaja e tome o golpe, porém logo em seguida ataque o alvo
+Não reaja e tome o golpe, porém logo em seguida ataque o alvo com a ação "Atacar" . Custa um de estâmina
