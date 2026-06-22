@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -268,11 +268,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "996fb328d9ce8f44",
+  "active": "e99781a211e66b94",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação de Movimento.md",
     "Reações.md",
     "Rpg/Regras/Ação Padrão.md",
+    "Rpg/Regras/Ação de Movimento.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Regras/Estâmina.md",
