@@ -90,4 +90,6 @@ Você armazena uma ação especifica, quando os fatores forem compridos a ação
 ## Analisar
 Passe sua ação observando o alvo e tire vantagens disso, rode percepção ou tática (DT 15/20/25 depende do nível do alvo) se passar, receba informação sobre o alvo ou um bônus em alguma coisa que o player quiser (O mestre tem a palavra final se aquilo é possível)
 ## Esconder
-Passe sua ação tentando se esconder de todos, rode furtividade contra os alvos ou alvo específico que você queira se esc
+Passe sua ação tentando se esconder de todos, rode furtividade contra os alvos ou alvo específico que você queira se esconder se passar fique furtivo
+
+- Furtivo
