@@ -88,4 +88,5 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 ## Preparar
 Você armazena uma ação especifica, quando os fatores forem compridos a ação será ativada, dura até o inicio do seu próximo turno. Não custa estâmina
 ## Analisar
+Passe sua ação observando o alvo e tire vantagens disso, rode percepç
 ## Esconder
