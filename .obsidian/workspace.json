@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "Ação Padrão"
             }
+          },
+          {
+            "id": "29c31c37ca2829fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Regras/Estâmina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estâmina"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,11 +240,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "996fb328d9ce8f44",
+  "active": "29c31c37ca2829fa",
   "lastOpenFiles": [
-    "Reações.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
+    "Reações.md",
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
     "Rpg/Regras/Estâmina.md",
