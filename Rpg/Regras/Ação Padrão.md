@@ -66,6 +66,8 @@ Custa 1 de estâmina e causa efeitos diversos porém tem um modificador do níve
 #### Perna
 - Modificador: -2 
 - Efeito: Causa fratura superficial (Perna) por 1d3 rodadas
+
+- Fratura Superficial (Pena):
 #### Pé
 - Modificador: -3
 - Efeito: O alvo recebe desvantagens contra testes de derrubar
