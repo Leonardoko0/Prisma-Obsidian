@@ -115,5 +115,5 @@ Ser bem sucedido na Ação "Desarmar" te dá uma ação a mais
 **Ponto Cego:** Recebe +5 na Ação "Desarmar" quando usada em um alvo Flanqueado
 
 **LV 20, Aiguille Sanguinaris:** Você recebe mais um grau de alcance na lâmina Kira, além disso escolha entre duas poses de combate
-**Quarte:** Nesse modo você recebe mais 3 dados do mesmo tipo da sua arma nas reações de aparar, além disso ganhe duas ações pós aparo
+**Quarte:** Nesse modo você recebe mais 3 dados do mesmo tipo da sua arma nas reações de aparar, além disso ganhe duas ações pós desarme
 **Octave:** Nesse modo você ganha mais um grau de alcance além do extra padrão, além disso não precisa utilizar "Deflexão" para utilizar lunge, recebe mais 6m de distancia de lunge e quando acertar gaste um PP para usar novamente como ação livre
