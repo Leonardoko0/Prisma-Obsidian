@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,13 +226,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e99781a211e66b94",
+  "active": "b2bc139294b5ac49",
   "lastOpenFiles": [
     "Sovereign.md",
+    "Rpg/Regras/Ação Padrão.md",
+    "Rpg/Personagens/Artilherista.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Aparatos.md",
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Armadura.md",
     "Base Mãe.md",
     "Rpg/Regras/Combate.md",
@@ -243,7 +244,6 @@
     "Aila (Sledge Queen).md",
     "Achille Ithrix (O Grilo Amarelo).md",
     "Personalidades Notáveis.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Classes.md",
