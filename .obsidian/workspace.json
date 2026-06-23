@@ -89,8 +89,7 @@
               "title": "Estâmina"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,14 +239,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "29c31c37ca2829fa",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Regras/Estâmina.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
     "Reações.md",
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
-    "Rpg/Regras/Estâmina.md",
     "SalvaGuarda.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Aparatos.md",
