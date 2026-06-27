@@ -27,8 +27,8 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |    Medicina     |   Int    |                     |
 |    Percepção    |   Sen    |                     |
 |    Pilotagem    |   Agi    |                     |
-|   Subterfúgio   |   Int    |                     |
 |    Religião     |   Int    |                     |
+|   Subterfúgio   |   Int    |                     |
 |     Tática      |   Int    |                     |
 |   Tecnologia    |   Int    |                     |
 ## Perícias
@@ -38,7 +38,6 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 ### Atletismo
 ### Ciências
 ### Cognato
-### Crime 
 ### Destreza manual 
 ### Diplomacia
 ### Enganação
