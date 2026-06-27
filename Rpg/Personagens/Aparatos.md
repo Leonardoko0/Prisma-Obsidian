@@ -2,7 +2,7 @@
 
 ## Aparatos
 ### Respirador de Emergência
-- 1 Uso
+- 2 Uso
 - Ação de Movimento
 - Duração: 6 rodadas/ Cena
 
