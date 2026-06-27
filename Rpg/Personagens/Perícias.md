@@ -13,7 +13,7 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |      Arte       |   Int    |                     |
 |    Atletismo    |   For    |         Sim         |
 |    Ciências     |   Int    |                     |
-|      Crime      |   Int    |         Sim         |
+|   Subterfúgio   |   Int    |         Sim         |
 | Destreza manual |   Agi    |         Sim         |
 |   Diplomacia    |   Car    |                     |
 |    Enganação    |   Car    |                     |
