@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Vestimentas e Armaduras"
             }
+          },
+          {
+            "id": "91af78f42809a14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reações.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reações"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,11 +198,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "064f6a95ef7597e0",
+  "active": "91af78f42809a14b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Sovereign.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Reações.md",
