@@ -51,6 +51,7 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 ### Medicina
 ### Percepção
 ### Pilotagem
+### Subterfúgio
 ### Religião
 ### Tática
 ### Tecnologia
