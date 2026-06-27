@@ -12,8 +12,8 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |  Adestramento   |   Car    |                     |
 |      Arte       |   Int    |                     |
 |    Atletismo    |   For    |         Sim         |
+|     Cognato     |   Sen    |                     |
 |    Ciências     |   Int    |                     |
-|   Subterfúgio   |   Int    |         Sim         |
 | Destreza manual |   Agi    |         Sim         |
 |   Diplomacia    |   Car    |                     |
 |    Enganação    |   Car    |                     |
@@ -26,8 +26,8 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |  Investigação   |   Int    |                     |
 |    Medicina     |   Int    |                     |
 |    Percepção    |   Sen    |                     |
-|     Cognato     |   Sen    |                     |
 |    Pilotagem    |   Agi    |                     |
+|   Subterfúgio   |   Int    |                     |
 |    Religião     |   Int    |                     |
 |     Tática      |   Int    |                     |
 |   Tecnologia    |   Int    |                     |
