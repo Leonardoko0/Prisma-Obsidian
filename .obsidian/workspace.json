@@ -89,8 +89,7 @@
               "title": "Perícias"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +239,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d24e101d12bebbc3",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Classes.md",
@@ -267,7 +267,6 @@
     "Rpg/Personagens/Traits.md",
     "Yosef (Traidor).md",
     "Shirose Schnee (Caçadora de Prata).md",
-    "Aila (Sledge Queen).md",
     "Pasted image 20260523170531.png",
     "Minha PEÇA.canvas",
     "Sem título.base",
