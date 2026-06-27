@@ -2,6 +2,7 @@
 ## Aparar
 Rode o dano da sua arma sem modificadores diversos, essa será sua mitigação de dano, caso o seu dano seja superior ao dano dado anule o ataque inimigo. Custa um de estâmina
 ## Defender
+Aumenta a absorção da armadura (escrever)
 ## Esquiva
 Adicione seu bônus de proficiência em sua defesa, caso a esquiva seja um sucesso você pode se mover 1,5m (Algumas armaduras e equipamentos podem impossibilitar essa reação). Custa dois de estâmina 
 ## Contra-Ataque

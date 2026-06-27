@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,14 +198,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "91af78f42809a14b",
+  "active": "064f6a95ef7597e0",
   "lastOpenFiles": [
+    "Reações.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Equipamento.md",
     "Sovereign.md",
     "Rpg/Regras/Ação de Movimento.md",
-    "Reações.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Traits.md",
