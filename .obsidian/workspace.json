@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Vestimentas e Armaduras.md",
+                "file": "Rpg/Personagens/Aparatos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vestimentas e Armaduras"
+              "title": "Aparatos"
             }
           }
         ],
@@ -186,13 +186,14 @@
   },
   "active": "4241042e3ffbc70f",
   "lastOpenFiles": [
+    "Rpg/Personagens/Equipamento.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Sovereign.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Reações.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Armadura.md",
@@ -211,7 +212,6 @@
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Raça.md",
     "Yosef (Traidor).md",
-    "Shirose Schnee (Caçadora de Prata).md",
     "Pasted image 20260523170531.png",
     "Minha PEÇA.canvas",
     "Sem título.base",
