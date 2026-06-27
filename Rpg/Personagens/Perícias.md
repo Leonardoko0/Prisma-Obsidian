@@ -13,7 +13,7 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |      Arte       |   Int    |                     |
 |    Atletismo    |   For    |         Sim         |
 |    Ciências     |   Int    |                     |
-|      Crime      |   Agi    |         Sim         |
+|      Crime      |   Int    |         Sim         |
 | Destreza manual |   Agi    |         Sim         |
 |   Diplomacia    |   Car    |                     |
 |    Enganação    |   Car    |                     |
@@ -21,7 +21,6 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |      Éter       |   Int    |                     |
 |   Furtividade   |   Agi    |         Sim         |
 |    História     |   Int    |                     |
-|  Improvisação   |   Int    |                     |
 |   Intimidação   |   Car    |                     |
 |    Intuição     |   Sen    |                     |
 |  Investigação   |   Int    |                     |
@@ -39,15 +38,14 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 ### Atletismo
 ### Ciências
 ### Cognato
-### Crime (X)
-### Destreza manual (X)
+### Crime 
+### Destreza manual 
 ### Diplomacia
 ### Enganação
-### Etiqueta Social (X) 
+### Etiqueta Social  
 ### Éter
 ### Furtividade
 ### História
-### Improvisação(X)
 ### Intimidação
 ### Intuição
 ### Investigação
