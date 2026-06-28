@@ -47,8 +47,7 @@
               "title": "Reações"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "064f6a95ef7597e0",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Reações.md",
@@ -225,7 +225,6 @@
     "Base Mãe.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Raça.md",
-    "Yosef (Traidor).md",
     "Pasted image 20260523170531.png",
     "Minha PEÇA.canvas",
     "Sem título.base",
