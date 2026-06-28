@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,8 +268,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a1eb059d4a63aeb",
+  "active": "064f6a95ef7597e0",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Prisma.md",
@@ -280,7 +281,6 @@
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Reações.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Regras/Ação de Movimento.md",
