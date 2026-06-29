@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dec4ff7d4765d359",
+  "active": "78bd756e9314178e",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
+    "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Estâmina.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
