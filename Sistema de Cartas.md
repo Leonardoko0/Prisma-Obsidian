@@ -1,7 +1,7 @@
 #Regras [[Regras]]
 ## Cartas Azuis
-###
-###
+### O Mago
+### A Sacerdotisa 
 ###
 ###
 ###
