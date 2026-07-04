@@ -4,8 +4,8 @@
 ### A Sacerdotisa 
 ### A Imperatriz 
 ### O Imperador
-###
-###
+### O Hierofante
+### Os Amantes
 ###
 ###
 ###
