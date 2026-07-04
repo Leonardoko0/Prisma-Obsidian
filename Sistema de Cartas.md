@@ -11,8 +11,8 @@
 ### O Eremita
 ### A Roda da Fortuna 
 ### A Força
-###
-###
+### O Enforcado 
+### A Morte 
 ###
 ###
 ###
