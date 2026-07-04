@@ -10,7 +10,7 @@
 ### A Justiça
 ### O Eremita
 ### A Roda da Fortuna 
-###
+### A Força
 ###
 ###
 ###
