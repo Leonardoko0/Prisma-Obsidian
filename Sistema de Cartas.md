@@ -13,9 +13,9 @@
 ### A Força
 ### O Enforcado 
 ### A Morte 
-###
-###
-###
+### A Temperança
+### O Diabo 
+### A Torre 
 ###
 ###
 ###
