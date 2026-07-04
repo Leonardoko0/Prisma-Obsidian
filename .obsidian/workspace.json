@@ -75,8 +75,7 @@
               "title": "Arbiter"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,12 +225,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b3ac35ef2ab891a7",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Regras/Estâmina.md",
+    "Rpg/Personagens/Arbiter.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
-    "Rpg/Personagens/Arbiter.md",
-    "Rpg/Regras/Estâmina.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Raça.md",
