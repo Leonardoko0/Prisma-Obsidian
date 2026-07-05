@@ -53,6 +53,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Eremita 9
 "Você é imune a qualquer efeito positivo ou negativo recebido de um membro da sua equipe (Dano e cura contam como efeitos)"
 ### A Roda da Fortuna 10 
+"Todos os jogares"
 ### A Força 11
 ### O Enforcado 12
 ### A Morte 13
