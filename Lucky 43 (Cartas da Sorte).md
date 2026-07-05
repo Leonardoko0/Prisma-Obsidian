@@ -11,6 +11,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Imperatriz 3
 "Ao revelar você pode escolher um momento da sessão para se curar completamente e remover seus efeitos negativos"
 ### O Imperador 4
+"Revele as outras duas cartas da sua mesa. Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
 ### O Hierofante 5
 "Na próxima interação social, suas palavras carregam grande autoridade. Caso exista uma solução pacífica plausível, os envolvidos tendem a confiar em você e aceitá-la."
 ### Os Amantes 6
@@ -37,6 +38,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Imperatriz 3
 "Ao revelar receba metade da sua vida maxima em dano e perca essa quantia até o fim dessa sessão"
 ### O Imperador 4
+"Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas para se tornar ativa. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece
 ### O Hierofante 5
 "Na próxima interação social, qualquer tentativa de convencer, negociar ou liderar encontra forte resistência. Os envolvidos tendem a questionar e agir contra suas recomendações."
 ### Os Amantes 6
@@ -58,12 +60,6 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Mundo 21
 ## *O Louco 0*
 ## Ideias
-- O imperador/ O Mago/
-*Azul*
-"Revele as outras duas cartas da sua mesa. Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
-*Vermelho*
-"Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas para se tornar ativa. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece
-
 - O louco
 *Azul*
 "Saque uma nova carta do baralho, ela e o resto da sua mão se tornam ativas simultaneamente"
