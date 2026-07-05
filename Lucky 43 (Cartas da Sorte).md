@@ -57,7 +57,4 @@ Na próxima interação social, qualquer tentativa de convencer, negociar ou lid
 *Vermelho*
 "Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas para se tornar ativa. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece"
 
-"Escolha uma das outras duas cartas na mesa e revele-a. Caso seja uma carta positiva, ela se torna 
-negativa. Caso já seja negativa, nada acontece"
-
 - O imperador/ O Mago/
