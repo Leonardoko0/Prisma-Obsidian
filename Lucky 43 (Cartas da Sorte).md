@@ -17,7 +17,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### Os Amantes 6
 "Ao ativar você escolhe um membro da sua equipe. Quando rolar um teste você pode pedir para o personagem amado rolar também, se ele passar você recebe vantagem em seu teste (Duas vezes por cena)"
 ### A Carruagem 7
-"Quando você obter sucesso em um teste o seu próximo receberá vantagem, além disso pelo resto da cena aumente em 1 o resultado natural das suas rolagens podendo se aplicar multiplas"
+"Quando você obter sucesso em um teste o seu próximo receberá vantagem, além disso pelo resto da cena aumente em 1 o resultado natural das suas rolagens podendo se aplicar múltiplas vezes na mesma cena"
 ### A Justiça 8
 ### O Eremita 9
 ### A Roda da Fortuna 10 
@@ -45,6 +45,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### Os Amantes 6
 "Um membro aleatório da sua equipe se torna seu amante. Você compartilha sua vida e efeitos de status com ele, todo dano e cura são dobrados (O efeito de ambas as armaduras são ativos para essa vida compartilhada)."
 ### A Carruagem 7 
+"Quando você obter uma falha em um teste o seu próximo receberá desvantagem, além disso pelo resto da cena dminua em 1 o resultado natural das suas rolagens podendo se aplicar múltiplas vezes na mesma cena"
 ### A Justiça 8
 ### O Eremita 9
 ### A Roda da Fortuna 10 
