@@ -75,9 +75,10 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 - Perca Seu Turno
 - Próximo Ataque Inimigo é um Acerto Crítico.
 - Vantagem na rolagem do Jogador
-- Você é jogado 9m (6 tiles) em uma direção aleatória
+- Você é jogado 9m (6 tiles) em uma Direção Aleatória
+- Randomiza a Iniciativa
+- Troque esse Taro por Outro Aleatório
 - 
-- a
 ### A Torre 16
 ### A Estrela 17
 ### A Lua 18
