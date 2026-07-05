@@ -7,7 +7,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ## **Cartas Azuis**
 ### O Mago 1
 ### A Sacerdotisa 2
-"Ao revelar "
+"Ao revelar você tem visões de acontecimentos futuros "
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
