@@ -56,6 +56,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Roda da Fortuna 10 
 "Todos os jogares sacam uma carta do baralho, elas se tornam ativas instantaneamente invertendo suas cores"
 ### A Força 11
+
 ### O Enforcado 12
 ### A Morte 13
 ### A Temperança 14
