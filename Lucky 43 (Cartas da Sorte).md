@@ -9,6 +9,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Sacerdotisa 2
 "Ao revelar você pode pedir ao mestre visões de acontecimentos futuros. Isso pode te dar bônus em certas situações. Dura pela sessão, o mestre pode sempre escolher dar visões além dos pedidos ou negá-los."
 ### A Imperatriz 3
+""
 ### O Imperador 4
 ### O Hierofante 5
 "Na próxima interação social, suas palavras carregam grande autoridade. Caso exista uma solução pacífica plausível, os envolvidos tendem a confiar em você e aceitá-la."
