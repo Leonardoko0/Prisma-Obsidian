@@ -82,6 +82,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 - Todos os Integrantes do Combate Trocam de Posição
 - Sua Velocidade de Movimento é Dobrada, Você Deve Usar Toda Ela ou Tomar (proficiência)d12 de dano
 ### A Torre 16
+
 ### A Estrela 17
 ### A Lua 18
 ### O Sol 19
