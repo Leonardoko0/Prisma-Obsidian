@@ -38,7 +38,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Hierofante 5
 "Na próxima interação social, qualquer tentativa de convencer, negociar ou liderar encontra forte resistência. Os envolvidos tendem a questionar e agir contra suas recomendações."
 ### Os Amantes 6
-Um membro aléatório
+Um membro aleatório da sua equipe se torna seu amante. Você compartilha sua vida e efeitos de status com seu amante.
 ### A Carruagem 7 
 ### A Justiça 8
 ### O Eremita 9
