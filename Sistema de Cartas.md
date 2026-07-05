@@ -1,5 +1,5 @@
 #Regras [[Regras]]
-## Cartas Azuis
+## **Cartas Azuis**
 ### O Mago
 ### A Sacerdotisa 
 ### A Imperatriz 
@@ -20,26 +20,26 @@
 ### A Lua 
 ### O Sol
 ### O Julgamento
-###
-## Cartas Vermelhas
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
+### O Mundo
+## **Cartas Vermelhas**
+### O Mago
+### A Sacerdotisa 
+### A Imperatriz 
+### O Imperador
+### O Hierofante
+### Os Amantes
+### A Carruagem
+### A Justiça
+### O Eremita
+### A Roda da Fortuna 
+### A Força
+### O Enforcado 
+### A Morte 
+### A Temperança
+### O Diabo 
+### A Torre 
+### A Estrela 
+### A Lua 
+### O Sol
+### O Julgamento
+### O Mundo
