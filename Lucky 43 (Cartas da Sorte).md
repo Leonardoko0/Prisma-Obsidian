@@ -24,7 +24,7 @@
 ### O Mundo 21
 ## **Cartas Vermelhas**
 ### O Mago 1
-"Escolha outra das outras 2 cartas na mesa em seguida revele-a se  "
+"Escolha outra das outras 2 cartas na mesa em seguida revele-a se for positiva a transforme em negativa, se for negativa a mantenha "
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
