@@ -1,7 +1,8 @@
 #Regras [[Regras]]
+No inicio de toda sessão todos os players vão sacar 3 cartas e deixa-las viradas pra baixo, a qual
 ## **Cartas Azuis**
 ### O Mago 1
-"Revele as outras duas cartas da sua mesa. Escolha uma delas e coloque-a em sua mão. Ela poderá ser usada a qualquer momento."
+"Revele as outras duas cartas da sua mesa. Escolha uma delas e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
@@ -24,7 +25,7 @@
 ### O Mundo 21
 ## **Cartas Vermelhas**
 ### O Mago 1
-"Escolha outra das outras 2 cartas na mesa em seguida revele-a se for positiva a transforme em negativa, se for negativa a mantenha "
+"Escolha uma das outras duas cartas na mesa e revele-a. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece"
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
