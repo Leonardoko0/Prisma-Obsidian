@@ -78,6 +78,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 - Você é jogado 9m (6 tiles) em uma Direção Aleatória
 - Randomiza a Iniciativa
 - Troque esse Taro por Outro Aleatório
+- Todos os Integrantes do Combate Trocam de Posição
 - 
 ### A Torre 16
 ### A Estrela 17
