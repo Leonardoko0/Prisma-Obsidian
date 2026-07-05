@@ -73,8 +73,8 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 
 **Roleta do Caos**
 - Perca Seu Turno
-- a
-- a
+- Próximo Ataque nimigo Tem crítico.
+- Vantagem na rolagem
 - a
 - a
 - a
