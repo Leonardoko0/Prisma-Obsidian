@@ -21,7 +21,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Justiça 8
 "Ao revelar, você pode perguntar o karma de uma criatura que esteja na sua visão é positivo ou negativo. Se for negativo você pode gastar sua ação para descobrir informações sobre essa criatura além disso ela sofre desvantagens em acerto contra você enquanto souber essa informação"
 ### O Eremita 9
-"Caso você esteja realizando uma ação sozinho (Caso), você pode re rolar qualquer dado de 10 ou abaixo"
+"Caso você esteja realizando uma ação sozinho (Não haja nem um outro membro presente na cena), você pode re rolar qualquer dado de 10 ou abaixo"
 ### A Roda da Fortuna 10 
 ### A Força 11
 ### O Enforcado 12
@@ -51,6 +51,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Justiça 8
 "Ao revelar, todas as ações são definidas como de karma positivo e negativo. Ao realizar uma ação com karma negativo o efeito será espelhado contra você de uma forma definida pelo mestre"
 ### O Eremita 9
+""
 ### A Roda da Fortuna 10 
 ### A Força 11
 ### O Enforcado 12
