@@ -85,6 +85,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Torre 16
 "**Todos** os 1 e 20 se tornam mais notáveis. 1 em combate agora acertam aliados e 20 dobram o dano novamente"
 ### A Estrela 17
+"Quando errar um ataque em um inimigo o ataque ricocheteia e volta para você"
 ### A Lua 18
 ### O Sol 19
 ### O Julgamento 20
