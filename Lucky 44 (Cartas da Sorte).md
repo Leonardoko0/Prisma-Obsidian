@@ -72,14 +72,14 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 "No inicio do turno o jogador vai rolar a roleta do **Caos**"
 
 **Roleta do Caos**
-- Sua próxima rodada de combate é trocada por um jogo de pedra papel e t
+- Sua próxima rodada de combate é trocada por um jogo de pedra papel e tesoura 
 - Próximo Ataque Inimigo é um Acerto Crítico.
-- Vantagem na rolagem do Jogador
+- Dois Jogadores aleatórios jogam 21, o Perdedor Perde Sua Rodada
 - Você é jogado 9m (6 tiles) em uma Direção Aleatória (Para cima é uma direção)
 - Randomiza a Iniciativa
 - Troque esse Taro por Outro Aleatório
 - Todos os Integrantes do Combate Trocam de Posição
-- Dois Jogadores aleatórios jogam 21, o Perdedor Perde Sua Rodada
+- Sua Velocidade de Movimento é do
 ### A Torre 16
 ### A Estrela 17
 ### A Lua 18
