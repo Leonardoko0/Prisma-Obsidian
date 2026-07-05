@@ -73,7 +73,4 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ## *O Louco 0*
 ## Ideias
 - O louco
-*Azul*
-"Saque uma nova carta do baralho, ela e o resto da sua mão se tornam ativas simultaneamente"
-*Vermelho*
-"Saque uma nova carta do baralho, ela e o resto da sua mão se tornam ativas simultaneamente invertendo suas cores"
+
