@@ -29,6 +29,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Enforcado 12
 "Caso você acerte um ataque você pode gastar até sua vida atual para dar o dobro da quantidade gasta em dano, adicionalmente a cada 2 de vida gastos você pode receber +1 em testes de habilidade"
 ### A Morte 13
+"Está carta persiste"
 ### A Temperança 14
 ### O Diabo 15
 ### A Torre 16
