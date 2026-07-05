@@ -35,7 +35,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Sacerdotisa 2
 "Você é sobrecarregado de visões do presente, passado e futuro. durante os próximos momentos (1d4 rodadas/cena) você não pode realizar ações e fica completamente estático enquanto gagueja"
 ### A Imperatriz 3
-"Ao revelar receba "
+"Ao revelar receba metade da sua vida maxima em dano e perca essa quantia até o fim dessa sessão"
 ### O Imperador 4
 ### O Hierofante 5
 "Na próxima interação social, qualquer tentativa de convencer, negociar ou liderar encontra forte resistência. Os envolvidos tendem a questionar e agir contra suas recomendações."
