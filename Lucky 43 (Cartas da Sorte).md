@@ -17,7 +17,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### Os Amantes 6
 "Ao ativar você escolhe um membro da sua equipe. Quando rolar um teste você pode pedir para o personagem amado rolar também, se ele passar você recebe vantagem em seu teste (Duas vezes por cena)"
 ### A Carruagem 7
-"Sua armadura recebe 3 vezes sua durabilidade, "
+"Sua armadura recebe 3 vezes sua durabilidade, caso ela seja quebrada você recebe vantagem em todos os testes que incluem agilidade"
 ### A Justiça 8
 ### O Eremita 9
 ### A Roda da Fortuna 10 
