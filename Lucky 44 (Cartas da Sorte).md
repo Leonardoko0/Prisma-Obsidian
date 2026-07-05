@@ -39,6 +39,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Estrela 17
 "Todos os ataques inimigos que errem são ricocheteados e voltam para o atacante"
 ### A Lua 18
+"Quando jogada com o sol na mesa todos os jogadores podem escolher seu taro"
 ### O Sol 19
 ### O Julgamento 20
 ### O Mundo 21
