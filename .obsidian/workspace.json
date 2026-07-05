@@ -103,8 +103,7 @@
               "title": "Sistema de Cartas"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +253,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e1ce211c9f989262",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Sistema de Cartas.md",
     "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
