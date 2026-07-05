@@ -48,6 +48,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Carruagem 7 
 "Quando você obter uma falha em um teste o seu próximo receberá desvantagem, além disso pelo resto da cena diminua em 1 o resultado natural das suas rolagens podendo se aplicar múltiplas vezes na mesma cena (Max de 3 vezes)"
 ### A Justiça 8
+"Ao revelar"
 ### O Eremita 9
 ### A Roda da Fortuna 10 
 ### A Força 11
