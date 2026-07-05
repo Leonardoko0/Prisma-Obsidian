@@ -1,7 +1,7 @@
 #Regras [[Regras]]
 ## **Cartas Azuis**
 ### O Mago 1
-""
+"Vire suas outras duas cartas na sua mesa em seguida escolha a que você quiser e mantenha na sua mão para usar a qualquer momento"
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
