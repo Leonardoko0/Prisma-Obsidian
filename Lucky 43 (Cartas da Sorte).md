@@ -24,6 +24,7 @@
 ### O Mundo 21
 ## **Cartas Vermelhas**
 ### O Mago 1
+"Escolha outra das outras 2 cartas na mesa em seguida revele-a se  "
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
