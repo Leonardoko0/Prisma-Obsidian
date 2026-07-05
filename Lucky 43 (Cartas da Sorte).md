@@ -7,7 +7,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ## **Cartas Azuis**
 ### O Mago 1
 ### A Sacerdotisa 2
-"Ao revelar você pode pedir ao mestre visões de acontecimentos futuros. Isso pode te dar bônus em certas situações. Dura pela sessão, o mestre pode sempre escolher dar visões além dos pedidos"
+"Ao revelar você pode pedir ao mestre visões de acontecimentos futuros. Isso pode te dar bônus em certas situações. Dura pela sessão, o mestre pode sempre escolher dar visões além dos pedidos ou negá-los."
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
@@ -31,6 +31,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ## **Cartas Vermelhas**
 ### O Mago 1
 ### A Sacerdotisa 2
+"Você é sobrecarregado de visões do presente, passado e futuro. durante os próximos momentos voc"
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
