@@ -36,6 +36,7 @@ O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
+Na próxima interação social, qualquer tentativa de convencer, negociar ou liderar encontra forte resistência. Os envolvidos tendem a questionar sua autoridade e agir contra suas recomendações.
 ### Os Amantes 6
 ### A Carruagem 7 
 ### A Justiça 8
