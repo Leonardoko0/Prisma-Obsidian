@@ -62,6 +62,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Enforcado 12
 "No próximo combate todos os inimigos te vem como o único alvo possível até que você seja reduzido a 0 pontos de vida "
 ### A Morte 13
+"**Todo** o universo está contra você"
 ### A Temperança 14
 ### O Diabo 15
 ### A Torre 16
