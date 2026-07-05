@@ -52,10 +52,10 @@ Na próxima interação social, qualquer tentativa de convencer, negociar ou lid
 ### O Mundo 21
 ## *O Louco 0*
 ## Ideias
+*Azul*
 "Revele as outras duas cartas da sua mesa. Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
-
-"Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas   
-Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
+*Vermelho*
+"Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas para se tornar ativa. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece"
 
 "Escolha uma das outras duas cartas na mesa e revele-a. Caso seja uma carta positiva, ela se torna 
 negativa. Caso já seja negativa, nada acontece"
