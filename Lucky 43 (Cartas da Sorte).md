@@ -11,7 +11,8 @@ O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
-"O"
+"A próxima situação será resolvida de forma amigável e favoravel pra você"
+tudo será resolvido de maneira amigável, buscando encontrar sempre o acordo para uma situação.
 ### Os Amantes 6
 ### A Carruagem 7 
 ### A Justiça 8
