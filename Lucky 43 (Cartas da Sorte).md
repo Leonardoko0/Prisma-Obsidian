@@ -6,7 +6,6 @@ A qualquer momento durante a sessão, o jogador pode escolher uma dessas cartas 
 O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelhas) e o 1 joker (O Louco 0)
 ## **Cartas Azuis**
 ### O Mago 1
-"Revele as outras duas cartas da sua mesa. Escolha uma delas e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
@@ -30,7 +29,6 @@ O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Mundo 21
 ## **Cartas Vermelhas**
 ### O Mago 1
-"Escolha uma das outras duas cartas na mesa e revele-a. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece"
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
@@ -53,3 +51,5 @@ Na próxima interação social, qualquer tentativa de convencer, negociar ou lid
 ### O Julgamento 20
 ### O Mundo 21
 ## *O Louco 0*
+## Ideias
+"Revele as outras duas cartas da sua mesa. Escolha uma delas e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
