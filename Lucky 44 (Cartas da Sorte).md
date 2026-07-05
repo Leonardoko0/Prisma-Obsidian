@@ -72,7 +72,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 "No inicio do turno o jogador vai rolar a roleta do **Caos**"
 
 **Roleta do Caos**
-- Perca Seu Turno
+- Sua próxima rodada de combate é trocada por um jogo de pedra papel e t
 - Próximo Ataque Inimigo é um Acerto Crítico.
 - Vantagem na rolagem do Jogador
 - Você é jogado 9m (6 tiles) em uma Direção Aleatória (Para cima é uma direção)
