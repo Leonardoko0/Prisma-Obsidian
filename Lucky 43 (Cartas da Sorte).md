@@ -13,7 +13,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Hierofante 5
 "Na próxima interação social, suas palavras carregam grande autoridade. Caso exista uma solução pacífica plausível, os envolvidos tendem a confiar em você e aceitá-la."
 ### Os Amantes 6
-"Ao ativar você escolhe um membro da sua equipe. Quando rolar um teste você pode pedir para o personagem amado rolar também, se ele passar você recebe vantagem em seu teste"
+"Ao ativar você escolhe um membro da sua equipe. Quando rolar um teste você pode pedir para o personagem amado rolar também, se ele passar você recebe vantagem em seu teste (Duas vez)"
 ### A Carruagem 7 
 ### A Justiça 8
 ### O Eremita 9
