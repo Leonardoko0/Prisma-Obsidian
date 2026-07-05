@@ -37,6 +37,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Torre 16
 "**Todos** os 1 e 20 são re rolados"
 ### A Estrela 17
+"Todos os ataques inimigos que errem são ricocheteados e voltam para o atacante"
 ### A Lua 18
 ### O Sol 19
 ### O Julgamento 20
