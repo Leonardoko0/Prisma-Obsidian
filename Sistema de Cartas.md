@@ -16,10 +16,10 @@
 ### A Temperança
 ### O Diabo 
 ### A Torre 
-###
-###
-###
-###
+### A Estrela 
+### A Lua 
+### O Sol
+### O Julgamento
 ###
 ## Cartas Vermelhas
 ###
