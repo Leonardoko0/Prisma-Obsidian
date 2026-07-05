@@ -52,10 +52,13 @@ Na próxima interação social, qualquer tentativa de convencer, negociar ou lid
 ### O Mundo 21
 ## *O Louco 0*
 ## Ideias
+- O imperador/ O Mago/
 *Azul*
 "Revele as outras duas cartas da sua mesa. Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
 *Vermelho*
 "Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas para se tornar ativa. Caso seja uma carta positiva, ela se torna negativa. Caso já seja negativa, nada acontece
 
-
 - O louco
+*Azul*
+"Saque uma nova carta do baralho, ela e o resto da sua mão se tornam ativas simuntaneamente"
+*Vermelho*
