@@ -31,7 +31,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Morte 13
 "Esta carta persiste entre sessões na mão do jogador. Essa carta pode ser utilizada para impedir a morte de um jogador revivendo-o com a metade da vida (a carta pode ser utilizada até 10 rodadas (ou cena) da morte)"
 ### A Temperança 14
-"Todos seus testes são automaticamente 15, "
+"Todos seus testes são automaticamente 15, o jogador pode levar uma quantia de dano igual ao seu dado de vida para poder rodar um dado normalmente ao invés disso."
 ### O Diabo 15
 ### A Torre 16
 ### A Estrela 17
@@ -66,6 +66,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Morte 13
 "**Todo** o universo está contra você"
 ### A Temperança 14
+"Todos seus testes são automaticamente 7, o jogador pode levar uma quantia de dano igual ao seu dado de vida para poder rodar um dado normalmente ao invés disso."
 ### O Diabo 15
 ### A Torre 16
 ### A Estrela 17
