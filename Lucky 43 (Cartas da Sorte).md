@@ -31,7 +31,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ## **Cartas Vermelhas**
 ### O Mago 1
 ### A Sacerdotisa 2
-"Você é sobrecarregado de visões do presente, passado e futuro. durante os próximos momentos voc"
+"Você é sobrecarregado de visões do presente, passado e futuro. durante os próximos momentos (1d4 rodadas em combates) você não pode realizar ações e fica completamente estático enquanto gagueja"
 ### A Imperatriz 3
 ### O Imperador 4
 ### O Hierofante 5
