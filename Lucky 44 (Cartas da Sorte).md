@@ -89,9 +89,9 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Estrela 17
 "Quando errar um ataque em um inimigo o ataque ricocheteia e volta para você"
 ### A Lua 18
-"Funciona como uma Lua azul mas caso haja duas luas em jogo, todos os taros desta e da próxima sessão agem como vermelhos. Todos aqueles que ainda não "
+"Funciona como uma Lua azul mas caso haja duas luas em jogo, todos os taros desta e da próxima sessão agem como vermelhos. Todos aqueles que ainda não viraram devem virar uma carta"
 ### O Sol 19
-"Funciona como um Sol azul mas caso haja dois Sol em jogo, todos os taros desta e da próxima sessão agem como vermelhos"
+"Funciona como um Sol azul mas caso haja dois Sol em jogo, todos os taros desta e da próxima sessão agem como vermelhos. Todos aqueles que ainda não viraram devem virar uma carta"
 ### O Julgamento 20
 ### O Mundo 21
 ## *O Louco 0*
