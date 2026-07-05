@@ -54,6 +54,9 @@ Na próxima interação social, qualquer tentativa de convencer, negociar ou lid
 ## Ideias
 "Revele as outras duas cartas da sua mesa. Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
 
+"Revele as outras duas cartas da sua mesa. O Mestre escolherá uma delas   
+Escolha uma delas para se tornar positiva e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
+
 "Escolha uma das outras duas cartas na mesa e revele-a. Caso seja uma carta positiva, ela se torna 
 negativa. Caso já seja negativa, nada acontece"
 
