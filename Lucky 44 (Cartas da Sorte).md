@@ -79,7 +79,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 - Randomiza a Iniciativa
 - Troque esse Taro por Outro Aleatório
 - Todos os Integrantes do Combate Trocam de Posição
-- 
+- Dois Jogadores aleatórios jogam 21, o Perdedor Perde Sua Rodada
 ### A Torre 16
 ### A Estrela 17
 ### A Lua 18
