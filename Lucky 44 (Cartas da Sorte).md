@@ -27,6 +27,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Força 11
 "Uma vez por cena você pode negar qualquer instância de dano causado a você. Inimigos responsáveis pelo dano se tornam amedrontados mesmo que imunes a essa condição"
 ### O Enforcado 12
+"Caso você acerte um ataque você pode gastar até sua vida atual para dar o dobro da quantidade gasta em dano, adicionalmente a cada 2 de vida gastos você pode receber +1 em testes de habilidade"
 ### A Morte 13
 ### A Temperança 14
 ### O Diabo 15
@@ -59,7 +60,6 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Força 11
 "Mover-se deliberadamente em direção a um inimigo custa o dobro do movimento"
 ### O Enforcado 12
-"Caso você acerte um ataque você pode gastar até sua vida atual para dar o dobro da quantidade gasta em dano, adicionalmente a cada 2 de vida gastos você pode receber +1 em teste que n"
 ### A Morte 13
 ### A Temperança 14
 ### O Diabo 15
