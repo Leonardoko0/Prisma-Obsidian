@@ -79,7 +79,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 - Randomiza a Iniciativa
 - Troque esse Taro por Outro Aleatório
 - Todos os Integrantes do Combate Trocam de Posição
-- Sua Velocidade de Movimento é Dobrada, Você Deve Usar Toda Ela ou Tomar 12 de dano
+- Sua Velocidade de Movimento é Dobrada, Você Deve Usar Toda Ela ou Tomar (proficiência)d12 de dano
 ### A Torre 16
 ### A Estrela 17
 ### A Lua 18
