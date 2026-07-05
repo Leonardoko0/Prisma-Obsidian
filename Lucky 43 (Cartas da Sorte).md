@@ -3,7 +3,7 @@ No início de cada sessão, cada jogador saca 3 cartas e as mantém viradas para
 
 A qualquer momento durante a sessão, o jogador pode escolher uma dessas cartas para revelá-la. Assim que revelada, seu efeito é aplicado imediatamente, sempre que possível. Caso o efeito da carta não possa ser aplicado no momento em que ela for revelada, ela permanece na mão do jogador até que possa ser utilizada. Se a carta for negativa, ela vai para mão do Mestre
 
-O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelhas) e o 1 joker (O Louco 0)
+O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelhas) e 2 joker (O Louco 0)
 ## **Cartas Azuis**
 ### O Mago 1
 ### A Sacerdotisa 2
