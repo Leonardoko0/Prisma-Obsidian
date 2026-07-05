@@ -51,7 +51,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Justiça 8
 "Ao revelar, todas as ações são definidas como de karma positivo e negativo. Ao realizar uma ação com karma negativo o efeito será espelhado contra você de uma forma definida pelo mestre"
 ### O Eremita 9
-""
+"Você é imune a qualquer efeito positivo ou negativo recebido de um membro da sua equipe (Dano e cura cont)"
 ### A Roda da Fortuna 10 
 ### A Força 11
 ### O Enforcado 12
