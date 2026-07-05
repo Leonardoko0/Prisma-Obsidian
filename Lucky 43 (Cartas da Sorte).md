@@ -1,6 +1,7 @@
 #Regras [[Regras]]
 ## **Cartas Azuis**
 ### O Mago 1
+""
 ### A Sacerdotisa 2
 ### A Imperatriz 3
 ### O Imperador 4
