@@ -68,6 +68,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Temperança 14
 "Todos seus testes são automaticamente 7, o jogador pode levar uma quantia de dano igual ao seu dado de vida para poder rodar um dado normalmente ao invés disso."
 ### O Diabo 15
+
 ### A Torre 16
 ### A Estrela 17
 ### A Lua 18
