@@ -35,7 +35,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Diabo 15
 "No inicio de um turno o jogador pode desafiar o mestre para uma partida de blackjack (21) a cada vitória o jogador ganha um turno extra, mas caso ele perca ele perde todos os turnos acumulados e a rodada é substituída por a de um inimigo escolhido pelo mestre"
 ### A Torre 16
-""
+"Todos da sua equipe se tornam imunes a 1 e a 20 de inimigos, esses dados são re rolados"
 ### A Estrela 17
 ### A Lua 18
 ### O Sol 19
