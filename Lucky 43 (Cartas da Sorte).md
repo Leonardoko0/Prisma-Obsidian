@@ -1,5 +1,5 @@
 #Regras [[Regras]]
-No inicio de toda sessão todos os players vão sacar 3 cartas e deixa-las viradas pra baixo, a qual
+No inicio de toda sessão todos os players vão sacar 3 cartas e deixa-las viradas pra baixo, a qualquer momento um player pode escolher uma dessas 3 e revelar seu efeito. Existem 21 cartas positivas (Azuis) e 21 negativas (Vermelhas) e 1 joker 
 ## **Cartas Azuis**
 ### O Mago 1
 "Revele as outras duas cartas da sua mesa. Escolha uma delas e coloque-a em sua mão. Ela poderá ser usada a qualquer momento"
