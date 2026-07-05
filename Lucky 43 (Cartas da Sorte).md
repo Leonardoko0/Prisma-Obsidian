@@ -1,7 +1,7 @@
 #Regras [[Regras]]
 No início de cada sessão, cada jogador saca 3 cartas e as mantém viradas para baixo à sua frente.
 
-A qualquer momento durante a sessão, o jogador pode escolher uma dessas cartas para revelá-la. Assim que revelada, seu efeito é aplicado imediatamente, sempre que possível. Caso a carta não possa ser aplicada ela fica na sua mão do player, caso seja negativa vai para mão do mestre
+A qualquer momento durante a sessão, o jogador pode escolher uma dessas cartas para revelá-la. Assim que revelada, seu efeito é aplicado imediatamente, sempre que possível. Caso a carta não possa ser aplicada ela fica na mão do player, caso seja negativa vai para mão do mestre
 
 O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelhas) e o 1 joker (O Louco 0)
 
