@@ -12,6 +12,10 @@ O baralho é composto por 43 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Imperador 4
 ### O Hierofante 5
 "A próxima situação será resolvida de forma amigável e favorável pra você com acordo de ambas as partes"
+
+"Na próxima interação social, suas palavras carregam grande autoridade. Caso exista uma solução pacífica plausível, os envolvidos tendem a confiar em você e aceitá-la."
+
+A próxima situação de conflito entre duas ou mais partes deve ser resolvida por meio de um acordo. O mestre deve criar uma solução favorável ao sacador que também seja aceitável para os demais envolvidos.
 ### Os Amantes 6
 ### A Carruagem 7 
 ### A Justiça 8
