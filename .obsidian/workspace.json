@@ -23,10 +23,14 @@
             "id": "78bd756e9314178e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Lucky 44 (Cartas da Sorte).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lucky 44 (Cartas da Sorte)"
             }
           },
           {
@@ -266,6 +270,7 @@
   },
   "active": "78bd756e9314178e",
   "lastOpenFiles": [
+    "Rpg/Sistema MAGE 1.md",
     "Rpg/Regras/Estâmina.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
@@ -291,7 +296,6 @@
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Armadura.md",
     "Caça de Leviathan.md",
-    "Cargos.md",
     "Pasted image 20260523170531.png",
     "Minha PEÇA.canvas",
     "Sem título.base",
