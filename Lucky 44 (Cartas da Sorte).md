@@ -47,6 +47,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Mundo 21
 ## **Cartas Vermelhas**
 ### O Mago 1
+"Revele outra carta, se for positiva negue seus efeitos"
 ### A Sacerdotisa 2
 "Você é sobrecarregado de visões do presente, passado e futuro. durante os próximos momentos (1d4 rodadas/cena) você não pode realizar ações e fica completamente estático enquanto gagueja"
 ### A Imperatriz 3
