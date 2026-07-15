@@ -13,8 +13,10 @@
 		{"id":"4872a96e34611a90","x":1880,"y":-760,"width":250,"height":60,"type":"text","text":"Poucos mantimentos e muito cansaço"},
 		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":"Tenta de forma desesperada encontrar esse grupo"},
 		{"id":"475205825dcd4fb5","x":1540,"y":-1380,"width":250,"height":60,"type":"text","text":"No Último Segundo Eles se Emcontram"},
-		{"id":"981c7f8d59de3842","x":1540,"y":-1200,"width":250,"height":80,"type":"text","text":"Depois de alguns dias seguindo o rastro, o suprimento acaba "},
-		{"id":"ac0c189bb969ef1c","x":1585,"y":-1540,"width":160,"height":55,"type":"text","text":"Bem vindo a         Santuário"}
+		{"id":"c3f0ea33d5b74400","x":1606,"y":-1480,"width":118,"height":60,"type":"text","text":"Santuário"},
+		{"id":"981c7f8d59de3842","x":1540,"y":-1200,"width":250,"height":80,"type":"text","text":"Depois de alguns dias seguindo o rastro. O suprimento acaba "},
+		{"id":"36358ac5af08a15a","x":1900,"y":-1420,"width":250,"height":60,"type":"text","text":""},
+		{"id":"78ecf88ed7fc265f","x":2040,"y":-1280,"width":250,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
@@ -29,6 +31,7 @@
 		{"id":"fb3f2e8cae80b560","fromNode":"dac76a99e004dca2","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"},
 		{"id":"32d69fb673c7c504","fromNode":"4872a96e34611a90","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"},
 		{"id":"797d96f6543f110b","fromNode":"00d9262b931ceadc","fromSide":"top","toNode":"981c7f8d59de3842","toSide":"bottom"},
-		{"id":"eabdd8dfd85fdac3","fromNode":"981c7f8d59de3842","fromSide":"top","toNode":"475205825dcd4fb5","toSide":"bottom"}
+		{"id":"eabdd8dfd85fdac3","fromNode":"981c7f8d59de3842","fromSide":"top","toNode":"475205825dcd4fb5","toSide":"bottom"},
+		{"id":"21f072ea9e81e238","fromNode":"475205825dcd4fb5","fromSide":"top","toNode":"c3f0ea33d5b74400","toSide":"bottom"}
 	]
 }
