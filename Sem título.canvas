@@ -14,7 +14,7 @@
 		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":"Tenta de forma desesperada encontrar esse grupo"},
 		{"id":"475205825dcd4fb5","x":1540,"y":-1380,"width":250,"height":60,"type":"text","text":"No Último Segundo Eles se Emcontram"},
 		{"id":"981c7f8d59de3842","x":1540,"y":-1200,"width":250,"height":80,"type":"text","text":"Depois de alguns dias seguindo o rastro, o suprimento acaba "},
-		{"id":"ac0c189bb969ef1c","x":1585,"y":-1540,"width":160,"height":50,"type":"text","text":"Santa"}
+		{"id":"ac0c189bb969ef1c","x":1585,"y":-1540,"width":160,"height":55,"type":"text","text":"Bem vindo a         Santuário"}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
