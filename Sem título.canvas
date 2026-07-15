@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"c8dbaf110e1a42f1","x":-320,"y":-840,"width":400,"height":400,"type":"file","file":"Minha PEÇA.canvas"},
-		{"id":"dd7948afafa9440a","type":"text","text":"Raven ","x":-245,"y":200,"width":250,"height":70,"color":"6"}
+		{"id":"dd7948afafa9440a","type":"text","text":"Raven: Inicio da ruptura","x":-245,"y":200,"width":250,"height":70,"color":"6"},
+		{"id":"34d018c71e0fb086","x":160,"y":205,"width":250,"height":60,"type":"text","text":"Procura Marta stel"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"}
+	]
 }
