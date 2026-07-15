@@ -6,7 +6,7 @@ A qualquer momento durante a sessão, o jogador pode escolher uma dessas cartas 
 O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelhas) e 2 joker (O Louco 0)
 ## **Cartas Azuis**
 ### O Mago 1
-
+"Ao revelar a próxima carta revelada vermelha será anulada"
 ### A Sacerdotisa 2
 "Ao revelar você pode pedir ao mestre visões de acontecimentos futuros. Isso pode te dar bônus em certas situações. Dura pela sessão, o mestre pode sempre escolher dar visões além dos pedidos ou negá-los."
 ### A Imperatriz 3
