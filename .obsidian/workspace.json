@@ -97,9 +97,9 @@
               "state": {
                 "file": "Sem título.canvas",
                 "viewState": {
-                  "x": 79.9381230280701,
-                  "y": 24.907818603097354,
-                  "zoom": 0.6666666666666664
+                  "x": -32.56423688666352,
+                  "y": 145.94026178994423,
+                  "zoom": -2.220446049250313e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -259,8 +259,9 @@
   },
   "active": "36062e729dfaced1",
   "lastOpenFiles": [
-    "Minha PEÇA.canvas",
+    "Rpg/Regras/Ação de Movimento.md",
     "Sem título.canvas",
+    "Minha PEÇA.canvas",
     "Lucky 44 (Cartas da Sorte).md",
     "Sem título.base",
     "Recording 20260414191404.m4a",
@@ -270,7 +271,6 @@
     "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
     "Sistema de Comida (Decaying winter).md",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
