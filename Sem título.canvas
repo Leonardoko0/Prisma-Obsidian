@@ -8,9 +8,10 @@
 		{"id":"6ed9a6fb162bca03","x":-245,"y":403,"width":250,"height":60,"color":"6","type":"text","text":"Bem vindo ao Mundo Rav"},
 		{"id":"c8dbaf110e1a42f1","x":85,"y":-600,"width":400,"height":400,"type":"file","file":"Minha PEÇA.canvas"},
 		{"id":"1579dc8f7f53d733","x":1540,"y":-460,"width":250,"height":50,"type":"text","text":"Erro Fatal"},
-		{"id":"6971a86cc0534d15","x":1540,"y":-760,"width":250,"height":60,"type":"text","text":""},
-		{"id":"dac76a99e004dca2","x":1200,"y":-760,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4872a96e34611a90","x":1880,"y":-760,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6971a86cc0534d15","x":1540,"y":-760,"width":250,"height":60,"type":"text","text":"Rav começa a perambular pelos ermos"},
+		{"id":"dac76a99e004dca2","x":1200,"y":-760,"width":250,"height":60,"type":"text","text":"Encontra um rastro de pessoas"},
+		{"id":"4872a96e34611a90","x":1880,"y":-760,"width":250,"height":60,"type":"text","text":"Poucos mantimentos e muito cansaço"},
+		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
@@ -18,6 +19,9 @@
 		{"id":"3a254d045d04e9e2","fromNode":"ad8163f224a36623","fromSide":"bottom","toNode":"3f049ee7653ab488","toSide":"top"},
 		{"id":"690c14e892f372ba","fromNode":"3f049ee7653ab488","fromSide":"left","toNode":"e7ff2d64ca0a0a62","toSide":"right"},
 		{"id":"846092d6ebe17cfa","fromNode":"e7ff2d64ca0a0a62","fromSide":"left","toNode":"6ed9a6fb162bca03","toSide":"right"},
-		{"id":"bf05f449c3621ead","fromNode":"1579dc8f7f53d733","fromSide":"top","toNode":"6971a86cc0534d15","toSide":"bottom"}
+		{"id":"bf05f449c3621ead","fromNode":"1579dc8f7f53d733","fromSide":"top","toNode":"6971a86cc0534d15","toSide":"bottom"},
+		{"id":"1eef1ce33e122787","fromNode":"6971a86cc0534d15","fromSide":"right","toNode":"4872a96e34611a90","toSide":"left"},
+		{"id":"e60ff533fc33b64c","fromNode":"6971a86cc0534d15","fromSide":"left","toNode":"dac76a99e004dca2","toSide":"right"},
+		{"id":"9de0121f71bdef47","fromNode":"6971a86cc0534d15","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"}
 	]
 }
