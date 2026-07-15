@@ -12,7 +12,7 @@
 		{"id":"dac76a99e004dca2","type":"text","text":"Encontra um rastro de pessoas","x":1200,"y":-760,"width":250,"height":60,"color":"1"},
 		{"id":"4872a96e34611a90","type":"text","text":"Poucos mantimentos e muito cansaço","x":1880,"y":-760,"width":250,"height":60,"color":"1"},
 		{"id":"475205825dcd4fb5","type":"text","text":"No Último Segundo Eles se Emcontram","x":1540,"y":-1380,"width":250,"height":60,"color":"1"},
-		{"id":"c3f0ea33d5b74400","type":"text","text":"Santuário","x":1606,"y":-1480,"width":118,"height":60,"color":"1"},
+		{"id":"c3f0ea33d5b74400","type":"text","text":"Santuário","x":1606,"y":-1480,"width":118,"height":60,"color":"#700000"},
 		{"id":"981c7f8d59de3842","type":"text","text":"Depois de alguns dias seguindo o rastro. O suprimento acaba ","x":1540,"y":-1200,"width":250,"height":80,"color":"1"},
 		{"id":"b237331e7cc11683","type":"text","text":"","x":1200,"y":-1290,"width":250,"height":60,"color":"1"},
 		{"id":"78ecf88ed7fc265f","type":"text","text":"","x":1880,"y":-1285,"width":250,"height":50,"color":"1"},
