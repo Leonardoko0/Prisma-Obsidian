@@ -14,13 +14,13 @@
 		{"id":"475205825dcd4fb5","type":"text","text":"No Último Segundo Eles se Encontram","x":1540,"y":-1380,"width":250,"height":60,"color":"1"},
 		{"id":"c3f0ea33d5b74400","type":"text","text":"Santuário","x":1606,"y":-1480,"width":118,"height":60,"color":"#700000"},
 		{"id":"981c7f8d59de3842","type":"text","text":"Depois de alguns dias seguindo o rastro. O suprimento acaba ","x":1540,"y":-1200,"width":250,"height":80,"color":"1"},
-		{"id":"b237331e7cc11683","type":"text","text":"","x":1200,"y":-1290,"width":250,"height":60,"color":"1"},
+		{"id":"b237331e7cc11683","type":"text","text":"Cultuavam uma figura estranha","x":1200,"y":-1290,"width":250,"height":60,"color":"1"},
 		{"id":"78ecf88ed7fc265f","type":"text","text":"\"Cidade\" pequena","x":1880,"y":-1285,"width":250,"height":50,"color":"1"},
 		{"id":"00d9262b931ceadc","type":"text","text":"Tenta de forma desesperada encontrar esse grupo","x":1540,"y":-1000,"width":250,"height":60,"color":"1"},
 		{"id":"36358ac5af08a15a","type":"text","text":"12 pessoas","x":2160,"y":-1190,"width":250,"height":60,"color":"1"},
 		{"id":"ed72c6dad4cb913b","type":"text","text":"","x":920,"y":-1190,"width":250,"height":60,"color":"1"},
 		{"id":"d96bbd8014bbd466","type":"text","text":"","x":640,"y":-1097,"width":250,"height":55,"color":"1"},
-		{"id":"b017d2e73ef5426c","type":"text","text":"","x":2440,"y":-1100,"width":250,"height":60,"color":"1"}
+		{"id":"b017d2e73ef5426c","type":"text","text":"Maior parte conhecia o oculto e era praticante","x":2440,"y":-1100,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
