@@ -18,8 +18,8 @@
 		{"id":"78ecf88ed7fc265f","type":"text","text":"\"Cidade\" pequena","x":1880,"y":-1285,"width":250,"height":50,"color":"1"},
 		{"id":"00d9262b931ceadc","type":"text","text":"Tenta de forma desesperada encontrar esse grupo","x":1540,"y":-1000,"width":250,"height":60,"color":"1"},
 		{"id":"36358ac5af08a15a","type":"text","text":"12 pessoas","x":2160,"y":-1190,"width":250,"height":60,"color":"1"},
-		{"id":"ed72c6dad4cb913b","type":"text","text":"","x":920,"y":-1190,"width":250,"height":60,"color":"1"},
-		{"id":"d96bbd8014bbd466","type":"text","text":"","x":640,"y":-1097,"width":250,"height":55,"color":"1"},
+		{"id":"ed72c6dad4cb913b","type":"text","text":"Apesar de não ser nada que parecia problemático","x":920,"y":-1190,"width":250,"height":60,"color":"1"},
+		{"id":"d96bbd8014bbd466","type":"text","text":"No fim era","x":640,"y":-1097,"width":250,"height":55,"color":"1"},
 		{"id":"b017d2e73ef5426c","type":"text","text":"Maior parte conhecia o oculto e era praticante","x":2440,"y":-1100,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
