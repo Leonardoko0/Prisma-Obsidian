@@ -1,24 +1,26 @@
 {
 	"nodes":[
 		{"id":"dd7948afafa9440a","type":"text","text":"Raven: Inicio da ruptura","x":-245,"y":200,"width":250,"height":70,"color":"6"},
-		{"id":"34d018c71e0fb086","x":160,"y":205,"width":250,"height":60,"color":"6","type":"text","text":"Procura Marta Stelvem"},
-		{"id":"ad8163f224a36623","x":560,"y":205,"width":250,"height":60,"color":"6","type":"text","text":"Encontra coisas ocultistas"},
-		{"id":"3f049ee7653ab488","x":560,"y":385,"width":250,"height":95,"color":"6","type":"text","text":"Fica um bom tempo trabalhando em suas armas e vivendo de mantimentos "},
-		{"id":"e7ff2d64ca0a0a62","x":160,"y":394,"width":250,"height":77,"color":"6","type":"text","text":"Uma criatura gigante pisoteia a casa e então Rav foge "},
-		{"id":"6ed9a6fb162bca03","x":-245,"y":403,"width":250,"height":60,"color":"6","type":"text","text":"Bem vindo ao Mundo Rav"},
-		{"id":"c8dbaf110e1a42f1","x":85,"y":-600,"width":400,"height":400,"type":"file","file":"Minha PEÇA.canvas"},
-		{"id":"1579dc8f7f53d733","x":1540,"y":-460,"width":250,"height":50,"type":"text","text":"Erro Fatal"},
-		{"id":"6971a86cc0534d15","x":1540,"y":-760,"width":250,"height":60,"type":"text","text":"Rav começa a perambular pelos ermos"},
-		{"id":"dac76a99e004dca2","x":1200,"y":-760,"width":250,"height":60,"type":"text","text":"Encontra um rastro de pessoas"},
-		{"id":"4872a96e34611a90","x":1880,"y":-760,"width":250,"height":60,"type":"text","text":"Poucos mantimentos e muito cansaço"},
-		{"id":"475205825dcd4fb5","x":1540,"y":-1380,"width":250,"height":60,"type":"text","text":"No Último Segundo Eles se Emcontram"},
-		{"id":"c3f0ea33d5b74400","x":1606,"y":-1480,"width":118,"height":60,"type":"text","text":"Santuário"},
-		{"id":"981c7f8d59de3842","x":1540,"y":-1200,"width":250,"height":80,"type":"text","text":"Depois de alguns dias seguindo o rastro. O suprimento acaba "},
-		{"id":"b237331e7cc11683","x":1200,"y":-1290,"width":250,"height":60,"type":"text","text":""},
-		{"id":"78ecf88ed7fc265f","x":1880,"y":-1285,"width":250,"height":50,"type":"text","text":""},
-		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":"Tenta de forma desesperada encontrar esse grupo"},
-		{"id":"36358ac5af08a15a","x":2160,"y":-1190,"width":250,"height":60,"type":"text","text":""},
-		{"id":"ed72c6dad4cb913b","x":920,"y":-1190,"width":250,"height":60,"type":"text","text":""}
+		{"id":"34d018c71e0fb086","type":"text","text":"Procura Marta Stelvem","x":160,"y":205,"width":250,"height":60,"color":"6"},
+		{"id":"ad8163f224a36623","type":"text","text":"Encontra coisas ocultistas","x":560,"y":205,"width":250,"height":60,"color":"6"},
+		{"id":"3f049ee7653ab488","type":"text","text":"Fica um bom tempo trabalhando em suas armas e vivendo de mantimentos ","x":560,"y":385,"width":250,"height":95,"color":"6"},
+		{"id":"e7ff2d64ca0a0a62","type":"text","text":"Uma criatura gigante pisoteia a casa e então Rav foge ","x":160,"y":394,"width":250,"height":77,"color":"6"},
+		{"id":"6ed9a6fb162bca03","type":"text","text":"Bem vindo ao Mundo Rav","x":-245,"y":403,"width":250,"height":60,"color":"6"},
+		{"id":"c8dbaf110e1a42f1","type":"file","file":"Minha PEÇA.canvas","x":85,"y":-600,"width":400,"height":400},
+		{"id":"1579dc8f7f53d733","type":"text","text":"Erro Fatal","x":1540,"y":-460,"width":250,"height":50},
+		{"id":"6971a86cc0534d15","type":"text","text":"Rav começa a perambular pelos ermos","x":1540,"y":-760,"width":250,"height":60},
+		{"id":"dac76a99e004dca2","type":"text","text":"Encontra um rastro de pessoas","x":1200,"y":-760,"width":250,"height":60},
+		{"id":"4872a96e34611a90","type":"text","text":"Poucos mantimentos e muito cansaço","x":1880,"y":-760,"width":250,"height":60},
+		{"id":"475205825dcd4fb5","type":"text","text":"No Último Segundo Eles se Emcontram","x":1540,"y":-1380,"width":250,"height":60},
+		{"id":"c3f0ea33d5b74400","type":"text","text":"Santuário","x":1606,"y":-1480,"width":118,"height":60},
+		{"id":"981c7f8d59de3842","type":"text","text":"Depois de alguns dias seguindo o rastro. O suprimento acaba ","x":1540,"y":-1200,"width":250,"height":80},
+		{"id":"b237331e7cc11683","type":"text","text":"","x":1200,"y":-1290,"width":250,"height":60},
+		{"id":"78ecf88ed7fc265f","type":"text","text":"","x":1880,"y":-1285,"width":250,"height":50},
+		{"id":"00d9262b931ceadc","type":"text","text":"Tenta de forma desesperada encontrar esse grupo","x":1540,"y":-1000,"width":250,"height":60},
+		{"id":"36358ac5af08a15a","type":"text","text":"","x":2160,"y":-1190,"width":250,"height":60},
+		{"id":"ed72c6dad4cb913b","type":"text","text":"","x":920,"y":-1190,"width":250,"height":60},
+		{"id":"b017d2e73ef5426c","x":2440,"y":-1100,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d96bbd8014bbd466","x":640,"y":-1100,"width":250,"height":55,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
@@ -35,7 +37,8 @@
 		{"id":"797d96f6543f110b","fromNode":"00d9262b931ceadc","fromSide":"top","toNode":"981c7f8d59de3842","toSide":"bottom"},
 		{"id":"eabdd8dfd85fdac3","fromNode":"981c7f8d59de3842","fromSide":"top","toNode":"475205825dcd4fb5","toSide":"bottom"},
 		{"id":"21f072ea9e81e238","fromNode":"475205825dcd4fb5","fromSide":"top","toNode":"c3f0ea33d5b74400","toSide":"bottom"},
-		{"id":"99306914ad6ab2ea","fromNode":"c3f0ea33d5b74400","fromSide":"top","toNode":"b237331e7cc11683","toSide":"top"},
-		{"id":"b6942fcfb8fafa8f","fromNode":"c3f0ea33d5b74400","fromSide":"left","toNode":"b237331e7cc11683","toSide":"right"}
+		{"id":"cfa8598d351d5216","fromNode":"c3f0ea33d5b74400","fromSide":"top","toNode":"78ecf88ed7fc265f","toSide":"top"},
+		{"id":"357e49f291db56a2","fromNode":"c3f0ea33d5b74400","fromSide":"top","toNode":"b237331e7cc11683","toSide":"top"},
+		{"id":"207017ab10b9cf95","fromNode":"78ecf88ed7fc265f","fromSide":"bottom","toNode":"36358ac5af08a15a","toSide":"left"}
 	]
 }
