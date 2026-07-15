@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"b9b139ed880831a7","x":2800,"y":-1440,"width":250,"height":60,"type":"text","text":""},
 		{"id":"dd7948afafa9440a","type":"text","text":"Raven: Inicio da ruptura","x":-245,"y":200,"width":250,"height":70,"color":"6"},
 		{"id":"34d018c71e0fb086","type":"text","text":"Procura Marta Stelvem","x":160,"y":205,"width":250,"height":60,"color":"6"},
 		{"id":"ad8163f224a36623","type":"text","text":"Encontra coisas ocultistas","x":560,"y":205,"width":250,"height":60,"color":"6"},
@@ -23,7 +22,8 @@
 		{"id":"d96bbd8014bbd466","type":"text","text":"No fim era","x":640,"y":-1097,"width":250,"height":55,"color":"1"},
 		{"id":"b017d2e73ef5426c","type":"text","text":"Maior parte conhecia o oculto e era praticante","x":2440,"y":-1100,"width":250,"height":60,"color":"1"},
 		{"id":"b90f2ef152a44095","x":2160,"y":-1440,"width":250,"height":60,"type":"text","text":""},
-		{"id":"bba067ef1ddd4fc1","x":2460,"y":-1440,"width":250,"height":60,"type":"text","text":""}
+		{"id":"bba067ef1ddd4fc1","x":2460,"y":-1440,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b9b139ed880831a7","x":2800,"y":-1440,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
@@ -47,6 +47,7 @@
 		{"id":"2b92f99450585d7e","fromNode":"ed72c6dad4cb913b","fromSide":"bottom","toNode":"d96bbd8014bbd466","toSide":"right"},
 		{"id":"c46d4fdca42df399","fromNode":"36358ac5af08a15a","fromSide":"bottom","toNode":"b017d2e73ef5426c","toSide":"left"},
 		{"id":"79177dfd532c3e8d","fromNode":"36358ac5af08a15a","fromSide":"top","toNode":"b90f2ef152a44095","toSide":"bottom"},
-		{"id":"9b02b5ca053d677e","fromNode":"36358ac5af08a15a","fromSide":"right","toNode":"bba067ef1ddd4fc1","toSide":"bottom"}
+		{"id":"9b02b5ca053d677e","fromNode":"36358ac5af08a15a","fromSide":"right","toNode":"bba067ef1ddd4fc1","toSide":"bottom"},
+		{"id":"f8ad834191d31dbb","fromNode":"36358ac5af08a15a","fromSide":"right","toNode":"b9b139ed880831a7","toSide":"bottom"}
 	]
 }
