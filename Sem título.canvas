@@ -11,7 +11,8 @@
 		{"id":"6971a86cc0534d15","x":1540,"y":-760,"width":250,"height":60,"type":"text","text":"Rav começa a perambular pelos ermos"},
 		{"id":"dac76a99e004dca2","x":1200,"y":-760,"width":250,"height":60,"type":"text","text":"Encontra um rastro de pessoas"},
 		{"id":"4872a96e34611a90","x":1880,"y":-760,"width":250,"height":60,"type":"text","text":"Poucos mantimentos e muito cansaço"},
-		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":""}
+		{"id":"00d9262b931ceadc","x":1540,"y":-1000,"width":250,"height":60,"type":"text","text":"Tenta de forma desesperada encontrar esse grupo"},
+		{"id":"981c7f8d59de3842","x":1540,"y":-1200,"width":250,"height":60,"type":"text","text":"Depois de alguns dias seguindo o rastr"}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
@@ -22,6 +23,9 @@
 		{"id":"bf05f449c3621ead","fromNode":"1579dc8f7f53d733","fromSide":"top","toNode":"6971a86cc0534d15","toSide":"bottom"},
 		{"id":"1eef1ce33e122787","fromNode":"6971a86cc0534d15","fromSide":"right","toNode":"4872a96e34611a90","toSide":"left"},
 		{"id":"e60ff533fc33b64c","fromNode":"6971a86cc0534d15","fromSide":"left","toNode":"dac76a99e004dca2","toSide":"right"},
-		{"id":"9de0121f71bdef47","fromNode":"6971a86cc0534d15","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"}
+		{"id":"9de0121f71bdef47","fromNode":"6971a86cc0534d15","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"},
+		{"id":"fb3f2e8cae80b560","fromNode":"dac76a99e004dca2","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"},
+		{"id":"32d69fb673c7c504","fromNode":"4872a96e34611a90","fromSide":"top","toNode":"00d9262b931ceadc","toSide":"bottom"},
+		{"id":"797d96f6543f110b","fromNode":"00d9262b931ceadc","fromSide":"top","toNode":"981c7f8d59de3842","toSide":"bottom"}
 	]
 }
