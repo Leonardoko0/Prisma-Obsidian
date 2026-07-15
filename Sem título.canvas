@@ -1,15 +1,16 @@
 {
 	"nodes":[
-		{"id":"e7ff2d64ca0a0a62","x":387,"y":345,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c8dbaf110e1a42f1","x":-320,"y":-840,"width":400,"height":400,"type":"file","file":"Minha PEÇA.canvas"},
 		{"id":"dd7948afafa9440a","type":"text","text":"Raven: Inicio da ruptura","x":-245,"y":200,"width":250,"height":70,"color":"6"},
 		{"id":"34d018c71e0fb086","x":160,"y":205,"width":250,"height":60,"color":"6","type":"text","text":"Procura Marta Stelvem"},
 		{"id":"ad8163f224a36623","x":560,"y":205,"width":250,"height":60,"color":"6","type":"text","text":"Encontra coisas ocultistas"},
-		{"id":"3f049ee7653ab488","x":560,"y":385,"width":250,"height":95,"color":"6","type":"text","text":"Fica um bom tempo trabalhando em suas armas e vivendo de mantimentos "}
+		{"id":"3f049ee7653ab488","x":560,"y":385,"width":250,"height":95,"color":"6","type":"text","text":"Fica um bom tempo trabalhando em suas armas e vivendo de mantimentos "},
+		{"id":"e7ff2d64ca0a0a62","x":160,"y":394,"width":250,"height":77,"color":"6","type":"text","text":"Uma criatura gigante pisoteia a casa e então Rav foge "}
 	],
 	"edges":[
 		{"id":"8e8a65f2eb4a8e5c","fromNode":"dd7948afafa9440a","fromSide":"right","toNode":"34d018c71e0fb086","toSide":"left"},
 		{"id":"7977b1d1d5b3a240","fromNode":"34d018c71e0fb086","fromSide":"right","toNode":"ad8163f224a36623","toSide":"left"},
-		{"id":"3a254d045d04e9e2","fromNode":"ad8163f224a36623","fromSide":"bottom","toNode":"3f049ee7653ab488","toSide":"top"}
+		{"id":"3a254d045d04e9e2","fromNode":"ad8163f224a36623","fromSide":"bottom","toNode":"3f049ee7653ab488","toSide":"top"},
+		{"id":"690c14e892f372ba","fromNode":"3f049ee7653ab488","fromSide":"left","toNode":"e7ff2d64ca0a0a62","toSide":"right"}
 	]
 }
