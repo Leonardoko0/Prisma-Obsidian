@@ -21,3 +21,5 @@
 ## Módulo de Armadura
 ## Sala de Aparatos
 ## Câmara de Munição
+## Bancada de Explosivos
+
