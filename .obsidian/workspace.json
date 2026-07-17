@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c27e4fc49c150d6",
+  "active": "a252d41541907599",
   "lastOpenFiles": [
-    "Sistema de salas.md",
     "Rpg/Personagens/Itens Gerais.md",
+    "Sistema de salas.md",
     "Bases Provisórias.md",
     "Estação Principal.md",
     "Combate.md",

@@ -22,4 +22,5 @@
 ## Sala de Aparatos
 ## Câmara de Munição
 ## Bancada de Explosivos
+## Bancada de Narcóticos )
 
