@@ -61,8 +61,7 @@
               "title": "Estação Principal"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +211,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "10f28b1f915445d9",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Estação Principal.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
@@ -243,7 +243,6 @@
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Regras/Ação Prismática.md",
     "Pasted image 20260523170531.png",
     "Sem título 1.canvas",
     "Rpg/Personagens/Criação De Personagem.html",
