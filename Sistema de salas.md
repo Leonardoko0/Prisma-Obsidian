@@ -16,7 +16,8 @@
 ## Sala de Treinamento
 # Defesas
 ## Câmeras
-## Câmara de Munição
 ## Módulo de Armas Brancas
 ## Módulo de Disparos
+## Módulo de Armadura
 ## Sala de Aparatos
+## Câmara de Munição
