@@ -33,8 +33,7 @@
               "title": "Sistema de salas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +183,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a252d41541907599",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sistema de salas.md",
     "Estação Principal.md",
     "Combate.md",
     "Níveis de Base.md",
@@ -215,7 +215,6 @@
     "Rpg/Personagens/Armas.md",
     "SalvaGuarda.md",
     "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Pasted image 20260523170531.png",
     "Sem título 1.canvas",
     "Rpg/Personagens/Criação De Personagem.html",
