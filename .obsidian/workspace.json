@@ -20,34 +20,6 @@
             }
           },
           {
-            "id": "b3ac35ef2ab891a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Arbiter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arbiter"
-            }
-          },
-          {
-            "id": "3d41fb0ca2183477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema de Traje de Sobrevivência (No Man´s Sky)"
-            }
-          },
-          {
             "id": "10f28b1f915445d9",
             "type": "leaf",
             "state": {
@@ -73,6 +45,34 @@
               },
               "icon": "lucide-file",
               "title": "Nave"
+            }
+          },
+          {
+            "id": "ee379d7c66aa6c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locomoção.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locomoção"
+            }
+          },
+          {
+            "id": "222c763d23cde488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Níveis de base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Níveis de base"
             }
           }
         ]
@@ -227,12 +227,14 @@
   },
   "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Nave.md",
-    "Rpg/Personagens/Arbiter.md",
     "Estação Principal.md",
+    "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
+    "Rpg/Personagens/Arbiter.md",
+    "Nave.md",
+    "Níveis de base.md",
+    "Locomoção.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Ação Padrão.md",
-    "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
     "Rpg/Organizações/Organização Dos Raiders.md",
     "Rpg/Inimigos/Bestiário.md",
     "Sem título.canvas",
@@ -255,8 +257,6 @@
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Aparatos.md",
-    "Rpg/Personagens/Perícias.md",
     "Pasted image 20260523170531.png",
     "Sem título 1.canvas",
     "Rpg/Personagens/Criação De Personagem.html",

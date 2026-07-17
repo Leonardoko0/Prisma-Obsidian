@@ -1,1 +1,1 @@
-#base [[Níveis de Nave]] [[Base Mãe]][[Bases Provisórias]] [[Locomoção]]
+#base [[Locomoção]] [[Base Mãe]][[Bases Provisórias]] [[Níveis de base]]
