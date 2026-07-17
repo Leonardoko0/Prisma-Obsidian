@@ -1,4 +1,8 @@
 #base [[Locomoção]] [[Combate]][[Níveis de Base]] [[Bases Provisórias]]
 
 # Salas
-## Quartos 
+## Quartos Únicos
+- 1 pra cada player
+- desvantagens caso eles não existam
+- descrição por parte do player
+## 
