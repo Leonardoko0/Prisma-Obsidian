@@ -13,4 +13,5 @@
 ## Sala de Armas
 ## Engenharia
 ## Laboratório
-##
+## Sala de Treinamento
+## 
