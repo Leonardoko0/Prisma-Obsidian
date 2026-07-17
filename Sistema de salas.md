@@ -10,4 +10,6 @@
 ## Sala de Comando
 ## Comunicação
 ## Segurança
-##
+## Sala de Armas
+## Engenharia
+## Labora
