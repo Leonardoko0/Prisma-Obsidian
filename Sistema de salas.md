@@ -5,4 +5,7 @@
 - 1 pra cada player
 - desvantagens caso eles não existam
 - descrição por parte do player
-## 
+## Refeitório
+## Ala Médica
+## Ponte 
+##
