@@ -12,4 +12,4 @@
 ## Segurança
 ## Sala de Armas
 ## Engenharia
-## Labora
+## Laboratório
