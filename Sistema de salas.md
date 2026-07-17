@@ -1,1 +1,1 @@
-#base [[Locomoção]] [[Base Mãe]][[Níveis de Base]] [[Bases Provisórias]]
+#base [[Locomoção]] [[Combate]][[Níveis de Base]] [[Bases Provisórias]]

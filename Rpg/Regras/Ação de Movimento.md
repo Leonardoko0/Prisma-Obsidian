@@ -1,4 +1,4 @@
-#Regras [[Combate]]
+#Regras [[Rpg/Regras/Combate]]
 ## Movimentar
 Você se move = ao seu movimento, normalmente serão 9m/6 tiles. Cada 1,5 metros equivale a 1 tile
 ## Mirar

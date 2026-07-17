@@ -1,1 +1,1 @@
-#Regras [[Combate]]
+#Regras [[Rpg/Regras/Combate]]

@@ -1,4 +1,4 @@
-#Regras [[Combate]]
+#Regras [[Rpg/Regras/Combate]]
 
 ## Lutar
 ### Atacar

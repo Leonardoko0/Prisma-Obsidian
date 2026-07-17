@@ -1,4 +1,4 @@
-#Regras [[Combate]]
+#Regras [[Rpg/Regras/Combate]]
 ## Aparar
 Rode o dano da sua arma sem modificadores diversos, essa será sua mitigação de dano, caso o seu dano seja superior ao dano dado anule o ataque inimigo. Custa um de estâmina
 ## Defender

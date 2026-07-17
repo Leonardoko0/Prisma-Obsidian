@@ -1,4 +1,4 @@
-#Regras [[Combate]]
+#Regras [[Rpg/Regras/Combate]]
 
 ## O que é
 Estâmina é um recurso utilizado para realizar diversos tipos de ações, como ações padrão, de movimento, uso de aparatos e outras habilidades.
