@@ -1,1 +1,1 @@
-#base [[Estação Principal]]
+#base [[Nave]]
