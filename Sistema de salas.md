@@ -17,5 +17,5 @@
 # Defesas
 ## Câmeras
 ## Câmara de Munição
-### Módulo de Armas Brancas
-## 
+## Módulo de Armas Brancas
+## Módulo de Disparos 
