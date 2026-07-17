@@ -7,5 +7,7 @@
 - descrição por parte do player
 ## Refeitório
 ## Ala Médica
-## Ponte 
+## Sala de Comando
+## Comunicação
+## Segurança
 ##
