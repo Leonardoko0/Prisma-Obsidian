@@ -89,8 +89,7 @@
               "title": "Itens Gerais"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +239,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ab960467fe9d87f0",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Sistema de salas.md",
     "Rpg/Personagens/Itens Gerais.md",
+    "Sistema de salas.md",
     "Bases Provisórias.md",
     "Estação Principal.md",
     "Combate.md",
