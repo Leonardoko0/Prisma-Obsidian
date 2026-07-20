@@ -27,7 +27,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 **Nível 1:**
 Produção de compostos nutricionais e água, equipamento de cozinha precários e confortabilidade básica 
 "Gosto duvidoso e horrível"
-=**Nível 2:** Xu+=
+**Nível 2:** u
 
 ### Sala de Comando
 ### Sala de Máquinas
