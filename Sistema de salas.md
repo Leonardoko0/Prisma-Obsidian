@@ -119,7 +119,7 @@ Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os trip
 **Nível 2:**
 Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
 **Nível 3:**
-Arena  Além de uma seleção ainda maior de peças e habilidades, todo robô construído recebe um **Módulo Especial**, uma habilidade exclusiva que o diferencia dos demais em combate.
+Arena mais brutal com elementos destrutivos. MAIS peças e habilidades ALÉM disso todo robô construído recebe um Módulo Especial (habilidade exclusiva que o diferencia dos demais em combate.
 ## Outros
 ### Sala de Treinamento
 ### Hangar
