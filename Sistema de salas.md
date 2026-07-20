@@ -66,7 +66,7 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala com 
+Sala com equipamentos diversos prontos para serem utilizados em qualquer necessi
 **Nível 2:**
 **Nível 3:**
 ## Funcionamento da Nave
