@@ -16,8 +16,7 @@
 ## Sala de Treinamento
 ## Sala de Artes
 ## Igreja/Sala de religião
-## Módulo de Eletrônica 
-# Defesas
+## Módulo de Eletrônica
 ## Câmeras
 ## Módulo de Armas Brancas
 ## Módulo de Disparos
@@ -29,5 +28,5 @@
 ## Bancada de Explosivos
 ## Bancada de Narcóticos (Talvez colocar em outro lugar)
 # Ciência
-##
+
 
