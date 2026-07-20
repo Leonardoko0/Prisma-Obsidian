@@ -66,8 +66,9 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala com equipamentos diversos prontos para serem utilizados em qualquer necessi
+Sala com equipamentos diversos prontos para serem utilizados em qualquer necessidade seja ela reparos ou criação de itens
 **Nível 2:**
+Melhora a qualidade do equipamentos permitindo pesquisas mais expecializadas sobre determinado assunto
 **Nível 3:**
 ## Funcionamento da Nave
 ### Quartos Únicos
