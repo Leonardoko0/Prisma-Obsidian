@@ -89,7 +89,8 @@
               "title": "Itens Gerais"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +240,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "a252d41541907599",
   "lastOpenFiles": [
     "Rpg/Personagens/Itens Gerais.md",
     "Sistema de salas.md",
