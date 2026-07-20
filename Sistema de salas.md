@@ -41,8 +41,11 @@ Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura,
 ### Sala de Máquinas
 - Preço:
 - Tamanho:
-Sala que faz a nave funcionar, sistemas hi
+Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc
 ### Núcleo de Éter
+- Preço:
+- Tamanho:
+S
 ### Câmara da IA
 ### Segurança
 ## Divertimento
