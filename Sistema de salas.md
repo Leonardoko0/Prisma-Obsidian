@@ -17,6 +17,7 @@
 ## Sala de Artes
 ## Igreja/Sala de religião
 ## Módulo de Eletrônica
+## Lounge
 ## Câmeras
 ## Módulo de Armas Brancas
 ## Módulo de Disparos
