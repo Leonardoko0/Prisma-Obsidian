@@ -6,7 +6,6 @@
 - desvantagens caso eles não existam
 - descrição por parte do player
 ## Refeitório
-## Ala Médica
 ## Sala de Comando
 ## Comunicação
 ## Segurança
@@ -20,7 +19,6 @@
 ## Lounge
 ## Câmeras
 ## Câmara de Implantes (Talvez colocar em outro lugar)
-## Bancada de Narcóticos (Talvez colocar em outro lugar)
 ## Hangar
 ## Sala de Produção
 
@@ -31,3 +29,6 @@
 ## Módulo de Armadura
 ## Bancada de Explosivos
 ## Sala de Aparatos
+# Ciência
+## Ala Médica
+## Bancada de Narcóticos
