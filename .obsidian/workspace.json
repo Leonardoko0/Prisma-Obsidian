@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,12 +226,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a252d41541907599",
+  "active": "46dc8dbfa8a36b2a",
   "lastOpenFiles": [
+    "Sistema de salas.md",
     "Rpg/Personagens/Perícias.md",
     "Bases Provisórias.md",
     "Rpg/Personagens/Itens Gerais.md",
-    "Sistema de salas.md",
     "Estação Principal.md",
     "Combate.md",
     "Níveis de Base.md",

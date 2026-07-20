@@ -55,3 +55,5 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 ### Religião
 ### Tática
 ### Tecnologia
+## Depósitos
+##
