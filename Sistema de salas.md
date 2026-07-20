@@ -1,20 +1,18 @@
 #base [[Locomoção]] [[Combate]][[Níveis de Base]] [[Bases Provisórias]]
-
-# Salas
-# Armamento
-## Módulo de Armas Brancas
-## Módulo de Disparos
-## Câmara de Munição
-## Módulo de Armadura
-## Bancada de Explosivos
-## Sala de Aparatos
-# Ciência
-## Ala Médica
-## Bancada de Narcóticos
-## Módulo de Engenharia
-## Laboratório
-## Câmara de Implantes
-## Módulo de Eletrônica
+## Armamento
+### Módulo de Armas Brancas
+### Módulo de Disparos
+### Câmara de Munição
+### Módulo de Armadura
+### Bancada de Explosivos
+### Sala de Aparatos
+## Ciência
+### Ala Médica
+### Bancada de Narcóticos
+### Módulo de Engenharia
+### Laboratório
+### Câmara de Implantes
+### Módulo de Eletrônica
 # Funcionamento da Nave
 ## Quartos Únicos
 - 1 pra cada player
