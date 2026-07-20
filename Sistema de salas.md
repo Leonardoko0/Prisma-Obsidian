@@ -1,7 +1,6 @@
 #base [[Locomoção]] [[Combate]][[Níveis de Base]] [[Bases Provisórias]]
 
 # Salas
-#
 ## Quartos Únicos
 - 1 pra cada player
 - desvantagens caso eles não existam
@@ -20,8 +19,6 @@
 ## Módulo de Eletrônica
 ## Lounge
 ## Câmeras
-## Módulo de Armas Brancas
-## Módulo de Disparos
 ## Módulo de Armadura
 ## Sala de Aparatos
 ## Câmara de Implantes (Talvez colocar em outro lugar)
@@ -32,3 +29,6 @@
 ## Hangar
 ## Sala de Produção
 
+# Armamento
+## Módulo de Armas Brancas
+## Módulo de Disparos
