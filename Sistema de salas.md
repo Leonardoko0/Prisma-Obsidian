@@ -16,7 +16,7 @@
 ## Sala de Treinamento
 ## Sala de Artes
 ## Igreja/Sala de religião
-## Módulo de 
+## Módulo de Eletrônica 
 # Defesas
 ## Câmeras
 ## Módulo de Armas Brancas
