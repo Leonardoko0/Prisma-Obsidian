@@ -66,11 +66,11 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala com equipamentos diversos prontos para serem utilizados em qualquer necessidade seja ela reparos ou criação de itens
+Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
 **Nível 2:**
-Melhora a qualidade do equipamentos permitindo pesquisas mais expecializadas sobre determinado assunto/Equipamento
+O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. Torna possível estudar equipamentos desconhecidos, desenvolver melhorias e compreender dispositivos mais complexos.
 **Nível 3:**
-Transforma em um Módulo proficional com diversos equipamentos e uma grande capacidade de fazer diversas coisas
+Transforma-se em um laboratório profissional de eletrônica, equipado com tecnologia de ponta para pesquisa, desenvolvimento e fabricação. É capaz de produzir dispositivos avançados, realizar engenharia reversa e conduzir projetos tecnológicos de alta complexidade.
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
