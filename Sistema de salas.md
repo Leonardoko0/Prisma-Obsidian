@@ -89,8 +89,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Câmara com diversos equipamentos artisticos improvisados como: Tintas, Telas, Canetas, Instrumentos, e algumas massas 
 **Nível 2:**
-Adiciona equipamentos novos e diversos itens de qualidade superior
+Adiciona equipamentos novos e diversos itens de qualidade superior. Instrumentos não inclusos
 **Nível 3:**
+Melhora a qualidade da sala com equipamentos profissionais, e raros
 ### Academia
 - Preço:
 - Tamanho:
