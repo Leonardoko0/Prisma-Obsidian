@@ -257,9 +257,9 @@ Munições Médias equilibram poder de fogo, alcance e controle, tornando-se uma
 ### Pesada (HV)
 Munições Pesadas são projetadas para máximo impacto e alto poder de perfuração, capazes de causar danos devastadores mesmo contra alvos protegidos ou blindados. Seu calibre elevado reduz a velocidade de disparo e aumenta o recuo, exigindo armas robustas e operadores preparados para controlá-las. Utilizadas por armas pesadas de diversos tipos como rifles e pistolas.
 ### Cartucho (SH)
-Cartuchos concentram grande poder de impacto em disparos de curta distância, espalhando múltiplos projéteis ao mesmo tempo. Embora percam eficiência em alcance elevado, são extremamente potentes em combate próximo. Compatíveis principalmente com escopetas e armas de dispersão, são ideais para confrontos intensos em espaços fechados..
+Cartuchos concentram grande poder de impacto em disparos de curta distância, espalhando múltiplos projéteis ao mesmo tempo. Embora percam eficiência em alcance elevado, são extremamente potentes em combate próximo. Compatíveis principalmente com escopetas e armas de dispersão, são ideais para confrontos em espaços fechados..
 ### Longa (LG)
-Munições Longas são desenvolvidas para alta precisão e alto desempenho em longas distâncias, mantendo estabilidade e poder de impacto mesmo após percorrer grandes trajetos.. Utilizadas por rifles de precisão e armas de elite, são ideais para combate estratégico, reconhecimento e eliminações à distância.
+Munições Longas são desenvolvidas para alta precisão e alto desempenho em longas distâncias, mantendo estabilidade e poder de impacto mesmo após percorrer grandes trajetos. Utilizadas por rifles de precisão e armas de elite, são ideais para combate estratégico e eliminações à distância.
 ### Carga (CH)
 Cargas são munições especializadas desenvolvidas para alimentar armamentos de tecnologia avançada e efeitos incomuns. Diferente dos projéteis convencionais, utilizam fontes alternativas como energia, plasma, pressão comprimida ou compostos experimentais, oferecendo propriedades únicas em combate. Compatíveis com armas tecnológicas, protótipos militares e equipamentos especiais, versáteis e frequentemente mais perigosas que munições tradicionais
 
