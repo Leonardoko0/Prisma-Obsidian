@@ -103,17 +103,14 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
-
-- Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
+ Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
+ - Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
 **Nível 2:**
-A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
-
-- Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
+ A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
+ - Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
 **Nível 3:**
-A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
-
-- Uma vez por missão pode definir que sua primeira rodada de um combate terá +1 de es
+ A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
+ - Uma vez por missão pode definir que sua primeira rodada de um combate terá +1 de estâmina não acumulável 
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
