@@ -28,7 +28,8 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
 "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
 **Nível 2:** u
-Produção de ingredientes variados, líquidos alcoólicos. Equipamento de cozinha decente e confortabilidade boa
+Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
+"Agora ninguém r"
 **Nível 3:** u
 Produção de pratos feitos de forma impecavel, líquidos variados mais complexos. Equipamento de cozinha proficional e confortabilidade incrivel
 ### Sala de Comando
