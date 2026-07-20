@@ -115,9 +115,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala com diversas sucatas com uma estação de mecânica. Crie seus próprios robôs e lute cont
+Sala com diversas sucatas com uma estação de mecânica. Crie seus próprios robôs e lute contra robôs de seus amigos
 **Nível 2:**
+Mais habilidades e partes podem ser escolhidas na criação de robô
 **Nível 3:**
+Ainda mais habilidades podem ser escolhidas, além disso todo robô possui uma 
 ## Outros
 ### Sala de Treinamento
 ### Hangar
