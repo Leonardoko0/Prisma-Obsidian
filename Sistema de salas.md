@@ -35,6 +35,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
  "Alguns dizem que vale a pena voltar da missão só pela comida"
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
+Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, velocida
 ### Sala de Máquinas
 ### Núcleo de Éter
 ### Câmara da IA
