@@ -94,7 +94,7 @@ Sala equipada com materiais improvisados para diferentes formas de arte. Disponi
 A sala recebe novos equipamentos e materiais de qualidade superior. Os instrumentos musicais permanecem os mesmos.
 
 - Aumenta qualquer teste de arte realizado na sala em +5
-- 
+- Pode escolher um teste de arte por missão para receber esse bônus fora da sala
 **Nível 3:**
 Transforma-se em um ateliê profissional, equipado com materiais da mais alta qualidade, ferramentas especializadas e equipamentos raros, capazes de produzir forma de expressão artística. Instrumentos não inclusos 
 
