@@ -103,8 +103,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala equipada com equipame
+Sala equipada com equipamentos básicos de academia, vem com vestuário incluso
 **Nível 2:**
+Aumenta a qualidade e diversidade dos equipamentos, agora com chuveiros 
 **Nível 3:**
 ### Ringue Mecânico
 - Preço:
