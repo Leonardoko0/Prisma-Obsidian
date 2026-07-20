@@ -77,7 +77,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
- Módulo com uma câmara de realidade aumentada. Permite carregar discos de VR de categoria 1 á 3 
+ Equipado com uma câmara de Realidade Aumentada de uso padrão. Permite utilizar discos de treinamento VR de Categoria 1 a 3
 **Nível 2:**
 Aumenta a potencia do equipamento permitindo criar Disquetes de VR de categoria 1 á 2. Aumenta o nível para 4
 **Nível 3:**
