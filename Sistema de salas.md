@@ -68,7 +68,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 2:**
  Aumenta a qualidade do equipamento, Agora jogos diferentes podem ser encontrados na sala como: Just Rebole, Hóquei de mesa e Twister. Luzes alteradas e confortábilidade aumentada 
 **Nível 3:**
- Aumenta ainda mais a quailidade do equipamento, Agoras jogos escolhidos 
+ Aumenta ainda mais a quailidade do equipamento, Agoras jogos escolhidos pelos jogadores estão convenientemente guardados no armazem da sala
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
