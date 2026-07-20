@@ -49,8 +49,12 @@ Sala onde é gerada toda energia da nave. Altamente instável quando há necessi
 ### Câmara da IA
 - Preço:
 - Tamanho:
-Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. A Nave fica em mal Lençóis quando destru 
+Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. A Nave fica em mal Lençóis quando destruído 
 ### Segurança
+- Preço:
+- Tamanho:
+**Nível 1:**
+ Sala com u
 ## Divertimento
 ### Sala de Jogos
 ### Módulo de Realidade Aumentada
