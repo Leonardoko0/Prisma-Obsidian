@@ -6,9 +6,7 @@
 - desvantagens caso eles não existam
 - descrição por parte do player
 ## Refeitório
-## Sala de Treinamento
 ## Lounge
-## Hangar
 ## Sala de Produção
 # Armamento
 ## Módulo de Armas Brancas
@@ -34,3 +32,8 @@
 ## Módulo de Realidade Aumentada
 ## Câmara de Artes
 ## Academia 
+# Outros
+## Sala de Treinamento
+## Hangar
+## 
+
