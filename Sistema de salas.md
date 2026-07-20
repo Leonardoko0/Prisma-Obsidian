@@ -18,13 +18,13 @@
 ### Quartos Únicos
 - Preço: 0
 - Tamanho:
-São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. Banheiros não inclusos.
+São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. **Banheiros não inclusos**.
 
 *Não ter um quarto significa ter descanso precário*
-
 ### Refeitório
 ### Sala de Comando
 ### Sala de Máquinas
+### Núcleo de Éter
 ### Câmara da IA
 ### Segurança
 ## Divertimento
