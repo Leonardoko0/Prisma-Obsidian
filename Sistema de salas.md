@@ -68,9 +68,9 @@
 **Nível 1:**
 Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
 **Nível 2:**
-O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. Torna possível estudar equipamentos desconhecidos, desenvolver melhorias e compreender dispositivos mais complexos.
+O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. 
 **Nível 3:**
-Transforma-se em um laboratório profissional de eletrônica, equipado com tecnologia de ponta para pesquisa, desenvolvimento e fabricação. É capaz de produzir dispositivos avançados, realizar engenharia reversa e conduzir projetos tecnológicos de alta complexidade.
+Transforma-se em um laboratório profissional de eletrônica, equipado com equipamento de ponta para pesquisa, desenvolvimento e fabricação. Capaz de produzir dispositivos avançados e realizar engenharia reversa.
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
