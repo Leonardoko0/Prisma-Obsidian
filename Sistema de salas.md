@@ -24,7 +24,9 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 ### Refeitório
 - Preço: 0
 - Tamanho:
-**N**
+**Nível 1:**
+Produção de compostos nutricionais e água
+"Gosto duvidoso e o"
 
 ### Sala de Comando
 ### Sala de Máquinas
