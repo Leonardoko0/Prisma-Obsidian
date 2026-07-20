@@ -115,9 +115,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou não**.
+Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não** X-X.
 **Nível 2:**
-Mais habilidades e partes podem ser escolhidas na criação de robô
+Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos mais especializados.
 **Nível 3:**
 Ainda mais habilidades podem ser escolhidas, além disso todo robô possui uma habilidade especial
 ## Outros
