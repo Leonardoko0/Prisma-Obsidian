@@ -65,6 +65,8 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Tamanho:
 **Nível 1:**
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
+ 
+ Entr
 **Nível 2:**
  Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável.
 **Nível 3:**
