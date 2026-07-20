@@ -89,9 +89,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 Sala equipada com materiais improvisados para diferentes formas de arte. Disponibiliza tintas, telas, canetas, massas de modelagem e alguns instrumentos musicais Improvisados. 
 **Nível 2:**
-A sala recebe novos equipamentos e materiais de qualidade superior, ampliando as possibilidades para pintura, desenho, escultura e artesanato. Os instrumentos musicais permanecem os mesmos.
+A sala recebe novos equipamentos e materiais de qualidade superior. Os instrumentos musicais permanecem os mesmos.
 **Nível 3:**
-Transforma-se em um ateliê profissional, equipado com materiais de alta qualidade, ferramentas especializadas e equipamentos raros, capazes de atender praticamente qualquer forma de expressão artística.
+Transforma-se em um ateliê profissional, equipado com materiais de alta qualidade, ferramentas especializadas e equipamentos raros, capazes de atender praticamente qualquer forma de expressão artística. Instrumentos não imclusos 
 ### Academia
 - Preço:
 - Tamanho:
