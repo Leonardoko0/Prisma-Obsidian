@@ -6,7 +6,6 @@
 - desvantagens caso eles não existam
 - descrição por parte do player
 ## Refeitório
-## Sala de Comando
 ## Comunicação
 ## Segurança
 ## Sala de Armas
@@ -31,4 +30,7 @@
 ## Laboratório
 ## Câmara de Implantes
 ## Módulo de Eletrônica
-# Funcioname
+# Funcionamento da Nave
+## Sala de Comando
+## Sala de Máquinas
+
