@@ -7,11 +7,9 @@
 - descrição por parte do player
 ## Refeitório
 ## Comunicação
-## Segurança
 ## Sala de Armas
 ## Sala de Treinamento
 ## Lounge
-## Câmeras
 ## Hangar
 ## Sala de Produção
 # Armamento
