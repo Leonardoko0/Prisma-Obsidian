@@ -24,7 +24,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 ### Refeitório
 - Preço: 0
 - Tamanho:
-
+**N**
 
 ### Sala de Comando
 ### Sala de Máquinas
