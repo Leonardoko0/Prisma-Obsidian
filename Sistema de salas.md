@@ -73,7 +73,7 @@ O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesq
 - Permite analisar equipamentos para descobrir informações (Fabricante, Dano, Capacidades e melhorias) além disso pode criar equipamentos de complexidade um pouco maior
 **Nível 3:**
 Transforma-se em um laboratório profissional de eletrônica, equipado com equipamento de ponta para pesquisa, desenvolvimento e fabricação. Capaz de produzir dispositivos avançados e realizar engenharia reversa.
-- Permite fazer engenharia rever
+- Permite fazer engenharia reversa em equipamento. além disso pode criar equipamentos complexos
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
