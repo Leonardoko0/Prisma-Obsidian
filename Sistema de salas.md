@@ -33,4 +33,6 @@
 # Funcionamento da Nave
 ## Sala de Comando
 ## Sala de Máquinas
-
+# Divertimento
+## Sala de Jogos
+## Módulo de Realidade Aumentada
