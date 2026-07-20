@@ -105,8 +105,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 Sala equipada com equipamentos básicos de academia, vem com vestuário incluso
 **Nível 2:**
-Aumenta a qualidade e diversidade dos equipamentos, agora com chuveiros 
+Aumenta a qualidade e diversidade dos equipamentos, agora com chuveiros
 **Nível 3:**
+Aumenta ainda mais a qualidade e diversidade dos equipamentos. suplementos nutricionais podem ser gerados 
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
