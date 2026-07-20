@@ -61,6 +61,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  Aumenta ainda mais a quantidade de câmeras (15). As unidades são protegidas por placas de blindagem e possuem microfones e autofalantes de qualidade.
 ## Divertimento
 ### Sala de Jogos
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2**
+****
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
