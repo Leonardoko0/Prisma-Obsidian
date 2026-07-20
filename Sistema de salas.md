@@ -6,8 +6,6 @@
 - desvantagens caso eles não existam
 - descrição por parte do player
 ## Refeitório
-## Comunicação
-## Sala de Armas
 ## Sala de Treinamento
 ## Lounge
 ## Hangar
@@ -30,7 +28,9 @@
 ## Sala de Comando
 ## Sala de Máquinas
 ## Câmara da IA
+## Segurança
 # Divertimento
 ## Sala de Jogos
 ## Módulo de Realidade Aumentada
 ## Câmara de Artes
+## Academia 
