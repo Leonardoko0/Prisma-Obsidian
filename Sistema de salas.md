@@ -18,7 +18,7 @@
 ### Quartos Únicos
 - Preço
 - Tamanho
-São quartos personalizados onde cada player tem 
+São quartos personalizados onde cada jogador pode personalizar da forma que quiser.  
 ### Refeitório
 ### Sala de Comando
 ### Sala de Máquinas
@@ -35,3 +35,4 @@ São quartos personalizados onde cada player tem
 ### Hangar
 ### Igreja
 ### Módulo de Produção
+### Prisão
