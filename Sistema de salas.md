@@ -71,6 +71,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Dois personagens que fizerem atividades juntos recebem um bônus de Sinergia onde o próximo teste compartilhado entre os dois recebe vantagem
 **Nível 3:**
  A sala recebe equipamentos de última geração. Os jogadores podem definir que jogos sejam armazenados no depósito da sala. O ambiente se torna extremamente confortável.
+  - Nega a primeira fádiga 
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
