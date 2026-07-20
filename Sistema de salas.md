@@ -13,23 +13,23 @@
 ### Laboratório
 ### Câmara de Implantes
 ### Módulo de Eletrônica
-# Funcionamento da Nave
-## Quartos Únicos
+## Funcionamento da Nave
+### Quartos Únicos
 - 1 pra cada player
 - desvantagens caso eles não existam
 - descrição por parte do player
-## Refeitório
-## Sala de Comando
-## Sala de Máquinas
-## Câmara da IA
-## Segurança
-# Divertimento
-## Sala de Jogos
-## Módulo de Realidade Aumentada
-## Câmara de Artes
-## Academia 
-# Outros
-## Sala de Treinamento
-## Hangar
-## Igreja
-## Módulo de Produção
+### Refeitório
+### Sala de Comando
+### Sala de Máquinas
+### Câmara da IA
+### Segurança
+## Divertimento
+### Sala de Jogos
+### Módulo de Realidade Aumentada
+### Câmara de Artes
+### Academia 
+## Outros
+### Sala de Treinamento
+### Hangar
+### Igreja
+### Módulo de Produção
