@@ -120,7 +120,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
 **Nível 3:**
  Arena mais brutal com elementos destrutivos. MAIS peças e habilidades ALÉM disso todo robô construído recebe um Módulo Especial (habilidade exclusiva especial).
-LET THE ROBOTS HIT THE FLOOR
+**"LET THE ROBOTS HIT THE FLOOR"**
 ## Outros
 ### Sala de Treinamento
 ### Hangar
