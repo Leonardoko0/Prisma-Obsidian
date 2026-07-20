@@ -105,7 +105,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
 
-- Pode escolher um salvaguarda (For, Agi e Con)
+- Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
 **Nível 2:**
 A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
 **Nível 3:**
