@@ -28,7 +28,8 @@
 ### Sala de Jogos
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
-### Academia 
+### Academia
+###
 ## Outros
 ### Sala de Treinamento
 ### Hangar
