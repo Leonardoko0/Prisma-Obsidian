@@ -36,9 +36,12 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
 - Preço:
-- Tamanho?
+- Tamanho:
 Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, velocidade e principalmente **Tem uma cafeteira inclusa**
 ### Sala de Máquinas
+- Preço:
+- Tamanho:
+Sala que faz a nave funcionar, sistemas hi
 ### Núcleo de Éter
 ### Câmara da IA
 ### Segurança
