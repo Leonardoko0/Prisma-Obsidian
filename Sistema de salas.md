@@ -9,11 +9,42 @@
 ### Sala de Aparatos
 ## Ciência
 ### Ala Médica
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
+
 ### Bancada de Narcóticos
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Módulo de Engenharia
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Laboratório
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Câmara de Implantes
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Módulo de Eletrônica
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
