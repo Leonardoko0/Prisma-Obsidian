@@ -111,12 +111,12 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 3:**
  A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
  - Uma vez por missão pode definir que sua primeira rodada de um combate terá +1 de estâmina não acumulável 
- "Só acho que a gente já treina o bastante em combate real"
+ "Só acho que....a gente já treina o bastante em combate real"
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
 **Nível 1:**
- Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não** X-X.
+ Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
 **Nível 2:**
  Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
 **Nível 3:**
