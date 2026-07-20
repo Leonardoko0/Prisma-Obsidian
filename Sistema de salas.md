@@ -108,6 +108,8 @@ Uma academia equipada com aparelhos básicos para treinamento de força e condic
 - Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
 **Nível 2:**
 A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
+
+- Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
 **Nível 3:**
 A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
 ### Ringue Mecânico
