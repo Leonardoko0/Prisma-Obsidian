@@ -10,7 +10,6 @@
 ## Segurança
 ## Sala de Armas
 ## Sala de Treinamento
-## Igreja/Sala de religião
 ## Lounge
 ## Câmeras
 ## Hangar
