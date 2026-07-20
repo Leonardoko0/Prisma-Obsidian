@@ -56,9 +56,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave. Câmeras de baixa qualidade e permanecem estáticas.
 **Nível 2:**
-Aumenta a quantidade de câmeras pela nave. Controle remotamente a rotação das câmeras, além de contar com microfones integrados de baixa qualidade.
+Aumenta a quantidade de câmeras pela nave. Controle de rotação das câmeras, além de contar com microfones integrados.
 **Nível 3:**
-Grande quantidade de câmeras espalhadas pela nave, câmeras com placas protetivas e controle superior. Microfones de boa qualidade nas câmeras
+Aumenta ainda mais a quantidade de câmeras. As unidades são protegidas por placas de blindagem, possuem controle remoto avançado e microfones de alta qualidade, permitindo monitoramento visual e sonoro preciso.
 ## Divertimento
 ### Sala de Jogos
 ### Módulo de Realidade Aumentada
