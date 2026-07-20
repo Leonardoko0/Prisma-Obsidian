@@ -14,6 +14,8 @@
 ## Engenharia
 ## Laboratório
 ## Sala de Treinamento
+## Sala de Artes
+## 
 # Defesas
 ## Câmeras
 ## Módulo de Armas Brancas
