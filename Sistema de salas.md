@@ -82,7 +82,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  O sistema recebe uma atualização de processamento, permitindo criar Disquetes de VR de Categoria 1 e 2. A capacidade máxima de execução é ampliada para categoria 4.
 **Nível 3:**
  A instalação é substituída por uma câmara profissional de alta fidelidade CyberMind. A criação de Disquetes de VR passa a suportar categoria 3. A capacidade máxima de execução é ampliada para categoria 5
- "CyberMind Sempre aprimorando suas mais diversas experiencias"
+"CyberMind Sempre aprimorando suas mais diversas experiencias"
 ### Câmara de Artes
 - Preço:
 - Tamanho:
@@ -98,6 +98,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Aumenta qualquer teste de arte realizado na sala em +10
  - Pode escolher um teste de arte por missão para receber +5 fora da sala de forma que faça sentido
  - Permite Criar obras Únicas 
+Permite criar obras pra nave
 ### Academia
 - Preço:
 - Tamanho:
