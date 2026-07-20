@@ -22,6 +22,10 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 
 *Não ter um quarto significa ter descanso precário*
 ### Refeitório
+- Preço: 0
+- Tamanho:
+
+
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
