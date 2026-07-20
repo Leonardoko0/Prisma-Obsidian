@@ -21,8 +21,6 @@
 ## Câmeras
 ## Sala de Aparatos
 ## Câmara de Implantes (Talvez colocar em outro lugar)
-
-## Bancada de Explosivos
 ## Bancada de Narcóticos (Talvez colocar em outro lugar)
 ## Hangar
 ## Sala de Produção
@@ -32,3 +30,4 @@
 ## Módulo de Disparos
 ## Câmara de Munição
 ## Módulo de Armadura
+## Bancada de Explosivos
