@@ -10,7 +10,6 @@
 ## Segurança
 ## Sala de Armas
 ## Sala de Treinamento
-## Sala de Artes
 ## Igreja/Sala de religião
 ## Lounge
 ## Câmeras
@@ -36,3 +35,4 @@
 # Divertimento
 ## Sala de Jogos
 ## Módulo de Realidade Aumentada
+## Câmara de Artes
