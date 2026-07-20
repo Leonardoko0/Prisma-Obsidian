@@ -54,7 +54,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
- Sala com diversas telas de algumas poucas câmeras espalhadas pela nave, controles de câmeras inexistente
+ Sala com diversas telas de algumas poucas câmeras espalhadas pela nave, controles de câmeras inexistente.
+**Nível 2:**
+ Melhora a quantidade de câmeras espalhadas pela nave, controle rotavde câmeras 
 ## Divertimento
 ### Sala de Jogos
 ### Módulo de Realidade Aumentada
