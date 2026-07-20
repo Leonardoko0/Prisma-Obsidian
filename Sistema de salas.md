@@ -31,7 +31,7 @@ Produz compostos nutricionais básicos e água potável. Conta com equipamentos 
 Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
 "Agora ninguém reclama na hora da janta :)"
 **Nível 3:** u
-Produz pratos elaborados de qualidade excepcional e uma grande variedade de bebidas, incluindo preparações complexas. Conta com equipamentos de cozinha profissionais e instalações de alto padrão, proporcionando um conforto excepcional.
+Produz pratos elaborados de qualidade excepcional e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
