@@ -103,11 +103,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala equipada com equipamentos básicos de academia, vem com vestuário incluso
+Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
 **Nível 2:**
-Aumenta a qualidade e diversidade dos equipamentos, agora com chuveiros
+A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário é ampliado e passa a contar com chuveiros e melhor infraestrutura.
 **Nível 3:**
-Aumenta ainda mais a qualidade e diversidade dos equipamentos. suplementos nutricionais podem ser gerados na sala
+A academia atinge um padrão profissional, oferecendo equipamentos de alto desempenho para qualquer modalidade de treinamento. A sala também passa a produzir suplementos nutricionais para auxiliar na recuperação física da equipe
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
