@@ -19,7 +19,6 @@
 ## Módulo de Eletrônica
 ## Lounge
 ## Câmeras
-## Sala de Aparatos
 ## Câmara de Implantes (Talvez colocar em outro lugar)
 ## Bancada de Narcóticos (Talvez colocar em outro lugar)
 ## Hangar
@@ -31,3 +30,4 @@
 ## Câmara de Munição
 ## Módulo de Armadura
 ## Bancada de Explosivos
+## Sala de Aparatos
