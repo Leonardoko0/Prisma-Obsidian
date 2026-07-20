@@ -73,9 +73,29 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  A sala recebe equipamentos de última geração. Os jogadores podem definir que jogos sejam armazenados no depósito da sala. O ambiente se torna extremamente confortável.
   - Nega a primeira fadiga recebida pelo personagem
 ### Módulo de Realidade Aumentada
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Câmara de Artes
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Academia
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Ringue Mecânico
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ## Outros
 ### Sala de Treinamento
 ### Hangar
