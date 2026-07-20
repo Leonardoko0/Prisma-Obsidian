@@ -30,7 +30,7 @@ Produção de compostos nutricionais e água. Equipamento de cozinha precários 
 **Nível 2:** u
 Produção de ingredientes variados, líquidos alcoólicos. Equipamento de cozinha decente e confortabilidade boa
 **Nível 3:** u
-Produção de pratos 
+Produção de pratos feitos de forma impecavel, líquidos variados mais complexos. Equipamento de cozinha proficional e confortabilidade incrivel
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
