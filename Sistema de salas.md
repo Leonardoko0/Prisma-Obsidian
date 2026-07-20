@@ -25,14 +25,15 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 - Preço: 0
 - Tamanho:
 **Nível 1:**
-Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
-"O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
-**Nível 2:** u
-Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
-"Agora ninguém reclama na hora da janta :)"
-**Nível 3:** u
-Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
-"Alguns dizem que vale a pena voltar da missão apenas pela comida"
+ Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
+ "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
+**Nível 2:** +u
+ Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
+ "Agora ninguém reclama na hora da janta :)"
+**Nível 3:** +u
+ Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
+ "Alguns dizem que vale a pena voltar da missão só pela comida"
+O Refeitório é principalmente 
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
