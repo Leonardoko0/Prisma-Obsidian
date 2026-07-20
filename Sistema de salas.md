@@ -87,7 +87,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
- Câmara com diversos equipamentos artisticos improvisados como: Tintas, Telas, Canetas, Instrumentos, 
+ Câmara com diversos equipamentos artisticos improvisados como: Tintas, Telas, Canetas, Instrumentos, e algumas massas 
 **Nível 2:**
 **Nível 3:**
 ### Academia
@@ -108,3 +108,4 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 ### Igreja
 ### Módulo de Produção
 ### Prisão
+### Palco e Teatro
