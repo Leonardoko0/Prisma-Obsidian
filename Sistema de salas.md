@@ -67,10 +67,10 @@
 - Tamanho:
 **Nível 1:**
 Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
-
-- Permite concertar equipamentos e produzir outro
+- Permite concertar equipamentos e produzir outros de complexidade baixa
 **Nível 2:**
 O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. 
+- Permite analisar equipamentos para descobrir informações (Fabricante, Dano, Capacidades e melhorias) além disso pode produzie
 **Nível 3:**
 Transforma-se em um laboratório profissional de eletrônica, equipado com equipamento de ponta para pesquisa, desenvolvimento e fabricação. Capaz de produzir dispositivos avançados e realizar engenharia reversa.
 ## Funcionamento da Nave
