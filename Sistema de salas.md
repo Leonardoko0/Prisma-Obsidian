@@ -31,6 +31,7 @@
 # Funcionamento da Nave
 ## Sala de Comando
 ## Sala de Máquinas
+## Câmara da IA
 # Divertimento
 ## Sala de Jogos
 ## Módulo de Realidade Aumentada
