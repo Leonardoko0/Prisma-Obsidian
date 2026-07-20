@@ -10,7 +10,6 @@
 ## Comunicação
 ## Segurança
 ## Sala de Armas
-## Engenharia
 ## Laboratório
 ## Sala de Treinamento
 ## Sala de Artes
@@ -18,10 +17,9 @@
 ## Módulo de Eletrônica
 ## Lounge
 ## Câmeras
-## Câmara de Implantes (Talvez colocar em outro lugar)
+## Câmara de Implantes
 ## Hangar
 ## Sala de Produção
-
 # Armamento
 ## Módulo de Armas Brancas
 ## Módulo de Disparos
