@@ -2,11 +2,41 @@
 # Salas
 ## Armamento
 ### Módulo de Armas Brancas
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Módulo de Disparos
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Câmara de Munição
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Módulo de Armadura
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Bancada de Explosivos
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Sala de Aparatos
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ## Ciência
 ### Ala Médica
 - Preço:
@@ -155,8 +185,38 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **"LET THE ROBOTS HIT THE FLOOR"**
 ## Outros
 ### Sala de Treinamento
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Hangar
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Igreja
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Módulo de Produção
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Prisão
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
 ### Palco e Teatro
+- Preço:
+- Tamanho:
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
