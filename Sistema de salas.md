@@ -107,7 +107,7 @@ Uma academia equipada com aparelhos básicos para treinamento de força e condic
 **Nível 2:**
 A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
 **Nível 3:**
-A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a produzir suplementos nutricionais para auxiliar na recuperação física da equipe
+A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
