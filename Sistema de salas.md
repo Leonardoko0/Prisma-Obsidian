@@ -33,7 +33,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 **Nível 3:** +u
  Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
  "Alguns dizem que vale a pena voltar da missão só pela comida"
-O Refeitório é principalmente 
+O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cena
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
