@@ -91,7 +91,7 @@ Sala equipada com materiais improvisados para diferentes formas de arte. Disponi
 **Nível 2:**
 A sala recebe novos equipamentos e materiais de qualidade superior. Os instrumentos musicais permanecem os mesmos.
 **Nível 3:**
-Transforma-se em um ateliê profissional, equipado com materiais de alta qualidade, ferramentas especializadas e equipamentos raros, capazes de atender praticamente qualquer forma de expressão artística. Instrumentos não imclusos 
+Transforma-se em um ateliê profissional, equipado com materiais de alta qualidade, ferramentas especializadas e equipamentos raros, capazes de atender praticamente qualquer forma de expressão artística. Instrumentos não inclusos 
 ### Academia
 - Preço:
 - Tamanho:
