@@ -75,8 +75,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,12 +225,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "18522298fe3c164e",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Bases Provisórias.md",
-    "Sistema de salas.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Itens Gerais.md",
+    "Rpg/Personagens/Raça.md",
+    "Sistema de salas.md",
     "Estação Principal.md",
     "Combate.md",
     "Níveis de Base.md",
@@ -253,7 +253,6 @@
     "Sistema de Comida (Decaying winter).md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Prisma.md",
     "Rpg/Personagens/Classes.md",
     "Reações.md",
