@@ -62,11 +62,13 @@
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
-### Módulo de Eletrônica
+### Módulo de Oficina
 - Preço:
 - Tamanho:
 **Nível 1:**
 Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
+
+- Permite concertar equipamentos e produzir outro
 **Nível 2:**
 O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. 
 **Nível 3:**
