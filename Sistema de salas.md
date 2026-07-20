@@ -25,8 +25,9 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 - Preço: 0
 - Tamanho:
 **Nível 1:**
-Produção de compostos nutricionais e água, equipamento de cozinha precários e confortábilidade básica 
+Produção de compostos nutricionais e água, equipamento de cozinha precários e confortabilidade básica 
 "Gosto duvidoso e horrível"
+=**Nível 2:** Xu+=
 
 ### Sala de Comando
 ### Sala de Máquinas
