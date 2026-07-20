@@ -29,7 +29,7 @@
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
-###
+### Ringue Mêcanico
 ## Outros
 ### Sala de Treinamento
 ### Hangar
