@@ -98,7 +98,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Aumenta qualquer teste de arte realizado na sala em +10
  - Pode escolher um teste de arte por missão para receber +5 fora da sala de forma que faça sentido
  - Permite Criar obras Únicas 
-Permite criar obras pra nave
+- Permite criar obras pra nave
 ### Academia
 - Preço:
 - Tamanho:
