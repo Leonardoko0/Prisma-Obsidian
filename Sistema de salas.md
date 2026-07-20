@@ -25,8 +25,8 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 - Preço: 0
 - Tamanho:
 **Nível 1:**
-Produção de compostos nutricionais e água. Equipamento de cozinha precários e confortabilidade básica 
-"Gosto duvidoso e horrível"
+Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
+"O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
 **Nível 2:** u
 Produção de ingredientes variados, líquidos alcoólicos. Equipamento de cozinha decente e confortabilidade boa
 **Nível 3:** u
