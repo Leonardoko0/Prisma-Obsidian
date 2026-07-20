@@ -67,11 +67,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
  - Entre Missões possuir essa sala aumenta em 1d a qualidade de descanso na nave
 **Nível 2:**
- Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável.
-- Dois personagens que fizerem atividades juntos recebem um bônus de Sinergia onde o próximo teste compartilhado entre os dois recebe vantagem
+ Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável. 
+ - Dois personagens que fizerem atividades juntos recebem um bônus de Sinergia onde o próximo teste compartilhado entre os dois recebe vantagem
 **Nível 3:**
  A sala recebe equipamentos de última geração. Os jogadores podem definir que jogos sejam armazenados no depósito da sala. O ambiente se torna extremamente confortável.
-  - Nega a primeira fádiga 
+  - Nega a primeira fadiga recebida pelo personagem
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
