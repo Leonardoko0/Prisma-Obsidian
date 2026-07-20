@@ -10,7 +10,6 @@
 ## Comunicação
 ## Segurança
 ## Sala de Armas
-## Laboratório
 ## Sala de Treinamento
 ## Sala de Artes
 ## Igreja/Sala de religião
@@ -30,3 +29,5 @@
 # Ciência
 ## Ala Médica
 ## Bancada de Narcóticos
+## Módulo de Engenharia
+## Laboratório
