@@ -56,9 +56,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Sala com diversas telas de algumas poucas câmeras espalhadas pela nave, controles de câmeras inexistente.
 **Nível 2:**
- Melhora a quantidade de câmeras espalhadas pela nave, controle rotacional de câmeras. Microfones imbutidos nas câmeras.
+ Melhora a quantidade de câmeras espalhadas pela nave, controle rotacional de câmeras. Microfones de má qualidade imbutidos nas câmeras.
 **Nível 3:**
-Grande quantidade de câmeras espalhadas pela nave
+Grande quantidade de câmeras espalhadas pela nave, câmeras com placas protetivas e controle superior
 ## Divertimento
 ### Sala de Jogos
 ### Módulo de Realidade Aumentada
