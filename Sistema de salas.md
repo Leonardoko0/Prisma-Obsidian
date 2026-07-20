@@ -66,9 +66,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
 **Nível 2:**
- Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável .
+ Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável.
 **Nível 3:**
- Aumenta ainda mais a quailidade do equipamento, Agoras jogos escolhidos pelos jogadores estão convenientemente guardados no armazem da sala
+ A sala recebe equipamentos de última geração. Os jogadores podem definir que  favoritos sejam armazenados no depósito da sala, ficando sempre disponíveis para uso. O ambiente oferece o máximo em conforto e entretenimento.
 ### Módulo de Realidade Aumentada
 ### Câmara de Artes
 ### Academia
