@@ -103,6 +103,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
+Sala equipada com equipame
 **Nível 2:**
 **Nível 3:**
 ### Ringue Mecânico
