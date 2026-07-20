@@ -6,8 +6,6 @@
 - desvantagens caso eles não existam
 - descrição por parte do player
 ## Refeitório
-## Lounge
-## Sala de Produção
 # Armamento
 ## Módulo de Armas Brancas
 ## Módulo de Disparos
@@ -36,4 +34,4 @@
 ## Sala de Treinamento
 ## Hangar
 ## Igreja
-
+## M de Produção
