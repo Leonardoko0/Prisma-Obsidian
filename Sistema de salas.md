@@ -50,12 +50,6 @@
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
-### Módulo de Engenharia
-- Preço:
-- Tamanho:
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
 ### Laboratório
 - Preço:
 - Tamanho:
@@ -72,6 +66,7 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
+Sala com 
 **Nível 2:**
 **Nível 3:**
 ## Funcionamento da Nave
@@ -219,3 +214,4 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
+### Depósito
