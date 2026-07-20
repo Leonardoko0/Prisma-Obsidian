@@ -79,9 +79,10 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Equipado com uma câmara de Realidade Aumentada de uso padrão. Permite utilizar discos de treinamento VR de Categoria 1 a 3
 **Nível 2:**
-O sistema recebe uma atualização de processamento, permitindo criar Disquetes de VR de Categoria 1 e 2. A capacidade máxima de execução é ampliada para categoria 4.
+ O sistema recebe uma atualização de processamento, permitindo criar Disquetes de VR de Categoria 1 e 2. A capacidade máxima de execução é ampliada para categoria 4.
 **Nível 3:**
-A instalação é substituída por uma câmara profissional de alta fidelidade CyberMind. A criação de Disquetes de VR passa a suportar categoria 3. A capacidade máxima de execução é ampliada para categoria 5
+ A instalação é substituída por uma câmara profissional de alta fidelidade CyberMind. A criação de Disquetes de VR passa a suportar categoria 3. A capacidade máxima de execução é ampliada para categoria 5
+ "CyberMind Sempre aprimorando suas mais diversas experiencias"
 ### Câmara de Artes
 - Preço:
 - Tamanho:
