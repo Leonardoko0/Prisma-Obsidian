@@ -115,6 +115,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
+Sala com diversas sucatas com uma estação de mecânica. Crie seus próprios robôs e lute cont
 **Nível 2:**
 **Nível 3:**
 ## Outros
