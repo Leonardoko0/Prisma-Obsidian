@@ -64,7 +64,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
- Sala com diversos equipamentos estisados e variados como: Arcades, 
+ Sala com diversos equipamentos estilizados e variados como: Arcades, Computadores e emuladores. Confortável  
 **Nível 2:**
 **Nível 3:**
 ### Módulo de Realidade Aumentada
