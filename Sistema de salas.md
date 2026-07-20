@@ -18,7 +18,7 @@
 ### Quartos Únicos
 - Preço
 - Tamanho
-São quartos personalizados onde cada jogador pode personalizar da forma que quiser.  
+São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. Banheiros não inclusos  
 ### Refeitório
 ### Sala de Comando
 ### Sala de Máquinas
