@@ -68,8 +68,9 @@
 **Nível 1:**
 Sala com equipamentos diversos prontos para serem utilizados em qualquer necessidade seja ela reparos ou criação de itens
 **Nível 2:**
-Melhora a qualidade do equipamentos permitindo pesquisas mais expecializadas sobre determinado assunto
+Melhora a qualidade do equipamentos permitindo pesquisas mais expecializadas sobre determinado assunto/Equipamento
 **Nível 3:**
+Transforma em um Módulo proficional com diversos equipamentos e uma grande capacidade de fazer diversas coisas
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
