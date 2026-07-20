@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,13 +240,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7da1df4d31b8d87",
+  "active": "46dc8dbfa8a36b2a",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
+    "Sistema de salas.md",
     "Bases Provisórias.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Itens Gerais.md",
-    "Rpg/Personagens/Raça.md",
-    "Sistema de salas.md",
     "Estação Principal.md",
     "Combate.md",
     "Níveis de Base.md",
