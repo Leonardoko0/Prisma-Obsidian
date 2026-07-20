@@ -48,7 +48,8 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 Sala onde é gerada toda energia da nave. Altamente instável quando há necessidade de reparos 
 ### Câmara da IA
 - Preço:
-- Tamnho
+- Tamanho:
+Pequena caixa alojada na sala de comando. Local onde toda a mente da IA reside quando d
 ### Segurança
 ## Divertimento
 ### Sala de Jogos
