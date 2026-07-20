@@ -16,9 +16,12 @@
 ### Módulo de Eletrônica
 ## Funcionamento da Nave
 ### Quartos Únicos
-- Preço
-- Tamanho
-São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. Banheiros não inclusos  
+- Preço: 0
+- Tamanho:
+São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. Banheiros não inclusos.
+
+*Não ter um quarto significa ter descanso precário*
+
 ### Refeitório
 ### Sala de Comando
 ### Sala de Máquinas
