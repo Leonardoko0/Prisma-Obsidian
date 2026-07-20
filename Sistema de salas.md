@@ -28,8 +28,9 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 Produção de compostos nutricionais e água. Equipamento de cozinha precários e confortabilidade básica 
 "Gosto duvidoso e horrível"
 **Nível 2:** u
-Produção de ingredientes variados, líquidos alcoólicos. Equipamento de cozinha decente e conforta
-
+Produção de ingredientes variados, líquidos alcoólicos. Equipamento de cozinha decente e confortabilidade boa
+**Nível 3:** u
+Produção de pratos 
 ### Sala de Comando
 ### Sala de Máquinas
 ### Núcleo de Éter
