@@ -13,7 +13,6 @@
 ## Sala de Treinamento
 ## Sala de Artes
 ## Igreja/Sala de religião
-## Módulo de Eletrônica
 ## Lounge
 ## Câmeras
 ## Hangar
@@ -31,3 +30,4 @@
 ## Módulo de Engenharia
 ## Laboratório
 ## Câmara de Implantes
+## Módulo de Eletrônica
