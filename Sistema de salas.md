@@ -45,8 +45,10 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 ### Núcleo de Éter
 - Preço:
 - Tamanho:
-S
+Sala onde é gerada toda energia da nave. Altamente instável quando há necessidade de reparos 
 ### Câmara da IA
+- Preço:
+- Tamnho
 ### Segurança
 ## Divertimento
 ### Sala de Jogos
