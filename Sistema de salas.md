@@ -117,9 +117,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não** X-X.
 **Nível 2:**
-Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos mais especializados.
+Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
 **Nível 3:**
-Ainda mais habilidades podem ser escolhidas, além disso todo robô possui uma habilidade especial
+Arena  Além de uma seleção ainda maior de peças e habilidades, todo robô construído recebe um **Módulo Especial**, uma habilidade exclusiva que o diferencia dos demais em combate.
 ## Outros
 ### Sala de Treinamento
 ### Hangar
