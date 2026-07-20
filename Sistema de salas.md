@@ -16,9 +16,9 @@
 ### Módulo de Eletrônica
 ## Funcionamento da Nave
 ### Quartos Únicos
-- 1 pra cada player
-- desvantagens caso eles não existam
-- descrição por parte do player
+- Preço
+- Tamanho
+São quartos personalizados onde cada player tem 
 ### Refeitório
 ### Sala de Comando
 ### Sala de Máquinas
