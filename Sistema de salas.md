@@ -54,9 +54,9 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
- Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave. As câmeras permanecem estáticas.
+ Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave. Câmeras de baixa qualidade e permanecem estáticas.
 **Nível 2:**
- Melhora a quantidade de câmeras espalhadas pela nave, controle rotacional de câmeras. Microfones de má qualidade imbutidos nas câmeras.
+Aumenta a quantidade de câmeras pela nave. Controle remotamente a rotação das câmeras, além de contar com microfones integrados de baixa qualidade.
 **Nível 3:**
 Grande quantidade de câmeras espalhadas pela nave, câmeras com placas protetivas e controle superior. Microfones de boa qualidade nas câmeras
 ## Divertimento
