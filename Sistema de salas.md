@@ -16,7 +16,6 @@
 ## Módulo de Eletrônica
 ## Lounge
 ## Câmeras
-## Câmara de Implantes
 ## Hangar
 ## Sala de Produção
 # Armamento
@@ -31,3 +30,4 @@
 ## Bancada de Narcóticos
 ## Módulo de Engenharia
 ## Laboratório
+## Câmara de Implantes
