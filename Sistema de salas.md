@@ -107,7 +107,7 @@ Sala equipada com equipamentos básicos de academia, vem com vestuário incluso
 **Nível 2:**
 Aumenta a qualidade e diversidade dos equipamentos, agora com chuveiros
 **Nível 3:**
-Aumenta ainda mais a qualidade e diversidade dos equipamentos. suplementos nutricionais podem ser gerados 
+Aumenta ainda mais a qualidade e diversidade dos equipamentos. suplementos nutricionais podem ser gerados na sala
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
