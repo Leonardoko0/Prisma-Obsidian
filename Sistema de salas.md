@@ -60,7 +60,7 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Câmara 
+Câmara com equipamentos destinados a manutenção e convecção de implantes
 **Nível 2:**
 **Nível 3:**
 ### Módulo de Oficina
