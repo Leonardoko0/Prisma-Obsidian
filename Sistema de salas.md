@@ -64,7 +64,7 @@ Uma câmara médica equipada para a instalação, calibração e manutenção de
 **Nível 2:**
 Os equipamentos são melhorados e passam a suportar implantes de maiores riscos.
 **Nível 3:**
-A câmara é melhorada em um centro cirúrgico cibernético de última geração. torna-se capaz de realizar procedimentos em indivíduos extensivamente modificados, mantendo sua estabilidade e compatibilidade biológica.
+A câmara é melhorada em um centro cirúrgico cibernético de última geração. Disponibiliza remédios 
 ### Módulo de Oficina
 - Preço:
 - Tamanho:
