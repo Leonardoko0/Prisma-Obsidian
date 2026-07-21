@@ -64,7 +64,7 @@ Câmara com equipamentos destinados a manutenção e convecção de implantes
 **Nível 2:**
 Melhora os equipamentos que agora conseguem suportar equipamentos de maior pereculosidade
 **Nível 3:**
-Os equipamentos de implantes se tornam d
+Os equipamentos de implantes se tornam dignos de suportar pessoas quase inteiramente modficadas 
 ### Módulo de Oficina
 - Preço:
 - Tamanho:
