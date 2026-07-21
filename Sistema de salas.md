@@ -62,7 +62,7 @@
 **Nível 1:**
 Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também permite realizar diagnósticos e reparos.
 **Nível 2:**
-Os equipamentos são  e passam a suportar implantes mais complexos e de maior risco cirúrgico. O módulo oferece maior precisão, reduzindo as chances de falhas durante procedimentos delicados.
+Os equipamentos são melhorados e passam a suportar implantes de maior risc.
 **Nível 3:**
 A câmara é transformada em um centro cirúrgico cibernético de última geração. Com o auxílio de medicamentos especializados e tecnologia avançada, torna-se capaz de realizar procedimentos em indivíduos extensivamente modificados, mantendo sua estabilidade e compatibilidade biológica.
 ### Módulo de Oficina
