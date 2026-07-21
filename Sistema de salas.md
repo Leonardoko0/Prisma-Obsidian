@@ -60,8 +60,8 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também  permite realizar diagnósticos e reparos.
-- Permite o uso de Implantes de Categoria 1
+ Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também  permite realizar diagnósticos e reparos.
+ - Permite o uso de Implantes de Categoria 1
 **Nível 2:**
  Os equipamentos são melhorados e passam a suportar implantes de maiores riscos.
  - Permite o uso de Implantes de Categoria 2
