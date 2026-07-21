@@ -61,10 +61,11 @@
 - Tamanho:
 **Nível 1:**
 Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também permite realizar diagnósticos e reparos.
+- Permite o uso de Implantes de Categoria 1
 **Nível 2:**
 Os equipamentos são melhorados e passam a suportar implantes de maiores riscos.
 **Nível 3:**
-A câmara é melhorada em um centro cirúrgico cibernético de última geração. Disponibiliza remédios 
+A câmara é melhorada em um centro cirúrgico cibernético de última geração. Disponibiliza remédios bloqueadores imunológicos.
 ### Módulo de Oficina
 - Preço:
 - Tamanho:
