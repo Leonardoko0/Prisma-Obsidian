@@ -64,7 +64,7 @@ Câmara com equipamentos destinados a manutenção de implantes
 **Nível 2:**
 Melhora os equipamentos que agora conseguem suportar equipamentos de maior pereculosidade
 **Nível 3:**
-Os equipamentos de implantes se tornam dignos de suportar pessoas quase inteiramente modficadas com auxilio de remédios  
+Os equipamentos de implantes se tornam dignos de suportar pessoas quase inteiramente modficadas com auxilio de remédios e tecnologia 
 ### Módulo de Oficina
 - Preço:
 - Tamanho:
