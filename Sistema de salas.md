@@ -60,6 +60,7 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
+Câmara 
 **Nível 2:**
 **Nível 3:**
 ### Módulo de Oficina
