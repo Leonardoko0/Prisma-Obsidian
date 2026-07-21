@@ -60,11 +60,11 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Câmara com equipamentos destinados a manutenção de implantes
+Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também permite realizar diagnósticos e reparos.
 **Nível 2:**
-Melhora os equipamentos que agora conseguem suportar equipamentos de maior pereculosidade
+Os equipamentos são  e passam a suportar implantes mais complexos e de maior risco cirúrgico. O módulo oferece maior precisão, reduzindo as chances de falhas durante procedimentos delicados.
 **Nível 3:**
-Os equipamentos de implantes se tornam dignos de suportar pessoas quase inteiramente modficadas com auxilio de remédios e tecnologia 
+A câmara é transformada em um centro cirúrgico cibernético de última geração. Com o auxílio de medicamentos especializados e tecnologia avançada, torna-se capaz de realizar procedimentos em indivíduos extensivamente modificados, mantendo sua estabilidade e compatibilidade biológica.
 ### Módulo de Oficina
 - Preço:
 - Tamanho:
