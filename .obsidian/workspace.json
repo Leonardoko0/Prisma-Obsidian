@@ -88,8 +88,23 @@
               "icon": "lucide-file",
               "title": "Criação De Personagem"
             }
+          },
+          {
+            "id": "f9cca27809f6a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combate de Ambiente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate de Ambiente"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -239,9 +254,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "f9cca27809f6a5c3",
   "lastOpenFiles": [
     "Rpg/Regras/Combate.md",
+    "Combate de Ambiente.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
@@ -266,7 +282,6 @@
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Organizações/Organização Dos Raiders.md",
-    "Rpg/Inimigos/Bestiário.md",
     "Sem título.canvas",
     "Minha PEÇA.canvas",
     "Sem título.base",

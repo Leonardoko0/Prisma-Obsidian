@@ -7,5 +7,7 @@ dentro do combate e para isso as regras e ações estão aqui pra transformar a 
 ## [[Ação Padrão]]
 ## [[Ação de Movimento]]
 ## [[Ação Prismática]]
+## [[Reações]]
 ## [[Estâmina]]
-##
+## [[Armadura]]
+## 
