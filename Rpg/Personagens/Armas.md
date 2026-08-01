@@ -26,7 +26,7 @@
 - Munição: (Small) 14 Balas
 - Balas por Ataque: 2
 - Propriedades: N/a
-- Discrição:
+- Descrição:
 #### Caldwell Handcannon
 - Preço: 250u
 - Dano: 3d4 Balístico
@@ -37,7 +37,7 @@
 - Munição: (Shell) 2 Balas
 - Balas por Ataque: 1
 - Propriedades: Curto Alcance
-- Discrição:
+- Descrição:
 #### STI DVC ltd. Custom
 - Preço: 200u
 - Dano: 1d6 Balístico
@@ -148,7 +148,7 @@
 - Alcance: 6m/9m
 - Crítico: 18/x2
 - Propriedades: Leve, Arremesso 
-- Discrição:
+- Descrição:
 #### Lâmina Média
 - Preço: 125u
 - Dano: 1d6 Cortante
@@ -157,7 +157,7 @@
 - Alcance: 1,5m
 - Crítico: 19/x2 
 - Propriedades: Acuidade
-- Discrição:
+- Descrição:
 #### Lança
 - Preço: 125u
 - Dano: 1d8 Perfurante
@@ -166,7 +166,7 @@
 - Alcance: 3,0m
 - Crítico: x2
 - Propriedades: Acuidade, Alcance
-- Discrição:
+- Descrição:
 #### Espada Longa
 - Preço: 200u
 - Dano: 1d8 Cortante
@@ -175,7 +175,7 @@
 - Alcance: 1,5m 
 - Crítico: 19/x2
 - Propriedades: Versátil (1d10), Acuidade 
-- Discrição:
+- Descrição:
 #### Espada Leve
 - Preço: 150u
 - Dano: 1d6 Cortante
@@ -184,7 +184,7 @@
 - Alcance: 1,5 
 - Crítico: 18/x2
 - Propriedades: Leve 
-- Discrição:
+- Descrição:
 #### Machadinha
 - Preço: 75u
 - Dano: 1d6 Cortante
@@ -193,7 +193,7 @@
 - Alcance: 4,5m/7m
 - Crítico: x3
 - Propriedades: Arremesso, Leve
-- Discrição:
+- Descrição:
 #### Machado
 - Preço: 250u
 - Dano: 1d12 Cortante
@@ -202,7 +202,7 @@
 - Alcance: 1,5 m
 - Crítico: x2
 - Propriedades: Pesado, Duas Mãos
-- Discrição:
+- Descrição:
 #### Marreta
 - Preço: 275u
 - Dano: 2d6 Contusão
@@ -211,7 +211,7 @@
 - Alcance: 1,5m
 - Crítico: x2
 - Propriedades: Pesado, Duas Mãos
-- Discrição:
+- Descrição:
 #### Maça
 - Preço: 200u
 - Dano: 1d8 Contusão
@@ -220,7 +220,7 @@
 - Alcance: 1,5 m
 - Crítico: x2
 - Propriedades: Pesada, Versátil (10)
-- Discrição:
+- Descrição:
 #### Chicote
 - Preço: 150u
 - Dano: 1d6 Contusão
@@ -229,7 +229,7 @@
 - Alcance: 4,5 m 
 - Crítico: x2
 - Propriedades: Acuidade, Alcance
-- Discrição:
+- Descrição:
 #### Bastão/Cajado
 - Preço: 100u
 - Dano: 1d6 Contusão
@@ -238,7 +238,7 @@
 - Alcance: 1,5 m
 - Crítico: x2
 - Propriedades: Versátil (1d8) Acuidade
-- Discrição: 
+- Descrição: 
 
 
 ## Armas Combatentes 
