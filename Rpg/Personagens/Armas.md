@@ -283,6 +283,7 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 ## Dicionário 
 ### Características de Armas
 #### Preço
+Preço médio ou aproximado que u
 #### Dano
 #### Peso
 #### Carga
@@ -292,7 +293,7 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 #### Bala por Ataque
 #### Propriedade
 #### Descrição 
-### Propriedade
+#### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
 #### Pesado
