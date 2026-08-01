@@ -17,20 +17,21 @@ A partir da primeira rodadas todos os player rodam iniciativa definindo a ordem 
 Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma quantidade de pontos
 
 ### Ações Negativas
-#### Mover (rápido)
-#### Mover (Lento)
-#### Mover (Esgueirar)
+#### Mover 
+(Rápido)
+(Lento)
+(Esgeuirar)
 #### Mover Corpo
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 #### Escalar
 #### Saltar por Objeto
 ### Ações Positivas
-####
+####Ficar imóvel 
 ####
 ####
 ####
 ### Qualidade de Ambiente
-#### Ficar imóvel 
 ####
+#### Esconder 
 ####
