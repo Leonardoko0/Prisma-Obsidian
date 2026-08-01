@@ -264,12 +264,12 @@ Munições Longas são desenvolvidas para alta precisão e alto desempenho em lo
 Cargas são munições especializadas desenvolvidas para alimentar armamentos de tecnologia avançada e efeitos incomuns. Diferente dos projéteis convencionais, utilizam fontes alternativas como energia, plasma, pressão comprimida ou compostos experimentais, oferecendo propriedades únicas. Compatíveis com armas tecnológicas, protótipos militares e equipamentos especiais, versáteis e frequentemente mais perigosas que munições tradicionais
 ### Recarregando
 Quando suas balas acabarem existem duas possibilidades, a primeira você possui um pente consigo e troca todas suas balas de uma vez só, a segunda é caso vc não tenha pente e precise recarregar bala por bala.
-(Pequena): Recarrega 3 balas  
-(Média):
-(Pesada):
-(Cartucho):
-(Longa):
-(Carga):
+(Pequena): Recarrega 3 balas por ação gasta e +3 no level 10 
+(Média): Recarrega 2 balas por ação gasta e +2 no level 10
+(Pesada): Recarrega 2 balas por ação gasta e +2 no level 10
+(Cartucho): Recarrega 1 balas por ação gasta e +1 no level 10
+(Longa): Recarrega 1 balas por ação gasta e +3 no level 10
+(Carga): Recarrega 3 balas por ação gasta e +3 no level 10
 ## Dicionário 
 ### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
