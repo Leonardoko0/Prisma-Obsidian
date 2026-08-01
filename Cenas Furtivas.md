@@ -35,5 +35,8 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Mal Iluminado
 #### Luz Fraca
 #### Iluminação Normal
-####
+#### Bem Iluminado
+#### Muito Bem Iluminado
+#### Neblina Densa
+#### Neblina Leve
 ####
