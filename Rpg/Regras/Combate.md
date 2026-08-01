@@ -10,4 +10,6 @@ dentro do combate e para isso as regras e ações estão aqui pra transformar a 
 ## [[Reações]]
 ## [[Estâmina]]
 ## [[Armadura]]
-## 
+## [[Combate de Ambiente]]
+## [[Tipo de Danos]]
+##
