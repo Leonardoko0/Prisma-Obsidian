@@ -291,8 +291,9 @@ Quantidade em peso que a arma possui. Para mais informações chegar o anexo (Ca
 #### Carga
 Quantidade de espaço que a arma ocupa. Para mais informações chegar o anexo (Carga e Peso(Regras))
 #### Alcance
-Distancia padrão e maxima que a arma pode atingir. Apartir 
+Distancia padrão e maxima que a arma pode atingir. A partir da distância padrão o ataque tem desvantagem e causa metade do dano
 #### Crítico
+O numero que você precisa tirar para
 #### Munição
 #### Bala por Ataque
 #### Propriedade
