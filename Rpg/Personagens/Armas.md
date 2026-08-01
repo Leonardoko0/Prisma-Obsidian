@@ -271,7 +271,7 @@ Usa força como atributo principal. Ataques de avançada não custam estâmina e
 ### Duas Mãos
 ### Versátil 
 ### Acuidade
-Pode usar tanto força quando agilidade como atributo pricni
+Pode usar tanto força quando agilidade como atributo principal. Não custa estâmina nos dois tipos de ataques
 ### Alcance 
 ### Arremesso
 ### Curto Alcance
