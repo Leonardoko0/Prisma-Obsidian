@@ -7,6 +7,7 @@ a seguir alguns dos possíveis acontecimentos quando um personagem se choca com 
 ![[Pasted image 20260801170407.png|240]]
 
 ## Encurralado Totalmente
+![[Pasted image 20260801170605.png|163]]
 
 ## Contra Outro Alvo 
 ## Meia paredes/Objetos Médios e Pequenos
