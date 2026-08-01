@@ -285,7 +285,7 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 #### Preço
 Preço médio ou aproximado que uma arma pode chegar nas mais diversas lojas de armas em todo universo. Pode ser muito variável dependendo do caso
 #### Dano
-Dano qu
+Conta do tipo e a quantidade de dano em dados que a arma causa
 #### Peso
 #### Carga
 #### Alcance
