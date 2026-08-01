@@ -57,6 +57,7 @@
 - Alcance: 7m/12m
 - Crítico: 19/x2
 - Munição: (Medium) 9 Balas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Supressor Luz (Talvez peso)
 - Discrição:
 #### V.S.M 9
@@ -67,6 +68,7 @@
 - Alcance: 8m
 - Crítico: x2
 - Munição: (Power) 8 Cargas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Burst 3 Tiros (+3)
 - Discrição:
 #### Skorpion vz.61
