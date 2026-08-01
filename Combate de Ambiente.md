@@ -1,8 +1,8 @@
 #Regras [[Rpg/Regras/Combate|Combate]]
 O combate de ambiente se baseia principalmente em ações que empurram o alvo sendo a principal o ataque de avanço
 
-a seguir alguns dos possíveis acontecimentos quando um personagem se choca com o senário
-
+A seguir alguns dos possíveis acontecimentos quando um personagem se choca com o senário
+# Ações
 ## Contra a Parede
 ![[Pasted image 20260801170407.png|219]]
 
@@ -20,4 +20,4 @@ Ataque o alvo enquanto tem outro alvo atrás dele. O alvo atacado toma **+1dado 
 
 ![[Pasted image 20260801171925.png|176]]
 
-Ataque um alvo e jogue-o contra um obstáculo. O alvo atravessa esse objeto, ele deve rodar Acrobacia (DT 10) ou ele fica caído
+Ataque um alvo e jogue-o contra um obstáculo. O alvo atravessa esse objeto e deve rodar Acrobacia (DT 10) ou ele fica caído
