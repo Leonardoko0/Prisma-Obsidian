@@ -37,7 +37,7 @@ Você escala uma quantidade até metade do seu movimento gastando 1d6 de sombra 
 Você roda um teste acrobacia (DT 10/15/20) dependendo da complexidade do salto se passar não perde sombra, na falha perde (7/15/25)
 ### Ações Positivas
 #### Ficar imóvel
-Você fica parado evitando luz e inimigos. Se estiver sem inimigos próximos você recupera 1d12+bonus. pode ser usado em conjunto com outras ações como 
+Você fica parado evitando luz e inimigos. Se estiver sem inimigos próximos você recupera 1d12+bonus. pode ser usado em conjunto com outras ações como *Analisar *
 #### Esconder
 #### Criar Distração 
 #### Esperar Momento Certo
