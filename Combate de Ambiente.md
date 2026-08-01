@@ -13,3 +13,5 @@ a seguir alguns dos possíveis acontecimentos quando um personagem se choca com 
 
 ![[Pasted image 20260801170933.png|171]]
 ## Meia paredes/Objetos Médios e Pequenos
+
+![[Pasted image 20260801171925.png|176]]
