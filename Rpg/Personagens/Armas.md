@@ -48,7 +48,7 @@
 - Munição: (Light) 20 Balas
 - Balas por Ataque: 3
 - Propriedades: N/a
-- Discrição:
+- Descrição:
 #### Enforcer “Diablos”
 - Preço: 350u
 - Dano: 1d12 balístico
@@ -59,7 +59,7 @@
 - Munição: (Medium) 8 Balas
 - Balas por Ataque: 1
 - Propriedades: Supressor Luz (Talvez peso)
-- Discrição:
+- Descrição:
 #### V.S.M 9
 - Preço: 275u
 - Dano: 2d4+3 Queimadura
@@ -70,7 +70,7 @@
 - Munição: (Power) 15 Cargas
 - Balas por Ataque: 3
 - Propriedades: N/A
-- Discrição:
+- Descrição:
 #### Skorpion vz.61
 - Preço: 450u
 - Dano: 2d6 Balístico
@@ -81,7 +81,7 @@
 - Munição: (Light) 30 Balas
 - Balas por Ataque: 4
 - Propriedades: Automático
-- Discrição:
+- Descrição:
 #### H&K MP5A3
 - Preço: 650u
 - Dano: 2d6 Balístico
@@ -92,7 +92,7 @@
 - Munição: (Small) 25 Balas
 - Balas por Ataque: 4
 - Propriedades: Automático
-- Discrição:
+- Descrição:
 #### BlackDown M9P+
 - Preço: 250u
 - Dano: 1d6 Sônico
@@ -103,7 +103,7 @@
 - Munição: (Pressure Load) 4 Cargas
 - Balas por Ataque: 1
 - Propriedades: Silenciado, Sem projétil  
-- Discrição:
+- Descrição:
 #### M&A Mark 629
 - Preço: 400u
 - Dano: 1d12 Balístico
@@ -114,7 +114,7 @@
 - Munição: (Long) 6 Balas
 - Balas por Ataque: 1
 - Propriedades: Pesado 
-- Discrição:
+- Descrição:
 #### Ruger LCP Modded
 - Preço: 200u
 - Dano: 1d4 Balístico
@@ -125,7 +125,7 @@
 - Munição: (Small) 7 Balas
 - Balas por Ataque: 1
 - Propriedades: Silenciado, Rápido
-- Discrição:
+- Descrição:
 ### Corporal
 |     Nome      | Preço |      Dano      |  Peso  | Alcance | Crítico | Propriedades            |
 | :-----------: | :---: | :------------: | :----: | :-----: | :-----: | :---------------------- |
@@ -289,7 +289,9 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 #### Alcance
 #### Crítico
 #### Munição
-#### Bala por Disparo
+#### Bala por Ataque
+#### Propriedade
+#### Descrição 
 ### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
