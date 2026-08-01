@@ -281,6 +281,9 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 (**Longa**): Recarrega 1 balas por ação gasta e +1 no level 10
 (**Carga**): Depende do tipo de bala
 ## Dicionário 
+### Características de Armas
+
+### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
 #### Pesado
