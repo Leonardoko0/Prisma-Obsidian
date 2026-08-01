@@ -30,7 +30,7 @@ a cada tile percorrido de qualquer forma enquanto segura um corpo gasta +1d2 de 
 #### Abater Alvo (Letal)
 Você chega atrás do alvo e o finaliza gastando uma quantidade de sombra = aos pontos de vida do alvo
 #### Abater Alvo (Não Letal)
-Você chega atrás do alvo enforcando-o p
+Você chega atrás do alvo enforcando-o por essa e pela próxima rodada gastando uma quantidade =  metade dos pontos de vida do alvo sendo essas meta
 #### Escalar
 #### Saltar por Objeto
 ### Ações Positivas
