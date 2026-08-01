@@ -265,7 +265,7 @@ Cargas são munições especializadas desenvolvidas para alimentar armamentos de
 
 ## Dicionário 
 ### Leve
-Usa agilidade como atributo principal. 
+Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam.
 ### Pesado
 ### Duas Mãos
 ### Versátil 

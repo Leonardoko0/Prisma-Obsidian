@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +198,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "877789b708e55e46",
+  "active": "9ac4c6c24164eaff",
   "lastOpenFiles": [
+    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
     "Apelidos.md",
     "Cartas de Auxilio.md",
@@ -217,7 +218,6 @@
     "Sistema de Traje de Sobrevivência (No Man´s Sky).md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Regras/Ação de Movimento.md",
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Organizações/Organização Dos Raiders.md",
     "Rpg/Inimigos/Bestiário.md",
     "Sem título.canvas",
