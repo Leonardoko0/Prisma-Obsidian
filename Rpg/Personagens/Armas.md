@@ -287,9 +287,11 @@ Preço médio ou aproximado que uma arma pode chegar nas mais diversas lojas de 
 #### Dano
 Conta do tipo e a quantidade de dano em dados que a arma causa
 #### Peso
-Quantidade em peso que a arma possui. Para mais informações chegar o anexo ()
+Quantidade em peso que a arma possui. Para mais informações chegar o anexo (Carga e Peso(Regras))
 #### Carga
+Quantidade de espaço que a arma ocupa. Para mais informações chegar o anexo (Carga e Peso(Regras))
 #### Alcance
+Distancia 
 #### Crítico
 #### Munição
 #### Bala por Ataque
