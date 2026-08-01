@@ -47,8 +47,7 @@
               "title": "Ação Padrão"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +197,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ac4c6c24164eaff",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Rpg/Regras/Ação Padrão.md",
-    "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Apelidos.md",
