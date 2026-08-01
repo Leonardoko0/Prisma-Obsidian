@@ -295,7 +295,9 @@ Distancia padrão e maxima que a arma pode atingir. A partir da distância padr�
 #### Crítico
 O número que você precisa tirar para acertar um crítico e em quantas vezes o dados serão multiplicados ao acertar um crítico 
 #### Munição
+Quantidade de balas dentro do pente da sua arma
 #### Bala por Ataque
+Quantidade de balas gastas por disparo. Atirar tendo menos balas no pente  
 #### Propriedade
 #### Descrição 
 #### Propriedade
