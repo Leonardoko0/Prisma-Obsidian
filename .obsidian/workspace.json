@@ -117,8 +117,7 @@
               "title": "Tipo de Danos"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,7 +267,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a1ad722a4f209cb7",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Tipo de Danos.md",
     "Combate de Ambiente.md",
