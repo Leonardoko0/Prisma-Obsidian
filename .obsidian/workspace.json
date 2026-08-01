@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1c396d9f49863c7b",
+  "active": "877789b708e55e46",
   "lastOpenFiles": [
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Padrão.md",

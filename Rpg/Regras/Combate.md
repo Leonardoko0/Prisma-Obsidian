@@ -5,6 +5,7 @@ O combate se separa tanto nas habilidades de classe, raça, equipamentos e etc. 
 dentro do combate e para isso as regras e ações estão aqui pra transformar a experiencia de uma batalha em algo dinâmico e divertido 
 
 ## [[Ação Padrão]]
+
 ## [[Ação de Movimento]]
 ## [[Ação Prismática]]
 ## [[Reações]]
@@ -12,4 +13,3 @@ dentro do combate e para isso as regras e ações estão aqui pra transformar a 
 ## [[Armadura]]
 ## [[Combate de Ambiente]]
 ## [[Tipo de Danos]]
-##
