@@ -31,7 +31,6 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Esconder 
 #### Criar Distração 
 #### Esperar Momento Certo
-####
 ### Qualidade de Ambiente
 ####
 ####
