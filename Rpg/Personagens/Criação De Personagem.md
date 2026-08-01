@@ -29,7 +29,7 @@ Sua origem física e cultural.
 Cada raça carrega características próprias, visões de mundo e influências que afetam como você interage com o ambiente.
 #### [[Background]]
 De onde você veio? O que te moldou?  
-Sua história define suas motivações, traumas e objetivos. Ela não é apenas passado — é o que dá sentido às suas decisões.
+Sua história define suas motivações, traumas e objetivos. Ela não é apenas passado é o que dá sentido às suas decisões.
 #### [[Traits]]
 Traços que definem sua personalidade.  
 Virtudes, defeitos, medos, hábitos, são eles que tornam seu personagem humano (ou não).
