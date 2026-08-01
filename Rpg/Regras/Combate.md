@@ -20,6 +20,8 @@ Lista todas as Reações padrões que você pode realizar. Sempre custando estâ
 ## [[Estâmina]]
 Explica como funciona a barra de estâmina e alguns outros detalhes
 ## [[Armadura]]
-Explica del
+Explica detalhes das armaduras
 ## [[Combate de Ambiente]]
+Explica como funciona o combate de ambiente
 ## [[Tipo de Danos]]
+Lista e conta um pouco sobre os tipos de danos possiveis 
