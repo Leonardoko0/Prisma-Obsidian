@@ -14,7 +14,9 @@ Lista todas as ações Padrões que você pode realizar custando ou não estâmi
 ## [[Ação de Movimento]]
 Lista todas as ações de Movimento que você pode realizar custando ou não estâmina
 ## [[Ação Prismática]]
+Descreve as ações Prismáticas e como normalmente podem usadas
 ## [[Reações]]
+Lista todas as Reações padrões que você pode realizar
 ## [[Estâmina]]
 ## [[Armadura]]
 ## [[Combate de Ambiente]]
