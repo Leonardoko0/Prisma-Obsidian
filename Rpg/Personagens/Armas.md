@@ -268,8 +268,8 @@ Quando suas balas acabarem existem duas possibilidades, a primeira você possui 
 (Média): Recarrega 2 balas por ação gasta e +2 no level 10
 (Pesada): Recarrega 2 balas por ação gasta e +2 no level 10
 (Cartucho): Recarrega 1 balas por ação gasta e +1 no level 10
-(Longa): Recarrega 1 balas por ação gasta e +3 no level 10
-(Carga): Recarrega 3 balas por ação gasta e +3 no level 10
+(Longa): Recarrega 1 balas por ação gasta e +1 no level 10
+(Carga): Depende do tipo de bala
 ## Dicionário 
 ### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
