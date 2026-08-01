@@ -24,4 +24,4 @@ Explica detalhes das armaduras
 ## [[Combate de Ambiente]]
 Explica como funciona o combate de ambiente
 ## [[Tipo de Danos]]
-Lista e conta um pouco sobre os tipos de danos possiveis 
+Lista e conta um pouco sobre os tipos de danos possíveis 
