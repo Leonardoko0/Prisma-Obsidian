@@ -23,8 +23,9 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
  - **Lento**
   Você anda lentamente o seu movimento gastando 1d2 de sombra por tile percorrido enquanto tiver inimigos em alcance médio
  - **Esgueirar** 
-  Você se esguei
+  Você se esgueira lentamente a metade do seu movimento gastando 1 de sombra a cada tile percorrido enquanto tiver inimigos em alcance curto
 #### Mover Corpo
+Você leva com você um cadáver pesado
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 #### Escalar
