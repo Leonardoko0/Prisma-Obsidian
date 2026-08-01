@@ -25,7 +25,8 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
  - **Esgueirar** 
   Você se esgueira lentamente a metade do seu movimento gastando 1 de sombra a cada tile percorrido enquanto tiver inimigos em alcance curto
 #### Mover Corpo
-Você leva com você um cadáver pesado
+Você leva com você um cadáver pesado e desajeitado batendo em tudo que passa.
+a cada tile percorrido de qualquer forma enquanto segura um corpo gasta +1d2 de sombra por tile percorrido
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 #### Escalar
