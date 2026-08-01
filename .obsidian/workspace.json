@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "Cartas de Auxilio"
             }
+          },
+          {
+            "id": "cc2ed215bb30377c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59032452e3f340e9",
+  "active": "cc2ed215bb30377c",
   "lastOpenFiles": [
     "Cartas de Auxilio.md",
     "Sistema de salas.md",
