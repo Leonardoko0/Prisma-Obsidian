@@ -265,6 +265,7 @@ Cargas são munições especializadas desenvolvidas para alimentar armamentos de
 
 ## Dicionário 
 ### Leve
+Usa agilidade como atributo principal na soma de testes e ataques 
 ### Pesado
 ### Duas Mãos
 ### Versátil 
