@@ -39,7 +39,12 @@ Você roda um teste acrobacia (DT 10/15/20) dependendo da complexidade do salto 
 #### Ficar imóvel
 Você fica parado evitando luz e inimigos. Se estiver sem inimigos próximos você recupera 1d12+bonus. pode ser usado em conjunto com outras ações como *Analisar furtivamente*
 #### Esconder
-Você gasta sua rodada se escondendo em alguma coisa (parede, caixa, ventilação) então roda roda 1d20+bonus+ qualidade d 
+Você gasta sua rodada se escondendo em alguma coisa (parede, caixa, ventilação) então roda roda 1d20+bonus+ qualidade do esconderijo
+
+- Falho: -2
+- Bom: +5
+- Muito Bom: +10
+- Incrível: +20
 #### Criar Distração 
 #### Esperar Momento Certo
 #### Analisar Alvo Furtivamente
