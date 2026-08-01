@@ -37,16 +37,14 @@
             "id": "cc2ed215bb30377c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.13.4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +194,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cc2ed215bb30377c",
+  "active": "59032452e3f340e9",
   "lastOpenFiles": [
     "Cartas de Auxilio.md",
     "Sistema de salas.md",
