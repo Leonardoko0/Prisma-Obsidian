@@ -9,6 +9,6 @@ EX: Eu tenho +3 de agilidade e tenho +2 em furtividade logo eu adiciono 5x5= 25
 
 ## Rodando uma Cena Furtiva
 Ações furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
-
+que vai variando conforme as ações
 ### Sombra
-A barra de furtividade definida no inicio da cena  
+A barra de furtividade definida no inicio da cena furtiva, quando chega a 0 você é percebido e a cena é finalizada
