@@ -128,8 +128,8 @@
 |    Machado    | 250u  | 1d12 Cortante  | 3,5 kg |  1,5 m  |   x2    | Pesado, Duas Mãos       |
 |    Marreta    | 275u  |  2d6 Contusão  | 5,0 kg |  1,5 m  |   x2    | Pesado, Duas Mãos       |
 |     Maça      | 200u  |  1d8 Contusão  | 3,0 kg |  1,5 m  |   x2    | Pesada, Versátil (10)   |
-|    Chicote    | 150u  |  1d6 Contusão  | 1,0 kg |  4,5 m  |   x2    |  Acuidade, Alcance      |
-| Bastão/Cajado | 100u  |  1d6 Contusão  | 2,0 kg |  1,5 m  |   x2    | Versátil(6) Acuidade    |
+|    Chicote    | 150u  |  1d6 Contusão  | 1,0 kg |  4,5 m  |   x2    | Acuidade, Alcance       |
+| Bastão/Cajado | 100u  |  1d6 Contusão  | 2,0 kg |  1,5 m  |   x2    | Versátil(8) Acuidade    |
 #### Faca
 - Preço: 50u
 - Dano: 1d4 Cortante
@@ -267,6 +267,7 @@ Cargas são munições especializadas desenvolvidas para alimentar armamentos de
 ### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
 ### Pesado
+Usa força como atributo principal. Ataques de avançada não custam estâmina enquanto ataques padrões custam 1.
 ### Duas Mãos
 ### Versátil 
 ### Acuidade
