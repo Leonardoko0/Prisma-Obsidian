@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ac4c6c24164eaff",
+  "active": "52449dee52474a3f",
   "lastOpenFiles": [
-    "Rpg/Regras/Carga e Peso.md",
+    "Rpg/Regras/Estâmina.md",
     "Rpg/Personagens/Armas.md",
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Itens Gerais.md",
@@ -243,7 +244,6 @@
     "Sem título.base",
     "Recording 20260414191404.m4a",
     "Rpg/Sistema MAGE 1.md",
-    "Rpg/Regras/Estâmina.md",
     "Pasted image 20260523170531.png",
     "Sem título 1.canvas",
     "Rpg/Personagens/Criação De Personagem.html",
