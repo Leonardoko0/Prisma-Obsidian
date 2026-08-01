@@ -31,3 +31,6 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 ####
 ####
 ### Qualidade de Ambiente
+#### Ficar imóvel 
+####
+####
