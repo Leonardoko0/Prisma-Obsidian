@@ -283,8 +283,9 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 ## Dicionário 
 ### Características de Armas
 #### Preço
-Preço médio ou aproximado que u
+Preço médio ou aproximado que uma arma pode chegar nas mais diversas lojas de armas em todo universo. Pode ser muito variável dependendo do caso
 #### Dano
+Dano qu
 #### Peso
 #### Carga
 #### Alcance
