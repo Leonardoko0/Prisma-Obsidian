@@ -33,4 +33,5 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Esperar Momento Certo
 ### Qualidade de Ambiente
 #### Muito Mal Iluminado
-####
+#### Mal Iluminado
+###
