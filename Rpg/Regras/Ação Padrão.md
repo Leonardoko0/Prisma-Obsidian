@@ -1,5 +1,4 @@
 #Regras [[Rpg/Regras/Combate]]
-
 ## Lutar
 ### Atacar
 Ataca o alvo com a arma em mãos. Dependendo da arma custa estâmina 
