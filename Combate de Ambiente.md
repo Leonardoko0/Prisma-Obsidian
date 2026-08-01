@@ -20,4 +20,4 @@ Ataque o alvo enquanto tem outro alvo atrás dele. O alvo atacado toma **+1dado 
 
 ![[Pasted image 20260801171925.png|176]]
 
-Ataque um alvo enq
+Ataque um alvo e jogue-o contra um obstáculo. o é derrubado e atravessa esse objeto ele deve rodar acrobacia DT 10 ou ele fica caído
