@@ -15,7 +15,7 @@ Ataque o alvo preso entre obstáculos, o alvo tomará mais **2dados de dano do m
 
 ![[Pasted image 20260801170933.png|171]]
 
-Ataque o alvo enquanto tem outro alvo atrás dele. 
+Ataque o alvo enquanto tem outro alvo atrás dele. O alvo atacado toma **1dado de dano do mesmo tipo** e se move para um dos lado disponíveis enquanto o outro alvo toma como consequência **1dado de dano do mesmo tipo também**  
 ## Meia paredes/Objetos Médios e Pequenos
 
 ![[Pasted image 20260801171925.png|176]]
