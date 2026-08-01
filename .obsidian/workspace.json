@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,15 +212,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "41926fc7f2dca9fe",
+  "active": "6ccc932cb7670f84",
   "lastOpenFiles": [
+    "Combate de Ambiente.md",
     "Rpg/Regras/Carga e Peso.md",
     "Cenas Furtivas.md",
     "Perseguição.md",
     "Cartas de Fuga.md",
     "Pontos de Inspiração.md",
     "Tipo de Danos.md",
-    "Combate de Ambiente.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
