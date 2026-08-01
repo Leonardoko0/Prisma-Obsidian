@@ -4,4 +4,6 @@ O combate de ambiente se baseia principalmente em ações que empurram o alvo se
 a seguir alguns dos possíveis acontecimentos quando um personagem se choca com o senário
 
 ## Contra a Parede
-## Encoralado   
+## Encurralado Totalmente
+## Contra Outro Alvo 
+## Meia paredes e Objetos 
