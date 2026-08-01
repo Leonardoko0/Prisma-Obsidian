@@ -23,5 +23,5 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 #### Escalar
-
+#### Saltar por Objeto
 ### Ações Positivas
