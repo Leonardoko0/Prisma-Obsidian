@@ -9,4 +9,4 @@ EX: Eu tenho +3 de agilidade e tenho +2 em furtividade logo eu adiciono 5x5= 25
 
 ## Rodando uma Cena Furtiva
 
-Ações furtivas não possuem combates reais e diretos e se passeiam em uma barra que é a 
+Ações furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
