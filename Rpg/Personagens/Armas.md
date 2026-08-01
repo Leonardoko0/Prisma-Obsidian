@@ -9,7 +9,7 @@
 |   Caldwell   | 250u  | 3d4 Balístico  | 4,0 kg |  6m/8m   |   x2    | (Shell) Curto Alcance     |
 | STI DVC ltd. | 200u  | 1d6 Balístico  | 3,0 kg | 10m/18m  |  19/x3  | (Light)                   |
 |  Enforcer D  | 350u  | 1d12 balístico | 4,5 kg |  7m/12m  |  19/x2  | (Medium) Supressor Luz    |
-|   V.S.M 9    | 275u  | 2d4 Queimadura | 5,5 kg |    8m    |   x3    | (Power) Burst 3 Tiros     |
+|   V.S.M 9    | 275u  | 2d4 Queimadura | 5,5 kg |    8m    |   x3    | (Power)                   |
 |   Skorpion   | 450u  | 2d6 Balístico  | 4,0 kg |  8m/14m  |   x2    | (Light) Automático        |
 |    MP5A3     | 650u  | 2d6 Balístico  | 6,0 kg | 12m/18m  |  19/x2  | (Small) Automático        |
 |     M9P+     | 250u  |   1d6 Sônico   | 4,0 kg | 15m/27m  |  19/x2  | (Pressão) Silenciado      |
@@ -67,9 +67,9 @@
 - Carga: 1
 - Alcance: 8m
 - Crítico: x2
-- Munição: (Power) 8 Cargas
-- Quantidade Efetiva de Balas por Ataque: 1
-- Propriedades: Burst 3 Tiros (+3)
+- Munição: (Power) 15 Cargas
+- Quantidade Efetiva de Balas por Ataque: 3
+- Propriedades: N/A
 - Discrição:
 #### Skorpion vz.61
 - Preço: 450u
@@ -79,6 +79,7 @@
 - Alcance: 8m/14m
 - Crítico: x2
 - Munição: (Light) 30 Balas
+- Quantidade Efetiva de Balas por Ataque: 5
 - Propriedades: Automático
 - Discrição:
 #### H&K MP5A3
