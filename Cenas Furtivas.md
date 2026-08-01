@@ -28,6 +28,7 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 Você leva com você um cadáver pesado e desajeitado batendo em tudo que passa.
 a cada tile percorrido de qualquer forma enquanto segura um corpo gasta +1d2 de sombra por tile percorrido
 #### Abater Alvo (Letal)
+Você chega atrás do alvo e o finaliza gastando uma quantidade de sombra = aos pontos de vida do alvo
 #### Abater Alvo (Não Letal)
 #### Escalar
 #### Saltar por Objeto
