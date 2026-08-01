@@ -6,10 +6,11 @@ a seguir alguns dos possíveis acontecimentos quando um personagem se choca com 
 ## Contra a Parede
 ![[Pasted image 20260801170407.png|219]]
 
-Ataque o alvo que vai bater contra a parede tomando mais 1dado de dano do mesmo tipo. Após isso ele pode escolher 
+Ataque o alvo que vai bater contra a parede tomando mais **1dado de dano do mesmo tipo**. Após isso ele pode escolher se mover parar um dos lados disponíveis ou não
 ## Encurralado Totalmente
 ![[Pasted image 20260801170605.png|163]]
 
+Ataque o al
 ## Contra Outro Alvo 
 
 ![[Pasted image 20260801170933.png|171]]
