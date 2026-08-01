@@ -10,10 +10,12 @@ Ataque o alvo que vai bater contra a parede tomando mais **1dado de dano do mesm
 ## Encurralado Totalmente
 ![[Pasted image 20260801170605.png|163]]
 
-Ataque o alvo preso entre obstáculos, o alvo tomará mais **2dados de dano do mesmo tipo**. Após isso ele é não 
+Ataque o alvo preso entre obstáculos, o alvo tomará mais **2dados de dano do mesmo tipo**. Após isso ele é não pode se mover para qualquer lado
 ## Contra Outro Alvo 
 
 ![[Pasted image 20260801170933.png|171]]
+
+Ataque o alvo enquanto tem outro alvo atrás dele. 
 ## Meia paredes/Objetos Médios e Pequenos
 
 ![[Pasted image 20260801171925.png|176]]
