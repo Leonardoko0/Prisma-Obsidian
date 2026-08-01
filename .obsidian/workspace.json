@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,11 +240,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d2cfdf4ab7b08b5c",
+  "active": "1c396d9f49863c7b",
   "lastOpenFiles": [
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Personagens/Criação De Personagem.md",
-    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Estâmina.md",
