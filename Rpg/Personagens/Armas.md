@@ -90,6 +90,7 @@
 - Alcance: 12m/18m
 - Crítico: 19/x2
 - Munição: (Small) 25 Balas
+- 
 - Propriedades: Automático
 - Discrição:
 #### BlackDown M9P+
