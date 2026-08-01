@@ -1,3 +1,2 @@
 #Regras 
 Fontes:
-$Amorgus$ @@
