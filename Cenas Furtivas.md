@@ -19,7 +19,7 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 ### Ações Negativas
 #### Mover (rápido)
 #### Mover (Lento)
-#### Mover ()
+#### Mover (Esgueirar)
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 ### Ações Positivas
