@@ -41,6 +41,9 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Neblina Leve
 #### Esfumaçado
 #### Empoeirado
+#### Silencioso
+#### Ruído Moderado
+#### Barulhento
 ### Qualidade dos Inimigos
 #### Despreocupados
 #### Patrulhando
