@@ -6,9 +6,10 @@ A cada ação que você fizer você vai gastar(ou ganhar) esses pontos conforme 
 ## Alterando Bonus
 Todos as coisas que somariam no seu teste de furtividade são multiplicados por 5
 EX: Eu tenho +3 de agilidade e tenho +2 em furtividade logo eu adiciono 5x5= 25
-
-## Rodando uma Cena Furtiva
-Ações furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
-que vai variando conforme as ações
-### Sombra
+## Sombra
 A barra de furtividade definida no inicio da cena furtiva, quando chega a 0 você é percebido e a cena é finalizada
+## Rodando uma Cena Furtiva
+Cenas furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
+que vai variando conforme as ações
+
+A partir da primeira rodadas to
