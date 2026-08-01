@@ -16,8 +16,10 @@ Lista todas as ações de Movimento que você pode realizar custando ou não est
 ## [[Ação Prismática]]
 Descreve as ações Prismáticas e como normalmente podem usadas
 ## [[Reações]]
-Lista todas as Reações padrões que você pode realizar
+Lista todas as Reações padrões que você pode realizar. Sempre custando estâmina
 ## [[Estâmina]]
+Explica como funciona a barra de estâmina e alguns outros detalhes
 ## [[Armadura]]
+Explica del
 ## [[Combate de Ambiente]]
 ## [[Tipo de Danos]]
