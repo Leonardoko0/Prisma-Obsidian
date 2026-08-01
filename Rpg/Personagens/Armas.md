@@ -79,7 +79,7 @@
 - Alcance: 8m/14m
 - Crítico: x2
 - Munição: (Light) 30 Balas
-- Quantidade Efetiva de Balas por Ataque: 5
+- Quantidade Efetiva de Balas por Ataque: 4
 - Propriedades: Automático
 - Discrição:
 #### H&K MP5A3
@@ -90,7 +90,7 @@
 - Alcance: 12m/18m
 - Crítico: 19/x2
 - Munição: (Small) 25 Balas
-- 
+- Quantidade Efetiva de Balas por Ataque: 4
 - Propriedades: Automático
 - Discrição:
 #### BlackDown M9P+
@@ -101,6 +101,7 @@
 - Alcance: 15m/27m
 - Crítico: 19/x2
 - Munição: (Pressure Load) 4 Cargas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Silenciado, Sem projétil  
 - Discrição:
 #### M&A Mark 629
