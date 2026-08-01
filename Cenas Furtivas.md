@@ -27,11 +27,11 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Escalar
 #### Saltar por Objeto
 ### Ações Positivas
-####Ficar imóvel 
-####
-####
+#### Ficar imóvel 
+#### Esconder 
+#### Criar Distração 
+#### Esperar Momento Certo
 ####
 ### Qualidade de Ambiente
 ####
-#### Esconder 
 ####
