@@ -32,6 +32,8 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Criar Distração 
 #### Esperar Momento Certo
 ### Qualidade de Ambiente
-#### Muito Mal Iluminado
 #### Mal Iluminado
-###
+#### Luz Fraca
+#### Iluminação Normal
+####
+####
