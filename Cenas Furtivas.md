@@ -39,4 +39,6 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Muito Bem Iluminado
 #### Neblina Densa
 #### Neblina Leve
-####
+#### Esfumaçado
+#### Empoeirado
+### Qualidade dos
