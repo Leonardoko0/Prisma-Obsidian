@@ -297,10 +297,10 @@ O número que você precisa tirar para acertar um crítico e em quantas vezes o 
 #### Munição
 Quantidade de balas dentro do pente da sua arma
 #### Bala por Ataque
-Quantidade de balas gastas por disparo. Atirar tendo menos balas no pente  
+Quantidade de balas gastas por disparo. Atirar tendo menos balas no pente abaixa o dano pela metade  
 #### Propriedade
+Especificações de cada arma. Listadas abaixo
 #### Descrição 
-#### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
 #### Pesado
