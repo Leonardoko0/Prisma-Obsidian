@@ -89,8 +89,7 @@
               "title": "Criação De Personagem"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +239,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1c396d9f49863c7b",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Regras/Combate.md",
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
