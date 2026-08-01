@@ -34,7 +34,7 @@ Você chega atrás do alvo enforcando-o por essa e pela próxima rodada gastando
 #### Escalar
 Você escala uma quantidade até metade do seu movimento gastando 1d6 de sombra por tile escalado  
 #### Saltar por Objeto
-Você roda um teste acrobacia (DT )
+Você roda um teste acrobacia (DT 10/15/20) dependendo da complexidade do salto se passar não perde sombra, na falha perde (7/15/25)
 ### Ações Positivas
 #### Ficar imóvel 
 #### Esconder 
