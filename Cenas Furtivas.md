@@ -8,5 +8,7 @@ Todos as coisas que somariam no seu teste de furtividade são multiplicados por 
 EX: Eu tenho +3 de agilidade e tenho +2 em furtividade logo eu adiciono 5x5= 25
 
 ## Rodando uma Cena Furtiva
-
 Ações furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
+
+### Sombra
+A barra de furtividade definida no inicio da cena  
