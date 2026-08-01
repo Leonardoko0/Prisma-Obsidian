@@ -293,7 +293,7 @@ Quantidade de espaço que a arma ocupa. Para mais informações chegar o anexo (
 #### Alcance
 Distancia padrão e maxima que a arma pode atingir. A partir da distância padrão o ataque tem desvantagem e causa metade do dano
 #### Crítico
-O numero que você precisa tirar para
+O número que você precisa tirar para acertar um crítico e em quantas vezes o dados serão multiplicados ao acertar um crítico 
 #### Munição
 #### Bala por Ataque
 #### Propriedade
