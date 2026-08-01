@@ -112,6 +112,7 @@
 - Alcance: 10m/14m
 - Crítico: x2
 - Munição: (Long) 6 Balas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Pesado 
 - Discrição:
 #### Ruger LCP Modded
@@ -122,6 +123,7 @@
 - Alcance: 7 m/14 m
 - Crítico: 18/x4
 - Munição: (Small) 7 Balas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Silenciado, Rápido
 - Discrição:
 ### Corporal
