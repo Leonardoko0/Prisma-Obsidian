@@ -5,9 +5,10 @@ O combate se separa tanto nas habilidades de classe, raça, equipamentos e etc. 
 dentro do combate e para isso as regras e ações estão aqui pra transformar a experiencia de uma batalha em algo dinâmico e divertido 
 
 Na sua rodada você pode realizar algumas ações sendo elas: Uma ação Padrão, Movimento, Prismática e Reação
-- Ação Padrão: principal ação que você vai realizar na sua rodada
-- Ação de Movimento: Ação segundaria normalmente usada em conjunto com a ação padrão
-- Ação Prismática
+ - Ação Padrão: principal ação que você vai realizar na sua rodada
+ - Ação de Movimento: Ação segundaria normalmente usada em conjunto com a ação padrão
+ - Ação Prismática: Um tipo especial de ação que dependendo de como usado pode ser utilizado fora do seu turno
+ - Reação: Ação que você realiza quando é atacado
 ## [[Ação Padrão]]
 Lista todas as ações Padrões que você pode realizar custando ou não estâmina
 ## [[Ação de Movimento]]
