@@ -281,19 +281,18 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 (**Longa**): Recarrega 1 balas por ação gasta e +1 no level 10
 (**Carga**): Depende do tipo de bala
 ## Dicionário 
-### Leve
+#### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
-### Pesado
+#### Pesado
 Usa força como atributo principal. Ataques de avançada não custam estâmina enquanto ataques padrões custam 1.
-### Duas Mãos
-### Versátil 
-### Acuidade
+#### Duas Mãos
+#### Versátil 
+#### Acuidade
 Pode usar tanto força quando agilidade como atributo principal. Não custa estâmina nos dois tipos de ataques
-### Alcance 
-### Arremesso
-### Curto Alcance
-### Supressor Luz
-### Burst 3 Tiros
-### Automático
-### Silenciado
-### Rápido
+#### Alcance 
+#### Arremesso
+#### Curto Alcance
+#### Supressor Luz
+#### Automático
+##### Silenciado
+#### Rápido
