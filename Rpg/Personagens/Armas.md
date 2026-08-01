@@ -123,7 +123,7 @@
 - Alcance: 7 m/14 m
 - Crítico: 18/x4
 - Munição: (Small) 7 Balas
-- Quantidade Efetiva de Balas por Ataque: 1
+- Quantidade Balas por Ataque: 1
 - Propriedades: Silenciado, Rápido
 - Discrição:
 ### Corporal
@@ -282,7 +282,14 @@ Quando suas balas acabarem existem duas possibilidades: A primeira você possui 
 (**Carga**): Depende do tipo de bala
 ## Dicionário 
 ### Características de Armas
-
+#### Preço
+#### Dano
+#### Peso
+#### Carga
+#### Alcance
+#### Crítico
+#### Munição
+####
 ### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
