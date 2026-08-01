@@ -12,4 +12,6 @@ A barra de furtividade definida no inicio da cena furtiva, quando chega a 0 voc�
 Cenas furtivas não possuem combates reais e diretos e se passeiam em uma barra que é "**Sombra**"
 que vai variando conforme as ações
 
-A partir da primeira rodadas todos os player rodam iniciativa definindo a ordem de jogadas podendo também combinar entre eles qual vai ser a ordem de jogadas dos p
+A partir da primeira rodadas todos os player rodam iniciativa definindo a ordem de jogadas podendo também combinar entre eles qual vai ser a ordem definida.
+
+Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma quantidade de pontos 
