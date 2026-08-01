@@ -24,6 +24,7 @@
 - Alcance: 9m/16m
 - Crítico: x2
 - Munição: (Small) 14 Balas
+- Quantidade Efetiva de Balas por Ataque: 2
 - Propriedades: N/a
 - Discrição:
 #### Caldwell Handcannon
@@ -34,6 +35,7 @@
 - Alcance: 6m/8m
 - Crítico: x2
 - Munição: (Shell) 2 Balas
+- Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Curto Alcance
 - Discrição:
 #### STI DVC ltd. Custom
@@ -44,6 +46,7 @@
 - Alcance: 10m/18m
 - Crítico: 19/x3
 - Munição: (Light) 20 Balas
+- Quantidade Efetiva de Balas por Ataque: 3
 - Propriedades: N/a
 - Discrição:
 #### Enforcer “Diablos”
