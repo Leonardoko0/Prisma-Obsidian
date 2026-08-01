@@ -6,4 +6,4 @@ a seguir alguns dos possíveis acontecimentos quando um personagem se choca com 
 ## Contra a Parede
 ## Encurralado Totalmente
 ## Contra Outro Alvo 
-## Meia paredes e Objetos 
+## Meia paredes/Objetos Médios e Pequenos
