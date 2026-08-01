@@ -300,7 +300,9 @@ Quantidade de balas dentro do pente da sua arma
 Quantidade de balas gastas por disparo. Atirar tendo menos balas no pente abaixa o dano pela metade  
 #### Propriedade
 Especificações de cada arma. Listadas abaixo
-#### Descrição 
+#### Descrição
+Descrição da aparência comum da arma
+### Propriedade
 #### Leve
 Usa agilidade como atributo principal. Ataques padrões não custam estâmina enquanto ataques de avançada custam 1.
 #### Pesado
