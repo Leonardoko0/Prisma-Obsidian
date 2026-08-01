@@ -92,4 +92,4 @@ Passe sua ação observando o alvo e tire vantagens disso, rode percepção ou t
 Passe sua ação tentando se esconder de todos, rode furtividade contra a percepção dos alvos ou alvo específico que você queira se esconder se passar fique furtivo. o alvo pode refazer o teste todo inicio de rodada
 
 - Furtivo: O alvo fica desprevenido contra seus ataque.
-- desprevenido:  Não pode reagir e tem -5 na DT
+- Desprevenido:  Não pode reagir e tem -5 na DT
