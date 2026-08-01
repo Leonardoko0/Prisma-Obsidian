@@ -19,7 +19,7 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 ### Ações Negativas
 #### Mover 
   - **Rápido**
-   a
+   Você corre pelo uma quantidade até o dobro do seu deslocamento gastando 1d4 de sombra a cada tile percorrido enquanto tiver inimigos em alcance Mé
 
 
 #### Mover Corpo
