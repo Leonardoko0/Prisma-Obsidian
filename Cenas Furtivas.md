@@ -32,8 +32,9 @@ Você chega atrás do alvo e o finaliza gastando uma quantidade de sombra = aos 
 #### Abater Alvo (Não Letal)
 Você chega atrás do alvo enforcando-o por essa e pela próxima rodada gastando uma quantidade =  metade dos pontos de vida do alvo sendo essas metades divididas pelas duas rodadas
 #### Escalar
-Você escala até um quantidade  
+Você escala uma quantidade até metade do seu movimento gastando 1d6 de sombra por tile escalado  
 #### Saltar por Objeto
+Você roda um teste acrobacia (DT )
 ### Ações Positivas
 #### Ficar imóvel 
 #### Esconder 
