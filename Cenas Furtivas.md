@@ -20,6 +20,7 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 #### Mover (rápido)
 #### Mover (Lento)
 #### Mover (Esgueirar)
+#### Mover Corpo
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
 #### Escalar
@@ -28,3 +29,5 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
 ####
 ####
 ####
+####
+### Qualidade de Ambiente
