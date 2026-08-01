@@ -2,7 +2,7 @@
 O combate de ambiente se baseia principalmente em ações que empurram o alvo sendo a principal o ataque de avanço
 
 A seguir alguns dos possíveis acontecimentos quando um personagem se choca com o senário
-# Ações
+# Possibilidades
 ## Contra a Parede
 ![[Pasted image 20260801170407.png|219]]
 
