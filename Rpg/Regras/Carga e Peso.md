@@ -1,4 +1,4 @@
-#Regras [[Regras]]
+#Regras [[Regras]] [Carga e peso]
 ## Significado
 Peso é um conceito fundamental, querendo ou não vai definir o que você tem a capacidade de levar. ele é dividido em três conceitos 
 
