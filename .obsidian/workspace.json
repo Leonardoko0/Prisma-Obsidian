@@ -20,73 +20,17 @@
             }
           },
           {
-            "id": "1c396d9f49863c7b",
+            "id": "d5bc013afb9963e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Regras/Combate.md",
+                "file": "Rpg/Regras/Carga e Peso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combate"
-            }
-          },
-          {
-            "id": "877789b708e55e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Regras/Ação Padrão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ação Padrão"
-            }
-          },
-          {
-            "id": "d2cfdf4ab7b08b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Criação De Personagem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criação De Personagem"
-            }
-          },
-          {
-            "id": "f9cca27809f6a5c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate de Ambiente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Combate de Ambiente"
-            }
-          },
-          {
-            "id": "a1ad722a4f209cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipo de Danos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipo de Danos"
+              "title": "Carga e Peso"
             }
           }
         ],
@@ -240,15 +184,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1c396d9f49863c7b",
+  "active": "d5bc013afb9963e3",
   "lastOpenFiles": [
+    "Tipo de Danos.md",
+    "Combate de Ambiente.md",
+    "Rpg/Personagens/Criação De Personagem.md",
+    "Rpg/Regras/Ação Padrão.md",
+    "Rpg/Regras/Combate.md",
     "Rpg/Regras/Regras.md",
     "Rpg/Prisma.md",
-    "Rpg/Regras/Combate.md",
     "Rpg/Regras/Armadura.md",
-    "Tipo de Danos.md",
-    "Rpg/Regras/Ação Padrão.md",
-    "Combate de Ambiente.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
@@ -257,7 +202,6 @@
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Personagens/Armas.md",
-    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Regras/Estâmina.md",
     "Rpg/Personagens/Aparatos.md",
