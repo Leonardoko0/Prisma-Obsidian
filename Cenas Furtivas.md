@@ -36,7 +36,8 @@ Você escala uma quantidade até metade do seu movimento gastando 1d6 de sombra 
 #### Saltar por Objeto
 Você roda um teste acrobacia (DT 10/15/20) dependendo da complexidade do salto se passar não perde sombra, na falha perde (7/15/25)
 ### Ações Positivas
-#### Ficar imóvel 
+#### Ficar imóvel
+Você fica parado evitando 
 #### Esconder 
 #### Criar Distração 
 #### Esperar Momento Certo
