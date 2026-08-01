@@ -56,7 +56,7 @@
 - Carga: 2
 - Alcance: 7m/12m
 - Crítico: 19/x2
-- Munição: (Medium) 9 Balas
+- Munição: (Medium) 8 Balas
 - Quantidade Efetiva de Balas por Ataque: 1
 - Propriedades: Supressor Luz (Talvez peso)
 - Discrição:
