@@ -21,8 +21,9 @@ Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma 
   - **Rápido**
    Você corre pelo uma quantidade até o dobro do seu deslocamento gastando 1d4 de sombra a cada tile percorrido enquanto tiver inimigos em alcance longo
  - **Lento**
-  Você anda lentamente o seu movimento gastando 1d2 de sombra por tile percorrido enquanto tiver inimigos em alcance médio 
-
+  Você anda lentamente o seu movimento gastando 1d2 de sombra por tile percorrido enquanto tiver inimigos em alcance médio
+ - **Esgueirar** 
+  Você se esguei
 #### Mover Corpo
 #### Abater Alvo (Letal)
 #### Abater Alvo (Não Letal)
