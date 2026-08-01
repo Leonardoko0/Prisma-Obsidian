@@ -2,9 +2,9 @@
 
 ## Lutar
 ### Atacar
-Ataca o alvo com a arma em mãos. Não custa estâmina 
+Ataca o alvo com a arma em mãos. Dependendo da arma custa estâmina 
 ### Avançar
-Ataque o alvo com sua arma corpo a corpo. Em seguida, empurre-o um tile para trás e mova-se para o tile que ele ocupava. Custa um de estâmina
+Ataque o alvo com sua arma corpo a corpo. Em seguida, empurre-o um tile para trás e mova-se para o tile que ele ocupava. Dependendo da arma custa estâmina 
 ### Investida
 Corra o seu movimento e em seguida desfira um golpe corpo a corpo de forma descuidada, após o ataque você fica desprevenido. Custa um de estâmina.
   *--Gastando mais um de estâmina você evita a condição--* 
