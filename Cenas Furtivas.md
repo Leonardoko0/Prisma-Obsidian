@@ -72,9 +72,11 @@ Personagens só podem realizar testes de percepção em alcance Médio
 #### Esfumaçado
 Personagens só podem realizar testes de percepção em alcance Médio e não conseguem diferenciar aparência dessa distância 
 #### Empoeirado
-Personagens não comseguem diferenciar aparência em distânci
+Personagens não conseguem diferenciar aparência em distâncias longas
 #### Silencioso
+Todas as ações negativas perdem o dobro de Sombra
 #### Ruído Moderado
+Todas as ações negativas perde
 #### Barulhento
 ### Qualidade dos Inimigos
 #### Despreocupados
