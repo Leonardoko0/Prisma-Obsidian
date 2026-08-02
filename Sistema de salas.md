@@ -20,6 +20,9 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
+Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
+- Permite consertar equipamento
+- 
 **Nível 2:**
 **Nível 3:**
 ### Câmara de Munição
