@@ -42,11 +42,11 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma sala com equipamentos médicos improvisados
-- Recupera uma quantidade = ao seu número de dados de descanso dividido por 3 em um descanso curto
-- Espaço pra duas pessoas
+Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
+- Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
+- Capacidade de duas pessoas 
 **Nível 2:**
-Melhoras os equipamentos 
+A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade além de receber e
 - Recupera uma quantidade de vida = 50% da sua vida
 - Espaço para 4 pessoas 
 - Cura doenças diversas
