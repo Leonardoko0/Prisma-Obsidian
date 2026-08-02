@@ -286,12 +286,6 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
-### Módulo de Produção
-- Preço:
-- Tamanho:
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
 ### Prisão
 - Preço:
 - Tamanho:
