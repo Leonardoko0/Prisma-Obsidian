@@ -44,7 +44,7 @@ A câmara recebe equipamentos industriais para produção em larga escala e mani
 **Nível 3:**
 A instalação é transformada em uma fábrica balística de alta tecnologia, equipada com sistemas automatizados e linhas de produção avançadas para munições experimentais.
 - Abaixa o preço de todas as balas em 50%
-- Permite pegar 
+- Permite pegar Balas (SM)(ME)(HV)(SH)(LG) Experimentais
 ### Módulo de Armadura
 - Preço:
 - Tamanho:
