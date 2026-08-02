@@ -286,7 +286,7 @@ O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequen
 - Aumenta o espaço de Naves de Combate em +1
 - Conserta 20% da durabilidade das naves paradas
 **Nível 3:**
-O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana.
+O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
 - Aumenta o espaço de Naves de Combate em +1
 - Aumenta em 30% da durabilidade das naves paradas 
 ### Igreja
