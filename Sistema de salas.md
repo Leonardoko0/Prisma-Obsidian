@@ -22,11 +22,13 @@
 **Nível 1:**
 Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
 - Permite consertar equipamento
+-  Todas as armas tem alcance máximo e mínimo aumentado em 3
 **Nível 2:**
 O módulo recebe equipamentos para usinagem e calibração avançada, permitindo a fabricação de componentes de alta qualidade
 - Permite consertar e utilizar armas Combatentes
--  Todas as armas tem alcance máximo e mínimo aumentado em 3
+- Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
+O módulo é transformado em uma oficina balística de ponta. Além dos equipamentos industriais, passa a contar com o **A.R.G.O.S.** (_Advanced Rifle Guidance & Optimization System_), uma inteligência artificial especializada em balística, engenharia armamentista e otimização de disparos.
 ### Câmara de Munição
 - Preço:
 - Tamanho:
