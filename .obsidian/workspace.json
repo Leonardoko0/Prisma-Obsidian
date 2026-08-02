@@ -47,7 +47,8 @@
               "title": "Armadura"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +198,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "2bfec5f91885c40f",
   "lastOpenFiles": [
     "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Classes.md",
