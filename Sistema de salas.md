@@ -5,9 +5,9 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
- Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
- - Permite consertar equipamento
- - Permite colocar melhorias em **Atributo** na sua arma
+  Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
+  - Permite consertar equipamento
+  - Permite colocar melhorias em **Atributo** na sua arma
 **Nível 2:**
  Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
  - Permite consertar e utilizar armas brancas Combatentes
