@@ -46,8 +46,9 @@ Você gasta sua rodada se escondendo em alguma coisa (parede, caixa, ventilaçã
 - Muito Bom: +10
 - Incrível: +20
 #### Criar Distração
-Você roda enganação contra a percepção do alvo se ganhar recupere 1d20+bonus de 
+Você roda enganação contra a percepção do alvo se ganhar recupere 1d20+bonus e faz o alvo investigar a distração
 #### Esperar Momento Certo
+Você prepara uma ação para ser realizada assim que cumprir os requerimentos 
 #### Analisar Alvo Furtivamente
 ### Qualidade de Ambiente
 #### Mal Iluminado
