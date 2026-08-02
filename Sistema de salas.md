@@ -39,7 +39,8 @@ Instalação destinada ao armazenamento e recarga de munições. Equipada com pr
 - Abaixa o preço das balas em 25% (SM)(ME)(HV)(SH)(LG)
 **Nível 2:**
 A câmara recebe equipamentos industriais para produção em larga escala e manipulação de compostos balísticos. Novos calibres e tipos de munição tornam-se disponíveis.
-- Abaixa o preço das balas em 33% agora também de alguns 
+- Abaixa o preço das balas em 33% agora também de alguns tipos de (CH) como Flechas, Energia, Combustível e Pressão
+- Permite pegar Balas 
 **Nível 3:**
 A instalação é transformada em uma fábrica balística de alta tecnologia, equipada com sistemas automatizados e linhas de produção avançadas para munições experimentais.
 ### Módulo de Armadura
