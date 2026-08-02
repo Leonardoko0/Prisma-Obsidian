@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "829d9e9540cb5179",
+  "active": "4179ab3e64cde520",
   "lastOpenFiles": [
-    "Sistema de salas.md",
     "Cenas Furtivas.md",
+    "Sistema de salas.md",
+    "Combate de Ambiente.md",
     "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Equipamento.md",
@@ -238,7 +239,6 @@
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Perícias.md",
-    "Combate de Ambiente.md",
     "Rpg/Regras/Carga e Peso.md",
     "Perseguição.md",
     "Cartas de Fuga.md",
