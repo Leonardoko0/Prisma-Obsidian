@@ -278,7 +278,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala grande com equipamentos mecânicos e reparos e manutenção de naves
+Um amplo hangar equipado com guindastes, plataformas elevatórias e ferramentas de manutenção para naves de combate. O ambiente permite realizar reparos básicos, inspeções e reabastecimento entre missões.
 - Espaço para 1 Nave de Combate
 **Nível 2:**
 Melhora as capacidades rotativas do piso inteligente e também adiciona minis robôs tecnicos especializados em manutenção
