@@ -66,9 +66,11 @@ Todos os testes de percepção sofrem uma vantagem de +2. além disso todas as a
 #### Muito Bem Iluminado
 Todos os testes de percepção são x3 e sofre uma vantagem de +5. além disso todas as ações de visão perdem o dobro e recebem metade
 #### Neblina Densa
-Personagens só podem realizar
+Personagens só podem realizar testes de percepção em alcance curto
 #### Neblina Leve
+Personagens só podem realizar testes de percepção em alcance Médio
 #### Esfumaçado
+
 #### Empoeirado
 #### Silencioso
 #### Ruído Moderado
