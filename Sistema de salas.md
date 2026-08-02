@@ -11,8 +11,9 @@
 **Nível 2:**
 Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
 - Permite concertar e utilizar armas brancas Combatentes
+- P
 **Nível 3:**
-O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos.
+O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos está lá para lhe ajudar. Uma parceria tecnológica da SharpWine™
 - Permite convertar e utilizar armas brancas Predadoras
 ### Módulo de Disparos
 - Preço:
