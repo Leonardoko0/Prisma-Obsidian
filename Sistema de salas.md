@@ -57,8 +57,10 @@
  Sala equipada com equipamento de pesquisas biológicas básico pronto para analisar matéria simples e confecsionar alguns itens
 - Enquanto na sala recebe +2 em ciência
 **Nível 2:**
-Melhora a quailidade
+Melhora a qualidade dos equipamentos, agora você pode analisar tecidos e escanear liquídos
+além de também poder confecionar itens de melhor qualidade
 **Nível 3:**
+Melhora a ainda mais a qual
 ### Câmara de Implantes
 - Preço:
 - Tamanho:
