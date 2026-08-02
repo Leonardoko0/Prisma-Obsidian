@@ -28,7 +28,7 @@ O módulo recebe equipamentos para usinagem e calibração avançada, permitindo
 - Permite consertar e utilizar armas Combatentes
 - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
-O módulo é transformado em uma oficina balística de ponta. Além dos equipamentos industriais, passa a contar com o **A.R.G.O.S.** (_Advanced Rifle Guidance & Optimization System_), uma inteligência artificial especializada em balística, engenharia armamentista e otimização de disparos.
+O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aimnbot
 ### Câmara de Munição
 - Preço:
 - Tamanho:
