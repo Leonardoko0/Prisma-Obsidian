@@ -17,7 +17,7 @@ A partir da primeira rodadas todos os player rodam iniciativa definindo a ordem 
 Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma quantidade de pontos
 
 ### Realizando Ações em Vista/Ser visto
-Qualquer ação realizada que alguém te veja o alvo vai rodar Percepção 1d20+bonus x 2 essa será a quantidade de Sombra que será descontada
+Qualquer ação realizada que alguém te veja o alvo vai rodar Percepção 1d20+bonus x 2 essa será a quantidade de Sombra que será descontada além da descontada pela ação
 ### Ações Negativas
 #### Mover 
   - **Rápido**
@@ -56,7 +56,7 @@ Ex: preparo uma ação para passar atrás do guarda quando ele estiver distraíd
 Você passa sua ação analisando o alvo e então recebendo uma estimativa da vida dele/ pontos de sombra necessários pra abater
 ### Qualidade de Ambiente
 #### Mal Iluminado
-Todos os testes de percep
+Todos os testes de percepção 
 #### Luz Fraca
 #### Iluminação Normal
 #### Bem Iluminado
