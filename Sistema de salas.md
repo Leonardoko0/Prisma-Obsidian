@@ -28,7 +28,9 @@ O módulo recebe equipamentos para usinagem e calibração avançada, permitindo
 - Permite consertar e utilizar armas Combatentes
 - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
-O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aimnbot
+O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
+- Permite consertar Predadora
+- Evita a primeira danificação na sua arma
 ### Câmara de Munição
 - Preço:
 - Tamanho:
