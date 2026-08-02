@@ -278,21 +278,22 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
-Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
-- Espaço para 1 Nave de Combate
-- Pode reabastecer suprimentos das naves de combate
+ Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
+ - Espaço para 1 Nave de Combate
+ - Pode reabastecer suprimentos das naves de combate
 **Nível 2:**
-O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
-- Aumenta o espaço de Naves de Combate em +1
-- Conserta 20% da durabilidade das naves paradas
+ O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
+ - Aumenta o espaço de Naves de Combate em +1
+ - Conserta 20% da durabilidade das naves paradas
 **Nível 3:**
-O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
-- Aumenta o espaço de Naves de Combate em +1
-- Aumenta em 30% da durabilidade das naves paradas 
+ O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
+ - Aumenta o espaço de Naves de Combate em +1
+ - Aumenta em 30% da durabilidade das naves paradas 
 ### Igreja
 - Preço:
 - Tamanho:
 **Nível 1:**
+Um pequeno templo ecumênico destinado ao descanso espiritual da tripulação. O ambiente é simples, silencioso e aberto a diferentes crenças, oferecendo um local para oração, meditação ou reflexão após missões difíceis.
 **Nível 2:**
 **Nível 3:**
 ### Prisão
