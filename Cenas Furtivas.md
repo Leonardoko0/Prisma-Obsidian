@@ -56,9 +56,9 @@ Ex: preparo uma ação para passar atrás do guarda quando ele estiver distraíd
 Você passa sua ação analisando o alvo e então recebendo uma estimativa da vida dele/ pontos de sombra necessários pra abater
 ### Qualidade de Ambiente
 #### Escuro
-Todos os testes de percepção não são x2 e sofre uma penalidade de -5. além disso todas as ações perdem a metade e recebem o dobro de sombra
+Todos os testes de percepção não são x2 e sofre uma penalidade de -5. além disso todas as ações de visão perdem a metade e recebem o dobro de sombra
 #### Luz Fraca
-Todos os testes de percepção 
+Todos os testes de percepção sofrem uma penalidade de -2. além disso todas as ações de visão
 #### Iluminação Normal
 #### Bem Iluminado
 #### Muito Bem Iluminado
