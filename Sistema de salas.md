@@ -282,7 +282,7 @@ Um grande hangar equipado com guindastes e ferramentas de manutenção para nave
 - Espaço para 1 Nave de Combate
 - Pode reabastecer suprimentos das naves de combate
 **Nível 2:**
-Melhora as capacidades rotativas do piso inteligente e também adiciona minis robôs tecnicos especializados em manutenção
+O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu impl".
 - Aumenta o espaço de Naves de Combate em +1
 - Conserta 20% da durabilidade das naves paradas
 **Nível 3:**
