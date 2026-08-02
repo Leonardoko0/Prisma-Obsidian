@@ -76,8 +76,11 @@ Transforma-se em um laboratório do Armagedom de alta segurança, preparado para
 - Preço:
 - Tamanho:
 **Nível 1:**
+Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
 **Nível 2:**
+A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
 **Nível 3:**
+Transforma-se em um centro de desenvolvimento tecnológico de alta complexidade. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
 ## Ciência
 ### Ala Médica
 - Preço:
