@@ -56,12 +56,15 @@
 **Nível 1:** 
  Um laboratório equipado com instrumentos básicos para pesquisa biológica e química. Permite analisar materiais simples, identificar compostos comuns e confeccionar itens
 - Enquanto na sala recebe +2 em ciência
+- Permite analisar solos e poucos líquidos
 **Nível 2:**
 O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos, escaneamento de líquidos e a identificação de agentes desconhecidos. Melhora a capacidade de fabricar itens científicos mais avançados.
 - Enquanto na sala recebe +5 em ciência
+- Permite analisar criaturas e sangue
 **Nível 3:**
 Digno de ser considerado um real Laboratório. Capaz de analisar materiais extremamente raros, desenvolver compostos inéditos e fabricar equipamentos e substâncias de alto nível.
 - Enquanto na sala recebe +10 em ciência
+- Permite a analise de itens dissonantes 
 ### Câmara de Implantes
 - Preço:
 - Tamanho:
