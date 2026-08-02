@@ -61,8 +61,7 @@
               "title": "Cenas Furtivas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2bfec5f91885c40f",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Cenas Furtivas.md",
     "Sistema de salas.md",
+    "Cenas Furtivas.md",
     "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Equipamento.md",
