@@ -20,34 +20,6 @@
             }
           },
           {
-            "id": "6ccc932cb7670f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cenas Furtivas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cenas Furtivas"
-            }
-          },
-          {
-            "id": "41926fc7f2dca9fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combate de Ambiente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Combate de Ambiente"
-            }
-          },
-          {
             "id": "2bfec5f91885c40f",
             "type": "leaf",
             "state": {
@@ -88,9 +60,23 @@
               "icon": "lucide-file",
               "title": "Itens Gerais"
             }
+          },
+          {
+            "id": "e83a50e7b6212f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Armas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armas"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,9 +228,10 @@
   },
   "active": "2bfec5f91885c40f",
   "lastOpenFiles": [
-    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Armas.md",
     "Sistema de salas.md",
     "Combate de Ambiente.md",
+    "Rpg/Personagens/Perícias.md",
     "Cenas Furtivas.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Itens Gerais.md",
@@ -265,7 +252,6 @@
     "Reações.md",
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Ação de Movimento.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Estâmina.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",

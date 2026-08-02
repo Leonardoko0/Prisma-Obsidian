@@ -6,7 +6,8 @@
 - Tamanho:
 **Nível 1:**
  Sala com equipamentos de lâminas como afiadores e serras de água pronta para ser usado
- - 
+ - Permite concertar equipamento
+ - Permite colocar melhorias em atribur
 **Nível 2:**
 **Nível 3:**
 ### Módulo de Disparos
