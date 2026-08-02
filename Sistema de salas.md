@@ -43,9 +43,10 @@
 - Tamanho:
 **Nível 1:**
 Uma sala com equipamentos médicos improvisados
-- Recupera uma quantidade = ao seu número de dados de descanso dividido por 3 em um de  
-
+- Recupera uma quantidade = ao seu número de dados de descanso dividido por 3 em um descanso curto
+- Espaço pra duas pessoas
 **Nível 2:**
+Melhoras os equipamentos 
 **Nível 3:**
 ### Bancada de Narcóticos
 - Preço:
