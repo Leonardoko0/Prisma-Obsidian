@@ -64,11 +64,11 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados, ferramentas de precisão e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência e realizar o desmonte seguro de dispositivos encontrados em campo.
+Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
 **Nível 2:**
 A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
 **Nível 3:**
-Transforma-se em um laboratório balístico de alta segurança, preparado para sintetizar compostos experimentais e explosivos de alto rendimento. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
+Transforma-se em um laboratório do Armagedom de alta segurança, preparado para sintetizar compostos experimentais e explosivos de rendimento nuclear. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
 ### Sala de Aparatos
 - Preço:
 - Tamanho:
