@@ -60,7 +60,7 @@
 O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos, escaneamento de líquidos e a identificação de agentes desconhecidos. Melhora a capacidade de fabricar itens científicos mais avançados.
 - Enquanto na sala recebe +5 em ciência
 **Nível 3:**
-Melhora a ainda mais a qualidade da sala fazendo realmente parecer um laboratório digno de uma instalação tecnologica avançada
+Digno de ser considerado um real Laboratório. Capaz de analisar materiais extremamente raros, desenvolver compostos inéditos e fabricar equipamentos e substâncias de alto nível.
 - Enquanto na sala recebe +10 em ciência
 ### Câmara de Implantes
 - Preço:
