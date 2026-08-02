@@ -5,6 +5,8 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
+ Sala com equipamentos de lâminas como afiadores e serras de água pronta para ser usado
+ - 
 **Nível 2:**
 **Nível 3:**
 ### Módulo de Disparos
