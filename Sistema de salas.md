@@ -9,10 +9,10 @@
  - Permite concertar equipamento
  - Permite colocar melhorias em atributo na sua arma
 **Nível 2:**
-Os equipamentos são substituídos por ferramentas profissionais de alta precisão, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos.
+Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
 - Permite concertar e utilizar armas brancas Combatentes
 **Nível 3:**
-Melhora a sala para um nivel extremo de armas brancas. Adiciona o Robô Blade X uma esfera de aço com inteligencia artifical e com grande comnhecimentos de armas e melhoramentos
+O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos.
 - Permite convertar e utilizar armas brancas Predadoras
 ### Módulo de Disparos
 - Preço:
