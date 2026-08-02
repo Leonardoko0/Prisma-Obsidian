@@ -29,22 +29,22 @@
  - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
  O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
-- Permite consertar equipamento Predadora
-- Evita a primeira danificação na sua arma
+ - Permite consertar equipamento Predadora
+ - Evita a primeira danificação na sua arma
 ### Câmara de Munição
 - Preço:
 - Tamanho:
 **Nível 1:**
-Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
-- Abaixa o preço das balas em 25% (SM)(ME)(HV)(SH)(LG)
+ Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
+ - Abaixa o preço das balas em 25% (SM)(ME)(HV)(SH)(LG)
 **Nível 2:**
-A câmara recebe equipamentos industriais para produção em larga escala e manipulação de compostos balísticos. Novos calibres e tipos de munição tornam-se disponíveis.
-- Abaixa o preço das balas em 33% agora também de alguns tipos de (CH) como Flechas, Energia, Combustível e Pressão
-- Permite pegar Balas (SM)(ME)(HV)(SH)(LG) especiais
+ A câmara recebe equipamentos industriais para produção em larga escala e manipulação de compostos balísticos. Novos calibres e tipos de munição tornam-se disponíveis.
+ - Abaixa o preço das balas em 33% agora também de alguns tipos de (CH) como Flechas, Energia, Combustível e Pressão
+ - Permite pegar Balas (SM)(ME)(HV)(SH)(LG) especiais
 **Nível 3:**
-A instalação é transformada em uma fábrica balística de alta tecnologia, equipada com sistemas automatizados e linhas de produção avançadas para munições experimentais.
-- Abaixa o preço de todas as balas em 50%
-- Permite pegar Balas (SM)(ME)(HV)(SH)(LG) Experimentais
+ A instalação é transformada em uma fábrica balística de alta tecnologia, equipada com sistemas automatizados e linhas de produção avançadas para munições experimentais.
+ - Abaixa o preço de todas as balas em 50%
+ - Permite pegar Balas (SM)(ME)(HV)(SH)(LG) Experimentais
 ### Módulo de Armadura
 - Preço:
 - Tamanho:
@@ -64,26 +64,26 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
-- Permite a criação de granadas **Lancinante**
+ Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
+ - Permite a criação de granadas **Lancinante**
 **Nível 2:**
-A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
-- Permite a criação de granadas **Caóticas**
+ A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
+ - Permite a criação de granadas **Caóticas**
 **Nível 3:**
-Transforma-se em um laboratório do Armagedom de alta segurança, preparado para sintetizar compostos experimentais e explosivos de rendimento nuclear. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
-- Permite a criação de granadas **Armagedom**
+ Transforma-se em um laboratório do Armagedom de alta segurança, preparado para sintetizar compostos experimentais e explosivos de rendimento nuclear. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
+ - Permite a criação de granadas **Armagedom**
 ### Sala de Aparatos
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
-- Aumenta em 1 a quantidade de usos de um aparato
+ Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
+ - Aumenta em 1 a quantidade de usos de um aparato
 **Nível 2:**
-A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
-- Permite levar mais um aparato nas missões
+ A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
+ - Permite levar mais um aparato nas missões
 **Nível 3:**
-Transforma-se em um centro de desenvolvimento tecnológico. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
-- Aumenta em +1 a quantidade de usos de um aparato
+ Transforma-se em um centro de desenvolvimento tecnológico. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
+ - Aumenta em +1 a quantidade de usos de um aparato
 ## Ciência
 ### Ala Médica
 - Preço:
