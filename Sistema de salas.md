@@ -53,7 +53,7 @@ Uma oficina especializada na manutenção de armaduras. Equipada com prensas, m�
 **Nível 2:**
 O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
 **Nível 3:**
-O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação  em blindagem, ergonomia e sistemas de proteção.
+O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
 ### Bancada de Explosivos
 - Preço:
 - Tamanho:
