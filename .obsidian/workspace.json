@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,13 +254,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "41926fc7f2dca9fe",
+  "active": "d5bc013afb9963e3",
   "lastOpenFiles": [
+    "Combate de Ambiente.md",
     "Sistema de salas.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Regras/Carga e Peso.md",
-    "Combate de Ambiente.md",
     "Cenas Furtivas.md",
     "Perseguição.md",
     "Cartas de Fuga.md",
