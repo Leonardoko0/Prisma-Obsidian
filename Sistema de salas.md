@@ -279,8 +279,10 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Tamanho:
 **Nível 1:**
 Sala grande com equipamentos mecânicos e reparos e manutenção de naves
-- Espaço para 1 Nave de C
+- Espaço para 1 Nave de Combate
 **Nível 2:**
+Melhora as capacidades rotativas do piso inteligente e também adiciona minis robôs tecnicos especializados em manutenção
+- Aumenta
 **Nível 3:**
 ### Igreja
 - Preço:
