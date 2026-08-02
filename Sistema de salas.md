@@ -61,10 +61,11 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala especializada em criação controlada de remédios de tarja preta
+Sala especializada em criação controlada de remédios de tarja Preta
 **Nível 2:**
-Melhora a capacidade 
+Melhora a capacidade e qualidade dos equipamentos dispoiníveis  aumentando o nível dos remédios para tarja Negra
 **Nível 3:**
+
 ### Laboratório
 - Preço:
 - Tamanho:
