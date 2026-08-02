@@ -283,9 +283,11 @@ Sala grande com equipamentos mecânicos e reparos e manutenção de naves
 **Nível 2:**
 Melhora as capacidades rotativas do piso inteligente e também adiciona minis robôs tecnicos especializados em manutenção
 - Aumenta o espaço de Naves de Combate em +1
+- Conserta 20% da durabilidade das naves paradas
 **Nível 3:**
 Transforma em um Hangar dividido com um sistema perfeito de piso inteligente junto com robôs tenicos com equipamentos expecializados
 - Aumenta o espaço de Naves de Combate em +1
+- Aumenta em 30% da durabilidade das naves paradas 
 ### Igreja
 - Preço:
 - Tamanho:
