@@ -48,7 +48,8 @@ Você gasta sua rodada se escondendo em alguma coisa (parede, caixa, ventilaçã
 #### Criar Distração
 Você roda enganação contra a percepção do alvo se ganhar recupere 1d20+bonus e faz o alvo investigar a distração
 #### Esperar Momento Certo
-Você prepara uma ação para ser realizada assim que cumprir os requerimentos 
+Você prepara uma ação para ser realizada assim que cumprir os requerimento.
+Ex: preparo uma ação para passar atrás do guarda quando ele estiver distraído, então na proxima rodada outro jogador distrai o gu
 #### Analisar Alvo Furtivamente
 ### Qualidade de Ambiente
 #### Mal Iluminado
