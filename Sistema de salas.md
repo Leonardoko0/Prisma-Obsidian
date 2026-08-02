@@ -49,11 +49,11 @@ A instalação é transformada em uma fábrica balística de alta tecnologia, eq
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma oficina especializada na manutenção de armaduras e equipamentos de proteção. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
+Uma oficina especializada na manutenção de armaduras. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
 **Nível 2:**
-O módulo recebe equipamentos industriais de alta precisão para trabalhar materiais compostos e ligas metálicas avançadas. Novos sistemas de proteção tornam-se disponíveis.
+O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
 **Nível 3:**
-O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe o **A.E.G.I.S.** (_Adaptive Engineering & Gear Integration System_), uma inteligência artificial especializada em blindagem, ergonomia e sistemas de proteção.
+O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação  em blindagem, ergonomia e sistemas de proteção.
 ### Bancada de Explosivos
 - Preço:
 - Tamanho:
