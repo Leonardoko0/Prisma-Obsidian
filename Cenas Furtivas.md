@@ -76,8 +76,9 @@ Personagens não conseguem diferenciar aparência em distâncias longas
 #### Silencioso
 Todas as ações negativas perdem o dobro de Sombra
 #### Ruído Moderado
-Todas as ações negativas perde
+Todas as ações negativas perdem -5
 #### Barulhento
+Todas as ações negativas perdem -10
 ### Qualidade dos Inimigos
 #### Despreocupados
 #### Patrulhando
