@@ -65,11 +65,13 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 - Tamanho:
 **Nível 1:**
 Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
-- Permite a criação de Granadas La
+- Permite a criação de granadas **Lancinante**
 **Nível 2:**
 A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
+- Permite a criação de granadas **Caóticas**
 **Nível 3:**
 Transforma-se em um laboratório do Armagedom de alta segurança, preparado para sintetizar compostos experimentais e explosivos de rendimento nuclear. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
+- Permite a criação de granadas **Armagedom**
 ### Sala de Aparatos
 - Preço:
 - Tamanho:
