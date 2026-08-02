@@ -35,7 +35,9 @@ O módulo é transformado em uma oficina balística de ponta. e começa a poder 
 - Preço:
 - Tamanho:
 **Nível 1:**
+Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
 **Nível 2:**
+A câmara recebe equipamentos industriais para produção em larga escala e manipulação de compostos balísticos. Novos calibres e tipos de munição tornam-se disponíveis.
 **Nível 3:**
 ### Módulo de Armadura
 - Preço:
