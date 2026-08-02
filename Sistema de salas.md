@@ -57,7 +57,7 @@
  Um laboratório equipado com instrumentos básicos para pesquisa biológica e química. Permite analisar materiais simples, identificar compostos comuns e confeccionar itens
 - Enquanto na sala recebe +2 em ciência
 **Nível 2:**
-O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos e escaneamento  líquidos e a identificação de agentes desconhecidos. Também amplia a capacidade de fabricar itens científicos mais avançados.
+O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos, escaneamento de líquidos e a identificação de agentes desconhecidos. Melhora a capacidade de fabricar itens científicos mais avançados.
 - Enquanto na sala recebe +5 em ciência
 **Nível 3:**
 Melhora a ainda mais a qualidade da sala fazendo realmente parecer um laboratório digno de uma instalação tecnologica avançada
