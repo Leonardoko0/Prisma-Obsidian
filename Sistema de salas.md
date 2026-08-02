@@ -58,7 +58,8 @@ O módulo recebe equipamentos industriais de alta periculosidade para trabalhar 
 - Faz adaptação da armadura até o level 15
 **Nível 3:**
 O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
-- Permite consertar armaduras **Bastiões 
+- Permite consertar armaduras **Bastiões e Aegis**
+- Faz adaptação da armadura até o level 20
 ### Bancada de Explosivos
 - Preço:
 - Tamanho:
