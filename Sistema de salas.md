@@ -294,10 +294,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Tamanho:
 **Nível 1:**
 Um pequeno templo ecumênico destinado ao descanso espiritual da tripulação. O ambiente é relativamente simples, silencioso e aberto a diferentes crenças.
+- 
 **Nível 2:**
 O templo é aumentado e passa a conter uma biblioteca de textos religiosos, memoriais para agentes caídos e espaços dedicados a diferentes tradições espirituais.
 **Nível 3:**
-Transforma-se em um grande santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias. A atmosfera inspira esperança mesmo nos momentos mais difíceis.
+Transforma-se em um santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias.
 ### Prisão
 - Preço:
 - Tamanho:
