@@ -9,8 +9,10 @@
  - Permite concertar equipamento
  - Permite colocar melhorias em atributo na sua arma
 **Nível 2:**
-melhora os equipamentos para uma qualidade melhor e com uma váriedade . Cortesia SharpWine
+melhora os equipamentos para uma qualidade melhor e com uma váriedade mais complexa. Cortesia SharpWine
+- Permite concertar e utilizar armas brancas Combatentes
 **Nível 3:**
+Melhora a sala para um nivel 
 ### Módulo de Disparos
 - Preço:
 - Tamanho:
