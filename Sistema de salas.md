@@ -7,15 +7,15 @@
 **Nível 1:**
  Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
  - Permite consertar equipamento
- - Permite colocar melhorias em atributo na sua arma
+ - Permite colocar melhorias em **Atributo** na sua arma
 **Nível 2:**
-Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
-- Permite consertar e utilizar armas brancas Combatentes
-- Permite colocar melhorias Características na sua arma
+ Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
+ - Permite consertar e utilizar armas brancas Combatentes
+ - Permite colocar melhorias **Características** na sua arma
 **Nível 3:**
-O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos está lá para lhe ajudar. Uma parceria tecnológica da SharpWine™
-- Permite consertar e utilizar armas brancas Predadoras
-- Permite colocar melhorias  na sua arma
+ O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos está lá para lhe ajudar. Uma parceria tecnológica da SharpWine™
+ - Permite consertar e utilizar armas brancas Predadoras
+ - Permite colocar melhorias **Finais** na sua arma
 ### Módulo de Disparos
 - Preço:
 - Tamanho:
