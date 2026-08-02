@@ -58,10 +58,13 @@ Você passa sua ação analisando o alvo e então recebendo uma estimativa da vi
 #### Escuro
 Todos os testes de percepção não são x2 e sofre uma penalidade de -5. além disso todas as ações de visão perdem a metade e recebem o dobro de sombra
 #### Luz Fraca
-Todos os testes de percepção sofrem uma penalidade de -2. além disso todas as ações de visão gastam -1 (não pode ser 0) e 
+Todos os testes de percepção sofrem uma penalidade de -2. além disso todas as ações de visão gastam -1 (não pode ser 0) e você ganha +1d8 ao recuperar Sombra 
 #### Iluminação Normal
+Padrão
 #### Bem Iluminado
+Todos os 
 #### Muito Bem Iluminado
+Todos os testes de percepção são x3 e sofre uma penalidade de +5. além disso todas as ações de visão perdem a metade e recebem o dobro de sombra
 #### Neblina Densa
 #### Neblina Leve
 #### Esfumaçado
