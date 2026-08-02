@@ -85,3 +85,4 @@ Não fazem testes de percepção em nada que não esteja literalmente nas suas f
 #### Patrulhando
 Condição padrão de patrulha 
 #### Em Alerta
+Eles sabem que vocês estão ai e vão fazer de tudo para encontrar. Todos os tes
