@@ -61,8 +61,7 @@
               "title": "Combate de Ambiente"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6ccc932cb7670f84",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Rpg/Regras/Carga e Peso.md",
     "Cenas Furtivas.md",
