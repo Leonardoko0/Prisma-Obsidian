@@ -22,8 +22,9 @@
 **Nível 1:**
 Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
 - Permite consertar equipamento
-- 
+-  Todas as armas tem alcance máximo e mínimo aumentado em 3
 **Nível 2:**
+O módulo recebe equipamentos para usinagem e calibração avançada, permitindo modificações complexas em armamentos e a fabricação de componentes de alta qualidade
 **Nível 3:**
 ### Câmara de Munição
 - Preço:
