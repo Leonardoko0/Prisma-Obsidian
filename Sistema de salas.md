@@ -49,10 +49,10 @@ Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realiza
 A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
 - Recupera 50% da vida do paciente 
 - Espaço de quatro pessoas 
-- Cura doenças e infecções diversas/recupera de condiç
+- Cura doenças e infecções diversas
 - Recupera um quarto do seus dados de vida (arredondado pra baixo)
 **Nível 3:**
-Melhora ainda mais os equipamentos
+A enfermaria é transformada em um centro médico de alta tecnologia, equipado para procedimentos complexos e tratamentos especializados.
 - Recupera 75% da vida do paciente
 - Espaço de oito pessoas
 - Cura quase todas as doenças 
