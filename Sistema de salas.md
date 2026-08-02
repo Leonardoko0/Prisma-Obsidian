@@ -50,6 +50,7 @@ A instalação é transformada em uma fábrica balística de alta tecnologia, eq
 - Tamanho:
 **Nível 1:**
 Uma oficina especializada na manutenção de armaduras. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
+- Permite consertar armaduras Prote
 **Nível 2:**
 O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
 **Nível 3:**
