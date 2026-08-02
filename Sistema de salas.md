@@ -48,8 +48,12 @@ Uma sala com equipamentos médicos improvisados
 **Nível 2:**
 Melhoras os equipamentos 
 - Recupera uma quantidade de vida = 50% da sua vida
-- 
+- Espaço para 4 pessoas 
+- Cura doenças diversas
+- Recupera um quarto do seus dados de vida
 **Nível 3:**
+Melhora ainda mais os equipamentos
+- Recupera uma quantid
 ### Bancada de Narcóticos
 - Preço:
 - Tamanho:
