@@ -81,5 +81,6 @@ Todas as ações negativas perdem -5
 Todas as ações negativas perdem -10
 ### Qualidade dos Inimigos
 #### Despreocupados
+Não fazem testes de percepção em nada que não esteja literalmente na sua frente
 #### Patrulhando
 #### Em Alerta
