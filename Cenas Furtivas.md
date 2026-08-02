@@ -58,7 +58,7 @@ Você passa sua ação analisando o alvo e então recebendo uma estimativa da vi
 #### Escuro
 Todos os testes de percepção não são x2 e sofre uma penalidade de -5. além disso todas as ações perdem a metade e recebem o dobro de sombra
 #### Luz Fraca
-Todos os testes de pé
+Todos os testes de percepção 
 #### Iluminação Normal
 #### Bem Iluminado
 #### Muito Bem Iluminado
