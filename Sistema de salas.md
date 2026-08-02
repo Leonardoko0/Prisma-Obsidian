@@ -278,6 +278,8 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Preço:
 - Tamanho:
 **Nível 1:**
+Sala grande com equipamentos mecânicos e reparos e manutenção de naves
+- Espaço para 1 Nave de C
 **Nível 2:**
 **Nível 3:**
 ### Igreja
