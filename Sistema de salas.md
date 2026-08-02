@@ -65,7 +65,7 @@ Sala especializada em criação controlada de remédios de tarja Preta
 **Nível 2:**
 Melhora a capacidade e qualidade dos equipamentos dispoiníveis  aumentando o nível dos remédios para tarja Negra
 **Nível 3:**
-
+Melhora a bancada de narcótico para um sistema de drogas complexas e perigosas aumentando o nível dos remédios para tarja Vazia
 ### Laboratório
 - Preço:
 - Tamanho:
