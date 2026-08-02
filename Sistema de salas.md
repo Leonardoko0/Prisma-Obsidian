@@ -63,9 +63,9 @@
 **Nível 1:**
 Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
 **Nível 2:**
-Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e potentes. A bancada passa a produzir medicamentos de **Tarja Negra**, além de aumentar a eficiência e o rendimento da fabricação.
+Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e perigosos. Passa a produzir medicamentos de **Tarja Negra**
 **Nível 3:**
-Melhora a bancada de narcótico para um sistema de drogas complexas e perigosas aumentando o nível dos remédios para tarja Vazia
+A bancada evolui para um laboratório farmacológico de alta complexidade, capaz de desenvolver substâncias experimentais e drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça dissonantes  utilizados apenas em situações críticas.
 ### Laboratório
 - Preço:
 - Tamanho:
