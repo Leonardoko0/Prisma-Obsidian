@@ -53,7 +53,8 @@
 ### Laboratório
 - Preço:
 - Tamanho:
-**Nível 1:**
+**Nível 1:** 
+ Sala equipada com equipamento de pesquisas biológicas básico pronto para anaç
 **Nível 2:**
 **Nível 3:**
 ### Câmara de Implantes
