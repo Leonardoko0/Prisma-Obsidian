@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,12 +226,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4179ab3e64cde520",
+  "active": "f6a4718a76caae4b",
   "lastOpenFiles": [
-    "Cenas Furtivas.md",
-    "Sistema de salas.md",
     "Combate de Ambiente.md",
     "Rpg/Regras/Armadura.md",
+    "Cenas Furtivas.md",
+    "Sistema de salas.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",

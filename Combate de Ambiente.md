@@ -1,5 +1,5 @@
 #Regras [[Rpg/Regras/Combate|Combate]]
-O combate de ambiente se baseia principalmente em ações que empurram o alvo sendo a principal o ataque de avanço
+O combate de ambiente se baseia principalmente em ações que empurram o alvo sendo a principal o ataque de avanço. Esses dados são adicionais e não podem critar
 
 A seguir alguns dos possíveis acontecimentos quando um personagem se choca com o senário
 # Possibilidades
