@@ -61,9 +61,9 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Sala especializada em criação controlada de remédios de tarja Preta
+Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
 **Nível 2:**
-Melhora a capacidade e qualidade dos equipamentos dispoiníveis  aumentando o nível dos remédios para tarja Negra
+Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e potentes. A bancada passa a produzir medicamentos de **Tarja Negra**, além de aumentar a eficiência e o rendimento da fabricação.
 **Nível 3:**
 Melhora a bancada de narcótico para um sistema de drogas complexas e perigosas aumentando o nível dos remédios para tarja Vazia
 ### Laboratório
