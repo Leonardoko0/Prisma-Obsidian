@@ -25,11 +25,11 @@ Uma oficina especializada em armas de fogo, equipada com bancadas de manutençã
 -  Todas as armas tem alcance máximo e mínimo aumentado em 3
 **Nível 2:**
 O módulo recebe equipamentos para usinagem e calibração avançada, permitindo a fabricação de componentes de alta qualidade
-- Permite consertar e utilizar armas Combatentes
+- Permite consertar equipamento Combatentes
 - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
 O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
-- Permite consertar Predadora
+- Permite consertar equipamento Predadora
 - Evita a primeira danificação na sua arma
 ### Câmara de Munição
 - Preço:
