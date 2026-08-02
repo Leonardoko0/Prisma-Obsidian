@@ -54,9 +54,11 @@ Uma oficina especializada na manutenção de armaduras. Equipada com prensas, m�
 - Faz a adaptação da armadura até o level 7
 **Nível 2:**
 O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
-- Permite consertar armaduras sentinelas
+- Permite consertar armaduras **Sentinelas**
+- Faz adaptação da armadura até o level 15
 **Nível 3:**
 O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
+- Permite consertar armaduras **Bastiões 
 ### Bancada de Explosivos
 - Preço:
 - Tamanho:
