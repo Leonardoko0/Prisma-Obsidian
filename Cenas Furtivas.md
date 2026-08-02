@@ -16,6 +16,8 @@ A partir da primeira rodadas todos os player rodam iniciativa definindo a ordem 
 
 Na rodada do jogador ele pode fazer diversas ações e cada uma delas gasta uma quantidade de pontos
 
+### Realizando Ações em Vista/Ser visto
+Qualquer ação realizada que um guarda te vê
 ### Ações Negativas
 #### Mover 
   - **Rápido**
