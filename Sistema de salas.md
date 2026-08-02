@@ -42,26 +42,28 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
-- Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
-- Capacidade de duas pessoas 
+ Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
+ - Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
+ - Capacidade de duas pessoas 
 **Nível 2:**
-A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
-- Recupera 50% da vida do paciente 
-- Espaço de quatro pessoas 
-- Cura doenças e infecções diversas
-- Recupera um quarto do seus dados de vida (arredondado pra baixo)
+ A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
+ - Recupera 50% da vida do paciente 
+ - Espaço de quatro pessoas 
+ - Cura doenças e infecções diversas
+ - Recupera um quarto do seus dados de vida (arredondado pra baixo)
 **Nível 3:**
-A enfermaria é transformada em um centro médico de alta tecnologia, equipado para procedimentos complexos e tratamentos especializados.
-- Recupera 75% da vida do paciente
-- Espaço de oito pessoas
-- Cura quase todas as doenças 
-- Recupera metade dos seus dados de vida
+ A enfermaria é transformada em um centro médico de alta tecnologia, equipado para procedimentos complexos e tratamentos especializados.
+ - Recupera 75% da vida do paciente
+ - Espaço de oito pessoas
+ - Cura quase todas as doenças 
+ - Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
 - Preço:
 - Tamanho:
 **Nível 1:**
+Sala especializada em criação controlada de remédios de tarja preta
 **Nível 2:**
+Melhora a capacidade 
 **Nível 3:**
 ### Laboratório
 - Preço:
