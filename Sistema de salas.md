@@ -5,11 +5,11 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
- Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras de água e bancadas de trabalho para manutenção de lâminas e mecanismos.
+ Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
  - Permite concertar equipamento
  - Permite colocar melhorias em atributo na sua arma
 **Nível 2:**
-melhora os equipamentos para uma qualidade melhor e com uma váriedade mais complexa. Cortesia SharpWine
+Os equipamentos são substituídos por ferramentas profissionais de alta precisão, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos.
 - Permite concertar e utilizar armas brancas Combatentes
 **Nível 3:**
 Melhora a sala para um nivel extremo de armas brancas. Adiciona o Robô Blade X uma esfera de aço com inteligencia artifical e com grande comnhecimentos de armas e melhoramentos
