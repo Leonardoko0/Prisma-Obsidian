@@ -61,14 +61,14 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
-- Permite o uso de drogas de Tarja Preta
+ Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
+ - Permite o uso de drogas de Tarja Preta
 **Nível 2:**
-Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e perigosos. Passa a produzir medicamentos de **Tarja Negra**
-- Permite o uso de drogas de Tarja Negra
+ Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e perigosos. Passa a produzir medicamentos de **Tarja Negra**
+ - Permite o uso de drogas de Tarja Negra
 **Nível 3:**
-A bancada evolui para um laboratório de drogas dissonantes. Capaz de desenvolver drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça dissonantes.
-- Permite o uso de drogas de Tarja Vazia
+ A bancada evolui para um laboratório de drogas dissonantes. Capaz de desenvolver drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça Dissonantes.
+ - Permite o uso de drogas de Tarja Vazia
 ### Laboratório
 - Preço:
 - Tamanho:
