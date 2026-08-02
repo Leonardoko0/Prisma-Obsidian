@@ -62,9 +62,9 @@ Todos os testes de percepção sofrem uma penalidade de -2. além disso todas as
 #### Iluminação Normal
 Padrão
 #### Bem Iluminado
-Todos os 
+Todos os testes de percepção sofrem uma vantagem de +2. além disso todas as ações de visão gastam +1 e você ganha +1d8 ao recuperar Sombra 
 #### Muito Bem Iluminado
-Todos os testes de percepção são x3 e sofre uma penalidade de +5. além disso todas as ações de visão perdem a metade e recebem o dobro de sombra
+Todos os testes de percepção são x3 e sofre uma vantagem de +5. além disso todas as ações de visão perdem o dobro e recebem metade
 #### Neblina Densa
 #### Neblina Leve
 #### Esfumaçado
