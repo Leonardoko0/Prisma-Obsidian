@@ -20,15 +20,15 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
-Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
-- Permite consertar equipamento
--  Todas as armas tem alcance máximo e mínimo aumentado em 3
+ Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
+ - Permite consertar equipamento
+ - Todas as armas tem alcance máximo e mínimo aumentado em 3
 **Nível 2:**
-O módulo recebe equipamentos para usinagem e calibração avançada, permitindo a fabricação de componentes de alta qualidade
-- Permite consertar equipamento Combatentes
-- Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
+ O módulo recebe equipamentos para usinagem e calibração avançada, permitindo a fabricação de componentes de alta qualidade
+ - Permite consertar equipamento Combatentes
+ - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
 **Nível 3:**
-O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
+ O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
 - Permite consertar equipamento Predadora
 - Evita a primeira danificação na sua arma
 ### Câmara de Munição
@@ -80,9 +80,10 @@ Uma oficina equipada para a fabricação e manutenção de aparatos táticos bá
 - Aumenta em 1 a quantidade de usos de um aparato
 **Nível 2:**
 A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
-- Permite levar mais um aparato 
+- Permite levar mais um aparato nas missões
 **Nível 3:**
 Transforma-se em um centro de desenvolvimento tecnológico. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
+- Aumenta em +1 a quantidade de usos de um aparato
 ## Ciência
 ### Ala Médica
 - Preço:
