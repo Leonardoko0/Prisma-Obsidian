@@ -33,7 +33,7 @@
 ### Tarja Negra
 ### Tarja Vazia
 ## Granadas
-### Ofensivas
+### Lancinante
 
 |     Nome     | Preço | Peso |        Efeito         | Taxa de Erro |
 | :----------: | :---: | :--: | :-------------------: | :----------: |

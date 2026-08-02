@@ -65,6 +65,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 - Tamanho:
 **Nível 1:**
 Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
+- 
 **Nível 2:**
 A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
 **Nível 3:**

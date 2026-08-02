@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Armas.md",
+                "file": "Rpg/Personagens/Itens Gerais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armas"
+              "title": "Itens Gerais"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,12 +212,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2bfec5f91885c40f",
+  "active": "e83a50e7b6212f69",
   "lastOpenFiles": [
-    "Rpg/Personagens/Armas.md",
-    "Rpg/Regras/Armadura.md",
-    "Sistema de salas.md",
     "Rpg/Personagens/Equipamento.md",
+    "Rpg/Personagens/Armas.md",
+    "Sistema de salas.md",
+    "Rpg/Regras/Armadura.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Perícias.md",
