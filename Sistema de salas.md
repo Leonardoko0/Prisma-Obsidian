@@ -12,7 +12,7 @@
 melhora os equipamentos para uma qualidade melhor e com uma váriedade mais complexa. Cortesia SharpWine
 - Permite concertar e utilizar armas brancas Combatentes
 **Nível 3:**
-Melhora a sala para um nivel 
+Melhora a sala para um nivel extremo de armas brancas. Adiciona o Robô Blade X uma esfera de aço com inteligencia artifical e com grande comnhe
 ### Módulo de Disparos
 - Preço:
 - Tamanho:
