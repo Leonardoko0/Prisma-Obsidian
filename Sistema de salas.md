@@ -53,7 +53,10 @@ Melhoras os equipamentos
 - Recupera um quarto do seus dados de vida
 **Nível 3:**
 Melhora ainda mais os equipamentos
-- Recupera uma quantid
+- Recupera uma quantidade = 75% da sua vida
+- Espaço para 8 pessoas 
+- Cura quase todas as doenças 
+- Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
 - Preço:
 - Tamanho:
