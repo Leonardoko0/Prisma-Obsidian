@@ -42,6 +42,7 @@
 - Preço:
 - Tamanho:
 **Nível 1:**
+Uma sala com equipamentos médicos improvisados
 **Nível 2:**
 **Nível 3:**
 ### Bancada de Narcóticos
