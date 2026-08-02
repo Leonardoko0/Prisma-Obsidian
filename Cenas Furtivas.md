@@ -51,9 +51,10 @@ Você roda enganação contra a percepção do alvo se ganhar recupere 1d20+bonu
 Você prepara uma ação para ser realizada assim que cumprir os requerimento.
 Ex: preparo uma ação para passar atrás do guarda quando ele estiver distraído, então na próxima rodada outro jogador distrai o guarda e você realiza essa sua ação
 #### Analisar Alvo Furtivamente
-Você passa sua ação analisando o alvo e então recebendo uma estimativa da vida dele/ pontos de sombra necessários pra m
+Você passa sua ação analisando o alvo e então recebendo uma estimativa da vida dele/ pontos de sombra necessários pra abater
 ### Qualidade de Ambiente
 #### Mal Iluminado
+Todos os testes de percep
 #### Luz Fraca
 #### Iluminação Normal
 #### Bem Iluminado
