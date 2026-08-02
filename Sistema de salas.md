@@ -59,8 +59,10 @@
 **Nível 2:**
 Melhora a qualidade dos equipamentos, agora você pode analisar tecidos e escanear liquídos
 além de também poder confecionar itens de melhor qualidade
+- Enquanto na sala recebe +5 em ciência
 **Nível 3:**
-Melhora a ainda mais a qual
+Melhora a ainda mais a qualidade da sala fazendo realmente parecer um laboratório digno de uma instalação tecnologica avançada
+- Enquanto na sala recebe +10 em ciência
 ### Câmara de Implantes
 - Preço:
 - Tamanho:
