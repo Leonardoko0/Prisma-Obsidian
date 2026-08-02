@@ -46,11 +46,11 @@ Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realiza
 - Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
 - Capacidade de duas pessoas 
 **Nível 2:**
-A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade além de receber e
-- Recupera uma quantidade de vida = 50% da sua vida
-- Espaço para 4 pessoas 
-- Cura doenças diversas
-- Recupera um quarto do seus dados de vida
+A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
+- Recupera 50% da vida do paciente 
+- Espaço de quatro pessoas 
+- Cura doenças e infecções diversas
+- Recupera um quarto do seus dados de vida (arredondado pra )
 **Nível 3:**
 Melhora ainda mais os equipamentos
 - Recupera uma quantidade = 75% da sua vida
