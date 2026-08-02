@@ -54,7 +54,8 @@
 - Preço:
 - Tamanho:
 **Nível 1:** 
- Sala equipada com equipamento de pesquisas biológicas básico pronto para analisar matéria simples e confecsionar alguns i 
+ Sala equipada com equipamento de pesquisas biológicas básico pronto para analisar matéria simples e confecsionar alguns itens
+- Enquanto na sala recebe +2 em ciência
 **Nível 2:**
 **Nível 3:**
 ### Câmara de Implantes

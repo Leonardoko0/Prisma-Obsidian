@@ -75,8 +75,7 @@
               "title": "Sistema de salas"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +225,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2bfec5f91885c40f",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sistema de salas.md",
     "Rpg/Regras/Carga e Peso.md",
     "Cenas Furtivas.md",
     "Combate de Ambiente.md",
@@ -255,7 +255,6 @@
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Apelidos.md",
     "Cartas de Auxilio.md",
-    "Sistema de salas.md",
     "Bases Provisórias.md",
     "Rpg/Personagens/Perícias.md",
     "Sem título.canvas",
