@@ -7,8 +7,9 @@
 **Nível 1:**
  Sala com equipamentos de lâminas como afiadores e serras de água pronta para ser usado
  - Permite concertar equipamento
- - Permite colocar melhorias em atribur
+ - Permite colocar melhorias em atributo na sua arma
 **Nível 2:**
+melhora os equipamentos para uma qualidade melhor e com uma váriedade . Cortesia SharpWine
 **Nível 3:**
 ### Módulo de Disparos
 - Preço:
