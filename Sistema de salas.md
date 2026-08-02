@@ -43,7 +43,7 @@
 - Tamanho:
 **Nível 1:**
 Uma sala com equipamentos médicos improvisados
-- Recupera uma quantidade = ao seu número de dados de discan
+- Recupera uma quantidade = ao seu número de dados de descanso dividido por 3 em um de  
 
 **Nível 2:**
 **Nível 3:**
