@@ -49,12 +49,12 @@ Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realiza
 A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
 - Recupera 50% da vida do paciente 
 - Espaço de quatro pessoas 
-- Cura doenças e infecções diversas
-- Recupera um quarto do seus dados de vida (arredondado pra )
+- Cura doenças e infecções diversas/recupera de condiç
+- Recupera um quarto do seus dados de vida (arredondado pra baixo)
 **Nível 3:**
 Melhora ainda mais os equipamentos
-- Recupera uma quantidade = 75% da sua vida
-- Espaço para 8 pessoas 
+- Recupera 75% da vida do paciente
+- Espaço de oito pessoas
 - Cura quase todas as doenças 
 - Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
