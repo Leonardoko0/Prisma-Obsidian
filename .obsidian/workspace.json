@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Criação De Personagem.md",
+                "file": "Rpg/Personagens/Raça.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criação De Personagem"
+              "title": "Raça"
             }
           }
         ],
@@ -242,6 +242,7 @@
   },
   "active": "5d5f17a10559eb9f",
   "lastOpenFiles": [
+    "Rpg/Personagens/Criação De Personagem.md",
     "Sistema de salas.md",
     "Rpg/Regras/Armadura.md",
     "Cenas Furtivas.md",
@@ -258,7 +259,6 @@
     "Cartas de Fuga.md",
     "Pontos de Inspiração.md",
     "Tipo de Danos.md",
-    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Regras.md",

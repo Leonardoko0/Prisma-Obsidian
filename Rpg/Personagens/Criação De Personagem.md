@@ -20,8 +20,6 @@ Ele não funciona como perícia comum, nem como habilidade treinável. É uma in
 Embora o Cognato represente uma saída em momentos em que uma escolha parece evidente demais para ser ignorada, mas ainda incerta demais para que o personagem a intenda por conta própria, isso não significa que o Meta Game seja permitido, ele apenas inclina o caminho
 
 **Você nunca morre**. O mesmo Cognato pode agir através de diversos personagens ao mesmo tempo e, em situações específicas, transferir ideias, conhecimentos, visões ou até mesmo fragmentos de habilidades. Isso significa que experiências vividas por um personagem podem, de alguma forma, ecoar em outro como impressões vagas, sensações familiares ou intuições difíceis de explicar. É a marca do jogador atravessando diferentes histórias, conectando vidas que, em teoria, jamais deveriam se encontrar.
-
-
 ### Fazendo Um Personagem
 Para criar um personagem você deve se atentar em: escolher a backstory, raça, traits, stats, classe, perícias e equipamento
 #### [[Raça]]
