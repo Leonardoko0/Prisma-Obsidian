@@ -75,8 +75,7 @@
               "title": "Combate de Ambiente"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,12 +225,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f6a4718a76caae4b",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Combate de Ambiente.md",
+    "Sistema de salas.md",
     "Rpg/Regras/Armadura.md",
     "Cenas Furtivas.md",
-    "Sistema de salas.md",
+    "Combate de Ambiente.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Equipamento.md",
     "Rpg/Personagens/Aparatos.md",
