@@ -133,7 +133,7 @@ Adicione +2 no contador de Sentido e +1 em Agilidade
 ### Treinamento Em Armamento
 Escolha entre ser treinado em armas de ácido ou em armas de perfuração
 ### Idiomas 
-Fluente em Galático comum e feromônico  
+Fluente em Galático comum e Aplidio ou Feromônico  
 ## **Silicar**
 ### Habilidade: Autômato
 O seu corpo de silício funciona diferente dos demais seres, seu metal não sofre os mesmos efeitos da carne. Você tem resistência a dano de veneno, calor e de doenças comuns, além disso você possui uma capacidade sem igual de mutar seu corpo com implantes.
