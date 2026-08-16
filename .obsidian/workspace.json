@@ -89,8 +89,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +239,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5d5f17a10559eb9f",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Sistema de salas.md",
     "Rpg/Regras/Armadura.md",
@@ -271,7 +271,6 @@
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Estâmina.md",
-    "Apelidos.md",
     "Sem título.canvas",
     "Minha PEÇA.canvas",
     "Sem título.base",
