@@ -64,7 +64,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 - Dissolver: Modo padrão da faca
 - Sonho Azul: Você pode acertar aliados, ao invés de causar dano a faca cura uma quantidade de vida igual ao dano do dissolver (Dura uma quantidade de rodadas = 1 + proficiência dividido por 2). Usar **"Sangue Sonho"** faz o dano causado pela faca virar cura instantânea.
 
-**LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"**
+**LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem
 
 **LV 14,**
 
