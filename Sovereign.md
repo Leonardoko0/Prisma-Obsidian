@@ -80,7 +80,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 9, Efeito Mandela:** (Ação Prismática) Gaste 3 PP para transferir os dots de **"Dementador"**
 para outro alvo após o alvo inicial morrer
 
-**LV 14,**
+**LV 14, Dementador Traiçoeiro:** 
 
 **LV 20,** 
 ## Dream Caster
