@@ -74,7 +74,8 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
-**LV 3,** 
+**LV 3, Apagar Personalidade:**
+- Muda como 
 
 **LV 9,** 
 
