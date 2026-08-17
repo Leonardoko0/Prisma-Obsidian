@@ -90,6 +90,18 @@
             }
           },
           {
+            "id": "75957837d5648f93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.7"
+            }
+          },
+          {
             "id": "81b4adc467c0e45c",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5d5f17a10559eb9f",
+  "active": "75957837d5648f93",
   "lastOpenFiles": [
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Raça.md",
