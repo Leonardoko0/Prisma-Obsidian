@@ -75,8 +75,8 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
 **LV 3, Apagar Personalidade:**
-- Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada que ele passa com o efeito ativo ele ganha um dot de **"Dementador"**
-- Gaste 1PP para explodir para explodir todos os dots de **"Dementador"** causando (1d6+1/2d6+3/3d6+)
+- Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada que ele passa com o efeito ativo ele ganha um Dot de **"Dementador"**
+- Gaste 1PP para explodir para explodir todos os Dots de **"Dementador"** causando (1d6+1/2d6+3/3d6+4/4d6+6) por Dot
 
 **LV 9,** 
 
