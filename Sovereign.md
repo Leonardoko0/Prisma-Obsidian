@@ -75,7 +75,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
 **LV 3, Apagar Personalidade:**
-- Muda como 
+- Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada que ele passa com o efeito ativo ele ganha um dot de **""**
 
 **LV 9,** 
 
