@@ -66,8 +66,8 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem
 
-**LV 14, Fluxo de Areia:** Gasta 2pp para teletransportar para um alvo que esteja com sonho 
-
+**LV 14, Fluxo de Areia:** Gasta 3pp para teletransportar para um alvo afetados pelo **"Sonho Azul"**
+(em 50 tiles)
 **LV 20,** 
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
