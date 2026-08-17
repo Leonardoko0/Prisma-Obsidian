@@ -9,7 +9,7 @@
 ## **Faca Cytherean**
 **Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigos e intimidadora**  
 
-Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade para atacar, além disso você sempre é treinado com essa arma. Ao acertar você aplica o efeito de "Cata Sonho" a condição pode ser terminada com um salvaguarda de Int (DT: Arremesso) a cada rodada seguinte 
+Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade para atacar, além disso você sempre é treinado com essa arma. Ao acertar você aplica o efeito de "Cata Sonho" a condição pode ser terminada com um salvaguarda de Int (DT: Arremesso) a cada rodada seguinte a DT abaixa em 3 
 
 |    Dano    | Alcance | Crítico |           Propriedades           |
 | :--------: | :-----: | :-----: | :------------------------------: |
@@ -28,15 +28,15 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 |   6   |      +3      |     -      |    -    |    -    |        Treinamento de Perícia        |     -     |
 |   7   |      +3      |     -      |  9/12m  |    -    |       Proficiência de Combate        |     -     |
 |   8   |      +3      |     -      |    -    |    -    |       Melhoramento de Atributo       |    2d4    |
-|   9   |      +4      |    5d4     |    -    |    -    |              Subclasse               |     -     |
+|   9   |      +4      |    4d4     |    -    |    -    |              Subclasse               |     -     |
 |  10   |      +4      |     -      |    -    |    -    |    Treinamento(Molde d Pesadelo)     |     -     |
 |  11   |      +4      |     -      |    -    |  3x/19  |        Treinamento de Perícia        |     -     |
 |  12   |      +4      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
-|  13   |      +5      |    6d5     |    -    |    -    |       Proficiência de Combate        |     -     |
+|  13   |      +5      |    5d5     |    -    |    -    |       Proficiência de Combate        |     -     |
 |  14   |      +5      |     -      | 12/15m  |    -    |              Subclasse               |    3d4    |
 |  15   |      +5      |     -      |    -    |    -    |             Treinamento              |     -     |
 |  16   |      +5      |     -      |    -    |    -    | Melhoramento de Atributo (Colateral) |     -     |
-|  17   |      +6      |    7d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
+|  17   |      +6      |    6d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
 |  18   |      +6      |     -      |    -    |    -    |             Treinamento              |    4d4    |
 |  19   |      +6      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
 |  20   |      +6      |     -      | 15/18m  |    -    |              Subclasse               |     -     |
