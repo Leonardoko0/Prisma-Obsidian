@@ -69,7 +69,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 14, Fluxo de Areia:** Gasta 2pp para teletransportar para um alvo afetados pelo **"Sonho Azul"**
 (em 50 tiles) neutralizando qualquer efeito negativo e curando uma quantidade igual ao dissolver 
 
-**LV 20,** 
+**LV 20,** gastando 6pp você pode implantar uma coinciencia renascida para que quando o alvo morra 
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
