@@ -77,7 +77,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 - (Ação de Movimento) Gaste 1PP para explodir para explodir todos os Dots de **"Dementador"** de um alvo causando (1d6+1/2d6+3/3d6+4/4d6+6) por Dot
 
-**LV 9, Efeito Mandela:** Gaste 1PP para quando explodir
+**LV 9, Efeito Mandela:** 
 
 **LV 14,**
 
