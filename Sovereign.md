@@ -60,7 +60,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## Sandman
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 
-**LV 3, Sonho Azul** 
+**LV 3, Sonho Azul:** 
 
 **LV 9,** 
 
