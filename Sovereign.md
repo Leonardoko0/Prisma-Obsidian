@@ -87,7 +87,8 @@ para outro alvo após o alvo inicial morrer
 ## Invólucro Etério
 (Cria fantasmas(Hex) para ajudar no combate)
 
-**LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada
+**LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada mas gera um ponto de **"HEX"**
+- Você pode gastar seu HEX
 
 **LV 9,** 
 
