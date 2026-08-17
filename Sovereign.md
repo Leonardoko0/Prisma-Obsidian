@@ -84,18 +84,18 @@ para outro alvo após o alvo inicial morrer
 
 **LV 20, Realidade Expansiva:** (Ação Padrão) Gaste 5pp para transferir todo os dots de **"Dementador"** de todos os inimigos no campo para um só e então causando o dano de todos os dots
 - Alvos acertados por **"Colateral"** Recebem 1 Dot de **"Dementador"**
-## Dream Caster
-(Magias e outras habilidades que você pode pegar)
+## Invólucro Etério
+(Cria fantasmas(Hex) para ajudar no combate)
 
-**LV 3,** 
+**LV 3, ** 
 
 **LV 9,** 
 
 **LV 14,**
 
 **LV 20,** 
-## Invólucro Etério
-(Cria fantasmas(Hex) para ajudar no combate)
+## Dream Caster
+(Magias e outras habilidades que você pode pegar)
 
 **LV 3,** 
 
