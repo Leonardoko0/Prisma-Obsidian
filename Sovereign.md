@@ -62,7 +62,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 3, Sonho Azul:** Gasta 1 PP para trocar entre modos
 - Dissolver: Modo padrão da faca
-- **Sonho Azul:** Você pode atingir aliados com a faca. Em vez de causar dano, o ataque **cura uma quantidade de PV igual ao dano que causaria no modo Dissolver**.
+- **Sonho Azul:** Você pode atingir aliados com a faca. Em vez de causar dano, o ataque aplica cura igual ao dano que causaria no modo Dissolver. O efeito dura 1+proficiencia
 
 **LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem
 
