@@ -70,7 +70,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 14, Fluxo de Areia:** Gasta 2pp para teletransportar para um alvo afetados pelo **"Sonho Azul"**
 (dentro de 50 tiles) neutralizando qualquer efeito negativo e curando uma quantidade igual ao dano de dissolver 
 
-**LV 20, Renascimento Onírico:** gastando 6pp você pode implantar uma conciência renascida para que quando o alvo caia ele exploda em luz e reviva com 25% de sua vida depois de se mover uma quantidade = movimento vezes 2. 
+**LV 20, Renascimento Onírico:** Gaste 6 PP para implantar no corpo de um aliado afetado pelo **Sonho Azul** uma Consciência Renascida. Quando o alvo cair para 0 PV ele pode explodir em luz 
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
