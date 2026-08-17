@@ -63,9 +63,9 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 **LV 3, Sonho Azul:** Gasta 1 PP para trocar entre modos
 - Dissolver: Modo padrão da faca
 - **Sonho Azul:** Você pode atingir aliados com a faca. Em vez de causar dano, o ataque aplica cura igual ao dano que causaria no modo Dissolver. O efeito dura 1+proficiencia dividido por 2.
-- Ao Usar **"Sangue Sonho"** no modo sonh
+- Ao Usar **"Sangue Sonho"** no modo Sonho Azul, todo dano do ataque se transforma em cura
 
-**LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem
+**LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem sempre que forem
 
 **LV 14, Fluxo de Areia:** Gasta 2pp para teletransportar para um alvo afetados pelo **"Sonho Azul"**
 (em 50 tiles) neutralizando qualquer efeito negativo e curando uma quantidade igual ao dissolver 
