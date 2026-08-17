@@ -61,8 +61,8 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 
 **LV 3, Sonho Azul:** Gasta 1 PP para trocar entre modos
-- Dissolver: Dano causado ao longo do tempo enquanto a faca tiver ativa
-- Sonho Azul: Você pode acertar aliados, ao invés de causar dano a faca cura uma quantidade de vida igual ao dano do dissolver. Usar **"Sangue Sonho"** faz o dano causado pela faca virar cura instantania 
+- Dissolver: Modo 
+- Sonho Azul: Você pode acertar aliados, ao invés de causar dano a faca cura uma quantidade de vida igual ao dano do dissolver. Usar **"Sangue Sonho"** faz o dano causado pela faca virar cura instantânea 
 
 **LV 9,** 
 
