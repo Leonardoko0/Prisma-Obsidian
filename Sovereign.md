@@ -82,7 +82,7 @@ para outro alvo após o alvo inicial morrer
 
 **LV 14, Dementador Traiçoeiro:** Após a morte de um alvo com dots de **"Dementador"** você recupera uma quantidade de PP igual a quantidade de dots no alvo
 
-**LV 20,** 
+**LV 20, Realidade Expansiva:** Gaste 5pp para transferir todos os dots de 
 ## Dream Caster
 (Magias e outras habilidades que você pode pegar)
 
