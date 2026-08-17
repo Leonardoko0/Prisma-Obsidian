@@ -60,23 +60,22 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## Sandman
 (Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 
-**LV 3, Sonho Azul:** Gasta 1 PP para trocar entre modos
+**LV 3, Sonho Azul:** (Ação Livre) Gasta 1 PP para trocar entre modos
 - Dissolver: Modo padrão da faca
 - **Sonho Azul:** Você pode atingir aliados com a faca. Em vez de causar dano, o ataque aplica cura igual ao dano que causaria no modo Dissolver. O efeito dura 1+proficiencia dividido por 2.
 - Ao Usar **"Sangue Sonho"** no modo Sonho Azul, todo dano do ataque se transforma em cura
 
 **LV 9, Sweet Dreams:** Alvos afetados pelo **"Sonho Azul"** podem escolher um entre os três atributos físico: (For, Agi e Con) para adicionar como vantagem (sempre que forem afetados podem escolher um novo efeito)
 
-**LV 14, Fluxo de Areia:** Gasta 2pp para teletransportar para um alvo afetados pelo **"Sonho Azul"**
-(dentro de 50 tiles) neutralizando qualquer efeito negativo e curando uma quantidade igual ao dano de dissolver 
+**LV 14, Fluxo de Areia:** (Ação Padrão) Gasta 2pp para teletransportar para um alvo afetados pelo **"Sonho Azul"** (dentro de 50 tiles) neutralizando qualquer efeito negativo e curando uma quantidade igual ao dano de dissolver 
 
-**LV 20, Renascimento Onírico:** Gaste 6 PP para implantar no corpo de um aliado afetado pelo **Sonho Azul** uma Consciência Renascida. Quando o alvo cair para 0 PV ele pode explodir em luz, se mover 2x se movimento e renascer com 25% de sua vida
+**LV 20, Renascimento Onírico:** (Ação )Gaste 6 PP para implantar no corpo de um aliado afetado pelo **Sonho Azul** uma Consciência Renascida. Quando o alvo cair para 0 PV ele pode explodir em luz, se mover 2x se movimento e renascer com 25% de sua vida
 ## **Dementador Expansivo**
 (Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
 **LV 3, Apagar Personalidade:**
 - Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada que ele passa com o efeito ativo ele ganha um Dot de **"Dementador"**
-- Gaste 1PP para explodir para explodir todos os Dots de **"Dementador"** causando (1d6+1/2d6+3/3d6+4/4d6+6) por Dot
+- Gaste 1PP para explodir para explodir todos os Dots de **"Dementador"** de um alvo causando (1d6+1/2d6+3/3d6+4/4d6+6) por Dot
 
 **LV 9,** 
 
