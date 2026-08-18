@@ -99,7 +99,8 @@ para outro alvo após o alvo inicial morrer
 | ---------- | ------------------ | ------------- | ---------------------- |
  **Ação:**
   Facada: Causa Dano igual a Dissolver/20 2x
-**LV 9,** 
+  
+**LV 9,** Gasta 1pp para melhorar um 
 
 **LV 14,**
 
