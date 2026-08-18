@@ -100,7 +100,10 @@ para outro alvo após o alvo inicial morrer
  **Ação:**
   Facada: Causa Dano igual a Dissolver/20 2x
   
-**LV 9,** Gasta 1pp para melhorar um 
+**LV 9,** Gasta 1pp para melhorar um Hex:
+- Espada: 1d8/19 2x
+- Armadura: DT 16
+- 
 
 **LV 14,**
 
