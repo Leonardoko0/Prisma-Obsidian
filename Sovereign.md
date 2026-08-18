@@ -89,7 +89,7 @@ para outro alvo após o alvo inicial morrer
 
 **LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada mas gera um ponto de **"HEX"**
 - Você pode gastar seus pontos de HEX para criar uma companheiro Etério como uma ação padrão
-- **Hex:** Sempre Treinado 
+- **Hex:** Sempre treinado, Bônus de proficiência igual ao jogar   
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
