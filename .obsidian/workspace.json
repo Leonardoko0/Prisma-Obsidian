@@ -61,8 +61,7 @@
               "title": "Sovereign"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +211,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1390b60f27626b33",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Raça.md",
     "Combate de Ambiente.md",
-    "Sovereign.md",
     "Combate Com Grupos.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Sistema de salas.md",
