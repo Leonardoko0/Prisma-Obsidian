@@ -97,6 +97,8 @@ para outro alvo após o alvo inicial morrer
 
 | Defesa: 12 | Vida: 2d4+2 | Velocidade 6m | Iniciativa: Pós Player |
 | ---------- | ----------- | ------------- | ---------------------- |
+ **Ação:**
+  Facada: 
 **LV 9,** 
 
 **LV 14,**
