@@ -98,7 +98,7 @@ para outro alvo após o alvo inicial morrer
 | Defesa: 12 | Vida: Dissolver x2 | Velocidade 6m | Iniciativa: Pós Player |
 | ---------- | ------------------ | ------------- | ---------------------- |
  **Ação:**
-  Facada: Causa Dano igual a Dissolver/20 2x/
+  Facada: Causa Dano igual a Dissolver/20 2x
 **LV 9,** 
 
 **LV 14,**
