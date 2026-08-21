@@ -16,5 +16,7 @@ Ataca usando a arma da evocação que podem variar entre:
 Um cutelo translúcido com sua lâmina quebrada, seu cabo é grudado a mão do invocado
 "Levantado para guiar um novo caminho"
 **Espada Média:** 1d8 Corte/ 19 2x/ Força
-Uma espada antiga translúcida de aparenci
+Uma espada antiga translúcida de aparência deteriorada e de certa forma apagada
+"Acreditam na lenda aqueles que ainda tem fé"
 **Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
+Um Machadinho de arremesso, sua aparência é transl
