@@ -12,8 +12,8 @@ Bônus de proficiência do conjurador no ataque
 #### Usar arma
 Ataca usando a arma da evocação que podem variar entre
 
-**Cutelo:** 1d6 Corte/ 18 2x / 
+**Cutelo:** 1d6 Corte/ 18 2x / Agilidade
 
-**Espada Média:** 
+**Espada Média:** 1d8 Corte/ 19 2x/ Força
 
-**Machadinha:**
+**Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
