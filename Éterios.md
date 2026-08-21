@@ -13,7 +13,8 @@ Bônus de proficiência do conjurador no ataque
 Ataca usando a arma da evocação que podem variar entre:
 
 **Cutelo:** 1d6 Corte/ 18 2x / Agilidade
-Um cutelo translúcido com sua lâmina quebrada, seu cabo é 
+Um cutelo translúcido com sua lâmina quebrada, seu cabo é grudado a mão do invocado
+"Levantado para guiar um novo caminho"
 **Espada Média:** 1d8 Corte/ 19 2x/ Força
-
+Uma espada antiga translúcida de aparenci
 **Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
