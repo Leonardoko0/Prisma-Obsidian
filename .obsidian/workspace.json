@@ -62,16 +62,6 @@
             }
           },
           {
-            "id": "8b5a5b076ad263bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
             "id": "336e30eb30075bdf",
             "type": "leaf",
             "state": {
@@ -86,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,10 +228,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b63093089f41eb12",
+  "active": "1390b60f27626b33",
   "lastOpenFiles": [
-    "Sovereign.md",
     "Éterios.md",
+    "Sovereign.md",
+    "Pasta 1/Nota 1.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Reikgon.md",
     "Rpg/Personagens/Nômade.md",
@@ -265,7 +256,6 @@
     "Pontos de Inspiração.md",
     "Tipo de Danos.md",
     "Rpg/Regras/Ação Padrão.md",
-    "Rpg/Regras/Combate.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
