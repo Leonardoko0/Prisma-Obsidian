@@ -1,5 +1,5 @@
 #Inimigos [[Bestiário]]
-## Hex
+## Invocado de Hex
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
@@ -8,3 +8,5 @@ Bônus de proficiência do conjurador no ataque
 
 | Defesa: 10 | Vida: Dissolver x2 | Velocidade 6m | Iniciativa: Pós Player |
 | ---------- | ------------------ | ------------- | ---------------------- |
+### Ações
+#### Usar arma
