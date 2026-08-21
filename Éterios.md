@@ -1,0 +1,2 @@
+#Inimigos [[Bestiário]]
+## Hex
