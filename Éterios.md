@@ -1,6 +1,6 @@
 #Inimigos [[Bestiário]]
 ## Invocado de Hex
-Sombras de tudo que é esquecido pelo brilho do Éter. Ninguém sabe exatamente o que são Invocados de Hex, porém acreditamos que seja um espectro de outros humanos já esquecidos que de alguma forma se conectaram com o invocado para retornar a seu mundo mais uma última vez
+Sombras de tudo que é esquecido pelo brilho do Éter. Ninguém sabe exatamente o que são, porém acreditamos que seja um espectro de outros humanos já esquecidos, que de alguma forma, se conectaram com o invocado para retornar a seu mundo mais uma última vez
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |

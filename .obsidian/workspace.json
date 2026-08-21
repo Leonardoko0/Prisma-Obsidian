@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d5275afd9f5ee439",
+  "active": "1390b60f27626b33",
   "lastOpenFiles": [
-    "Rpg/Personagens/Armas.md",
     "Éterios.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Reikgon.md",
     "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
