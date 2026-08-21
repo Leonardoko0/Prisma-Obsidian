@@ -24,4 +24,4 @@ Uma espada antiga translúcida de aparência deteriorada e de certa forma apagad
 Um Machadinho de arremesso, sua aparência é translúcida e notável quase como nova
 "Pois o fim é só depois aquele que toca as estrelas"
 #### (Passiva) Éter
-Quando derrotar um inimigo 
+Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado inicial
