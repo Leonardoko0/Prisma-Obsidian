@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,11 +212,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1390b60f27626b33",
+  "active": "d5275afd9f5ee439",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Inimigos/Reikgon.md",
     "Éterios.md",
-    "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
     "Sistema de salas.md",
     "Rpg/Inimigos/Scavengers.md",
