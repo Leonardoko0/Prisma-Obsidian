@@ -23,4 +23,5 @@ Uma espada antiga translúcida de aparência deteriorada e de certa forma apagad
 **Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
 Um Machadinho de arremesso, sua aparência é translúcida e notável quase como nova
 "Pois o fim é só depois aquele que toca as estrelas"
-()
+#### (Passiva) Éter
+Quando derrotar um inimigo 
