@@ -15,9 +15,12 @@ Ataca usando a arma da evocação que podem variar entre:
 **Cutelo:** 1d6 Corte/ 18 2x / Agilidade
 Um cutelo translúcido com sua lâmina quebrada, seu cabo é grudado a mão do invocado
 "Levantado para guiar um novo caminho"
+
 **Espada Média:** 1d8 Corte/ 19 2x/ Força
 Uma espada antiga translúcida de aparência deteriorada e de certa forma apagada
 "Acreditam na lenda aqueles que ainda tem fé"
+
 **Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
 Um Machadinho de arremesso, sua aparência é translúcida e notável quase como nova
-"Pois o fim é só depois de"
+"Pois o fim é só depois aquele que toca as estrelas"
+()
