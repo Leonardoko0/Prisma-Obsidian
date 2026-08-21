@@ -19,4 +19,5 @@ Um cutelo translúcido com sua lâmina quebrada, seu cabo é grudado a mão do i
 Uma espada antiga translúcida de aparência deteriorada e de certa forma apagada
 "Acreditam na lenda aqueles que ainda tem fé"
 **Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
-Um Machadinho de arremesso, sua aparência é transl
+Um Machadinho de arremesso, sua aparência é translúcida e notável quase como nova
+"Pois o fim é só depois de"
