@@ -12,5 +12,8 @@ Bônus de proficiência do conjurador no ataque
 #### Usar arma
 Ataca usando a arma da evocação que podem variar entre
 
-**Cutelo:**
+**Cutelo:** 
 
+**Espada Média:**
+
+**Machadinha:**
