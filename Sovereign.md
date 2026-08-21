@@ -88,7 +88,7 @@ para outro alvo após o alvo inicial morrer
 (Cria fantasmas(Hex) para ajudar no combate)
 
 **LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada mas gera um ponto de **"HEX"**
-- Você pode gastar dois pontos de HEX para criar uma companheiro Etério como uma ação padrão gastando 
+- Você pode gastar dois pontos de HEX para criar uma companheiro Etério (Invocado de Hex) como uma ação padrão. Rode 1d3 para definir a arma (1 cutelo/2 Espada/3 Machadinha)
   
 **LV 9,** Gasta 1pp para melhorar um Hex. Acumula no máximo 2 vezes 
 
