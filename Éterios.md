@@ -1,5 +1,6 @@
 #Inimigos [[Bestiário]]
 ## Invocado de Hex
+Sombras de tudo que é esquecido pelo brilho do Éter. Ninguém sabe exatamente o que são Invocados de Hex, porém 
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
