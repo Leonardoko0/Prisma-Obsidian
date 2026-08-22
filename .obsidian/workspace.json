@@ -20,34 +20,6 @@
             }
           },
           {
-            "id": "1390b60f27626b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sovereign.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sovereign"
-            }
-          },
-          {
-            "id": "d5275afd9f5ee439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etérios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etérios"
-            }
-          },
-          {
             "id": "cad199e7f8be71dc",
             "type": "leaf",
             "state": {
@@ -118,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,12 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "373e089fcf129f60",
+  "active": "cad199e7f8be71dc",
   "lastOpenFiles": [
+    "Etérios.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Regras/Ação Padrão.md",
-    "Sovereign.md",
-    "Etérios.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Artilherista.md",
@@ -297,7 +270,6 @@
     "Cenas Furtivas.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Equipamento.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
