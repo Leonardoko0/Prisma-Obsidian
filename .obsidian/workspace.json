@@ -75,8 +75,7 @@
               "title": "Perícias"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +227,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5239631a3e67db86",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Armas.md",
     "Vanessa Kiran.md",
     "Shirose Schnee (Caçadora de Prata).md",
@@ -244,7 +245,6 @@
     "Rpg/Personagens/Raça.md",
     "Combate de Ambiente.md",
     "Combate Com Grupos.md",
-    "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Armadura.md",
     "Cenas Furtivas.md",
     "Rpg/Personagens/Classes.md",
@@ -252,7 +252,6 @@
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Perícias.md",
     "Rpg/Regras/Carga e Peso.md",
     "Perseguição.md",
     "Cartas de Fuga.md",
