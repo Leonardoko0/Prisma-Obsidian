@@ -31,6 +31,7 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |   Subterfúgio   |   Int    |                     |
 |     Tática      |   Int    |                     |
 |   Tecnologia    |   Int    |                     |
+|    Profissão    |  Varia   |                     |
 ## Perícias
 ### Acrobacia
 ### Adestramento
@@ -51,6 +52,7 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 ### Medicina
 ### Percepção
 ### Pilotagem
+### Profissão
 ### Subterfúgio
 ### Religião
 ### Tática
