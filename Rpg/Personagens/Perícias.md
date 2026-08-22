@@ -27,11 +27,11 @@ Suas perícias são definidas principalmente pela sua classe e pelo seu Backgrou
 |    Medicina     |   Int    |                     |
 |    Percepção    |   Sen    |                     |
 |    Pilotagem    |   Agi    |                     |
+|    Profissão    |  Varia   |                     |
 |    Religião     |   Int    |                     |
 |   Subterfúgio   |   Int    |                     |
 |     Tática      |   Int    |                     |
 |   Tecnologia    |   Int    |                     |
-|    Profissão    |  Varia   |                     |
 ## Perícias
 ### Acrobacia
 ### Adestramento
