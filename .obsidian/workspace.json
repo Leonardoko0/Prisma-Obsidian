@@ -75,7 +75,8 @@
               "title": "Perícias"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "5239631a3e67db86",
   "lastOpenFiles": [
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Criação De Personagem.md",
