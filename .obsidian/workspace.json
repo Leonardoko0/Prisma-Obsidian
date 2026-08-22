@@ -103,8 +103,7 @@
               "title": "Aparatos"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,10 +255,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cd04d7cbd327a695",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Aparatos.md",
+    "Rpg/Regras/Ação Padrão.md",
     "Sovereign.md",
     "Etérios.md",
     "Rpg/Personagens/Armas.md",
