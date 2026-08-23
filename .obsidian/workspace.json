@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0181315189a5d2db",
+  "active": "69dc3aa27165e4f9",
   "lastOpenFiles": [
+    "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
     "Rpg/Regras/Ação Padrão.md",
@@ -255,7 +256,6 @@
     "Rpg/Personagens/Raça.md",
     "Combate de Ambiente.md",
     "Combate Com Grupos.md",
-    "Rpg/Regras/Armadura.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
