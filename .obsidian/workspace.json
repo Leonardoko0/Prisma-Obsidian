@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,12 +200,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f403462db6085b6c",
+  "active": "69dc3aa27165e4f9",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Armas.md",
     "Etérios.md",
     "Sovereign.md",
     "Rpg/Personagens/Arbiter.md",
