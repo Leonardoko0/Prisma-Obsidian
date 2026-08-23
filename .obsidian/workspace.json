@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "be3e8f329824c698",
+  "active": "69dc3aa27165e4f9",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
+    "Reações.md",
+    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Traits.md",
     "Etérios.md",
@@ -241,7 +242,6 @@
     "Rpg/Regras/Armadura.md",
     "Cenas Furtivas.md",
     "Rpg/Personagens/Classes.md",
-    "Rpg/Personagens/Equipamento.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
