@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Regras/Combate.md",
+                "file": "Rpg/Regras/Ação de Movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combate"
+              "title": "Ação de Movimento"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "0181315189a5d2db",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
+    "Rpg/Regras/Ação Prismática.md",
+    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
     "Reações.md",
     "Rpg/Personagens/Aparatos.md",
@@ -255,7 +256,6 @@
     "Combate de Ambiente.md",
     "Combate Com Grupos.md",
     "Rpg/Regras/Armadura.md",
-    "Cenas Furtivas.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
