@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,8 +242,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bd9490372be755f4",
+  "active": "2525edc9f469f254",
   "lastOpenFiles": [
+    "Reações.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Artilherista.md",
@@ -255,7 +256,6 @@
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
-    "Reações.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Traits.md",
     "Etérios.md",
