@@ -75,8 +75,7 @@
               "title": "Ação de Movimento"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +227,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "69dc3aa27165e4f9",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
-    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Armas.md",
     "Reações.md",
     "Rpg/Personagens/Aparatos.md",
