@@ -103,8 +103,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +255,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ed3582c2551bdc37",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Background.md",
     "Sovereign.md",
     "Rpg/Personagens/Classes.md",
