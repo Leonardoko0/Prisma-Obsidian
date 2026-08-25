@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2525edc9f469f254",
+  "active": "319963294a248260",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Reações.md",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
     "Rpg/Personagens/Background.md",
