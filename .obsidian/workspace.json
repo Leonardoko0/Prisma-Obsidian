@@ -20,91 +20,21 @@
             }
           },
           {
-            "id": "69dc3aa27165e4f9",
+            "id": "c0713d9c7979773b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Regras/Ação Padrão.md",
+                "file": "Rpg/Personagens/Background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ação Padrão"
-            }
-          },
-          {
-            "id": "f403462db6085b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Armas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armas"
-            }
-          },
-          {
-            "id": "be3e8f329824c698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reações"
-            }
-          },
-          {
-            "id": "0181315189a5d2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Regras/Ação de Movimento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ação de Movimento"
-            }
-          },
-          {
-            "id": "aceb67b546441c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Raça.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raça"
-            }
-          },
-          {
-            "id": "26d38328e77ce20d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Armas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armas"
+              "title": "Background"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,14 +186,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26d38328e77ce20d",
+  "active": "c0713d9c7979773b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
-    "Rpg/Personagens/Armas.md",
     "Reações.md",
     "Rpg/Personagens/Aparatos.md",
     "Rpg/Personagens/Traits.md",
