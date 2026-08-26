@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,15 +256,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2c6f5a6176bc5cda",
+  "active": "aba312fd1c61d784",
   "lastOpenFiles": [
-    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Perícias.md",
-    "Rpg/Personagens/Background.md",
     "Sovereign.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Traits.md",
