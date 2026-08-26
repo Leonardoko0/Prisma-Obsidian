@@ -131,8 +131,7 @@
               "title": "Artilherista"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,8 +283,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8161fa9ba97e72cc",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Nômade.md",
@@ -293,7 +293,6 @@
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Atributos.md",
-    "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Traits.md",
