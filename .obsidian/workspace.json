@@ -103,7 +103,8 @@
               "title": "Armas"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,13 +256,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "2c6f5a6176bc5cda",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Perícias.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Background.md",
     "Sovereign.md",
     "Rpg/Personagens/Classes.md",
@@ -269,7 +271,6 @@
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Atributos.md",
     "Reações.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Regras/Ação Padrão.md",
