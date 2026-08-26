@@ -127,7 +127,7 @@
 |  Orion C-0   | 1250u |   14   |      12      |    4     |   4/1,5   |      (COM)      |
 | Helix Shell  | 850u  |   13   |      10      |    5     |    2/1    |   (COM, RAD)    |
 |   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Leve |
-| Striker 3-K  | 950u  |   13   |      14      |    7     |    4/2    |    (COM, HF)    |
+| Striker 3-K  | 1150u |   13   |      14      |    7     |    3/2    |    (COM, HF)    |
 ### Couraça Mk.1
 - Preço: 750u
 - Defesa: 13 + (Max 2 agilidade)
