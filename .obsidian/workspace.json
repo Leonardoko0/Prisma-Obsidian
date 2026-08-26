@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -270,8 +270,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9584d655d7d7ddcd",
+  "active": "2c6f5a6176bc5cda",
   "lastOpenFiles": [
+    "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Armas.md",
@@ -283,7 +284,6 @@
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Criação De Personagem.md",
-    "Rpg/Personagens/Atributos.md",
     "Reações.md",
     "Rpg/Regras/Ação de Movimento.md",
     "Rpg/Personagens/Raça.md",
