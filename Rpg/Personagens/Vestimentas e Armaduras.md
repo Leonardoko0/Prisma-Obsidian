@@ -128,6 +128,7 @@
 | Helix Shell  | 850u  |   13   |      10      |    5     |    2/1    |   (COM, RAD) Média    |
 |   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Ágil, Tudo |
 | Striker 3-K  | 1150u |   13   |      14      |    7     |    3/2    |   (COM, HF) Pesada    |
+
 ### Couraça Mk.1
 - Preço: 750u
 - Defesa: 13 + (Max 2 agilidade)
