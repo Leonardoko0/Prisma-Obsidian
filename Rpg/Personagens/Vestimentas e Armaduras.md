@@ -123,7 +123,7 @@
 |     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação |      Propriedade      |
 | :----------: | :---: | :----: | :----------: | :------: | :-------: | :-------------------: |
 | Couraça Mk.1 | 750u  | 13 (2) |      6       |    2     |   2/0,5   |   (COM) Ágil, Leve    |
-|  Malha C-11  | 750u  |   14   |      8       |    4     |    3/1    |         (COM)         |
+|  Malha C-11  | 750u  |   14   |      8       |    4     |    3/1    |   (COM) Leve/Média    |
 |  Orion C-0   | 1250u |   14   |      12      |    4     |   4/1,5   |     (COM) Pesada      |
 | Helix Shell  | 850u  |   13   |      10      |    5     |    2/1    |   (COM, RAD) Média    |
 |   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Ágil, Tudo |
@@ -165,11 +165,11 @@
 - Adaptação: 3/2
 - Propriedades: (ISO, RAD) Leve
 ### Striker 3-K
-- Preço: 950u
+- Preço: 1150u
 - Defesa: 13
 - Durabilidade: 14
 - Absorção: 7
-- Adaptação: 4/2
+- Adaptação: 3/2
 - Propriedades: (COM, HF)
 ## Vigias
 ## Sentinelas
