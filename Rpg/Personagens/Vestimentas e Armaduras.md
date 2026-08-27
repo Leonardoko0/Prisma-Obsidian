@@ -135,7 +135,7 @@
 - Durabilidade: 6
 - Absorção: 2
 - Adaptação: 2/0,5
-- Propriedades: (COM) Leve
+- Propriedades: (COM) 
 ### Malha C-11
 - Preço: 750u
 - Defesa: 14
