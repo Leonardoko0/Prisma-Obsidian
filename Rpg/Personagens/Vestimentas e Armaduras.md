@@ -120,14 +120,14 @@
 # Armaduras
 ## Protetoras
 
-|     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação |   Propriedade   |
-| :----------: | :---: | :----: | :----------: | :------: | :-------: | :-------------: |
-| Couraça Mk.1 | 750u  | 13 (2) |      6       |    2     |   2/0,5   |   (COM) Ágil    |
-|  Malha C-11  | 750u  |   14   |      8       |    4     |    3/1    |      (COM)      |
-|  Orion C-0   | 1250u |   14   |      12      |    4     |   4/1,5   |      (COM)      |
-| Helix Shell  | 850u  |   13   |      10      |    5     |    2/1    |   (COM, RAD)    |
-|   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Ágil |
-| Striker 3-K  | 1150u |   13   |      14      |    7     |    3/2    |    (COM, HF)    |
+|     Nome     | Preço | Defesa | Durabilidade | Absorção | Adaptação |      Propriedade      |
+| :----------: | :---: | :----: | :----------: | :------: | :-------: | :-------------------: |
+| Couraça Mk.1 | 750u  | 13 (2) |      6       |    2     |   2/0,5   |      (COM) Ágil       |
+|  Malha C-11  | 750u  |   14   |      8       |    4     |    3/1    |         (COM)         |
+|  Orion C-0   | 1250u |   14   |      12      |    4     |   4/1,5   |     (COM) Pesada      |
+| Helix Shell  | 850u  |   13   |      10      |    5     |    2/1    |   (COM, RAD) Média    |
+|   Heat-UF    | 600u  | 12 (1) |      12      |    6     |    3/2    | (ISO, RAD) Ágil, Tudo |
+| Striker 3-K  | 1150u |   13   |      14      |    7     |    3/2    |   (COM, HF) Pesada    |
 ### Couraça Mk.1
 - Preço: 750u
 - Defesa: 13 + (Max 2 agilidade)
