@@ -135,42 +135,42 @@
 - Durabilidade: 6
 - Absorção: 2
 - Adaptação: 2/0,5
-- Propriedades: (COM) 
+- Propriedades: (COM) Ágil, Leve
 ### Malha C-11
 - Preço: 750u
 - Defesa: 14
 - Durabilidade: 8
 - Absorção: 4
 - Adaptação: 3/1
-- Propriedades: (COM)
+- Propriedades: (COM) Leve/Média
 ### Orion C-0
 - Preço: 1250u
 - Defesa: 14
 - Durabilidade: 12
 - Absorção: 4
 - Adaptação: 4/1,5
-- Propriedades: (COM)
+- Propriedades: (COM) Pesada
 ### Helix Shell
 - Preço: 850u
 - Defesa: 13
 - Durabilidade: 10
 - Absorção: 5
 - Adaptação: 2/1
-- Propriedades: (COM, RAD)
+- Propriedades: (COM, RAD) Média
 ### Heat-UF
 - Preço: 600u
 - Defesa: 12 + (Max 1 agilidade)
 - Durabilidade: 12
 - Absorção: 6
 - Adaptação: 3/2
-- Propriedades: (ISO, RAD) Leve
+- Propriedades: (ISO, RAD) Ágil, Todas
 ### Striker 3-K
 - Preço: 1150u
 - Defesa: 13
 - Durabilidade: 14
 - Absorção: 7
 - Adaptação: 3/2
-- Propriedades: (COM, HF)
+- Propriedades: (COM, HF) Pesada
 ## Vigias
 ## Sentinelas
 ## Bastiões
