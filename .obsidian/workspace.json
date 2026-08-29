@@ -103,8 +103,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,8 +255,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "02248beef7a91122",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Reações.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Regras/Estâmina.md",
@@ -273,7 +273,6 @@
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Regras/Ação de Movimento.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
