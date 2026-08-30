@@ -54,7 +54,7 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2** **Saque rápido**: Gasta sua ação Prismática(3PP) para dar um disparo fora de seu turno
+**LV 2** **Saque rápido**: Gasta sua ação Prismática(3PP) para dar um disparo com a Manu fora de seu turno
 
 **LV 5/16 Bala perfurante:** Gaste 2/4 PP para sua bala atravessar uma quantidade extra de 1/2 alvos
 
