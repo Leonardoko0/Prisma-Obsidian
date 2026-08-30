@@ -66,7 +66,7 @@ Você domina a arte de sacar e atirar com agilidade. Sua mão vai à arma quase 
 
 **LV 3, Chain Magnum:** A Magnum pode realizar 3 ações. No seu turno, atirar custa 1 PP a menos no primeiro disparo. Entretanto, disparos consecutivos ficam cada vez mais difíceis: cada novo tiro sofre –1d20 na rolagem de ataque.
 
-**LV 9, Duelo:** Gaste 1 PP para marcar um alvo como "Rival" enquanto esse alvo não sair do seu campo de visão anule desvantagens (que não sejam especiais) dos  próximo dois disparos no alvo, em contra partida, ser atacado o ter sua atenção tirada do alvo termina a habilidade.
+**LV 9, Duelo:** Gaste 1 PP para marcar um alvo como "Rival" enquanto esse alvo não sair do seu campo de visão anule desvantagens (que não sejam especiais) dos  próximo dois disparos no alvo, em contra partida, ser atacado ou ter sua atenção tirada do alvo termina a habilidade.
 
 **LV 14, Truque do velho Pistoleiro:** Pente estendido e preparado, Aumenta suas cargas de 3 para 5.
 Aumenta o numero de alvos da habilidade "*Duelo" em 1
