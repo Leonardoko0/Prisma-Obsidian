@@ -117,8 +117,7 @@
               "title": "Atributos"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,8 +269,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cfc0c9fa859f4198",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Raça.md",
     "Reações.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
@@ -279,7 +279,6 @@
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Background.md",
