@@ -64,7 +64,7 @@ Caso finalize um alvo inimigo, você recebe o bônus “Dead-eye” e após duas
 ## **Draw**
 Você domina a arte de sacar e atirar com agilidade. Sua mão vai à arma quase instintivamente, permitindo que dispare antes mesmo que a maioria reaja. Mesmo que o primeiro disparo falhe, sua confiança e velocidade garantem que esteja sempre pronto para tentar novamente, sem perder o ritmo do combate.
 
-**LV 3, Chain Magnum:** Sua arma pode realizar 3 ações prismáticas. No seu turno, atirar custa 1 PP a menos. Entretanto, disparos consecutivos ficam cada vez mais difíceis: cada novo tiro sofre –1d20 na rolagem após o primeiro.
+**LV 3, Chain Magnum:** A Magnun pode realizar 3 ações. No seu turno, atirar custa 1 PP a menos. Entretanto, disparos consecutivos ficam cada vez mais difíceis: cada novo tiro sofre –1d20 na rolagem após o primeiro.
 
 **LV 9, Duelo:** Gaste 1 PP para marcar um alvo como "Rival" enquanto esse alvo não sair do seu campo de visão anule desvantagens (que não sejam especiais) dos  próximo dois disparos no alvo, em contra partida, ser atacado o ter sua atenção tirada do alvo termina a habilidade.
 
