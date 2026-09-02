@@ -151,6 +151,6 @@ Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e c
 
 Um equipamento que absorve impacto e por um curto período de tempo o utiliza contra o atacante
 
-Ao usar: Abaixa o custo de retalhamento para 0 Estâmina, quando receber o próximo ataque resista a 20 desse dano e esse dano será adicionado no seu ataque
+Ao usar: Quando usar a reação Retalhação resista o próximo ataque resista a 20 desse dano e esse dano será adicionado no seu ataque
 
 "Minha obra prima eles disseram e talvez estivessem certos" - Mestre Oktus após criar a bobina de contra Momentum
