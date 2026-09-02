@@ -115,7 +115,7 @@ O Respirador de Combate é uma droga que estimulante que evita desgaste muscular
 
 Ao Usar: Você ganha dois pontos de Estâmina que são passados através das rodadas e podem ser utilizados a qualquer momento como ação, reação etc.
 
-"Pode não ter o melhor gosto de todos mas quando você mistura açúcar WOW" - Um viciado em estimulantes diabético qualquer
+"Pode não ter o melhor gosto de todos mas quando você mistura açúcar WOW" - Um diabético viciado em estimulantes qualquer
 ### Armadilha de Curto Circuito
 - 2 Usos
 - Ação Padrão
