@@ -146,11 +146,11 @@ Um equipamento de alta capacidade que solta cargas elétricas no alvo quando é 
 
 Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e causa 3 dados do mesmo tipo de dano da arma em dano elétrico
 ### Modulo de Contra Momentum 
-- 1 Uso
+- 2 Uso
 - Reação
 
 Um equipamento que absorve impacto e por um curto período de tempo o utiliza contra o atacante
 
-Ao usar: Quando usar a reação Retalhação resista o próximo ataque resista a 20 desse dano e esse dano será adicionado no seu ataque
+Ao usar: Ao usar Retalhação, quando receber o próximo ataque resista a 10 desse dano e esse dano será adicionado no seu ataque
 
 "Minha obra prima eles disseram e talvez estivessem certos" - Mestre Oktus após criar a bobina de contra Momentum
