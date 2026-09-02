@@ -36,7 +36,7 @@ Ao usar recebe vantagem em salvaguardas de moral, melhor concentração: +2 em a
 
 Uma faca com cargas de veneno um veneno chamado "VMN24" totalmente disparáveis
 
-Troca suas ações de pancada por uma facada, Troque o dano para 1d6 corte, caso o dano seja maior que 4 cause envenenamento por VMN24. Usar a Fava Balística para atacar dessa forma não gasta usos
+Troca suas ações de pancada por uma facada, Troque o dano para 1d6 corte, caso o dano seja maior que 4 cause envenenamento por VMN24. Usar a Faca Balística para atacar dessa forma não gasta usos
 
 Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 
