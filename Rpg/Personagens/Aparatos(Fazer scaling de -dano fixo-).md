@@ -30,7 +30,7 @@ O holograma possui 5 de vida e pode fazer ações simples, ele é incapaz de seg
 O cigarro Koldera possui alta concentração de nicotina o que os transformam em reais estimulantes de combate, porém como tudo que é bom se usado demais causa falência dos órgãos 
 
 Ao usar recebe vantagem em salvaguardas de moral, melhor concentração: +2 em acertos. Utilizar Koldera Black após um evento traumático resulta em uma maior dependência em troca de evitar efeitos mentais negativos
-### Faca Balística
+### Faca Balística (reescrever)
 - 3 Usos
 - Ação de Movimento
 
@@ -41,7 +41,7 @@ Troca suas ações de pancada por uma facada, Troque o dano para 1d6 corte, caso
 Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 
 - Envenenado por VMN24: pode realizar um salvaguarda de constituição para evitar efeito (DT15), na falha tome 1d4 de dano, na segunda rodada envenenado o alvo sofre 1d8 extra, vomita perdendo sua ação de movimento e finaliza o efeito
-### Facas de Arremesso
+### Facas de Arremesso (reescrever)
 - 3 Usos
 - Ação principal
 - 12m/24m, 2d6, 2X, 18
@@ -59,7 +59,7 @@ Errar facas não desencadeia a percepção do alvo, após arremessar a faca se d
 Uma bomba de controle de rebelião que serve para desorientar inimigos, projetada para ser portátil e segura, seu uso pode virar combates com inimigos despreparados
 
 Ao usar a bomba cobre uma área de 2x2 com fumaça escura, alvos pegos nessa área devem fazer um salvaguarda de Sentido (DT=Arremesso) na falha o alvo fica atordoado por 1 turno.
-### Bomba de Concertina
+### Bomba de Concertina (reescrever)
 - 1 Uso
 - Ação padrão
 -  Área Hexagonal de raio 2
@@ -138,14 +138,14 @@ Um equipamento ocular ligado com a medula, que se mostra um equipamento que indi
 Ao usar: Quando utilizar a ação fintar receba vantagem no teste de enganação
  
 "Protocolo de movimentação O.L.H.O iniciando"
-### Aríete de Choque
+### Aríete de Choque (reescrever)
 - 1 Uso
 - Apenas em investidas 
 
 Um equipamento de alta capacidade que solta cargas elétricas no alvo quando é acertado por um ataque com potencia 
 
 Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e causa 3 dados do mesmo tipo de dano da arma em dano elétrico
-### Modulo de Contra Momentum 
+### Modulo de Contra Momentum (reescrever)
 - 2 Uso
 - Reação
 
