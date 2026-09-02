@@ -15,7 +15,7 @@ As armas são divididas em três categorias principais, que representam seu nív
 Cada arma representa uma escolha estratégica. Seu funcionamento, limitações e propriedades influenciam diretamente suas decisões em combate desde como você se posiciona até quando deve atacar ou recuar.
 
 Dominar uma arma não é apenas saber usá-la, mas entender **quando** e **por que** utilizá-la.
-### [[Aparatos]]
+### [[Aparatos(Fazer scaling de -dano fixo-)]]
 ### [[Itens Gerais]]
 ### [[Implantes]] 
 ### [[Vestimentas e Armaduras]]
