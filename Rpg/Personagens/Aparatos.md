@@ -62,7 +62,7 @@ Ao usar a bomba cobre uma área de 2x2 com fumaça escura, alvos pegos nessa ár
 ### Bomba de Concertina
 - 1 Uso
 - Ação padrão
--  Área de Hexagonal 7 espaços
+-  Área Hexagonal de raio 2
 - 1d6+2 Corte
 
 Uma bomba caseira de arame farpado. Cair em uma dessas causa bastante dor e limita o movimento do alvo, além disso ela pode ser utilizada para controle de área.
