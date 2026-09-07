@@ -117,8 +117,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,13 +269,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d10f04bc73e70995",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Regras/Estâmina.md",
     "Reações.md",
