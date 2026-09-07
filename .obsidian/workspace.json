@@ -61,8 +61,7 @@
               "title": "Criação De Personagem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +213,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "62f6d3196ad21f24",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Talentos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Criação De Personagem.md",
-    "Talentos.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Armas.md",
