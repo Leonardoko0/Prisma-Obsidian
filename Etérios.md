@@ -53,7 +53,9 @@ O ataque empurra o alvo 2 tiles para trás, após o ataque o Canino pode se move
 Quando evocado o invocado escolhe um alvo sobre o efeito de hex, esse será o alvo que o canino vai perseguir e atacar. Caso o invocador não escolha rode um dado equivalente ao número de alvo possíveis.
 Enquanto o alvo não estiver morto o Canino não atacará outros alvos
 #### Animal Espadachim (Com Machado Etério) 2PP
-Segurando o machado com usa boca, o animal vai dar ataques 
+Segurando o machado com usa boca, quebrando ossos e apagando mentes.
+
+
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
