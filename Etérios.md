@@ -94,7 +94,8 @@ Bônus de proficiência do conjurador no ataque
 Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteriorando.
 - Marca 1 alvo
 - Por rodada enquanto tiver visão do alvo
-- Causa
+- Causa 4d4 Dano Etério
+
 #### des-confeccionar Espaço
 #### Mutação tempo-físico
 ## Súdito
