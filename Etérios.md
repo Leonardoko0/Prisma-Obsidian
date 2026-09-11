@@ -98,8 +98,10 @@ Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteri
 #### Des-confeccionar Espaço
 - Marca 1 alvo
 - Dura 1 rodada, deve estar na visão
-- Deixa o alvo: enjoado, paralisado, cego e surdo (DT  )
-#### Mutação tempo-físico
+- Deixa o alvo: enjoado, paralisado, cego e surdo (DT Ataque)
+#### Mutação tempo-físico (Movimento)
+Pode transmutar sua matéria para outro espaço e tempo
+Quando usado 
 ## Súdito
 # Mentais
 # Aparições
