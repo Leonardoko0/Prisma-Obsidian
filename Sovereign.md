@@ -101,7 +101,7 @@ para outro alvo após o alvo inicial morrer
 - Reforço: Dobra a vida
 - Aprimoramento: Aumenta todos os Bônus em 1
 
-**LV 14, Legião dos Sonhos:**
+**LV 14, Legião dos Sonhos:** Você pode criar outras duas variantes do corpo Etério gas
 
 **LV 20,** 
 ## Dream Caster
