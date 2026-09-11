@@ -27,10 +27,11 @@ Um Machadinho de arremesso, sua aparência é translúcida e notável quase como
 #### (Passiva) Éter
 Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado atual
 ## Invocado Canino
+Éter Hounds ou Caninos 
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
-|   +3/16   | +3/16 |    +1/12     |     -1/8     |  -1/8   | +3/116  |
+|   +3/16   | +3/16 |     0/10     |     -1/8     |  -1/8   |  +3/16  |
 Bônus de proficiência do conjurador no ataque 
 
 | Defesa: 13 | Vida: Dissolver x2 | Velocidade 18m | Iniciativa: Pós Player |
