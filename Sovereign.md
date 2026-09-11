@@ -106,8 +106,8 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
-- Abissal:
-- 
+- Templo: Um Hex 
+- Abissal: 
 
 **LV 20,** 
 ## Dream Caster
