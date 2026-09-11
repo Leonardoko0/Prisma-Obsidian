@@ -111,7 +111,7 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 - Abissal: Um ser que não possui forma física constante, ele é composto de diversos olhos e tentáculos que mudam de posição, tamanho e quantidade. Ele é capaz de danificar a mente dos inimigos.
 - Olhar Bestiário: [Abissal Etério]
 
-**LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera 
+**LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em 
 ## Dream Caster
 (Magias e outras habilidades que você pode pegar)
 
