@@ -79,8 +79,17 @@ Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
 Ele pula criando uma dissonância pequena teletransportando-o para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
 ## Invocado Abissal
-Abissais são monstros que possuem um olho central e centenas de olhos pequenos e secundários, ele observa o alvo e destruindo sua percepção de espaço. Invocadores presentem que sua existência serve para apagar aos poucos as almas espalhadas pelo plano Etério. São invocados pelo sentim
+Abissais são monstros que possuem um olho central e centenas de olhos pequenos e secundários, ele observa o alvo e destruindo sua percepção de espaço. Invocadores presentem que sua existência serve para apagar aos poucos as almas espalhadas pelo plano Etério. São invocados pelo sentimento de vazio ou pela falta de sentimentos 
 
+| Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
+| :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
+|   0/10    | +1/12 |    +4/18     |     0/10     |  -1/8   |  +1/12  |
+
+Bônus de proficiência do conjurador no ataque
+
+| Defesa: 12 | Vida: Dissolver x1 | Velocidade 0m | Iniciativa: Pós Player |
+| ---------- | ------------------ | ------------- | ---------------------- |
+### Ações
 ## Súdito
 # Mentais
 # Aparições
