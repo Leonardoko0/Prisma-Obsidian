@@ -114,7 +114,8 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 **LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em +2 (Total de 5).
 
 - Súdito: sua forma é incompreensível possuindo diversos olhos, braços, garras e dentes.
-ele voa pelo ar elouquecendo e dilacerando aqueles que ousarem se co
+ele voa pelo ar enlouquecendo e dilacerando aqueles que ousarem se colocar a frente de seu soberano.
+- Olhas Bestiário: [Súdito]
 ## Dream Caster
 (Magias e outras habilidades que você pode pegar)
 
