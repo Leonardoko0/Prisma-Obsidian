@@ -90,6 +90,8 @@ Bônus de proficiência do conjurador no ataque
 | Defesa: 5 | Vida: Dissolver x1 | Velocidade 3m | Iniciativa: Pós Player |
 | --------- | ------------------ | ------------- | ---------------------- |
 ### Ações
+#### Drenagem Mental
+####
 ## Súdito
 # Mentais
 # Aparições
