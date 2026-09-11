@@ -106,7 +106,7 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
-- Templo: Um Hex 
+- Templo: Um Hex que possui a habilidade de pular partes do espaço tempo para se jogar em ataques inimigos, ele possui uma vitalidade superior a dos demais 
 - Abissal: 
 
 **LV 20,** 
