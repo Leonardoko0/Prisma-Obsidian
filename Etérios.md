@@ -91,6 +91,7 @@ Bônus de proficiência do conjurador no ataque
 | --------- | ------------------ | ------------- | ---------------------- |
 ### Ações
 #### Drenagem Mental
+Seus infinitos olhos atingem a alma Etéria 
 #### des-confeccionar Espaço
 #### Mutação tempo-físico
 ## Súdito
