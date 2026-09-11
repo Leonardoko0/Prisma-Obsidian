@@ -112,6 +112,7 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 - Olhar Bestiário: [Abissal Etério]
 
 **LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em +2 (Total de 5).
+Gastando 6pp e no mínimo 4 criaturas:
 
 - Súdito: sua forma é incompreensível possuindo diversos olhos, braços, garras e dentes.
 ele voa pelo ar enlouquecendo e dilacerando aqueles que ousarem se colocar a frente de seu soberano.
