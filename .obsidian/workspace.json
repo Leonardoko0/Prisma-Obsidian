@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "8bc3cd79f1530a25",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Etérios.md",
-    "Sovereign.md",
     "Rpg/Personagens/Armas.md",
     "Talentos.md",
     "Rpg/Personagens/Raça.md",
