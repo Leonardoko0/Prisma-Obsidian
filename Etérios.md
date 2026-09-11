@@ -40,8 +40,8 @@ Bônus de proficiência do conjurador no ataque
 ### Ações
 #### Mordida Lancinante 
 #### Pulo Rasante
-####
-####
+#### Caçador (Passivo)
+#### Animal Espadashim 
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
