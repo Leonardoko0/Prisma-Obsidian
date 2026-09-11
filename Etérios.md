@@ -68,8 +68,8 @@ Bônus de proficiência do conjurador no ataque
 | Defesa: 12 | Vida: Dissolver x3 | Velocidade 6m | Iniciativa: Pós Player |
 | ---------- | ------------------ | ------------- | ---------------------- |
 ### Ações
-####
-####
+#### Ataque com Espada
+#### Dilacerar (Realã)
 ####
 ## Abissal Etério
 ## Súdito
