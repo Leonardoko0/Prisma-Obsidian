@@ -1,4 +1,4 @@
-#classes [[Classes]]
+#classes [[Classes de Frontline]
 O nômade é uma classe de linha de frente, focada em decapitar inimigos antes que eles possam te alcançar
 
 **Pontos de vida**: 1d4 +modificador de vigor
