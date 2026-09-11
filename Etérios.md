@@ -27,6 +27,11 @@ Um Machadinho de arremesso, sua aparência é translúcida e notável quase como
 #### (Passiva) Éter
 Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado atual
 ## Invocado Canino
+
+| Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
+| :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
+|   +2/13   | +1/12 |    +2/14     |     -1/8     |  -1/8   |  10/0   |
+
 ## Invocado Templo
 ## Abissal Etério
-## S
+## Súdito
