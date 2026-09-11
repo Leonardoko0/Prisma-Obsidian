@@ -65,7 +65,7 @@ Templos são criaturas grandes e pesadas que se assemelham a uma estátua sem ro
 |   0/10    | +1/12 |    +4/18     |     0/10     |  -1/8   |  +1/12  |
 Bônus de proficiência do conjurador no ataque
 
-| Defesa: 13 | Vida: Dissolver x3 | Velocidade 6m | Iniciativa: Pós Player |
+| Defesa: 12 | Vida: Dissolver x3 | Velocidade 6m | Iniciativa: Pós Player |
 | ---------- | ------------------ | ------------- | ---------------------- |
 ### Ações
 ####
