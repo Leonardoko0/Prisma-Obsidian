@@ -27,7 +27,7 @@ Um Machadinho de arremesso, sua aparência é translúcida e notável quase como
 #### (Passiva) Éter
 Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado atual
 ## Invocado Canino
-Éter Hounds ou Caninos são criaturas Etérias complexas e cegas. pesquisadores e especialistas dizem que essa criatura é formada de diversas formas apesar de desconhecerem estas formas.
+Éter Hounds ou simplesmente Caninos, são criaturas Etérias complexas e cegas. Pesquisadores e especialistas acreditam que sua existência é formada de diversas formas sobrepostas, apesar de desconhecerem estas formas.
 Caninos invocados são criaturas caçadoras que vão marcar um alvo e atravessar o campo até devorar e incapacitar o mesmo. São chamados por meio de uma vontade de chegar em um objetivo, mesmo que esse objetivo seja matar o alvo mais próximo de você
 
 **Éter Hounds**, ou simplesmente **Caninos**, são criaturas Etérias complexas e cegas. Pesquisadores e especialistas acreditam que sua existência é composta por diversas formas sobrepostas, embora a verdadeira natureza dessas formas ainda seja desconhecida.
