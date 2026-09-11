@@ -108,8 +108,8 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 - Olhar Bestiário [Invocado Canino]
 - Templo: Um Hex que possui a habilidade de pular partes do espaço tempo para se jogar em ataques inimigos, ele possui uma vitalidade superior a dos demais.
 - Olhar Bestiário [Invocado Templo]
-- Abissal: 
-- Olhar Bestiário:
+- Abissal: Um ser que não possui forma física constante, ele é composto de d
+- Olhar Bestiário: [Abissal Etério]
 
 **LV 20,** 
 ## Dream Caster
