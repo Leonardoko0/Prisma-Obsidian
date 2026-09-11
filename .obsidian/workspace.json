@@ -75,8 +75,7 @@
               "title": "Etérios"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +227,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "205829574379e725",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Etérios.md",
+    "Sovereign.md",
+    "Talentos.md",
     "Rpg/Personagens/Criação De Personagem.md",
     "Rpg/Personagens/Raça.md",
-    "Talentos.md",
-    "Sovereign.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Armas.md",
@@ -251,7 +251,6 @@
     "Rpg/Regras/Ação Padrão.md",
     "Rpg/Regras/Combate.md",
     "Rpg/Regras/Ação Prismática.md",
-    "Etérios.md",
     "SalvaGuarda.md",
     "Vanessa Kiran.md",
     "Shirose Schnee (Caçadora de Prata).md",
