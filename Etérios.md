@@ -92,7 +92,7 @@ Bônus de proficiência do conjurador no ataque
 ### Ações
 #### Drenagem Mental
 #### des-confeccionar Espaço
-#### Mutação tempo-física
+#### Mutação tempo-físico
 ## Súdito
 # Mentais
 # Aparições
