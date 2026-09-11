@@ -30,7 +30,7 @@ Quando derrotar um inimigo cria um novo Hex de mesmas características que o inv
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
-|   +3/13   | +3/12 |    +2/14     |     -1/8     |  -1/8   |  10/0   |
+|   +3/16   | +3/16 |    +1/12     |     -1/8     |  -1/8   | +3/116  |
 Bônus de proficiência do conjurador no ataque 
 
 | Defesa: 13 | Vida: Dissolver x2 | Velocidade 18m | Iniciativa: Pós Player |
