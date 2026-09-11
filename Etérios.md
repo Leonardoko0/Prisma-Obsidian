@@ -74,7 +74,8 @@ Um ataque de baixo para cima com uma espada feita de pedra branca e semi transl�
 | Força | 2d6 Contusão | 20 3x |
 | :---: | :----------: | :---: |
 #### Dilacerar (Reação)
-Recebe o ataque e logo em seguida desfere um ataque com sua espd
+Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
+Ele pula para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de s
 ## Abissal Etério
 ## Súdito
