@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "86bad2fc22e68aad",
   "lastOpenFiles": [
     "Talentos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Criação De Personagem.md",
+    "Sovereign.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Armas.md",
@@ -244,7 +245,6 @@
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Background.md",
-    "Sovereign.md",
     "Rpg/Personagens/Classes.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Regras/Ação de Movimento.md",

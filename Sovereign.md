@@ -92,7 +92,7 @@ para outro alvo após o alvo inicial morrer
 - Você pode gastar dois pontos de HEX para criar uma companheiro Etério (Invocado de Hex) como uma ação padrão. Rode 1d3 para definir a arma (1 Cutelo/2 Espada/3 Machadinha)
 - Olhar Bestiário [Invocado de Hex]
   
-**LV 9,** Gasta 1pp para criar um equipamento  Hex. Acumula no máximo 2 vezes 
+**LV 9,** Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes 
 
 - Espada: 1d8/19 2x
 - Armadura: DT 16
