@@ -1,1 +1,1 @@
-#Personagem
+#Personagem [[Classes]]

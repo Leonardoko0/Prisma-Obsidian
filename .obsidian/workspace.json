@@ -62,35 +62,35 @@
             }
           },
           {
-            "id": "00e0a8c3bb763cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes de Frontline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes de Frontline"
-            }
-          },
-          {
-            "id": "2bc0759bea8da538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes de Suporte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes de Suporte"
-            }
-          },
-          {
             "id": "e9842d45ca52eb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes"
+            }
+          },
+          {
+            "id": "87d439dc20bd702f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sovereign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sovereign"
+            }
+          },
+          {
+            "id": "61d37041eddea39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,14 +256,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2bc0759bea8da538",
+  "active": "61d37041eddea39e",
   "lastOpenFiles": [
-    "Classes de Frontline.md",
-    "Classes de Backline.md",
-    "Rpg/Personagens/Classes.md",
     "Sovereign.md",
-    "Etérios.md",
+    "Rpg/Personagens/Classes.md",
     "Classes de Suporte.md",
+    "Classes de Frontline.md",
+    "Etérios.md",
+    "Classes de Backline.md",
     "Rpg/Personagens/Armas.md",
     "Talentos.md",
     "Rpg/Personagens/Criação De Personagem.md",
