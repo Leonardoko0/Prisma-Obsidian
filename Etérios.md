@@ -101,7 +101,7 @@ Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteri
 - Deixa o alvo: enjoado, paralisado, cego e surdo (DT Ataque)
 #### Mutação tempo-físico (Movimento)
 Pode transmutar sua matéria para outro espaço e tempo
-Quando usado 
+Quando usado teletransporta para 8 tiles de distancia e recupera 2d4 de vida
 ## Súdito
 # Mentais
 # Aparições
