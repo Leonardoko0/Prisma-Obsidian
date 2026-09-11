@@ -55,7 +55,8 @@ Enquanto o alvo não estiver morto o Canino não atacará outros alvos
 #### Animal Espadachim (Com Machado Etério) 2PP
 Segurando o machado com usa boca, quebrando ossos e apagando mentes.
 
-
+| Força | 4d6 Etério | 19 2x |
+| :---: | :--------: | :---: |
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
