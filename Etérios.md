@@ -79,7 +79,7 @@ Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
 Ele pula criando uma dissonância pequena teletransportando-o para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
 ## Invocado Abissal
-Abissais são monstros que possuem um olho central e centenas de olhos pequenos e secundários, ele observa o alvo e destruindo sua percepção de espaço. Invocadores presentem que sua existência serve para apagar aos poucos exi
+Abissais são monstros que possuem um olho central e centenas de olhos pequenos e secundários, ele observa o alvo e destruindo sua percepção de espaço. Invocadores presentem que sua existência serve para apagar aos poucos as almas espalhadas pelo plano Etério. São invocados pelo sentim
 
 ## Súdito
 # Mentais
