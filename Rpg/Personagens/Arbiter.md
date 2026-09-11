@@ -1,4 +1,4 @@
-#classes [[Classes]]
+#classes [[Classes de Frontline]]
 O Arbiter é uma classe de linha de frente, focada em explodir inimigos com seu canhão de mão, desferindo ataques devastadores
 
 **Pontos de vida**: 1d6 + modificador de vigor
