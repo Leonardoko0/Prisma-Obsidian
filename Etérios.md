@@ -103,5 +103,8 @@ Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteri
 Pode transmutar sua matéria para outro espaço e tempo
 Quando usado teletransporta para 8 tiles de distancia e recupera 2d4 de vida
 ## Súdito
+
+
+
 # Mentais
 # Aparições
