@@ -58,6 +58,13 @@ Segurando o machado com usa boca, quebrando ossos e apagando mentes.
 | Força | 4d6 Etério | 19 2x |
 | :---: | :--------: | :---: |
 ## Invocado Templo
-Templos são criaturas grandes e pesadas que se assemelham a uma estátua sem rosto, segurando uma espada e um escudo torre ele vai servir como vanguarda para o invocador. Alguns dizem que eram simulacros de um deus esquecido e apagado pelo Éter. São invocados pelo sentimento e vontade de proteger e ser proteg
+Templos são criaturas grandes e pesadas que se assemelham a uma estátua sem rosto, segurando uma espada e um escudo torre ele vai servir como vanguarda para o invocador. Alguns dizem que eram simulacros de um deus esquecido e apagado pelo Éter. São invocados pelo sentimento e vontade de proteger e ser protegido
+
+| Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
+| :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
+|   0/10    | +1/12 |    +4/18     |     0/10     |  -1/8   |  +1/12  |
+
+
+
 ## Abissal Etério
 ## Súdito
