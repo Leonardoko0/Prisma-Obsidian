@@ -109,7 +109,7 @@ Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 - Templo: Um Hex que possui a habilidade de pular partes do espaço tempo para se jogar em ataques inimigos, ele possui uma vitalidade superior a dos demais.
 - Olhar Bestiário [Invocado Templo]
 - Abissal: Um ser que não possui forma física constante, ele é composto de diversos olhos e tentáculos que mudam de posição, tamanho e quantidade. Ele é capaz de danificar a mente dos inimigos.
-- Olhar Bestiário: [Abissal Etério]
+- Olhar Bestiário: [Invocado Abissal]
 
 **LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em +2 (Total de 5).
 Gastando 6pp e no mínimo 4 criaturas.
