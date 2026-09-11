@@ -38,6 +38,8 @@ Bônus de proficiência do conjurador no ataque
 | Defesa: 13 | Vida: Dissolver x2 | Velocidade 18m | Iniciativa: Pós Player |
 | ---------- | ------------------ | -------------- | ---------------------- |
 ### Ações
+  Mordida:
+
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
