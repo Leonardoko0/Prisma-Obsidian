@@ -75,8 +75,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "205829574379e725",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Sovereign.md",
     "Etérios.md",
