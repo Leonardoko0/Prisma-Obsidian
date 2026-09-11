@@ -26,4 +26,7 @@ Um Machadinho de arremesso, sua aparência é translúcida e notável quase como
 "Pois o fim é só depois daquele que toca as estrelas"
 #### (Passiva) Éter
 Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado atual
-##
+## Invocado Canino
+## Invocado Templo
+## Abissal Etério
+## S
