@@ -44,6 +44,7 @@ Seus dentes pontiagudos translúcidos parecem mudar de direção e formato para 
 | Força | 4d4 Perfurante | 18 2x |
 | :---: | :------------: | :---: |
 #### Pulo Rasante
+Suas garras saltam para fora enquanto o animal realiza um pulo rasante extremamente rápido.
 #### Caçador (Passivo)
 #### Animal Espadachim (Com Machado Etério) 
 ## Invocado Templo
