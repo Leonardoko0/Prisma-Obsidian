@@ -76,6 +76,6 @@ Um ataque de baixo para cima com uma espada feita de pedra branca e semi transl�
 #### Dilacerar (Reação)
 Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
-Ele pula criando uma dissonância pequena teletransporntando opara um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
+Ele pula criando uma dissonância pequena teletransportando-o para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
 ## Abissal Etério
 ## Súdito
