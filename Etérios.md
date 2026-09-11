@@ -95,8 +95,9 @@ Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteri
 - Marca 1 alvo
 - Por rodada enquanto tiver visão do alvo
 - Causa 4d4 Dano Etério
-
 #### des-confeccionar Espaço
+- Marca 1 alvo
+- Dura 1 rodada, deve estar n
 #### Mutação tempo-físico
 ## Súdito
 # Mentais
