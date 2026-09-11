@@ -103,7 +103,9 @@ para outro alvo após o alvo inicial morrer
 
 **LV 14, Legião dos Sonhos:** Você pode criar outras duas variantes do corpo Etério gastando +1 Hex
 
-- Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes laminados 
+- Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
+- Olhar Bestiário [Invocado Canino]
+- 
 
 **LV 20,** 
 ## Dream Caster
