@@ -97,7 +97,7 @@ para outro alvo após o alvo inicial morrer
 
 - Machado Etério: 3d6 Etério/ 20 2x / Agilidade
 - Arco Etério: 2d6 Etério/19 2x/ Agilidade
-- Armadura: Aumenta a DT em 6
+- Armadura: Aumenta a DT em 5
 - Reforço: Dobra a vida
 - Aprimoramento: Aumenta todos os Bônus em 1
 

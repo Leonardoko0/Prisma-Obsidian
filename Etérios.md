@@ -31,6 +31,10 @@ Quando derrotar um inimigo cria um novo Hex de mesmas características que o inv
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
 |   +2/13   | +1/12 |    +2/14     |     -1/8     |  -1/8   |  10/0   |
+Bônus de proficiência do conjurador no ataque 
+
+| Defesa: 13 | Vida: Dissolver x2 | Velocidade 6m | Iniciativa: Pós Player |
+| ---------- | ------------------ | ------------- | ---------------------- |
 
 ## Invocado Templo
 ## Abissal Etério
