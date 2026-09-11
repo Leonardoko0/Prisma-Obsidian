@@ -71,9 +71,10 @@ Bônus de proficiência do conjurador no ataque
 #### Ataque com Espada
 Um ataque de baixo para cima com uma espada feita de pedra branca e semi translúcida
 
-| Força | 2d6  | 18 2x |
-| :---: | :--: | :---: |
+| Força | 2d6 Contusão | 20 3x |
+| :---: | :----------: | :---: |
 #### Dilacerar (Reação)
+Recebe o ataque e logo em seguida desfere um ataque com sua espd
 #### Pulo Etério (Reação)
 ## Abissal Etério
 ## Súdito
