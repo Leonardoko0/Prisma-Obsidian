@@ -51,8 +51,9 @@ O ataque empurra o alvo 2 tiles para trás, após o ataque o Canino pode se move
 | :-------: | :------------: | :---: |
 #### Caçador (Passivo)
 Quando evocado o invocado escolhe um alvo sobre o efeito de hex, esse será o alvo que o canino vai perseguir e atacar. Caso o invocador não escolha rode um dado equivalente ao número de alvo possíveis.
-At
-#### Animal Espadachim (Com Machado Etério) 
+Enquanto o alvo não estiver morto o Canino não atacará outros alvos
+#### Animal Espadachim (Com Machado Etério)
+Segurando o ma
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
