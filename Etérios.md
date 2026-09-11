@@ -21,8 +21,8 @@ Um cutelo translúcido com sua lâmina quebrada, seu cabo é grudado a mão do i
 Uma espada antiga translúcida de aparência deteriorada e de certa forma apagada
 "Acreditam na lenda aqueles que ainda tem fé"
 
-**Machadinha:** 1d6/ 20 2x/ Agilidade / Arremesso
+**Machadinha:** 1d6 corte / 20 2x/ Agilidade / Arremesso
 Um Machadinho de arremesso, sua aparência é translúcida e notável quase como nova
-"Pois o fim é só depois aquele que toca as estrelas"
+"Pois o fim é só depois daquele que toca as estrelas"
 #### (Passiva) Éter
 Quando derrotar um inimigo cria um novo Hex de mesmas características que o invocado inicial
