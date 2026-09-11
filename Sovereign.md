@@ -94,7 +94,7 @@ para outro alvo após o alvo inicial morrer
   
 **LV 9,** Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes 
 
-- Machado/Marreta: 1d8/19 2x
+- MachadoMarreta Etéria: 1d8/19 2x
 - Armadura: DT 16
 - Reforço: Dobra a vida
 - Aprimoramento: Aumenta todos os Bônus em 1
