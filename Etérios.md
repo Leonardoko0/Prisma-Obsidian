@@ -83,12 +83,12 @@ Abissais são monstros que possuem um olho central e centenas de olhos pequenos 
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
-|   0/10    | +1/12 |    +4/18     |     0/10     |  -1/8   |  +1/12  |
+|   -2/6    | -2/6  |     0/10     |    +4/18     |  -2/6   |  +4/18  |
 
 Bônus de proficiência do conjurador no ataque
 
-| Defesa: 12 | Vida: Dissolver x1 | Velocidade 0m | Iniciativa: Pós Player |
-| ---------- | ------------------ | ------------- | ---------------------- |
+| Defesa: 5 | Vida: Dissolver x1 | Velocidade 3m | Iniciativa: Pós Player |
+| --------- | ------------------ | ------------- | ---------------------- |
 ### Ações
 ## Súdito
 # Mentais
