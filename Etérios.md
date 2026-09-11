@@ -38,10 +38,11 @@ Bônus de proficiência do conjurador no ataque
 | Defesa: 13 | Vida: Dissolver x2 | Velocidade 18m | Iniciativa: Pós Player |
 | ---------- | ------------------ | -------------- | ---------------------- |
 ### Ações
-#### Mordida Lancinante 
+#### Mordida Lancinante
+Seus dentes pontiagudos 
 #### Pulo Rasante
 #### Caçador (Passivo)
-#### Animal Espadashim 
+#### Animal Espadachim (Com Machado Etério) 
 ## Invocado Templo
 ## Abissal Etério
 ## Súdito
