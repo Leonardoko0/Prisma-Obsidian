@@ -103,8 +103,7 @@
               "title": "(-)Lazarus"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +255,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9572c9d9bfd1dad8",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "(-)Zealot.md",
     "(-)Prophet.md",
     "(-)Immolator.md",
+    "(-)Zealot.md",
     "(-)Lazarus.md",
     "Etérios.md",
     "(-)Riskrunner.md",
