@@ -47,9 +47,10 @@ Seus dentes pontiagudos translúcidos parecem mudar de direção e formato para 
 Suas garras saltam para fora enquanto o animal realiza um pulo rasante extremamente rápido.
 O ataque empurra o alvo 2 tiles para trás, após o ataque o Canino pode se mover +2 tiles
 
-| Agilidade | 2d6 Perfurante | 18 2x |
+| Agilidade | 2d4 Perfurante | 18 3x |
 | :-------: | :------------: | :---: |
 #### Caçador (Passivo)
+Quando evocado o invocado escolhe um alvo sobre o efeito de hex
 #### Animal Espadachim (Com Machado Etério) 
 ## Invocado Templo
 ## Abissal Etério
