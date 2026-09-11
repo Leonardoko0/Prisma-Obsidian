@@ -79,6 +79,7 @@ Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
 Ele pula criando uma dissonância pequena teletransportando-o para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
 ## Invocado Abissal
+Abissais são monstros que possuem um olho central 
 
 ## Súdito
 # Mentais
