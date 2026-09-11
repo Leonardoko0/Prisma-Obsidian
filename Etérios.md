@@ -39,7 +39,9 @@ Bônus de proficiência do conjurador no ataque
 | ---------- | ------------------ | -------------- | ---------------------- |
 ### Ações
 #### Mordida Lancinante
-Seus dentes pontiagudos 
+Seus dentes pontiagudos translúcidos parecem mudar de direção e formato para causar uma perfuração ainda mais profunda
+
+
 #### Pulo Rasante
 #### Caçador (Passivo)
 #### Animal Espadachim (Com Machado Etério) 
