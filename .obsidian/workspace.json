@@ -47,7 +47,8 @@
               "title": "Etérios"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,15 +200,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "205829574379e725",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Etérios.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
     "(-)Lazarus.md",
     "(-)Apostle.md",
-    "Sovereign.md",
     "(-)Riskrunner.md",
     "(-)Crosslink.md",
     "(-)Tickspider.md",

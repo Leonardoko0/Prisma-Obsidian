@@ -93,7 +93,8 @@ Bônus de proficiência do conjurador no ataque
 #### Drenagem Mental
 Seus infinitos olhos atingem a alma Etéria do alvo que lentamente vai se deteriorando.
 - Marca 1 alvo
-- 
+- Por rodada enquanto tiver visão do alvo
+- Causa
 #### des-confeccionar Espaço
 #### Mutação tempo-físico
 ## Súdito
