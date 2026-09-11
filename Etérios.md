@@ -91,7 +91,7 @@ Bônus de proficiência do conjurador no ataque
 | --------- | ------------------ | ------------- | ---------------------- |
 ### Ações
 #### Drenagem Mental
-#### Desconfecionar Espaço
+#### des-confeccionar Espaço
 ## Súdito
 # Mentais
 # Aparições
