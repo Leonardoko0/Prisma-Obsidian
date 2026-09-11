@@ -69,7 +69,8 @@ Bônus de proficiência do conjurador no ataque
 | ---------- | ------------------ | ------------- | ---------------------- |
 ### Ações
 #### Ataque com Espada
-#### Dilacerar (Realã)
-####
+Um ataque de baixo para cima 
+#### Dilacerar (Reação)
+#### Pulo Etério (Reação)
 ## Abissal Etério
 ## Súdito
