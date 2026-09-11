@@ -101,7 +101,8 @@ para outro alvo após o alvo inicial morrer
 - Reforço: Dobra a vida
 - Aprimoramento: Aumenta todos os Bônus em 1
 
-**LV 14, Legião dos Sonhos:** Você pode criar outras duas variantes do corpo Etério gastando +1 Hex
+**LV 14, Legião dos Sonhos:** Você pode criar outras duas variantes do corpo Etério gastando +1 Hex.
+Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
