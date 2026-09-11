@@ -1,6 +1,6 @@
 #Inimigos [[Bestiário]]
 # Invocados 
-## Invocado de Hex
+## Invocado Hex
 Sombras de tudo que é esquecido pelo brilho do Éter. Ninguém sabe exatamente o que são, porém acreditamos que seja um espectro de outros humanos já esquecidos, que de alguma forma, se conectaram com o invocado para retornar a seu mundo mais uma última vez
 
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
@@ -79,5 +79,7 @@ Recebe o ataque e logo em seguida desfere um ataque com sua espada
 #### Pulo Etério (Reação)
 Ele pula criando uma dissonância pequena teletransportando-o para um ataque inimigo realizado contra um aliado que esteja a 18m/9 tiles de distancia
 ## Invocado Abissal
+
 ## Súdito
-# 
+# Mentais
+# Aparições
