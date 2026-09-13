@@ -93,7 +93,7 @@ para outro alvo após o alvo inicial morrer
 - Você pode ter no máximo 2 companheiros de Éter
 - Olhar Bestiário [Invocado de Hex]
   
-**LV 9,:** Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes.
+**LV 9 Conexão Passada:** Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes.
 
 - Machado Etério: 3d6 Etério/ 20 2x / Agilidade
 - Arco Etério: 2d6 Etério/19 2x/ Agilidade
@@ -102,6 +102,7 @@ para outro alvo após o alvo inicial morrer
 - Aprimoramento: Aumenta todos os Bônus em 1
 
 Escolha uma das três criaturas a seguir para serem invocadas, criaturas invocadas custam 1pp e 1 Hex a mais 
+
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
 - Templo: Um Hex que possui a habilidade de pular partes do espaço tempo para se jogar em ataques inimigos, ele possui uma vitalidade superior a dos demais.
@@ -109,8 +110,7 @@ Escolha uma das três criaturas a seguir para serem invocadas, criaturas invocad
 - Abissal: Um ser que não possui forma física constante, ele é composto de diversos olhos e tentáculos que mudam de posição, tamanho e quantidade. Ele é capaz de danificar a mente dos inimigos.
 - Olhar Bestiário: [Invocado Abissal]
 
-**LV 14, Legião dos Sonhos:** Você pode criar outras duas variantes do corpo Etério gastando +1 Hex.
-Além disso você pode ter 3 companheiros ativos ao mesmo tempo
+**LV 14, Legião dos Sonhos:** Você pode criar todas as outras variantes do corpo Etério gastando +1 Hex. Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
