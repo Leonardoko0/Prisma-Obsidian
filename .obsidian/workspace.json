@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +198,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "205829574379e725",
   "lastOpenFiles": [
-    "Etérios.md",
     "Sovereign.md",
+    "Etérios.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
