@@ -101,7 +101,7 @@ para outro alvo após o alvo inicial morrer
 - Reforço: Dobra a vida
 - Aprimoramento: Aumenta todos os Bônus em 1
 
-Escolha uma das três criaturas a seguir para serem invocadas, criaturas invocadas custam 1pp e 1 Hex a mais 
+Escolha uma das três variantes do corpo Etério a seguir para serem invocadas, criaturas especiais invocadas custam 1pp e 1 Hex a mais 
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
