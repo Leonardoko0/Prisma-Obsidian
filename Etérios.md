@@ -109,7 +109,7 @@ Quando usado teletransporta para 8 tiles de distancia e recupera 2d4 de vida
 |   +3/16   | +3/16 |    +4/18     |    +4/18     |  -1/8   |  +4/18  |
 Bônus de proficiência do conjurador no ataque (+6)
 
-| Defesa: 5 | Vida: Dissolver x1 | Velocidade 3m | Iniciativa: Pós Player |
-| --------- | ------------------ | ------------- | ---------------------- |
+| Defesa: 25 | Vida:  | Velocidade 3m | Iniciativa: Pós Player |
+| ---------- | ------ | ------------- | ---------------------- |
 # Mentais
 # Aparições
