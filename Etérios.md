@@ -111,5 +111,6 @@ Bônus de proficiência do conjurador no ataque (+6)
 
 | Defesa: 25 | Vida: 160 | Velocidade 16m | Iniciativa: Pós Player |
 | ---------- | --------- | -------------- | ---------------------- |
+###
 # Mentais
 # Aparições
