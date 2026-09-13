@@ -94,7 +94,7 @@ para outro alvo após o alvo inicial morrer
 - Você pode ter no máximo 2 companheiros de Éter
 - Olhar Bestiário [Invocado de Hex]
   
-**LV 9 Conexão Passada:** Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes.
+**LV 9 Conexão Passada:** (Ação de Movimento) Gasta 1pp para criar um equipamento de Hex ou moldar sua existência. escolha entres os melhoramentos a seguir. Acumula no máximo 2 vezes.
 
 - Machado Etério: 3d6 Etério/ 20 2x / Agilidade
 - Arco Etério: 2d6 Etério/19 2x/ Agilidade
