@@ -10,11 +10,9 @@
           {
             "id": "129fdb495341a08d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
@@ -48,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +198,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "205829574379e725",
+  "active": "c04f941bfc8c799c",
   "lastOpenFiles": [
-    "Sovereign.md",
     "Etérios.md",
+    "Sovereign.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",

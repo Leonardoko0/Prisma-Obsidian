@@ -107,5 +107,6 @@ Quando usado teletransporta para 8 tiles de distancia e recupera 2d4 de vida
 | Agilidade | Força | Constituição | Inteligência | Carisma | Sentido |
 | :-------: | :---: | :----------: | :----------: | :-----: | :-----: |
 |   +3/16   | +3/16 |    +4/18     |    +4/18     |  -1/8   |  +4/18  |
+
 # Mentais
 # Aparições
