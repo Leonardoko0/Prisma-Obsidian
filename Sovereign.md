@@ -89,6 +89,7 @@ para outro alvo após o alvo inicial morrer
 
 **LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada mas gera um ponto de **"HEX"**
 
+****
 - Você pode gastar dois pontos de HEX e 1pp para criar um companheiro Etério como uma ação padrão. Rode 1d3 para definir a arma (1 Cutelo/2 Espada/3 Machadinha)
 - Você pode ter no máximo 2 companheiros de Éter
 - Olhar Bestiário [Invocado de Hex]
@@ -119,7 +120,7 @@ Escolha uma das três variantes do corpo Etério a seguir para serem invocadas, 
 - Abissal: Um ser que não possui forma física constante, ele é composto de diversos olhos e tentáculos que mudam de posição, tamanho e quantidade. Ele é capaz de danificar a mente dos inimigos.
 - Olhar Bestiário: [Invocado Abissal]
 
-**LV 20, Invólucro Perfeito:** Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em +2 (Total de 5).
+**LV 20, Invólucro Perfeito:** (Ação Padrão) Você junta todas suas criaturas em uma quimera com força e dominância absoluta. Aumenta o número de companheiros em +2 (Total de 5).
 Gastando 6pp e no mínimo 4 criaturas.
 
 - Súdito: sua forma é incompreensível possuindo diversos olhos, braços, garras e dentes.
