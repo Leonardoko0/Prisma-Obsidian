@@ -9,7 +9,7 @@ O Arbiter é uma classe de linha de frente, focada em explodir inimigos com seu 
 ## **O KnuckleBlaster**
 **É um Implante especial que utiliza balas explosivas para criar grades estragos ao Inimigo.**
 
-Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(titles adjacentes ao lado) os alvos que sejam acertados adjacentemente rodam (Salvaguarda de Agilidade) evitando o dano. Você sempre é treinado e utiliza Força no dado de ataque
+Gaste 2 PP para dar um disparo de alcance corporal em uma área ampla a frente(titles adjacentes ao lado) os alvos que sejam acertados adjacentemente rodam (Salvaguarda de Agilidade) evitando metade o dano. Você sempre é treinado e utiliza Força no dado de ataque
 
 |     Dano      | Alcance  | Crítico |            Propriedades             |
 | :-----------: | :------: | :-----: | :---------------------------------: |
