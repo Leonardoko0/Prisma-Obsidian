@@ -10,9 +10,11 @@
           {
             "id": "129fdb495341a08d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
@@ -45,7 +47,8 @@
               "title": "Etérios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +200,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "c04f941bfc8c799c",
   "lastOpenFiles": [
+    "Etérios.md",
+    "Classes de Backline.md",
     "Cenas Furtivas.md",
     "Sovereign.md",
-    "Etérios.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
@@ -215,7 +219,6 @@
     "(-)Berserker.md",
     "(-)Executioner.md",
     "Rpg/Personagens/Classes.md",
-    "Classes de Backline.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",

@@ -111,7 +111,7 @@ Escolha uma das três variantes do corpo Etério a seguir para serem invocadas, 
 - Abissal: Um ser que não possui forma física constante, ele é composto de diversos olhos e tentáculos que mudam de posição, tamanho e quantidade. Ele é capaz de danificar a mente dos inimigos.
 - Olhar Bestiário: [Invocado Abissal]
 
-**LV 14, Legião dos Sonhos:** Você pode criar todas as outras variantes do corpo Etério gastando +1 Hex. Além disso você pode ter 3 companheiros ativos ao mesmo tempo
+**LV 14, Legião dos Sonhos:** Você pode criar todas as outras variantes do corpo Etério gastando +1 Hex e pp. Além disso você pode ter 3 companheiros ativos ao mesmo tempo
 
 - Canino: Uma forma de Éter que possui um físico animalesco, ele possui grande força e agilidade misturado com dentes parecidos com lâminas.
 - Olhar Bestiário [Invocado Canino]
