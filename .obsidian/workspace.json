@@ -61,8 +61,7 @@
               "title": "Arbiter"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +213,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1742eb8eba107261",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Etérios.md",
     "Rpg/Personagens/Arbiter.md",
+    "Etérios.md",
     "Sovereign.md",
     "Classes de Backline.md",
     "Cenas Furtivas.md",
