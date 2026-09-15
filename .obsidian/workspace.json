@@ -47,8 +47,7 @@
               "title": "Etérios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,12 +199,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Etérios.md",
     "Classes de Backline.md",
     "Cenas Furtivas.md",
-    "Sovereign.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
