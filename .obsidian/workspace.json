@@ -61,7 +61,8 @@
               "title": "Arbiter"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +214,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "205829574379e725",
   "lastOpenFiles": [
     "Rpg/Personagens/Arbiter.md",
     "Etérios.md",
