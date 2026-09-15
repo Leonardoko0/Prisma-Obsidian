@@ -11,10 +11,14 @@
             "id": "129fdb495341a08d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Cenas Furtivas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cenas Furtivas"
             }
           },
           {
@@ -45,8 +49,7 @@
               "title": "Etérios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +201,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Etérios.md",
     "Sovereign.md",
+    "Etérios.md",
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
