@@ -7,7 +7,7 @@
 **Salvaguardas**: Lucidez e Moral
 
 ## **Faca Cytherean**
-**Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigos e intimidadora**  
+**Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigosa e intimidadora**  
 
 Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade para atacar, além disso você sempre é treinado com essa arma. Ao acertar você aplica o efeito de "Cata Sonho" a condição pode ser terminada com um salvaguarda de Int (DT: Arremesso) a cada rodada seguinte a DT abaixa em 3 
 
