@@ -75,8 +75,7 @@
               "title": "Vestimentas e Armaduras"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,14 +227,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3fb9c285464978f0",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Raça.md",
     "Sovereign.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Background.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Perícias.md",
     "SalvaGuarda.md",
     "Etérios.md",
