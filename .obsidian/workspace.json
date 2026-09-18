@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +200,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "20eb994a7511b719",
+  "active": "7d8003c8277d81ba",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Background.md",
@@ -210,7 +211,6 @@
     "SalvaGuarda.md",
     "Etérios.md",
     "Rpg/Personagens/Arbiter.md",
-    "Sovereign.md",
     "Rpg/Personagens/Armas.md",
     "Classes de Backline.md",
     "Cenas Furtivas.md",
