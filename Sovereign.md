@@ -58,7 +58,6 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 16, Colateral:** Gastando 1 PP. Se a Cytherean acertar gere 2 facas etérias no chão que voam assim que outros alvo chegarem perto. Cada faca voa 4,5m e o alvo deve fazer um salvaguarda de Agi (DT 20) ou é acertado e sofre o efeito "Cata Sonho" 
 ## Sandman
-(Subclasse baseado em curar alvos e dar boosts pra eles com coisas de éter e sonhos)
 
 **LV 3, Sonho Azul:** (Ação Livre) Gasta 1 PP para trocar entre modos
 - Dissolver: Modo padrão da faca
@@ -71,7 +70,6 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 
 **LV 20, Renascimento Onírico:** (Ação Completa) Gaste 6 PP para implantar no corpo de um aliado afetado pelo **Sonho Azul** uma Consciência Renascida. Quando o alvo cair para 0 PV ele pode explodir em luz, se mover 2x se movimento e renascer com 25% de sua vida
 ## **Dementador Expansivo**
-(Faz os dots de Dissolver virar um ataque explosivo em um alvo só fazendo ele explodir)
 
 **LV 3, Apagar Personalidade:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada que ele passa com o efeito ativo o alvo ganha um Dot de **"Dementador"**
 
@@ -85,7 +83,6 @@ para outro alvo após o alvo inicial morrer
 **LV 20, Realidade Expansiva:** (Ação Padrão) Gaste 5pp para transferir todo os dots de **"Dementador"** de todos os inimigos no campo para um só e então causando o dano de todos os dots
 - Alvos acertados por **"Colateral"** Recebem 1 Dot de **"Dementador"**
 ## Invólucro Etério
-(Cria fantasmas(Hex) para ajudar no combate)
 
 **LV 3, Éter de Hex:** Muda como **"Dissolver"** funciona: Agora ele não causa dano mas a cada rodada mas gera um ponto de **"HEX"**
 
