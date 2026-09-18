@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "058efc157c119a12",
+  "active": "c04f941bfc8c799c",
   "lastOpenFiles": [
+    "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
     "Rpg/Personagens/Perícias.md",
-    "Rpg/Personagens/Arbiter.md",
     "Etérios.md",
     "SalvaGuarda.md",
     "Classes de Backline.md",
