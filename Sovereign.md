@@ -2,9 +2,9 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: 
+**Proficiências**: Escolha quatro entre 
 
-**Salvaguardas**:
+**Salvaguardas**: Lucidez e Moral
 
 ## **Faca Cytherean**
 **Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigos e intimidadora**  
