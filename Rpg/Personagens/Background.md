@@ -32,3 +32,8 @@ Você teve uma figura que fez parte do prisma e dessa forma foi influenciado a p
 
 Perícias treinadas: Tática e Atletismo
 Equipamento inicial: 
+
+### Vagante 
+
+Perícias treinadas: 
+Equipamento inicial: 
