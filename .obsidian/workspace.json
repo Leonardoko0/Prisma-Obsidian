@@ -33,8 +33,7 @@
               "title": "Lucky 44 (Cartas da Sorte)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +185,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c59863141dd0989",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
@@ -213,7 +213,6 @@
     "(-)Berserker.md",
     "(-)Executioner.md",
     "Rpg/Personagens/Classes.md",
-    "Rpg/Personagens/Artilherista.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
