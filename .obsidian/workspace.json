@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c04f941bfc8c799c",
+  "active": "058efc157c119a12",
   "lastOpenFiles": [
-    "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
+    "Rpg/Personagens/Perícias.md",
+    "Rpg/Personagens/Arbiter.md",
     "Etérios.md",
     "SalvaGuarda.md",
-    "Rpg/Personagens/Perícias.md",
     "Classes de Backline.md",
     "Cenas Furtivas.md",
     "(-)Immolator.md",

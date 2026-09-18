@@ -2,7 +2,7 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: Escolha quatro entre 
+**Proficiências**: Escolha quatro entre: Acrobacia,  
 
 **Salvaguardas**: Lucidez e Moral
 
