@@ -33,7 +33,8 @@
               "title": "Lucky 44 (Cartas da Sorte)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Raça.md",
