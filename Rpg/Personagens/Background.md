@@ -40,4 +40,4 @@ Equipamento inicial:
 
 ### Mentalista
 
-
+Perícias: Enganação e Percepção

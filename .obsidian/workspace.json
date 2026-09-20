@@ -34,77 +34,21 @@
             }
           },
           {
-            "id": "73628dc56e81c9a1",
+            "id": "6d0a0cdda6e41c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Atributos.md",
+                "file": "Rpg/Personagens/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atributos"
-            }
-          },
-          {
-            "id": "eb93ba66c61b44d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Arbiter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arbiter"
-            }
-          },
-          {
-            "id": "1f703337804cc434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Nômade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nômade"
-            }
-          },
-          {
-            "id": "1d2b6dfbe8d79e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Raça.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raça"
-            }
-          },
-          {
-            "id": "6b7233f89d96628c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Background.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Background"
+              "title": "Traits"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,20 +200,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6b7233f89d96628c",
+  "active": "6d0a0cdda6e41c1c",
   "lastOpenFiles": [
+    "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Raça.md",
-    "Rpg/Personagens/Perícias.md",
-    "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Atributos.md",
-    "Lucky 44 (Cartas da Sorte).md",
+    "Rpg/Personagens/Background.md",
+    "Rpg/Personagens/Perícias.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
-    "Rpg/Personagens/Background.md",
     "SalvaGuarda.md",
     "Etérios.md",
     "Classes de Backline.md",
