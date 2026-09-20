@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,8 +242,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "43751ef33a169c0a",
+  "active": "20356a6e30a5d17d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Sovereign.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Traits.md",
@@ -256,7 +257,6 @@
     "Rpg/Personagens/Perícias.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "SalvaGuarda.md",
     "Etérios.md",
     "Classes de Backline.md",
