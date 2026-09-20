@@ -76,48 +76,6 @@
             }
           },
           {
-            "id": "c23464ccb5c82a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Artilherista.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artilherista"
-            }
-          },
-          {
-            "id": "1f7c26a85d7e45a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sovereign.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sovereign"
-            }
-          },
-          {
-            "id": "a12c01e3ce3870cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Perícias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perícias"
-            }
-          },
-          {
             "id": "1d2b6dfbe8d79e6a",
             "type": "leaf",
             "state": {
@@ -132,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -284,15 +242,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a12c01e3ce3870cc",
+  "active": "1d2b6dfbe8d79e6a",
   "lastOpenFiles": [
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Perícias.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Atributos.md",
+    "Rpg/Personagens/Raça.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
