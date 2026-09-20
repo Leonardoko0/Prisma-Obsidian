@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f17488dfb005889a",
+  "active": "6d0a0cdda6e41c1c",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Sovereign.md",
     "Rpg/Personagens/Traits.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Raça.md",
