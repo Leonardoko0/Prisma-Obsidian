@@ -37,3 +37,7 @@ Equipamento inicial:
 
 Perícias treinadas: 
 Equipamento inicial: 
+
+### Mentalista
+
+
