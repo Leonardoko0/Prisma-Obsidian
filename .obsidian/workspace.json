@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "20356a6e30a5d17d",
+  "active": "f17488dfb005889a",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Sovereign.md",
     "Rpg/Personagens/Traits.md",
     "Lucky 44 (Cartas da Sorte).md",
@@ -242,7 +243,6 @@
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Armas.md",
     "SalvaGuarda.md",
     "Etérios.md",
     "Classes de Backline.md",
