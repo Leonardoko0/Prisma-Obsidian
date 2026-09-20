@@ -130,7 +130,7 @@
 |     Nome      | Preço |      Dano      |  Peso  | Alcance | Crítico | Propriedades            |
 | :-----------: | :---: | :------------: | :----: | :-----: | :-----: | :---------------------- |
 |     Faca      |  50u  |  1d4 Cortante  | 0,5 kg |  6m/9m  |  18/x2  | Leve, Arremesso         |
-| Lâmina Média  | 125u  |  1d6 Cortante  | 1,5 kg |  1,5m   |  19/x2  | Acuidade                |
+| Lâmina Média  | 125u  |  1d6 Cortante  | 1,0 kg |  1,5m   |  19/x2  | Acuidade                |
 |     Lança     | 125u  | 1d8 Perfurante | 2,0 kg |  3,0m   |   x2    | Acuidade, Alcance       |
 | Espada Longa  | 200u  |  1d8 Cortante  | 1,5 kg |  1,5m   |  19/x2  | Versátil (10), Acuidade |
 |  Espada Leve  | 150u  |  1d6 Cortante  | 1,5 kg |  1,5m   |  18/x2  | Leve                    |
