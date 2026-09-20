@@ -47,8 +47,7 @@
               "title": "Traits"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d0a0cdda6e41c1c",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Traits.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Nômade.md",
@@ -227,7 +227,6 @@
     "(-)Crosslink.md",
     "(-)Tickspider.md",
     "(-)Blitzer.md",
-    "(-)Drifter.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
