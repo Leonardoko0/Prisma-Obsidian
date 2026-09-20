@@ -61,8 +61,7 @@
               "title": "Raça"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,15 +213,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bd4de5517b5dfb85",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
-    "Rpg/Personagens/Raça.md",
     "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
