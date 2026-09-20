@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,8 +242,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b0e14c45af056c40",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Sovereign.md",
     "Rpg/Personagens/Raça.md",
@@ -252,7 +253,6 @@
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Background.md",
