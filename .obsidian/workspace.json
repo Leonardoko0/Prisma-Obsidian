@@ -103,7 +103,8 @@
               "title": "Artilherista"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,7 +256,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
     "(-)Hivemind.md",
     "Rpg/Personagens/Artilherista.md",
