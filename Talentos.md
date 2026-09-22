@@ -13,3 +13,6 @@
 ### Arte Da Mente 
 ### Multifacetado
 ### Pouco A Pouco
+### Passo Esguio
+### Cala Boca Burro
+### Mordedor de Língua
