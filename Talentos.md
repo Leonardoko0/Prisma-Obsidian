@@ -45,3 +45,5 @@ Quando for derrubado, pode gastar sua reação para realizar um ataque contra um
 Para cada alvo inimigo acima de dois que esteja adjacente a você, Aumente seu dado de acerto em 1
 ### Efeito Dominó
 Quando empurrar um inimigo contra outro, o segundo também é empurrado 1 Tile. Se ele atingir um terceiro, o efeito continua.
+### Plano B
+Quando falhar em um ataque, pode gastar 1 de Estâmina para transformar o ataque em uma tentativa de agarrar.
