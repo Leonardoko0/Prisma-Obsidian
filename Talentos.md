@@ -28,5 +28,7 @@ Quando Estiver com menos da metade da sua vida, aumente a absorção da sua arma
 Quando realizar a ação Esquivar: Deslize por 4 tiles quando for um sucesso e 2 tiles ao ser acertado
 ### Cala Boca Burro
 Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade escolhendo o representante
-### Mordedor de Língua
+### Mordedor De Língua
 Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em si mesmo evitando os efeitos de uma fratura superficial pela rodada. Aumenta o dano para 1d6 no nível 7 e 1d8 no nível 14 
+### Foi De Propósito
+A
