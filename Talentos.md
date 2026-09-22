@@ -62,4 +62,4 @@ Acumula para um máximo de +2
 Quando acertar um ataque com o número do dado sendo par receba +1 no próximo teste.
 Acumula para um máximo de +2
 ### Que?
-Quando realizar uma ação que o Mestre considerar particularmente improvável e obtiver sucesso, ganhe 2 PP.
+Quando realizar uma ação que o Mestre considerar particularmente improvável e obtiver sucesso, ganhe 2 PP. Se isso ocorrer fora de uma cena de combate esses PP se mantém
