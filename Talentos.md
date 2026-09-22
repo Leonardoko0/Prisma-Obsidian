@@ -23,7 +23,8 @@ Pode realizar a ação Fintar com artes. Além disso se torne treinado nessa per
 ### Multifacetado
 Escolha mais um Trait mental
 ### Pouco A Pouco
-Quando Estiver com menos da metade da sua vida, aumente a absorção da sua armadura em 3. Essa
+Quando Estiver com menos da metade da sua vida, aumente a absorção da sua armadura em 3. Essa absorção aumenta nos níveis: 5/9/14/18
 ### Passo Esguio
+Quando realizar a ação Esquivar: Deslize por 
 ### Cala Boca Burro
 ### Mordedor de Língua
