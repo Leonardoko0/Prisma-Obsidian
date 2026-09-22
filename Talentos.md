@@ -25,6 +25,7 @@ Escolha mais um Trait mental
 ### Pouco A Pouco
 Quando Estiver com menos da metade da sua vida, aumente a absorção da sua armadura em 3. Essa absorção aumenta nos níveis: 5/9/14/18
 ### Passo Esguio
-Quando realizar a ação Esquivar: Deslize por 
+Quando realizar a ação Esquivar: Deslize por 4 tiles quando for um sucesso e 2 tiles ao ser acertado
 ### Cala Boca Burro
+Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade
 ### Mordedor de Língua
