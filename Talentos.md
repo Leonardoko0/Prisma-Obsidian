@@ -21,8 +21,9 @@ Aumente sua percepção em +2 quando analisar um alvo
 ### Arte Da Mente
 Pode realizar a ação Fintar com artes. Além disso se torne treinado nessa perícia e ganhe +1 nela
 ### Multifacetado
-Escolha mai
+Escolha mais um Trait mental
 ### Pouco A Pouco
+Quando Estiver com menos da metade da sua vida, aumente a absorção da sua armadura em 3. Essa
 ### Passo Esguio
 ### Cala Boca Burro
 ### Mordedor de Língua
