@@ -29,4 +29,4 @@ Quando realizar a ação Esquivar: Deslize por 4 tiles quando for um sucesso e 2
 ### Cala Boca Burro
 Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade escolhendo o representante
 ### Mordedor de Língua
-Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano
+Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em si mesmo evitando os efeitos de uma fratura superficial 
