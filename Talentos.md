@@ -39,3 +39,5 @@ Ao eliminar um inimigo gaste 1 de estâmina para arremessar o corpo em outro ini
 
 ### Costas Duras
 Quando sofrer dano por ser arremessado contra uma superfície, reduza o dano em 1d8.
+### Caindo Atirando
+Quando for derrubado, pode gastar sua reação para realizar um ataque contra um alvo dentro do alcance antes de ficar Caído.
