@@ -56,5 +56,8 @@ Quando ficar sem munição, pode gastar 1 de Estâmina para arremessar sua arma 
 ### Achado Não É Roubado
 Quando desarmar um inimigo, pode gastar sua ação de movimento para pegar a arma dele e imediatamente realizar um ataque com ela.
 ### Cartas Pretas
-Quando acertar um ataqu
+Quando acertar um ataque com o número do dado sendo ímpar receba +1 no próximo teste.
+Acumula para um máximo de +2
 ### Cartas Vermelhas 
+Quando acertar um ataque com o número do dado sendo ímpar receba +1 no próximo teste.
+Acumula para um máximo de +2
