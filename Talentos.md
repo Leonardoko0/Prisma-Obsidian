@@ -54,3 +54,4 @@ Antes de realizar um ataque, pode declarar que o ataque será especialmente brut
 ### Adeus, Munição
 Quando ficar sem munição, pode gastar 1 de Estâmina para arremessar sua arma descarregada contra um alvo a até 6 Tiles como ação livre, causando 1d6 de dano. A arma vai ricochetear na cabeça dele, rode um salvaguarda de reflexo (DT 10) para pegar sua arma novamente
 ### Achado Não É Roubado
+Quando desarmar um inimigo, pode gastar sua ação de movimento para pegar a arma dele e imediatamente realizar um ataque com ela.
