@@ -33,4 +33,7 @@ Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em
 ### Foi De Propósito
 Quando errar um alvo por exatamente 1 seu próximo ataque recebe um +5 no acerto
 ### Presunto Voador
-Ao eliminar um inimigo gaste 1 de estâmina e sua ação de movimento para arremessar o corpo em outro inimigo a 4 tiles de distancia. O alvo deve ser bem sucedido em um salvaguarda de Reflexo contra o seu arremesso ou fica caído  
+Ao eliminar um inimigo gaste 1 de estâmina para arremessar o corpo em outro inimigo a 4 tiles de distancia. O alvo deve ser bem sucedido em um salvaguarda de Reflexo contra o seu arremesso ou fica caído
+
+### Costas Duras
+O dano recebedo 
