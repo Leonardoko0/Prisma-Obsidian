@@ -27,5 +27,6 @@ Quando Estiver com menos da metade da sua vida, aumente a absorção da sua arma
 ### Passo Esguio
 Quando realizar a ação Esquivar: Deslize por 4 tiles quando for um sucesso e 2 tiles ao ser acertado
 ### Cala Boca Burro
-Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade
+Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade escolhendo o representante
 ### Mordedor de Língua
+Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano
