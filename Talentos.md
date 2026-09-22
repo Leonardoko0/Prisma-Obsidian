@@ -49,3 +49,5 @@ Quando empurrar um inimigo contra outro, o segundo também é empurrado 1 Tile. 
 Quando falhar em um ataque corporal, pode gastar 1 de Estâmina para transformar o ataque em uma tentativa de agarrar.
 ### Plano C
 Quando falhar em uma tentativa de agarrar, pode gastar 1 de Estâmina para transformar a tentativa em uma tentativa de derrubar
+### Isso Vai Doer
+Antes de realizar um ataque, pode declarar que o ataque será especialmente brutal. O alvo 
