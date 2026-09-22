@@ -18,8 +18,10 @@ Quando for o primeiro ou o segundo da iniciativa ganhe mais uma ação principal
 Adicione sua agilidade uma segunda vez a iniciativa
 ### Mentalista
 Aumente sua percepção em +2 quando analisar um alvo
-### Arte Da Mente 
+### Arte Da Mente
+Pode realizar a ação Fintar com artes. Além disso se torne treinado nessa perícia e ganhe +1 nela
 ### Multifacetado
+Escolha mai
 ### Pouco A Pouco
 ### Passo Esguio
 ### Cala Boca Burro
