@@ -9,7 +9,7 @@ Pode gastar + um de Estâmina ao realizar a ação Avançar para escolher a dire
 ### Combate Traiçoeiro 
 Quando um alvo é atirado contra você, gaste sua reação e um de Estâmina para evitar o dano e realizar um ataque contra o mesmo (Alvos atirados por meio de combate de ambiente)
 ### Porrada Sequencial 
-Você pode acertar autômaticámente 
+Você pode acertar automaticamente um ataque de pancada quando acertar o seu ataque principal
 ### Sorte Dos Fodidos
 ### Começo Explosivo
 ### Adrenalina Inicial
