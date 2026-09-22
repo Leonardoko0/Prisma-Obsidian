@@ -46,4 +46,6 @@ Para cada alvo inimigo acima de dois que esteja adjacente a você, Aumente seu d
 ### Efeito Dominó
 Quando empurrar um inimigo contra outro, o segundo também é empurrado 1 Tile. Se ele atingir um terceiro, o efeito continua.
 ### Plano B
-Quando falhar em um ataque, pode gastar 1 de Estâmina para transformar o ataque em uma tentativa de agarrar.
+Quando falhar em um ataque corporal, pode gastar 1 de Estâmina para transformar o ataque em uma tentativa de agarrar.
+### Plano C
+Quando falhar em uma tentativa de agarrar, pode gastar 1 de Estâmina para transformar a tentativa em uma tentativa de derrubar
