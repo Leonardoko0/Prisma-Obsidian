@@ -3,7 +3,7 @@
 ## Talentos
 
 ### Ímpeto
-Pode gastar mais um de Estâmina ao realizar a ação atacar para ultrapassar o alvo, além disso, enquanto estiver usando uma 
+Pode gastar + um de Estâmina ao realizar a ação atacar para ultrapassar o alvo, além disso, realizar esse ataque com uma arma leve permite que você ande +1 Tile após o ataque.
 ### Ofensiva
 ### Combate Traiçoeiro 
 ### Porrada Sequencial 
