@@ -2,8 +2,8 @@
 
 ## Talentos
 
-###
-###
+### Ímpeto
+### Ofensiva
 ###
 ###
 ###
