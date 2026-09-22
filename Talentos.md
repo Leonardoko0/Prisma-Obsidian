@@ -17,7 +17,7 @@ Quando for o primeiro ou o segundo da iniciativa ganhe mais uma ação principal
 ### Adrenalina Inicial
 Adicione sua agilidade uma segunda vez a iniciativa
 ### Mentalista
-Aumente sua percepção em 2 quando analisar um alvo ou em ações de Analis
+Aumente sua percepção em +2 quando analisar um alvo
 ### Arte Da Mente 
 ### Multifacetado
 ### Pouco A Pouco
