@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59acf02681ade4b3",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
+    "Talentos.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Sovereign.md",
-    "Talentos.md",
     "Sistema de salas.md",
     "Rpg/Personagens/Artilherista.md",
     "(-)Hivemind.md",
