@@ -62,5 +62,6 @@ Acumula para um máximo de +2
 Quando acertar um ataque com o número do dado sendo par receba +1 no próximo teste.
 Acumula para um máximo de +2
 ### Que?
+Quando realizar uma ação que o Mestre considerar particularmente improvável e obtiver sucesso, ganhe 2 PP. Caso isso ocorra fora de uma cena de combate, esses p
 ### Eu Quero Entender
-Sempre que você obtiver três falhas consecutivas**, seu próximo teste é considerado automaticamente um sucesso crítico.
+Sempre que você obtiver três falhas consecutivas, seu próximo teste é considerado automaticamente um sucesso crítico.
