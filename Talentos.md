@@ -13,8 +13,9 @@ Você pode acertar automaticamente um ataque de pancada quando acertar o seu ata
 ### Sorte Dos Fodidos
 Quando errar em um dado de acerto tirando 1 ou ser acertado por um ataque de acerto 20, ganhe 1 pp
 ### Começo Explosivo
-Quando for o primeiro ou o segundo da iniciativa ganhe mais uma aç
+Quando for o primeiro ou o segundo da iniciativa ganhe mais uma ação principal. (O combate deve possuir mais de 3 iniciativas)
 ### Adrenalina Inicial
+Adicione sua agilidade uma segunda vez a iniciativa
 ### Mentalista 
 ### Arte Da Mente 
 ### Multifacetado
