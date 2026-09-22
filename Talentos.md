@@ -7,7 +7,7 @@ Pode gastar + um de Estâmina ao realizar a ação Atacar para ultrapassar o alv
 ### Ofensiva
 Pode gastar + um de Estâmina ao realizar a ação Avançar para escolher a direção que o alvo é empurrado, além disso, enquanto estiver usando uma arma pesada o ataque empurra o alvo por mais +1 Tile
 ### Combate Traiçoeiro 
-Quando um alvo é atira
+Quando um alvo é atirado contra você, gaste sua reação e um de Estâmina para evitar o dano e realizar um ataque contra o mesmo (Alvos arr)
 ### Porrada Sequencial 
 ### Sorte Dos Fodidos
 ### Começo Explosivo
