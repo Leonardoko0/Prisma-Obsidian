@@ -30,6 +30,8 @@ Quando realizar a ação Esquivar: Deslize por 4 tiles quando for um sucesso e 2
 Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de furtividade escolhendo o representante
 ### Mordedor De Língua
 Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em si mesmo evitando os efeitos de uma fratura superficial pela rodada. Aumenta o dano para 1d6 no nível 7 e 1d8 no nível 14 
+### Duas Mãos Direitas
+Você pode ter duas armas sacadas ao mesmo tempo
 ### Foi De Propósito
 Quando errar um alvo por exatamente 1 seu próximo ataque recebe um +5 no acerto
 ### Presunto Voador
