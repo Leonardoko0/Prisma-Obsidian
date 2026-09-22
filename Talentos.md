@@ -61,3 +61,5 @@ Acumula para um máximo de +2
 ### Cartas Vermelhas 
 Quando acertar um ataque com o número do dado sendo par receba +1 no próximo teste.
 Acumula para um máximo de +2
+### Que?
+Quando realizar uma ação que o Mestre considerar particularmente improvável e obtiver sucesso, ganhe 2 PP.
