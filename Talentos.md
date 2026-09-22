@@ -32,5 +32,5 @@ Escolha dois aliados para escoltar. Você podem compartilhar o mesmo teste de fu
 Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em si mesmo evitando os efeitos de uma fratura superficial pela rodada. Aumenta o dano para 1d6 no nível 7 e 1d8 no nível 14 
 ### Foi De Propósito
 Quando errar um alvo por exatamente 1 seu próximo ataque recebe um +5 no acerto
-### Cai Dentro
-Ao eliminar um inimigo gaste 1 de estâmina e sua ação de movimento para arremessar o corpo em outro inimigo a 4 tiles de distancia
+### Presunto Voador
+Ao eliminar um inimigo gaste 1 de estâmina e sua ação de movimento para arremessar o corpo em outro inimigo a 4 tiles de distancia. O alvo deve ser bem sucedido em um salvaguarda de Reflexo contra o seu arremesso
