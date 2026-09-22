@@ -255,8 +255,8 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
 **Nível 3:**
  A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
- - Uma vez por missão pode definir que sua primeira rodada de um combate terá +1 de estâmina não acumulável 
- "Só acho que....a gente já treina o bastante em combate real"
+ - Uma vez por missão pode definir que sua primeira rodada de um combate terá +2 de estâmina não acumulável 
+ "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico
 - Preço:
 - Tamanho:
