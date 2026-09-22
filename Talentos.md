@@ -3,6 +3,7 @@
 ## Talentos
 
 ### Ímpeto
+Pode gastar mais um de Estâmina enquanto
 ### Ofensiva
 ### Combate Traiçoeiro 
 ### Porrada Sequencial 
