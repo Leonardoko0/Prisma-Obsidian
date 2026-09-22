@@ -16,7 +16,8 @@ Quando errar em um dado de acerto tirando 1 ou ser acertado por um ataque de ace
 Quando for o primeiro ou o segundo da iniciativa ganhe mais uma ação principal. (O combate deve possuir mais de 3 iniciativas)
 ### Adrenalina Inicial
 Adicione sua agilidade uma segunda vez a iniciativa
-### Mentalista 
+### Mentalista
+Aumente sua percepção em 2 quando analisar um alvo ou em ações de Analis
 ### Arte Da Mente 
 ### Multifacetado
 ### Pouco A Pouco
