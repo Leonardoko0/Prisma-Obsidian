@@ -33,4 +33,4 @@ Morda sua própria língua para evitar a dor de um fratura. Cause 1d4 de dano em
 ### Foi De Propósito
 Quando errar um alvo por exatamente 1 seu próximo ataque recebe um +5 no acerto
 ### Cai Dentro
-Ao eliminar um inimigo gaste 1 de estâmina e sua ação de movimento para
+Ao eliminar um inimigo gaste 1 de estâmina e sua ação de movimento para arremessar o corpo em outro inimigo a 4 tiles de distancia
