@@ -11,8 +11,9 @@ Quando um alvo é atirado contra você, gaste sua reação e um de Estâmina par
 ### Porrada Sequencial 
 Você pode acertar automaticamente um ataque de pancada quando acertar o seu ataque principal
 ### Sorte Dos Fodidos
-Quando errar em um dado de acerto tirando 1 ou ser acertado por um ataque de a
+Quando errar em um dado de acerto tirando 1 ou ser acertado por um ataque de acerto 20, ganhe 1 pp
 ### Começo Explosivo
+Quando for o primeiro ou o segundo da iniciativa ganhe mais uma aç
 ### Adrenalina Inicial
 ### Mentalista 
 ### Arte Da Mente 
