@@ -51,3 +51,5 @@ Quando falhar em um ataque corporal, pode gastar 1 de Estâmina para transformar
 Quando falhar em uma tentativa de agarrar, pode gastar 1 de Estâmina para transformar a tentativa em uma tentativa de derrubar
 ### Isso Vai Doer
 Antes de realizar um ataque, pode declarar que o ataque será especialmente brutal. O a DT do alvo aumenta em +2. Se acertar aumente o dano em um dado do mesmo tipo
+### Adeus, Munição
+Quando ficar sem munição, pode gastar 1 de Estâmina para arremessar sua arma descarregada contra um alvo a até 4 Tiles como ação livre, causando 1d6 de dano. A arma vai ricochetear na cabeça dele, rode um salvaguda
