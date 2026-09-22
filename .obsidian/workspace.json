@@ -75,7 +75,8 @@
               "title": "Aparatos(Fazer scaling de -dano fixo-)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "f6d622badf6a73bb",
   "lastOpenFiles": [
     "Talentos.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",

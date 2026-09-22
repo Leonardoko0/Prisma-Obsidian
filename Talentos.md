@@ -3,7 +3,7 @@
 ## Talentos
 
 ### Ímpeto
-Pode gastar mais um de Estâmina ao realizar a ação atacar
+Pode gastar mais um de Estâmina ao realizar a ação atacar para ultrapassar o alvo, além disso, enquanto estiver usando uma 
 ### Ofensiva
 ### Combate Traiçoeiro 
 ### Porrada Sequencial 
