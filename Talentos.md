@@ -43,3 +43,5 @@ Quando sofrer dano por ser arremessado contra uma superfície, reduza o dano em 
 Quando for derrubado, pode gastar sua reação para realizar um ataque contra um alvo dentro do alcance antes de ficar Caído.
 ### Entupido Até O Ralo
 Para cada alvo inimigo acima de dois que esteja adjacente a você, Aumente seu dado de acerto em 1
+### Efeito Dominó
+Quando empurrar um inimigo contra outro, o segundo também é empurrado 1 Tile. Se ele atingir um terceiro, o efeito continua.
