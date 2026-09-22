@@ -239,7 +239,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Aumenta qualquer teste de arte realizado na sala em +5
  - Pode escolher um teste de arte por missão para receber esse bônus fora da sala de forma que faça sentido
 **Nível 3:**
- Transforma-se em um ateliê profissional, com materiais da mais alta qualidade, ferramentas especializadas e equipamentos raros, capazes de produzir forma de expressão artística. Instrumentos musicais não inclusos 
+ Transforma-se em um ateliê profissional, com materiais da mais alta qualidade, ferramentas especializadas e equipamentos raros, capazes de produzir qualquer forma de expressão artística. 
  - Aumenta qualquer teste de arte realizado na sala em +10
  - Pode escolher um teste de arte por missão para receber +5 fora da sala de forma que faça sentido
  - Permite Criar obras Únicas 
