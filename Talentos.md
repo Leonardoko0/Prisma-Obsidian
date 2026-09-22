@@ -6,10 +6,10 @@
 ### Ofensiva
 ### Combate Traiçoeiro 
 ### Porrada Sequencial 
-### Sorte Dos Fudidos
-###
-###
-###
-###
-###
-###
+### Sorte Dos Fodidos
+### Começo Explosivo
+### Adrenalina Inicial
+### Mentalista 
+### Arte Da Mente 
+### Multifacetado
+### Pouco A Pouco
