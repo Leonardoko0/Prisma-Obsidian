@@ -50,4 +50,4 @@ Quando falhar em um ataque corporal, pode gastar 1 de Estâmina para transformar
 ### Plano C
 Quando falhar em uma tentativa de agarrar, pode gastar 1 de Estâmina para transformar a tentativa em uma tentativa de derrubar
 ### Isso Vai Doer
-Antes de realizar um ataque, pode declarar que o ataque será especialmente brutal. O alvo 
+Antes de realizar um ataque, pode declarar que o ataque será especialmente brutal. O a DT do alvo aumenta em +2. Se acertar aumente o dano em um dado do mesmo tipo
