@@ -59,5 +59,5 @@ Quando desarmar um inimigo, pode gastar sua ação de movimento para pegar a arm
 Quando acertar um ataque com o número do dado sendo ímpar receba +1 no próximo teste.
 Acumula para um máximo de +2
 ### Cartas Vermelhas 
-Quando acertar um ataque com o número do dado sendo ímpar receba +1 no próximo teste.
+Quando acertar um ataque com o número do dado sendo par receba +1 no próximo teste.
 Acumula para um máximo de +2
