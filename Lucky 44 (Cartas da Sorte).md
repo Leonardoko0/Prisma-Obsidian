@@ -20,7 +20,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Carruagem 7
 "Quando você obter sucesso em um teste o seu próximo receberá vantagem, além disso pelo resto da cena aumente em 1 o resultado natural das suas rolagens podendo se aplicar múltiplas vezes na mesma cena"
 ### A Justiça 8
-"Ao revelar, você pode perguntar o karma de uma criatura que esteja na sua visão é positivo ou negativo. Se for negativo você pode gastar sua ação para descobrir informações sobre essa criatura além disso ela sofre desvantagens em acerto contra você enquanto  souber essa informação"
+"Ao revelar, você pode perguntar o karma de uma criatura que esteja na sua visão é positivo ou negativo. Se for negativo você pode gastar sua ação para descobrir informações sobre essa criatura além disso ela sofre desvantagens em acerto enquanto você souber essa informação"
 ### O Eremita 9
 "Caso você esteja realizando uma ação sozinho (Não haja nem um outro membro presente na cena), você pode re rolar dados de teste com resultado 10 ou abaixo"
 ### A Roda da Fortuna 10 
@@ -28,7 +28,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### A Força 11
 "Uma vez por cena você pode negar qualquer instância de dano causado a você. Inimigos responsáveis pelo dano se tornam amedrontados mesmo que imunes a essa condição"
 ### O Enforcado 12
-"Caso você acerte um ataque você pode gastar até sua vida atual para dar o dobro da quantidade gasta em dano, adicionalmente a cada 2 de vida gastos você pode receber +1 em testes de habilidade"
+"Caso você acerte um ataque você pode gastar sua vida atual para dar o dobro da quantidade gasta em dano, adicionalmente a cada 2 de vida gastos você pode receber +1 em testes de habilidade"
 ### A Morte 13
 "Esta carta persiste entre sessões na mão do jogador. Essa carta pode ser utilizada para impedir a morte de um jogador revivendo-o com a metade da vida (a carta pode ser utilizada até 10 rodadas (ou cena) da morte)"
 ### A Temperança 14
