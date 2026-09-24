@@ -103,8 +103,7 @@
               "title": "Arbiter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,14 +255,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c59863141dd0989",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Traits.md",
+    "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
+    "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Arbiter.md",
     "Talentos.md",
     "(-)Drifter.md",
-    "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
-    "Lucky 44 (Cartas da Sorte).md",
-    "Rpg/Personagens/Traits.md",
     "Sovereign.md",
     "Sistema de salas.md",
     "Rpg/Personagens/Artilherista.md",
