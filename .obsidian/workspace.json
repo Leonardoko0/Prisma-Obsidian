@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,8 +256,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dee03686a684db3a",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
+    "Rpg/Personagens/Arbiter.md",
     "Talentos.md",
     "(-)Drifter.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
@@ -271,7 +272,6 @@
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
-    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Perícias.md",
