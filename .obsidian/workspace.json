@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +214,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "29ccf423ad76025a",
+  "active": "8c3b7e8c97169431",
   "lastOpenFiles": [
-    "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Raça.md",
+    "Rpg/Personagens/Atributos.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Talentos.md",
     "Rpg/Personagens/Traits.md",
