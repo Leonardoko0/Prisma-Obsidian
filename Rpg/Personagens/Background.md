@@ -44,3 +44,4 @@ Perícias: Enganação e Percepção
 
 ### Pintor Charlatão
 
+Perícias: Enganação e Arte
