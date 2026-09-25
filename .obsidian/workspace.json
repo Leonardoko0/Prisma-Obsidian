@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -270,10 +270,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1c1871356e4c5579",
+  "active": "2fc6bd1c7b1be1bd",
   "lastOpenFiles": [
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Traits.md",
     "Rpg/Personagens/Atributos.md",
