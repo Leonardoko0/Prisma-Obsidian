@@ -85,7 +85,7 @@ Utilize o Erebus carnal em suas habilidades desenvolvendo formas de vampirismo s
 LV 3 Peta: Use sangue nas suas habilidades e desbloqueie Kaifuku um LV antes do comum
 **Derrame:** Como ação de movimento. Se corte se dando 1d6/2d6 (LV 10) de dano e ganhando um selo
 **Vampirismo:** Gaste 1PP e ataque com sua arma se acertar regenere pontos de vida igual ao seu nível de Kaifuku
-**Corruptor:** Como ação prismática. Gaste dois selos apontando até um inimigo visível que esteja com uma ferida aberta, o mesmo deve rolar um Salvaguarda de Moral, se falhar ele fica com medo de você, além disso ele toma 1d4+2 de dano mental a cada rodada, cada novo inicio de rodada o alvo tem direito a realizar outro salvaguarda
+**Corruptor:** Como ação completa. Gaste dois selos apontando até um inimigo visível que esteja com uma ferida aberta, o mesmo deve rolar um Salvaguarda de Moral, se falhar ele fica com medo de você, além disso ele toma 1d4+2 de dano mental a cada rodada, cada novo inicio de rodada o alvo tem direito a realizar outro salvaguarda
 
 **LV 9, Domínio Sanguíneo:** Além de controlar sangue derramado descubra como manusear sangue ainda nos corpos de seus alvos.
 **Marca:** Ataque um alvo gastando 2PP se acertar o alvo fica vulnerável a seus truques com sangue. Ações com essa habilidade gastam um selo e podem ser realizadas como ação prismática ou ação principal, sempre que usar essa habilidade o alvo deve realizar um salvaguarda de INT. 
