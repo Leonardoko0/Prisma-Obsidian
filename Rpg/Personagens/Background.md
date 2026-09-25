@@ -41,3 +41,6 @@ Equipamento inicial:
 ### Mentalista
 
 Perícias: Enganação e Percepção
+
+### Pintor Charlatão
+
