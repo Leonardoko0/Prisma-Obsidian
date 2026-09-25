@@ -13,8 +13,8 @@ A Blade Kira é uma lâmina Sanguínea que armazena a vitalidade de suas vitimas
 
 Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é preenchido, caso o golpe finalize um inimigo preencha dois selos. Porém, cada vez que sofrer dano direto, um selo se quebra
 
-|    Dano     | Alcance  | Crítico |    Propriedades    |
-| :---------: | :------: | :-----: | :----------------: |
+|    Dano     | Alcance  | Crítico |      Propriedades      |
+| :---------: | :------: | :-----: | :--------------------: |
 | 4d4+4 Corte | Corporal |   2x    | (Carga) Acuidade, Leve |
 
 ## **Árvore de habilidade**
