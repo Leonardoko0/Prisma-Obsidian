@@ -47,8 +47,7 @@
               "title": "Background"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a84cd0c111bd376",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Background.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
@@ -209,7 +209,6 @@
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Raça.md",
-    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Traits.md",
     "Sovereign.md",
     "Rpg/Personagens/Arbiter.md",
