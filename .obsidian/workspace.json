@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +200,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c59863141dd0989",
+  "active": "4a84cd0c111bd376",
   "lastOpenFiles": [
-    "Rpg/Personagens/Background.md",
+    "Sovereign.md",
     "Lucky 44 (Cartas da Sorte).md",
+    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
@@ -211,7 +212,6 @@
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Traits.md",
-    "Sovereign.md",
     "Rpg/Personagens/Arbiter.md",
     "Talentos.md",
     "(-)Drifter.md",
