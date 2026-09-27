@@ -48,4 +48,4 @@ Perícias: Enganação e Arte
 
 ### Pão E Circo
 
-Perícias: Athetis 
+Perícias: Atletismo 
