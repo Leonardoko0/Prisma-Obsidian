@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,10 +256,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fe32ad2b58addeb6",
+  "active": "b24bbe3c404ef8a5",
   "lastOpenFiles": [
-    "Drifter.md",
     "Rpg/Personagens/Artilherista.md",
+    "Drifter.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
