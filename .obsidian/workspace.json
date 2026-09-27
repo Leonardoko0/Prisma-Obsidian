@@ -47,8 +47,7 @@
               "title": "Arbiter"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "939c6a8f087ce47e",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Arbiter.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
@@ -212,7 +212,6 @@
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Traits.md",
-    "Rpg/Personagens/Arbiter.md",
     "Talentos.md",
     "(-)Drifter.md",
     "Sistema de salas.md",
