@@ -89,8 +89,7 @@
               "title": "Drifter"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +241,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1492b380ab277570",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Drifter.md",
+    "Sem título.md",
     "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Artilherista.md",
-    "Drifter.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Perícias.md",
     "Lucky 44 (Cartas da Sorte).md",
@@ -269,7 +269,6 @@
     "(-)Immolator.md",
     "(-)Prophet.md",
     "(-)Zealot.md",
-    "(-)Lazarus.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
