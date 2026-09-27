@@ -52,13 +52,13 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 
 ### Habilidade Ativa
 
-**LV 2, Karui Suteppu:** Aumenta seu movimento em 1,5m a cada Tag
+**LV 2, Karui Suteppu:** Aumenta seu movimento em 1,5m a cada Selo
 
-**LV 4, Kaifuku:** Sugue a energia corrupta da lâmina utilizando-a para curar suas feridas. Gaste 1 Tag para curar 1d6 de vida que se esvai no final do combate. O poder curativo da lâmina aumenta nos níveis 8/13/16
+**LV 4, Kaifuku:** Sugue a energia corrupta da lâmina utilizando-a para curar suas feridas. Gaste 1 Selo para curar 1d6 de vida que se esvai no final do combate. O poder curativo da lâmina aumenta nos níveis 8/13/16
 
 **LV 8, Guarda Alta:** Gaste 1PP para seu próximo ataque com a Kira ser um ataque amplo
 
-**LV 10, imparável:** Após ter 3 ou mais Tags fica imune a ataques de oportunidade. Gaste 1PP para evitar terreno difícil pela rodada
+**LV 10, imparável:** Após ter 3 ou mais Selos fica imune a ataques de oportunidade. Gaste 1PP para evitar terreno difícil pela rodada
 
 **LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Tag
 ## **Jetstream**
