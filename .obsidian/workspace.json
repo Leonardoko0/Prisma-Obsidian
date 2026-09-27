@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,12 +242,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "77074c8a71ff9f24",
+  "active": "b82d7f72705b1ad4",
   "lastOpenFiles": [
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Artilherista.md",
-    "Drifter.md",
     "Sovereign.md",
+    "Drifter.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Talentos.md",
