@@ -17,4 +17,4 @@ Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e su
 ## **Anchor RSB** (Lv2)
 **Uma adição ao seu terminal do agente localizado no seu braço. Esse equipamento energizado por um cristal de dissonância permite vc marcar locais dentro do próprio espaço e então retornar a esses**
 
-Gaste 1pp 
+Gaste 1pp como ação livre para marcar o lugar que você está nesse exato momento. (Você pode usar isso enquanto se movimenta para demarcar um local )
