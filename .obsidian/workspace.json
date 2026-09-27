@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "fe32ad2b58addeb6",
+            "id": "a4a22a140dbd22d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fe32ad2b58addeb6",
+  "active": "bc3d21546de036d8",
   "lastOpenFiles": [
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Artilherista.md",
-    "Drifter.md",
+    "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
+    "Drifter.md",
     "Rpg/Personagens/Background.md",
     "Sem título.md",
     "Rpg/Personagens/Perícias.md",
