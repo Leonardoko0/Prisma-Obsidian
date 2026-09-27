@@ -47,5 +47,6 @@ Perícias: Enganação e Percepção
 Perícias: Enganação e Arte
 
 ### Pão E Circo
-
-Perícias: Atletismo 
+Equipamento inicial
+Perícias: Atletismo e Arte
+Extra: Você pode usar a Perícia Artes com Carism
