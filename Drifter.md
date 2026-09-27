@@ -10,6 +10,6 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 ## **M.B Type Dread**
 **Um implante de louva-a-deus retrátil, oculto no interior do braço do portador. Forjada a partir de um metal gélido e escuro, originado de uma Dissonância, a lâmina não sofre os efeitos da passagem do tempo.**
 
-Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como ação de movimento, após isso ele fica ativo até no máximo 2 rodadas seguintes. Você pode recolher seu braço como uma ação livre recuperando um de PP
+Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como ação de movimento, após isso ele fica ativo até no máximo 2 rodadas seguintes. Você pode recolher seu braço antes da segunda rodada como uma ação livre recuperando um de PP
 
 Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque 
