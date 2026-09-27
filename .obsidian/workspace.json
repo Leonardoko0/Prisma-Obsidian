@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b82d7f72705b1ad4",
+  "active": "fe32ad2b58addeb6",
   "lastOpenFiles": [
-    "Sovereign.md",
-    "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Arbiter.md",
     "Drifter.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Artilherista.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Talentos.md",
     "Combate de Ambiente.md",
