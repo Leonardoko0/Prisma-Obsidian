@@ -14,6 +14,5 @@ Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como a
 
 Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque usando a lâmina.
 Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e sua ação de movimento junto com os 2pp do ataque para usar a **Anchor RSB** sem gastar PP
-
-## **Anchor RSB**
-Uma adição ao seu terminal do agente localizado no seu braço. Esse equipamento energizado por um cristal de dissonância permite vc marcar locais dentro do próprio espaço e então retornar a esses
+## **Anchor RSB** (Lv2)
+**Uma adição ao seu terminal do agente localizado no seu braço. Esse equipamento energizado por um cristal de dissonância permite vc marcar locais dentro do próprio espaço e então retornar a esses**
