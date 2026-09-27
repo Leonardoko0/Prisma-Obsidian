@@ -26,8 +26,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 |  2*   |      +2      |       -        |    -    |       Treinamento (**Anchor RSB**)        |
 |  3*   |      +2      |       -        |    -    |                  Trilha                   |
 |  4*   |      +2      |       -        |         |         Melhoramento de Atributo          |
-|  5*   |      +3      |      4d8       |         |                Treinamento                |
-|  6*   |      +3      |                |         | Treinamento de Perícias (Ataque de pinça) |
+|  5*   |      +3      |       -        |         |                Treinamento                |
+|  6*   |      +3      |    4d8+1d6     |         | Treinamento de Perícias (Ataque de pinça) |
 |  7*   |      +3      |                |         |          Proficiencia de Combate          |
 |  8*   |      +3      |                |         |         Melhoramento de Atributo          |
 |  9*   |      +4      |                |         |                  Trilha                   |
