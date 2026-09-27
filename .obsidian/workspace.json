@@ -47,8 +47,7 @@
               "title": "Arbiter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c59863141dd0989",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Rpg/Personagens/Arbiter.md",
     "Lucky 44 (Cartas da Sorte).md",
+    "Rpg/Personagens/Arbiter.md",
     "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Sovereign.md",
