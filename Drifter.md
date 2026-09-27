@@ -27,18 +27,18 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 |  3*   |      +2      |       -        |    -    |      -       |          Trilha           |
 |  4*   |      +2      |       -        |    -    |      -       | Melhoramento de Atributo  |
 |  5*   |      +3      |       -        |    -    |  6d8 Corte   | Treinamento(Ataque Pinça) |
-|  6*   |      +3      |      4d8       |    -    |              |  Treinamento de Perícias  |
-|  7*   |      +3      |                |  2x/19  |              |  Proficiencia de Combate  |
-|  8*   |      +3      |                |    -    |              | Melhoramento de Atributo  |
-|  9*   |      +4      |                |    -    |              |          Trilha           |
-|  10*  |      +4      |                |    -    |              |      Treinamento ()       |
-|  11*  |      +4      |                |    -    |              |  Treinamento de Perícias  |
-|  12*  |      +4      |                |    -    |              | Melhoramento de Atributo  |
-|  13*  |      +5      |                |    -    |              |  Proficiência de Combate  |
-|  14*  |      +5      |                |  3x/19  |              |         Trilha ()         |
-|  15*  |      +5      |                |         |              |        Treinamento        |
-|  16*  |      +5      |                |         |              |  Treinamento de Atributo  |
-|  17*  |      +6      |                |         |              |  Treinamento de Perícias  |
-|  18*  |      +6      |                |         |              |        Treinamento        |
-|  19*  |      +6      |                |         |              | Melhoramento de Atributo  |
-|  20*  |      +6      |                |         |              |          Trilha           |
+|  6*   |      +3      |      4d8       |    -    |      -       |  Treinamento de Perícias  |
+|  7*   |      +3      |       -        |  2x/19  |      -       |  Proficiencia de Combate  |
+|  8*   |      +3      |       -        |    -    |      -       | Melhoramento de Atributo  |
+|  9*   |      +4      |       -        |    -    |      -       |          Trilha           |
+|  10*  |      +4      |       -        |    -    |      -       |      Treinamento ()       |
+|  11*  |      +4      |      5d10      |    -    |     7d10     |  Treinamento de Perícias  |
+|  12*  |      +4      |       -        |    -    |      -       | Melhoramento de Atributo  |
+|  13*  |      +5      |       -        |    -    |      -       |  Proficiência de Combate  |
+|  14*  |      +5      |       -        |  3x/19  |      -       |         Trilha ()         |
+|  15*  |      +5      |       -        |    -    |      -       |        Treinamento        |
+|  16*  |      +5      |       -        |    -    |      -       |  Treinamento de Atributo  |
+|  17*  |      +6      |       -        |    -    |      -       |  Treinamento de Perícias  |
+|  18*  |      +6      |                |    -    |      -       |        Treinamento        |
+|  19*  |      +6      |                |    -    |      -       | Melhoramento de Atributo  |
+|  20*  |      +6      |                |    -    |              |          Trilha           |

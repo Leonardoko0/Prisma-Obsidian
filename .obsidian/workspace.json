@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bc3d21546de036d8",
+  "active": "1492b380ab277570",
   "lastOpenFiles": [
-    "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
-    "Sovereign.md",
+    "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
+    "Rpg/Personagens/Nômade.md",
+    "Sovereign.md",
     "Rpg/Personagens/Background.md",
     "Sem título.md",
     "Rpg/Personagens/Perícias.md",
