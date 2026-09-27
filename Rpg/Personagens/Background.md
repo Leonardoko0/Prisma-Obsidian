@@ -47,6 +47,6 @@ Perícias: Enganação e Percepção
 Perícias: Enganação e Arte
 
 ### Pão E Circo
-Equipamento inicial: 100u
+Equipamento inicial: 100u, Uma arma corporal ofensiva
 Perícias: Atletismo e Arte
 Extra: Você pode usar a Perícia Artes com Carisma ao invés de Intelecto
