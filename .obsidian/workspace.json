@@ -47,7 +47,8 @@
               "title": "Arbiter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +200,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "4c59863141dd0989",
   "lastOpenFiles": [
     "Rpg/Personagens/Arbiter.md",
     "Lucky 44 (Cartas da Sorte).md",
