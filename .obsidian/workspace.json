@@ -61,8 +61,7 @@
               "title": "Combate de Ambiente"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +213,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b2f639f7dad81cea",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Combate de Ambiente.md",
     "Lucky 44 (Cartas da Sorte).md",
