@@ -19,3 +19,26 @@ Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e su
 
 Gaste 1pp como ação livre para marcar o lugar que você está nesse exato momento. (Você pode usar isso enquanto se movimenta para demarcar um local desejado)
 Gaste sua ação de movimento e mais 1pp para se teletransportar para o local marcado
+
+| Nível | Proficiência | KnuckleBlaster | Bullet Punch  |             Características             |
+| :---: | :----------: | :------------: | :-----------: | :-------------------------------------: |
+|  1*   |      +2      | 4d6 Explosivo  |               |             KnuckleBlaster              |
+|  2*   |      +2      |       -        |               |       Treinamento (Impulse Shot)        |
+|  3*   |      +2      |       -        |               |                 Trilha                  |
+|  4*   |      +2      |       -        |               |        Melhoramento de Atributo         |
+|  5*   |      +3      |       -        |               |               Treinamento               |
+|  6*   |      +3      |      5d6       | 4d10Explosivo | Treinamento de Perícias (Bullet Punch)  |
+|  7*   |      +3      |       -        |       -       |         Proficiencia de Combate         |
+|  8*   |      +3      |       -        |       -       |        Melhoramento de Atributo         |
+|  9*   |      +4      |       -        |       -       |                 Trilha                  |
+|  10*  |      +4      |       -        |       -       | Treinamento (Especialista em Explosões) |
+|  11*  |      +4      |      5d8       |     5d12      |         Treinamento de Perícias         |
+|  12*  |      +4      |       -        |       -       |        Melhoramento de Atributo         |
+|  13*  |      +5      |       -        |       -       |         Proficiência de Combate         |
+|  14*  |      +5      |       -        |       -       |           Trilha (Mobilidade)           |
+|  15*  |      +5      |       -        |       -       |               Treinamento               |
+|  16*  |      +5      |      6d10      |     6d12      |         Treinamento de Atributo         |
+|  17*  |      +6      |       -        |       -       |         Treinamento de Perícias         |
+|  18*  |      +6      |       -        |       -       |               Treinamento               |
+|  19*  |      +6      |       -        |       -       |        Melhoramento de Atributo         |
+|  20*  |      +6      |       -        |     7d12      |                 Trilha                  |
