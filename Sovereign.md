@@ -124,7 +124,7 @@ Gastando 6pp e no mínimo 4 criaturas.
 ele voa pelo ar enlouquecendo e dilacerando aqueles que ousarem se colocar a frente de seu soberano.
 - Olhas Bestiário: [Súdito]
 - Não pode ser melhorado
-## Dream Caster
+## DreamCaster
 (Magias e outras habilidades que você pode pegar)
 
 **LV 3,** 
