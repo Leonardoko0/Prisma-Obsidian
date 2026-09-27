@@ -60,11 +60,11 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 
 **LV 10, imparável:** Após ter 3 ou mais Selos fica imune a ataques de oportunidade. Gaste 1PP para evitar terreno difícil pela rodada
 
-**LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Tag
+**LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Selo
 ## **Jetstream**
 A arte do "Setsu Jen Ken" (caminho da espada assassina) Que não pode ser ensinada ou aprendida, seus praticantes desenvolveram suas habilidades ao máximo sendo capaz de até mesmo lutar com mechas e cyborgs com certa facilidade 
 
-**LV 3, Murasama:** Seus selos se tornam cargas que carregam uma toda rodada e duas no critico da Kira, além disso aprenda alguns truques
+**LV 3, Murasama:** Seus selos se tornam Cargas que carregam uma toda rodada e duas no critico da Kira, além disso aprenda alguns truques
 **Saque:** gaste uma carga e 1PP extra, para sacar sua espada na velocidade de uma bala e ultrapassar seu tempo de reação. Ataca o alvo sem ativar sua reação
 **Passos Samurai:** Gaste uma carga para poder fazer uma investida sem ativar ataques de oportunidade
 **Recuperação:** Gaste 1PP para não ficar desprevenido após uma investida 
