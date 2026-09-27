@@ -12,4 +12,4 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 
 Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como ação de movimento, após isso ele fica ativo até no máximo 2 rodadas seguintes. Você pode recolher seu braço antes da segunda rodada como uma ação livre recuperando um de PP
 
-Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque 
+Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque usando a lâmina.
