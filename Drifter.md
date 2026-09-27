@@ -37,8 +37,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 |  13*  |      +5      |       -        |    -    |      -       |  Proficiência de Combate  |
 |  14*  |      +5      |       -        |  3x/19  |      -       |         Trilha ()         |
 |  15*  |      +5      |       -        |    -    |      -       |        Treinamento        |
-|  16*  |      +5      |       -        |    -    |      -       |  Treinamento de Atributo  |
+|  16*  |      +5      |      7d10      |    -    |     9d10     |  Treinamento de Atributo  |
 |  17*  |      +6      |       -        |    -    |      -       |  Treinamento de Perícias  |
-|  18*  |      +6      |                |    -    |      -       |        Treinamento        |
-|  19*  |      +6      |                |    -    |      -       | Melhoramento de Atributo  |
-|  20*  |      +6      |                |    -    |              |          Trilha           |
+|  18*  |      +6      |       -        |    -    |      -       |        Treinamento        |
+|  19*  |      +6      |       -        |    -    |      -       | Melhoramento de Atributo  |
+|  20*  |      +6      |       -        |    -    |      -       |          Trilha           |
