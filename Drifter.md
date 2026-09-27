@@ -8,3 +8,4 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 **Salvaguardas**: Reflexo e Lucidez
 
 ## **M.B Type Dread**
+Um implante de Louva-a-deus que
