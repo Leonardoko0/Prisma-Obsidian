@@ -8,4 +8,4 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 **Salvaguardas**: Reflexo e Lucidez
 
 ## **M.B Type Dread**
-**Um implante de Louva-a-deus retrátil que fica escondido dentro do braço do portador, feito de um metal gélido e escuro vindo de uma dissonância essa lâmina não sofre efeitos 
+**Um implante de Louva-a-deus retrátil que fica escondido dentro do braço do portador, feito de um metal gélido e escuro vindo de uma dissonância essa lâmina não sofre efeitos do tempo como desgaste
