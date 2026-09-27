@@ -4,3 +4,5 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 **Pontos de vida**: 1d6 + modificador de vigor
 
 **Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Furtividade, História, Percepção, Religião, Subterfúgio. E duas perícias extras. 
+
+**Salvaguardas**: Reflexo e Lucidez
