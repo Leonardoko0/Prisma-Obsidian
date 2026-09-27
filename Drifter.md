@@ -20,7 +20,7 @@ Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e su
 Gaste 1pp como ação livre para marcar o lugar que você está nesse exato momento. (Você pode usar isso enquanto se movimenta para demarcar um local desejado)
 Gaste sua ação de movimento e mais 1pp para se teletransportar para o local marcado
 
-| Nível | Proficiência | KnuckleBlaster | Bullet Punch |             Características             |
+| Nível | Proficiência | M.B Type Dread | Bullet Punch |             Características             |
 | :---: | :----------: | :------------: | :----------: | :-------------------------------------: |
 |  1*   |      +2      |                |              |             KnuckleBlaster              |
 |  2*   |      +2      |                |              |       Treinamento (Impulse Shot)        |
