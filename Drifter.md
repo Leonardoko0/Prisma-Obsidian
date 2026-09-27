@@ -23,10 +23,10 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 | Nível | Proficiência | M.B Type Dread | Crítico |              Características              |
 | :---: | :----------: | :------------: | :-----: | :---------------------------------------: |
 |  1*   |      +2      |   3d8 Corte    |   2x    |            **M.B Type Dread**             |
-|  2*   |      +2      |                |         |       Treinamento (**Anchor RSB**)        |
-|  3*   |      +2      |                |         |                  Trilha                   |
-|  4*   |      +2      |                |         |         Melhoramento de Atributo          |
-|  5*   |      +3      |                |         |                Treinamento                |
+|  2*   |      +2      |       -        |    -    |       Treinamento (**Anchor RSB**)        |
+|  3*   |      +2      |       -        |    -    |                  Trilha                   |
+|  4*   |      +2      |       -        |         |         Melhoramento de Atributo          |
+|  5*   |      +3      |      4d8       |         |                Treinamento                |
 |  6*   |      +3      |                |         | Treinamento de Perícias (Ataque de pinça) |
 |  7*   |      +3      |                |         |          Proficiencia de Combate          |
 |  8*   |      +3      |                |         |         Melhoramento de Atributo          |
