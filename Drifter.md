@@ -95,4 +95,6 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 14, Interceptação:** Agora você pode gastar sua reação para quando um alvo inimigo passar adjacentes a um local de Âncora para você se puxar até ele e realizar um ataque. Você pode pode colocar mais uma Âncora
 
-**LV 20, Domínio Espacial:** Você pode colocar e se puxar para Âncoras sem gastar ações ou PP, além disso você pode escolher teletransportar inimigos que passarem adjacentes a suas Âncoras para qualquer outra Âncora. Você pode colocar mias uma Âncora
+**LV 20, Domínio Espacial:** Você pode colocar e se puxar para Âncoras sem gastar ações ou PP, além disso você pode escolher teletransportar inimigos que passarem adjacentes a suas Âncoras para qualquer outra Âncora. Você pode colocar mais uma Âncora
+
+##
