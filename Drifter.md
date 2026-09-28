@@ -21,28 +21,28 @@ Gaste 1pp como ação livre para marcar o lugar que você está nesse exato mome
 Gaste sua ação de movimento e mais 1pp para se teletransportar para o local marcado
 ## **Árvore de Habilidade**
 
-| Nível | Proficiência | M.B Type Dread | Crítico | Ataque Pinça |       Características        |
-| :---: | :----------: | :------------: | :-----: | :----------: | :--------------------------: |
-|  1*   |      +2      |   3d8 Corte    |   2x    |      -       |      **M.B Type Dread**      |
-|  2*   |      +2      |       -        |    -    |      -       |    Treinamento Anchor RSB    |
-|  3*   |      +2      |       -        |    -    |      -       |          Subclasse           |
-|  4*   |      +2      |       -        |    -    |      -       |   Melhoramento de Atributo   |
-|  5*   |      +3      |       -        |    -    |  6d8 Corte   |  Treinamento(Ataque Pinça)   |
-|  6*   |      +3      |      4d8       |    -    |      -       |   Treinamento de Perícias    |
-|  7*   |      +3      |       -        |  2x/19  |      -       |   Proficiencia de Combate    |
-|  8*   |      +3      |       -        |    -    |      -       |   Melhoramento de Atributo   |
-|  9*   |      +4      |       -        |    -    |      -       |          Subclasse           |
-|  10*  |      +4      |       -        |    -    |      -       | Treinamento (Ancora inversa) |
-|  11*  |      +4      |      5d10      |    -    |     7d10     |   Treinamento de Perícias    |
-|  12*  |      +4      |       -        |    -    |      -       |   Melhoramento de Atributo   |
-|  13*  |      +5      |       -        |    -    |      -       |   Proficiência de Combate    |
-|  14*  |      +5      |       -        |  2x/18  |      -       |  Subclasse (Ancora Rápida)   |
-|  15*  |      +5      |       -        |    -    |      -       |         Treinamento          |
-|  16*  |      +5      |      7d10      |    -    |     9d10     |   Treinamento de Atributo    |
-|  17*  |      +6      |       -        |    -    |      -       |   Treinamento de Perícias    |
-|  18*  |      +6      |       -        |    -    |      -       |         Treinamento          |
-|  19*  |      +6      |       -        |    -    |      -       |   Melhoramento de Atributo   |
-|  20*  |      +6      |       -        |    -    |      -       |          Subclasse           |
+| Nível | Proficiência | M.B Type Dread | Crítico |  Ataque Pinça  |       Características        |
+| :---: | :----------: | :------------: | :-----: | :------------: | :--------------------------: |
+|  1*   |      +2      |   3d8 Corte    |   2x    |       -        |      **M.B Type Dread**      |
+|  2*   |      +2      |       -        |    -    |       -        |    Treinamento Anchor RSB    |
+|  3*   |      +2      |       -        |    -    |       -        |          Subclasse           |
+|  4*   |      +2      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  5*   |      +3      |       -        |    -    | 6d8 Perfuração |  Treinamento(Ataque Pinça)   |
+|  6*   |      +3      |      4d8       |    -    |       -        |   Treinamento de Perícias    |
+|  7*   |      +3      |       -        |  2x/19  |       -        |   Proficiencia de Combate    |
+|  8*   |      +3      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  9*   |      +4      |       -        |    -    |       -        |          Subclasse           |
+|  10*  |      +4      |       -        |    -    |       -        | Treinamento (Ancora inversa) |
+|  11*  |      +4      |      5d10      |    -    |      7d10      |   Treinamento de Perícias    |
+|  12*  |      +4      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  13*  |      +5      |       -        |    -    |       -        |   Proficiência de Combate    |
+|  14*  |      +5      |       -        |  2x/18  |       -        |  Subclasse (Ancora Rápida)   |
+|  15*  |      +5      |       -        |    -    |       -        |         Treinamento          |
+|  16*  |      +5      |      7d10      |    -    |      9d10      |   Treinamento de Atributo    |
+|  17*  |      +6      |       -        |    -    |       -        |   Treinamento de Perícias    |
+|  18*  |      +6      |       -        |    -    |       -        |         Treinamento          |
+|  19*  |      +6      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  20*  |      +6      |       -        |    -    |       -        |          Subclasse           |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
@@ -55,7 +55,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 2, Anchor RSB:** Permite utilizar as habilidades da Anchor RSB. Olhar a descrição acima da arvore de habilidades
 
-**LV 5, Ataque Pinça:** Caso você tenha atacado uma vez comNo seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal
+**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o implante. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração
 
 **LV 10, Ancora inversa:**
 
