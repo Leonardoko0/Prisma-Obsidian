@@ -92,5 +92,6 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 3, :** Você pode colocar duas Âncoras em dois lugares diferentes, além disso colocar a primeira Âncora não gasta PP
 
 **LV 9,  :** Você libera **Âncora inversa** um nível antes, Além disso se puxar para uma Âncora não gasta sua ação de movimento
-**LV 14,   :**
+
+**LV 14,   :** Agora você pode gastar sua reação para quando um alvo inimigo passar por um local de Âncora para você se puxar até ele e realiz
 **LV 20,  :**
