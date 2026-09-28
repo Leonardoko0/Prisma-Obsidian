@@ -58,7 +58,7 @@ Falha: O personagem sofre 1d6+3 de dano para cada 3 pontos que falhar no teste
 
 **LV 14, Mobilidade:** Agora ao utilizar **Impulse Shot** pode gastar um PP extra para se mover mais 4,5m
 
-**LV 3/9/14/20, Militarismo explosivo:** São suas técnicas provenientes de um estilo, mais conhecido como seu Militarismo Explosivo, São o conjunto de habilidade que faz você ser diferente de outro Arbiter
+**LV 3/9/14/20, Subclasse:** São suas técnicas provenientes de um estilo, mais conhecido como seu Militarismo Explosivo, São o conjunto de habilidade que faz você ser diferente de outro Arbiter
 ## **Argos**
 Argos a IA de 100 olhos, Sempre analisando todos os arredores preparada para qualquer embate, Para ele, fumaça não encobre, revela. Som não confunde, posiciona. Cada movimento térmico é um sentido, Cada assinatura elétrica, uma intenção. E você está no centro dos olhos
 
