@@ -99,7 +99,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Reaper
 
-**LV 3, Lâmina Faminta:** Você pode pular o passo de ativação da lâmina gastando
+**LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa
 
 **LV 9, :** 
 
