@@ -10,7 +10,7 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 ## **M.B Type Dread**
 **Um implante de louva-a-deus retrátil, oculto no interior do braço do portador. Forjada a partir de um metal gélido e escuro, originado de uma Dissonância, a lâmina não sofre os efeitos da passagem do tempo.**
 
-Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como ação de movimento, após isso ele fica ativo até no máximo 2 rodadas seguintes. Você pode recolher seu braço antes da segunda rodada como uma ação livre recuperando um de PP
+Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como ação de movimento, após isso ele fica ativo nas 2 rodadas seguintes. Você pode recolher seu braço antes da segunda rodada como uma ação livre recuperando um de PP
 
 Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque usando a lâmina.
 Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e sua ação de movimento junto com os 2pp do ataque para usar a **Anchor RSB** sem gastar PP
@@ -55,7 +55,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 2, Anchor RSB:** Permite utilizar as habilidades da Anchor RSB. Olhar a descrição acima da arvore de habilidades
 
-**LV 5, Ataque Pinça:** No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente 
+**LV 5, Ataque Pinça:** Caso você tenha atacado uma vez comNo seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal
 
 **LV 10, Ancora inversa:**
 
