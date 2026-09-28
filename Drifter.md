@@ -55,9 +55,9 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 2, Anchor RSB:** Permite utilizar as habilidades da **Anchor RSB**. Olhar a descrição acima da árvore de habilidades
 
-**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Havb
+**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
 
-**LV 10, Ancora inversa:**
+**LV 10, Ancora inversa:** Você agora pode marcar qualquer lugar a 12m
 
 **LV 14, Ancora Rápida:
 
