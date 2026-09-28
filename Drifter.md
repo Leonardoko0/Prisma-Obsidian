@@ -99,7 +99,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Reaper
 
-**LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa
+**LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa, além disso seus ataques aplicam sangramento 1d4 dano por 1d2 rodadas (DT: Ataque)
 
 **LV 9, :** 
 
