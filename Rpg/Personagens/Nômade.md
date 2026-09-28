@@ -23,24 +23,24 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 | :---: | :----------: | :---------: | :----------: | :------------------------------------: |
 |  1*   |      +2      | 4d4+4 Corte |      -       |               Kira Blade               |
 |  2*   |      +2      |      -      |      -       |      Treinamento (Karui Suteppu)       |
-|  3*   |      +2      |      -      |      -       |                 Trilha                 |
+|  3*   |      +2      |      -      |      -       |               Subclasse                |
 |  4*   |      +2      |      -      | 1d6 por selo |   Melhoramento de Atributo (Kaifuku)   |
 |  5*   |      +3      |      -      |      -       |              Treinamento               |
 |  6*   |      +3      |    6d4+6    |      -       |        Treinamento de Perícias         |
 |  7*   |      +3      |      -      |      -       |        Proficiencia de Combate         |
 |  8*   |      +3      |      -      |     2d8      | Melhoramento de Atributo (Guarda Alta) |
-|  9*   |      +4      |      -      |      -       |                 Trilha                 |
+|  9*   |      +4      |      -      |      -       |               Subclasse                |
 |  10*  |      +4      |      -      |      -       |        Treinamento (Imparável)         |
 |  11*  |      +4      |    8d4+8    |      -       |        Treinamento de Perícias         |
 |  12*  |      +4      |      -      |      -       |        Melhoramento de Atributo        |
 |  13*  |      +5      |      -      |     2d10     |        Proficiência de Combate         |
-|  14*  |      +5      |      -      |      -       |                 Trilha                 |
+|  14*  |      +5      |      -      |      -       |               Subclasse                |
 |  15*  |      +5      |      -      |      -       |              Treinamento               |
 |  16*  |      +5      |   10d4+10   |     3d12     |        Treinamento de Atributo         |
 |  17*  |      +6      |      -      |      -       | Treinamento de Perícias (Kaze no hebi) |
 |  18*  |      +6      |      -      |      -       |              Treinamento               |
 |  19*  |      +6      |      -      |      -       |        Melhoramento de Atributo        |
-|  20*  |      +6      |      -      |      -       |                 Trilha                 |
+|  20*  |      +6      |      -      |      -       |               Subclasse                |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
