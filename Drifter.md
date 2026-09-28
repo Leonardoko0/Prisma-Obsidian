@@ -67,6 +67,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 3,  :** Agora quando utilizar o saque da **M.B Type Dread** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo
 
+- Hunter Smock
+
 **LV 9,  :**
 **LV 14,   :**
 **LV 20,  :**
