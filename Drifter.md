@@ -83,7 +83,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 20, Féth Fíada:**  Sua percepção da existência muda enquanto você está afetado pela fumaça. Você sai do plano material e fica intangível para seres mundanos.
 
-- Você pode gastar 1pp
+- Você pode gastar 2pp junto de usar sua 
 ## ShardJumper
 
 **LV 3,  :**
