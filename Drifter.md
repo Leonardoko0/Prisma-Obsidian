@@ -89,7 +89,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 - Realizar qualquer ataque enquanto estiver nesse modo é um sucesso garantindo contra a percepção do alvo (Quase todo alvo é sempre desprevenido contra seu ataque)
 ## ShardJumper
 
-**LV 3,  :**
+**LV 3, :** Você pode colocar duas Ân
 
 **LV 9,  :**
 **LV 14,   :**
