@@ -67,7 +67,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 3, Hunter Smoke:** Agora quando utilizar o saque da **M.B Type Dread,** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo ou em um alvo adjacente
 
-- Hunter Smoke: O alvo afetado deve fazer um salvaguarda de reflexo (que pode escolher falhar) (DT 10+metade do Lv) ou fica esfumaçado. O efeito dura 1d2 rodadas
+- Hunter Smoke: O alvo afetado deve fazer um salvaguarda de reflexo (que pode escolher falhar) (DT 10+metade do LV) ou fica esfumaçado. O efeito dura 1d2 rodadas
 
 - Esfumaçado: Recebe +5 em Furtividade
 
@@ -80,7 +80,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 - O efeito da Hunter Smoke sempre dura duas rodadas e o bônus sobe para +10 em furtividade
 - Quando realizar uma reação de esquiva você pode gastar 1pp para jogar a Hunter Smoke em si mesmo aumentando a DT em +2 e a distância percorrida pela reação em 3m
-**LV 20,  :**
+
+**LV 20,  :** 
 ## ShardJumper
 
 **LV 3,  :**
