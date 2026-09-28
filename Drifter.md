@@ -53,9 +53,9 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Anchor RSB:** Permite utilizar as habilidades da Anchor RSB. Olhar a descrição acima da arvore de habilidades
+**LV 2, Anchor RSB:** Permite utilizar as habilidades da **Anchor RSB**. Olhar a descrição acima da árvore de habilidades
 
-**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o implante. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração
+**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Havb
 
 **LV 10, Ancora inversa:**
 
