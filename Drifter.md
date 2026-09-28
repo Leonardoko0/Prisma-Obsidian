@@ -93,5 +93,5 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 9,  :** Você libera **Âncora inversa** um nível antes, Além disso se puxar para uma Âncora não gasta sua ação de movimento
 
-**LV 14,   :** Agora você pode gastar sua reação para quando um alvo inimigo passar por um local de Âncora para você se puxar até ele e realiz
+**LV 14,   :** Agora você pode gastar sua reação para quando um alvo inimigo passar adjacentes a um local de Âncora para você se puxar até ele e realizar um ataque. C
 **LV 20,  :**
