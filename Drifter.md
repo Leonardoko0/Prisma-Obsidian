@@ -52,7 +52,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Anchor RSB:**
+**LV 2, Anchor RSB:** Permite uti
 
 **LV 5, Ataque Pinça:**
 
