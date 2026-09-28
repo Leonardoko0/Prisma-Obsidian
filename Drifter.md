@@ -103,6 +103,6 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 9, Divisor:** Você pode gastar +1PP enquanto estiver realizando um ataque de pinça para atacar mais um alvo adjacente ao alvo principal, se acertar o alvo secundário toma metade do dano do principal. Aumenta o dano do sangramento para 1d6
 
-**LV 14, :** 
+**LV 14, Grudar:** após acertar um ataque flanqueando ou gastando 2 de Estâmina  
 
 **LV 20, l:** 
