@@ -89,8 +89,7 @@
               "title": "Drifter"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,9 +241,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1492b380ab277570",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Drifter.md",
+    "Rpg/Fendas Malignas.md",
+    "Rpg/Dissônancias.md",
+    "Rpg/Universo.md",
     "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
@@ -267,9 +269,6 @@
     "Etérios.md",
     "Classes de Backline.md",
     "Cenas Furtivas.md",
-    "(-)Immolator.md",
-    "(-)Prophet.md",
-    "(-)Zealot.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
