@@ -65,7 +65,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Stalker
 
-**LV 3,  :**
+**LV 3,  :** Agora quando você utilizar o saque da 
 
 **LV 9,  :**
 **LV 14,   :**
