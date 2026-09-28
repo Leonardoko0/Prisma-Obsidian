@@ -59,6 +59,6 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Âncora gastando sua ação de movimento e 1 de Estâmina. 
 
-**LV 14, Âncora Rápida:** Gasta mais pp para se puxar para a Âncora
+**LV 14, Âncora Rápida:** Você não gasta mais pp para se puxar para a Âncora
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
