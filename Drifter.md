@@ -65,7 +65,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Stalker
 
-**LV 3,  :** Agora quando utilizar o saque da **M.B Type Dread,** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo ou em um alvo adjacente
+**LV 3, Hunter Smoke:** Agora quando utilizar o saque da **M.B Type Dread,** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo ou em um alvo adjacente
 
 - Hunter Smoke: O alvo afetado deve fazer um salvaguarda de reflexo (que pode escolher falhar) (DT 10+metade do Lv) ou fica esfumaçado. O efeito dura 1d2 rodadas
 
@@ -76,7 +76,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 - Enquanto estiver Esfumaçado, você pode atravessar espaços ocupados por criaturas e objetos pequenos, desde que termine seu movimento em um espaço livre.
 - Você recebe mais 2 na defesa e mais 3m de movimento
 
-**LV 14,   :**
+**LV 14,  :**
 **LV 20,  :**
 ## ShardJumper
 
