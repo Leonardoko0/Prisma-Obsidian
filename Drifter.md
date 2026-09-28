@@ -101,7 +101,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa, além disso seus ataques aplicam sangramento 1d4 dano por 1d2 rodadas (DT: Ataque)
 
-**LV 9, :** 
+**LV 9, Divisor:** Você pode gastar +1PP enquanto estiver realizando um ataque de pinça para atacar mais um alvo adjacente a 
 
 **LV 14, :** 
 
