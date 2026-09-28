@@ -89,7 +89,8 @@
               "title": "Drifter"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,7 +242,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "bc3d21546de036d8",
   "lastOpenFiles": [
     "Drifter.md",
     "Rpg/Fendas Malignas.md",
