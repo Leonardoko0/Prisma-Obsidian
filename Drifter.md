@@ -65,7 +65,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Stalker
 
-**LV 3,  :** Agora quando você utilizar o saque da 
+**LV 3,  :** Agora quando utilizar o saque da **M.B Type Dread** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo
 
 **LV 9,  :**
 **LV 14,   :**
