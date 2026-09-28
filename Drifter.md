@@ -15,7 +15,7 @@ Você gasta 1pp para retirar a **M.B Type Dread** de dentro do seu braço como a
 Enquanto estiver a **M.B Type Dread** exposta: Gaste 2pp para realizar um ataque usando a lâmina.
 Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e sua ação de movimento junto com os 2pp do ataque para usar a **Anchor RSB** sem gastar PP
 ## **Anchor RSB** (Lv2)
-**Uma adição ao seu terminal do agente localizado no seu braço. Esse equipamento energizado por um cristal de dissonância permite vc marcar locais dentro do próprio espaço e então retornar a esses**
+**Uma adição ao seu terminal do agente localizado no seu braço. Esse equipamento energizado por um cristal de dissonância permite vc marcar locais dentro do próprio espaço e então retornar a esses pontos** 
 
 Gaste 1pp como ação livre para marcar o lugar que você está nesse exato momento. (Você pode usar isso enquanto se movimenta para demarcar um local desejado)
 Gaste sua ação de movimento e mais 1pp para se teletransportar para o local marcado
@@ -57,8 +57,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
 
-**LV 10, Ancora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a anc
+**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Ânc
 
-**LV 14, Ancora Rápida:
+**LV 14, Âncora Rápida:
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
