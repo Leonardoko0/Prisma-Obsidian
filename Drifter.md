@@ -32,11 +32,11 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 |  7*   |      +3      |       -        |  2x/19  |       -        |   Proficiencia de Combate    |
 |  8*   |      +3      |       -        |    -    |       -        |   Melhoramento de Atributo   |
 |  9*   |      +4      |       -        |    -    |       -        |          Subclasse           |
-|  10*  |      +4      |       -        |    -    |       -        | Treinamento (Ancora inversa) |
+|  10*  |      +4      |       -        |    -    |       -        | Treinamento (Âncora inversa) |
 |  11*  |      +4      |      5d10      |    -    |      7d10      |   Treinamento de Perícias    |
 |  12*  |      +4      |       -        |    -    |       -        |   Melhoramento de Atributo   |
 |  13*  |      +5      |       -        |    -    |       -        |   Proficiência de Combate    |
-|  14*  |      +5      |       -        |  2x/18  |       -        |  Subclasse (Ancora Rápida)   |
+|  14*  |      +5      |       -        |  2x/18  |       -        |  Subclasse (Âncora Rápida)   |
 |  15*  |      +5      |       -        |    -    |       -        |         Treinamento          |
 |  16*  |      +5      |      7d10      |    -    |      9d10      |   Treinamento de Atributo    |
 |  17*  |      +6      |       -        |    -    |       -        |   Treinamento de Perícias    |
@@ -57,7 +57,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
 
-**LV 10, Ancora inversa:** Você agora pode marcar qualquer lugar a 12m
+**LV 10, Ancora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a anc
 
 **LV 14, Ancora Rápida:
 
