@@ -52,10 +52,5 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2** **Saque rápido**: Gasta sua ação Prismática(3PP) para dar um disparo com a Magnum fora de seu turno
 
-**LV 5/16 Bala perfurante:** Gaste 2/4 PP para sua bala atravessar uma quantidade extra de 1/2 alvos
-
-**LV 10 Artista de precisão:** Gasta 1 PP para mudar sua bala como ação de movimento, o dano dado pela arma abaixa em 1dado porém não recebe desvantagem de distância maxima
-
-**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, mais conhecido como Escola de Disparo, São o conjunto de habilidade que faz você ser diferente de outro Artilherista
+**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
