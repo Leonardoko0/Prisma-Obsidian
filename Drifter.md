@@ -69,4 +69,4 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 9,  :**
 **LV 14,   :**
 **LV 20,  :**
-## 
+## ShardJumper
