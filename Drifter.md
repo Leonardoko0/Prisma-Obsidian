@@ -65,9 +65,9 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 ## Stalker
 
-**LV 3,  :** Agora quando utilizar o saque da **M.B Type Dread** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo
+**LV 3,  :** Agora quando utilizar o saque da **M.B Type Dread,** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo ou em um alvo adjacente
 
-- Hunter Smock
+- Hunter Smoke: O alvo afetado deve fazer um salvaguarda de re
 
 **LV 9,  :**
 **LV 14,   :**
