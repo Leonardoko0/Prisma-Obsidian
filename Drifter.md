@@ -52,5 +52,12 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
+**LV 2, Anchor RSB**
+
+**LV 5, Anchor RSB**
+
+**LV 10, Anchor RSB**
+
+**LV 14, Anchor RSB**
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
