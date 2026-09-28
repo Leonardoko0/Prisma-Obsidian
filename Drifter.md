@@ -84,6 +84,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 20, Féth Fíada:**  Sua percepção da existência muda enquanto você está afetado pela fumaça. Você sai do plano material e fica intangível para seres mundanos.
 
 - Você pode gastar 2pp para melhorar sua fumaça, quando fizer isso a próxima rodada você tem as seguintes vantagens
+- Você ganha mais duas ação de movimento
 ## ShardJumper
 
 **LV 3,  :**
