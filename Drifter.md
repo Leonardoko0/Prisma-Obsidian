@@ -76,7 +76,9 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 - Enquanto estiver Esfumaçado, você pode atravessar espaços ocupados por criaturas e objetos pequenos, desde que termine seu movimento em um espaço livre.
 - Você recebe mais 2 na defesa e mais 3m de movimento
 
-**LV 14, Aidos:** Sua fumaça se muta para uma nebulosa translúcida de cores diversas
+**LV 14, Aidos:** Sua fumaça se muta para uma nebulosa translúcida de cores diversas. O poder dissonante interage com a nossa realidade diretamente
+
+- O ef
 **LV 20,  :**
 ## ShardJumper
 
