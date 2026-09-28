@@ -71,9 +71,10 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 - Esfumaçado: Recebe +5 em Furtividade
 
-**LV 9,  :** A fumaça se torna anômala e distorce fisicamente as coisas de dentro da fumaça quando observada do lado de fora .
+**LV 9,  :** A fumaça se torna anômala e distorce fisicamente as coisas de dentro da fumaça quando observada do lado de fora.
 
-- a
+- Enquanto estiver Esfumaçado, você pode atravessar espaços ocupados por criaturas e objetos pequenos, desde que termine seu movimento em um espaço livre.
+- Você recebe mais 2 na defesa e quando rea
 
 
 **LV 14,   :**
