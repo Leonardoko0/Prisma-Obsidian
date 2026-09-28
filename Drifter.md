@@ -86,7 +86,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 - Você pode gastar 2pp para melhorar sua fumaça, quando fizer isso a próxima rodada você tem as seguintes vantagens
 - Você ganha mais duas ações de movimento
 - Você fica intangível até a próxima rodada (Você ainda toma dano Mental/Éter/Erebus)
-- Realizar 
+- Realizar qualquer ataque enquanto estiver nesse modo é um sucesso garantindo contra a percepção do alvo (Quase todo alvo é sempre desprevenido contra seu ataque)
 ## ShardJumper
 
 **LV 3,  :**
