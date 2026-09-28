@@ -20,7 +20,7 @@ Gaste 2PP para arremessar (6m/9m) ou bater com sua faca, você utiliza agilidade
 ## **Árvore de Habilidade**
 | Nível | Proficiência |    Dano    | Alcance | Crítico |             Propriedades             | Dissolver |
 | :---: | :----------: | :--------: | :-----: | :-----: | :----------------------------------: | :-------: |
-|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |   Leve, Arremesso, **"Soberania"**   |           |
+|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |    Leve, Arremesso, **Soberania**    |           |
 |   2   |      +2      |     -      |    -    |    -    |     Treinamento (Dissolver Alma)     |    1d4    |
 |   3   |      +2      |     -      |    -    |  2x/19  |              Subclasse               |     -     |
 |   4   |      +2      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
