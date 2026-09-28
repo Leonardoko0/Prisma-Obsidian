@@ -19,6 +19,7 @@ Se for a segunda rodada que a lâmina estiver exposta, gaste 1 de estâmina e su
 
 Gaste 1pp como ação livre para marcar o lugar que você está nesse exato momento. (Você pode usar isso enquanto se movimenta para demarcar um local desejado)
 Gaste sua ação de movimento e mais 1pp para se teletransportar para o local marcado
+## **Árvore de Habilidade**
 
 | Nível | Proficiência | M.B Type Dread | Crítico | Ataque Pinça |       Características        |
 | :---: | :----------: | :------------: | :-----: | :----------: | :--------------------------: |
@@ -52,9 +53,9 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Anchor RSB:** Permite uti
+**LV 2, Anchor RSB:** Permite utilizar as habilidades da Anchor RSB. Olhar a descrição acima da arvore de habilidades
 
-**LV 5, Ataque Pinça:**
+**LV 5, Ataque Pinça:** No ulti
 
 **LV 10, Ancora inversa:**
 
