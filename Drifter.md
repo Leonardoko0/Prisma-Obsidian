@@ -81,7 +81,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 - O efeito da Hunter Smoke sempre dura duas rodadas e o bônus sobe para +10 em furtividade
 - Quando realizar uma reação de esquiva você pode gastar 1pp para jogar a Hunter Smoke em si mesmo aumentando a DT em +2 e a distância percorrida pela reação em 3m
 
-**LV 20, Féth Fíada:**  Sua percepção da existência muda enquanto você está afetado pela fumaça
+**LV 20, Féth Fíada:**  Sua percepção da existência muda enquanto você está afetado pela fumaça. Você sai 
 ## ShardJumper
 
 **LV 3,  :**
