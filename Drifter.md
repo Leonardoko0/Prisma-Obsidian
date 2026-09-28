@@ -57,7 +57,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
 
-**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Ânc
+**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Âncora gastando sua ação de m
 
 **LV 14, Âncora Rápida:
 
