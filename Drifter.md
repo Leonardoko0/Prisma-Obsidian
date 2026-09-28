@@ -78,7 +78,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 14, Aidos:** Sua fumaça se muta para uma nebulosa translúcida de cores diversas. O poder dissonante interage com a nossa realidade diretamente
 
-- O efeito da Hunter Smoke sempre dura duas rodadas e o bônus sobe para +10 em furti
+- O efeito da Hunter Smoke sempre dura duas rodadas e o bônus sobe para +10 em furtividade
+- Quando realizar uma reação de esquiva você pode gastar 1pp para jogar a Hunter Smoke em si mesmo
 **LV 20,  :**
 ## ShardJumper
 
