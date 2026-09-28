@@ -57,8 +57,8 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
 
-**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Âncora gastando sua ação de m
+**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Âncora gastando sua ação de movimento e 1 de Estâmina. 
 
-**LV 14, Âncora Rápida:
+**LV 14, Âncora Rápida:** Gasta mais pp para 
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
