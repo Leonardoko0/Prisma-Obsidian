@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,12 +242,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1492b380ab277570",
+  "active": "77074c8a71ff9f24",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Arbiter.md",
     "Drifter.md",
-    "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Nômade.md",
     "Sovereign.md",
     "Rpg/Fendas Malignas.md",
     "Rpg/Dissônancias.md",
