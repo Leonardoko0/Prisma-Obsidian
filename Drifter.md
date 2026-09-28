@@ -71,7 +71,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 - Esfumaçado: Recebe +5 em Furtividade
 
-**LV 9,  :**
+**LV 9,  :** A fumaça se torna anómala  
 **LV 14,   :**
 **LV 20,  :**
 ## ShardJumper
