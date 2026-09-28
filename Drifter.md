@@ -64,5 +64,11 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
 
 ## Stalker
-## Riftwalker
+**LV 3, Sonho Azul:**
+
+**LV 9, Sweet Dreams:**
+
+**LV 14, Fluxo de Areia:**
+
+**LV 20, Renascimento Onírico:**
 ##
