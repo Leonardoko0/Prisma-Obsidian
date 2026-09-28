@@ -55,7 +55,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 2, Anchor RSB:** Permite utilizar as habilidades da Anchor RSB. Olhar a descrição acima da arvore de habilidades
 
-**LV 5, Ataque Pinça:** No ulti
+**LV 5, Ataque Pinça:** No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente 
 
 **LV 10, Ancora inversa:**
 
