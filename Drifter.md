@@ -105,4 +105,4 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 
 **LV 14, Grudar a Carne:** após acertar um ataque flanqueando ou gastando 2 de Estâmina, você transforma em um ataque perfurante que prende o alvo(Reflexo DT=Ataque, evita), você pode gastar sua reação para puxar o alvo junto com você para uma Âncora. Aumenta o dano do Sangramento para 1d8 
 
-**LV 20, Carnificina:** 
+**LV 20, Carnificina:** Você libera todo o seu PP (Mínimo 5) e fica incapaz de recupera-lo
