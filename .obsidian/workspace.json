@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,11 +256,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "be53aace170957b5",
+  "active": "1492b380ab277570",
   "lastOpenFiles": [
+    "Rpg/Personagens/Background.md",
+    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
-    "Rpg/Personagens/Background.md",
     "Rpg/Personagens/Arbiter.md",
     "Sovereign.md",
     "Rpg/Personagens/Nômade.md",
@@ -276,7 +277,6 @@
     "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Atributos.md",
-    "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Traits.md",
     "Sistema de salas.md",
     "(-)Hivemind.md",
