@@ -7,7 +7,7 @@ O Arbiter é uma classe de linha de frente, focada em explodir inimigos com seu 
 
 **Salvaguardas**: Constituição e força
 
-**Armadura:** 
+**Armadura:**  Leve e Média
 ## **O KnuckleBlaster**
 **É um Implante especial que utiliza balas explosivas para criar grades estragos ao Inimigo.**
 

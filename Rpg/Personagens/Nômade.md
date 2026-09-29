@@ -7,7 +7,7 @@ O nômade é uma classe de linha de frente, focada em decapitar inimigos antes q
 
 **Salvaguardas**: Agilidade e Sentido
 
-**Armadura:** 
+**Armadura:** Leve e Média
 ## **Kira Blade**
 **Uma Katana mergulhada na corrupção do Erebus controlada apenas pela vontade daquele que ousar utiliza-la**
 
