@@ -10,7 +10,7 @@ O Artillerista é uma classe especializada em armas de fogo. Focado em alta prec
 
 **Salvaguardas**: Agilidade e Sentido
 
-**Armadura
+**Armadura:** 
 ## **M.A.G.N.U.M Impusca Vana
 É um revólver pesado, Extremamente preciso, Letal e com balas perfurantes.
 

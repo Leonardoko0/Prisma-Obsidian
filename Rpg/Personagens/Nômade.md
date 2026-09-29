@@ -6,6 +6,8 @@ O nômade é uma classe de linha de frente, focada em decapitar inimigos antes q
 **Proficiências**: Escolha Duas entre Acrobacia, Atletismo, Destreza manual, Éter Furtividade, Percepção. E duas perícias extras.
 
 **Salvaguardas**: Agilidade e Sentido
+
+**Armadura:** 
 ## **Kira Blade**
 **Uma Katana mergulhada na corrupção do Erebus controlada apenas pela vontade daquele que ousar utiliza-la**
 

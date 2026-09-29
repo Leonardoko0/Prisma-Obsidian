@@ -6,6 +6,7 @@
 
 **Salvaguardas**: Lucidez e Moral
 
+**Armadura:** 
 ## **Faca Cytherean**
 **Uma faca que emana um forte pressentimento inexplicável tanto de forma acolhedora e confortável quanto perigosa e intimidadora**  
 
