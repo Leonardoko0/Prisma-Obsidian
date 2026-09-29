@@ -75,8 +75,7 @@
               "title": "Vestimentas e Armaduras"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,11 +227,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "df60401be2694060",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
     "Talentos.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
