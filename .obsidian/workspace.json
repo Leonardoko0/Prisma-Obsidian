@@ -33,8 +33,7 @@
               "title": "Armas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +185,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2cc3e6e402aed27a",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Drifter.md",
@@ -204,7 +204,6 @@
     "Talentos.md",
     "Combate de Ambiente.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Traits.md",
