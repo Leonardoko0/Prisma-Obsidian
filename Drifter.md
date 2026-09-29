@@ -89,7 +89,7 @@ Especialistas em desaparecer do campo de batalha e atacar de onde menos se esper
 - Você fica intangível até a próxima rodada (Você ainda toma dano Mental/Éter/Erebus)
 - Realizar qualquer ataque enquanto estiver nesse modo é um sucesso garantindo contra a percepção do alvo (Quase todo alvo é sempre desprevenido contra seu ataque)
 ## ShardJumper
-Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de batalha em uma extensão de seu próprio espaço. Os ShardJumpers manipulam o próprio espaço físico, transformar seus pontos de ancoragem em uma rede de movimentação quase impossível de acompanhar.
+Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de batalha em uma extensão de seu próprio espaço. Os ShardJumpers manipulam o próprio espaço físico e distâncias do combate,  transformando seus pontos de ancoragem em uma rede de movimentação quase impossível de acompanhar.
 
 **LV 3, Rede de Âncoras:** Você pode colocar duas Âncoras em dois lugares diferentes, além disso colocar a primeira Âncora não gasta PP
 
@@ -100,6 +100,7 @@ Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de bata
 **LV 20, Domínio Espacial:** Você pode colocar e se puxar para Âncoras sem gastar ações ou PP, além disso você pode escolher teletransportar inimigos que passarem adjacentes a suas Âncoras para qualquer outra Âncora. Você pode colocar mais uma Âncora
 
 ## Reaper
+Guerreiros que abandonaram a versatilidade do Drifter para dominar completamente a M.B Type Dread. Os Reapers transformam a lâmina em uma extensão de seu próprio corpo, utilizando movimentos brutais para manter seus inimigos sob pressão constante. Quanto mais tempo permanecem em combate, mais perigosa se torna sua lâmina — até que o portador finalmente libere todo o seu potencial.
 
 **LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa, além disso seus ataques aplicam sangramento 1d4 dano por 1d2 rodadas (DT: Ataque)
 
