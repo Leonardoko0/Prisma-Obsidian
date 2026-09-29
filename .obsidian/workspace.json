@@ -47,7 +47,8 @@
               "title": "Carga e Peso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +200,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "2cc3e6e402aed27a",
   "lastOpenFiles": [
-    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Armas.md",
+    "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
     "Drifter.md",
