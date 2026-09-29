@@ -100,7 +100,8 @@ Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de bata
 **LV 20, Domínio Espacial:** Você pode colocar e se puxar para Âncoras sem gastar ações ou PP, além disso você pode escolher teletransportar inimigos que passarem adjacentes a suas Âncoras para qualquer outra Âncora. Você pode colocar mais uma Âncora
 
 ## Reaper
-Guerreiros que abandonaram a versatilidade do Drifter para dominar completamente a M.B Type Dread. Os Reapers transformam a lâmina em uma extensão de seu próprio corpo, utilizando movimentos brutais para manter seus inimigos sob pressão constante. Quanto mais tempo permanecem em combate, mais perigosa se torna sua lâmina — até que o portador finalmente libere todo o seu potencial.
+Guerreiros que abandonaram a versatilidade do Drifter para dominar completamente a M.B Type Dread. Os Reapers transformam a lâmina em uma extensão de seu próprio corpo, utilizando movimentos brutais para manter seus inimigos sob pressão constante. Quanto mais tempo permanecem em combate, mais perigosa se torna sua lâmina.
+*"até que o portador finalmente libere todo o seu potencial."*
 
 **LV 3, Lâmina Faminta:** Você pula o passo de ativação da lâmina podendo atacar na mesma rodada que ela foi ativa, além disso seus ataques aplicam sangramento 1d4 dano por 1d2 rodadas (DT: Ataque)
 
