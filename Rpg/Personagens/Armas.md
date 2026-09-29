@@ -319,3 +319,4 @@ Pode usar tanto força quando agilidade como atributo principal. Não custa est�
 #### Automático
 ##### Silenciado
 #### Rápido
+Pode Sacar como ação livre 1x por turno
