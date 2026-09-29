@@ -64,7 +64,7 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
 
 ## Stalker
-Especialistas em desaparecer do campo de batalha e atacar de onde menos se espera, eles utilizam uma fumaça anômala para distorcer seus corpos e ocultar sua presença. Conforme dominam a Dissonância presente no gás, tornam-se cada vez menos presos às limitações do plano material
+Especialistas em desaparecer do campo de batalha e atacar de onde menos se espera, eles utilizam uma fumaça anômala para distorcer seus corpos e ocultar sua presença. Dominadores natos da técnica de Aidos
 
 **LV 3, Hunter Smoke:** Agora quando utilizar o saque da **M.B Type Dread,** você pode gastar dois de Estâmina ou 1 PP para jogar uma bomba de fumaça em você mesmo ou em um alvo adjacente
 
