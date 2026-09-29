@@ -63,7 +63,6 @@ Gaste sua ação de movimento e mais 1pp para se teletransportar para o local ma
 **LV 14, Âncora Rápida:** Você não gasta mais pp para se puxar para a Âncora
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
-
 ## Stalker
 Especialistas em desaparecer do campo de batalha e atacar de onde menos se espera, eles utilizam uma fumaça anômala para distorcer seus corpos e ocultar sua presença. Dominadores natos da técnica de Aidos
 
