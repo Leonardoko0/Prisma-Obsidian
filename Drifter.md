@@ -89,7 +89,7 @@ Especialistas em desaparecer do campo de batalha e atacar de onde menos se esper
 - Você fica intangível até a próxima rodada (Você ainda toma dano Mental/Éter/Erebus)
 - Realizar qualquer ataque enquanto estiver nesse modo é um sucesso garantindo contra a percepção do alvo (Quase todo alvo é sempre desprevenido contra seu ataque)
 ## ShardJumper
-Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de batalha em uma extensão de seu próprio espaço. Os ShardJumpers manipulam o próprio, usando-os perseguir inimigos e transformar seus pontos de ancoragem em uma rede de movimentação quase impossível de acompanhar.
+Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de batalha em uma extensão de seu próprio espaço. Os ShardJumpers manipulam o próprio espaço físico, transformar seus pontos de ancoragem em uma rede de movimentação quase impossível de acompanhar.
 
 **LV 3, Rede de Âncoras:** Você pode colocar duas Âncoras em dois lugares diferentes, além disso colocar a primeira Âncora não gasta PP
 
