@@ -96,7 +96,7 @@ Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de bata
 
 **LV 9, Âncora Instantânea:** Você libera **Âncora inversa** um nível antes, Além disso se puxar para uma Âncora não gasta sua ação de movimento. Você pode colocar mais uma Âncora
 
-**LV 14, Interceptação:** Agora você pode gastar sua reação para quando um alvo inimigo passar adjacentes a um local de Âncora para você se puxar até ele e realizar um ataque. Você pode pode colocar mais uma Âncora. Gaste 1pp para retornar a posição que você estava antes do a
+**LV 14, Interceptação:** Agora você pode gastar sua reação para quando um alvo inimigo passar adjacentes a um local de Âncora para você se puxar até ele e realizar um ataque. Você pode pode colocar mais uma Âncora. Gaste 1pp para retornar a posição que você estava antes do ataque
 
 **LV 20, Domínio Espacial:** Você pode colocar e se puxar para Âncoras sem gastar ações ou PP, além disso você pode escolher teletransportar inimigos que passarem adjacentes a suas Âncoras para qualquer outra Âncora. Você pode colocar mais uma Âncora
 
