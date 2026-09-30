@@ -94,7 +94,7 @@ Drifters que dominaram a tecnologia das Âncoras e transformaram o campo de bata
 
 **LV 3, Rede de Âncoras:** Você pode colocar duas Âncoras em dois lugares diferentes, além disso colocar a primeira Âncora não gasta PP
 
-**LV 9, Âncora Instantânea:** Você libera **Âncora inversa** um nível antes, Além disso se puxar para uma Âncora não gasta sua ação de movimento
+**LV 9, Âncora Instantânea:** Você libera **Âncora inversa** um nível antes, Além disso se puxar para uma Âncora não gasta sua ação de movimento.
 
 **LV 14, Interceptação:** Agora você pode gastar sua reação para quando um alvo inimigo passar adjacentes a um local de Âncora para você se puxar até ele e realizar um ataque. Você pode pode colocar mais uma Âncora
 
