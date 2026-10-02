@@ -66,7 +66,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 
 **LV 5, Pinças Respiratórias:** Você pode gastar +2 PP ao usar **Anátema: Pulmão Retorcido** para fazer a habilidade lançar dardos de carne. Para cada alvo atingido, você recebe 1 ponto de Decomposição. Ao utilizar essa versão da habilidade, os alvos atingidos não ficam ''Cobertos por Sangue Preto".
 
-**LV 10, Maldição dos caídos e macu :** 
+**LV 10, Maldição dos Caídos e Machucados:** Sempre que um alvo ''Cobertos por Sangue Preto" morrer ou ficar com metade de seus pontos de vida totais o 
 
 **LV 14, :** 
 
