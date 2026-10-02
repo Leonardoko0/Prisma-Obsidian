@@ -4,7 +4,7 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: Escolha quatro entre: . E duas perícia extras
+**Proficiências**: Escolha quatro entre Adestramento, Arte, Ciências, Éter, Tática, Religião,  . E duas perícia extras
 
 **Salvaguardas**: 
 
