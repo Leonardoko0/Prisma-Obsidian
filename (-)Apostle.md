@@ -12,7 +12,7 @@
 ## Anátema: Pulmão Retorcido
 **Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. "O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne".**
 
-Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvos escolhidos a 4,5m/3 Tiles, os alvos deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura 1d2 rodadas e o alvo pode fazer um salvaguarda de lucidez (Mesma DT) para tirar o efeito .
+Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvos escolhidos a 4,5m/3 Tiles, os alvos deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura 1d2 rodadas e o alvo pode fazer um salvaguarda de lucidez (Mesma DT) para tirar o efeito.
 
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus. "Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
@@ -22,7 +22,8 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 ## Maldição do Sangue Preto
 **"Uma fonte maldita e infinita que, há muito tempo, foi aberta para o nosso plano. Seu fluxo negro decompõe ao toque, apodrece ao ser observado e corrompe ao ser pensado."**
 
-Para usar suas habilidades você precisa cumprir algum requisitos
+Para usar suas habilidades você precisa cumprir algum requisitos:
+- Estar coberto por sangue preto
 
 
 
