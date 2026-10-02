@@ -68,7 +68,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 
 **LV 10, Maldição dos Caídos e Machucados:** Sempre que um alvo ''Cobertos por Sangue Preto" morrer ou ficar com metade de seus pontos de vida totais o Apostle ganha mais 1 ponto de Decomposição
 
-**LV 14, :** 
+**LV 14, Berço Manancial:** Você pode gastar +2 PP ao usar **Anátema: Berço da Mãe Morta** para fazer a habilidade jorrar um sangue mais espeço e duv
 
 **LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
