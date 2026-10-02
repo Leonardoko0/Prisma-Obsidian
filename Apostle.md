@@ -91,9 +91,9 @@ Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode in
 Acertar um alvo que esteja "Coberto por Sangue Preto" faz ele ficar (Quebrado I) pela próxima rodada
 - Ao ficar sem a capacidade de usar a Theourgia's Hand, (Seja por falta de PP ou Decomposição) a lâmina se recolhe para dentro do seu braço formando uma camada de carne que em alguns instantes se molda ao seu braço, regenerando assim sua mão.
 
-|    Dano    | Alcance  | Crítico |              Propriedades              |
-| :--------: | :------: | :-----: | :------------------------------------: |
-| 4d8 Erebus | Corporal |   3x    | (Carga) Pesado, Perdurante, Barulhento |
+|    Dano    | Alcance  | Crítico | Propriedades |
+| :--------: | :------: | :-----: | :----------: |
+| 4d8 Erebus | Corporal |  2x/18  |   Acuidade   |
 
 **LV 9, :** 
 
