@@ -108,7 +108,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 |     Dano     | Alcance  | Crítico |        Propriedades        |
 | :----------: | :------: | :-----: | :------------------------: |
 | 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
-**Marreta dos Desvalidos**:: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco aplica 1 rodada de "Coberto por Sangue Preto"
+**Espada do Alquebrado**: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco aplica 1 rodada de "Coberto por Sangue Preto"
 
 |    Dano     | Alcance  | Crítico |     Propriedades      |
 | :---------: | :------: | :-----: | :-------------------: |
@@ -118,11 +118,18 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **Foice dos Caídos:**
 
+|    Dano    | Alcance | Crítico |       Propriedades       |
+| :--------: | :-----: | :-----: | :----------------------: |
+| 6d6 Erebus |   3m    |  2x/18  | Leve, Theourgia's, Amplo |
 
 **Marreta dos Desvalidos**:
 
+|     Dano     | Alcance  | Crítico |        Propriedades        |
+| :----------: | :------: | :-----: | :------------------------: |
+| 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
 
-**Marreta dos Desvalidos**:
+**Espada dos Alquebrado:**
+
 
 **LV 20, :** 
 ## Blood Caster
