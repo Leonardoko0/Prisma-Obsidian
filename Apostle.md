@@ -134,7 +134,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :---------: | :------: | :-----: | :-------------------: |
 | 5d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 
-**LV 20, :** 
+**LV 20, :**
 ## Blood Caster
 
 
