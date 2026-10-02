@@ -75,7 +75,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 ## Seal of Reikala
 **LV 1, Meatbound:** Você escolhe um alvo que esteja "Coberto por Sangue Preto", gaste 3 pontos de decomposição e sua ação completa para fazer a pele do alvo rachar e abrir explodindo em sangue e criando um Meatbound. Você deve estar "Coberto por Sangue Preto"
 
-**LV 9, Vetala:**  
+**LV 9, Vetala:** Você deve estar com 7 pontos de decomposição e sua ação completa para bater no chão fazendo vár 
 
 **LV 14, :** 
 
