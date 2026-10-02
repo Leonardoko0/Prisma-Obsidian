@@ -89,7 +89,7 @@ Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode in
 ## Theourgia's Hand
 **LV 1, :** Como ação de movimento, enquanto você estiver "Coberto por Sangue Preto", você pode arrancar o seu braço revelando uma lâmina feita de ossos, metal enferrujado e carne (Guardando sua arma). Você gasta sua ação padrão, 1PP e 2 pontos de Decomposição para atacar usando essa arma.
 Acertar um alvo que esteja "Coberto por Sangue Preto" faz ele ficar (Quebrado I) pela próxima rodada
-- Ao ficar sem a capacidade de usa
+- Ao ficar sem a capacidade de usar a Theourgia's Hand (Seja por falta de PP ou Decomposição) a lâmina se recolhe para dentro do seu braço formando uma camada de carne qu
 
 **LV 9, :** 
 
