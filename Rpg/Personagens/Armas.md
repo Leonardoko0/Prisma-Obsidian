@@ -130,7 +130,7 @@
 ### Corporal
 |     Nome      | Preço |      Dano      |  Peso  | Alcance | Crítico | Propriedades            |
 | :-----------: | :---: | :------------: | :----: | :-----: | :-----: | :---------------------- |
-|     Faca      |  50u  |  1d4 Cortante  | 0,5 kg |  6m/9m  |  18/x2  | Leve, Arremesso         |
+|     Faca      |  50u  |  1d4 Cortante  | 0,5 kg |  6m/9m  |  18/x3  | Leve, Arremesso         |
 | Lâmina Média  | 125u  |  1d6 Cortante  | 1,0 kg |  1,5m   |  19/x2  | Acuidade, Rápida        |
 |     Lança     | 125u  | 1d8 Perfurante | 2,0 kg |  3,0m   |   x2    | Acuidade, Alcance       |
 | Espada Longa  | 200u  |  1d8 Cortante  | 1,5 kg |  1,5m   |  19/x2  | Versátil (10), Acuidade |
@@ -139,10 +139,10 @@
 |    Machado    | 250u  | 1d12 Cortante  | 3,5 kg |  1,5 m  |   x2    | Pesado, Duas Mãos       |
 |    Marreta    | 275u  |  2d6 Contusão  | 5,0 kg |  1,5 m  |   x2    | Pesado, Duas Mãos       |
 |     Maça      | 200u  |  1d8 Contusão  | 3,0 kg |  1,5 m  |   x2    | Pesada, Versátil (10)   |
-|    Chicote    | 150u  |  1d6 Contusão  | 1,0 kg |  4,5 m  |   x2    | Acuidade, Alcance       |
+|    Chicote    | 150u  |  1d6 Contusão  | 1,0 kg |  4,5 m  |   x2    | Acuidade, Alcance+      |
 | Bastão/Cajado | 100u  |  1d6 Contusão  | 2,0 kg |  1,5 m  |   x2    | Versátil(8) Acuidade    |
 #### Faca
-- Preço: 50u
+- Preço: 50u 
 - Dano: 1d4 Cortante
 - Peso: 0,5
 - Carga: 1
