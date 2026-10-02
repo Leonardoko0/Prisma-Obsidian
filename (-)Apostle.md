@@ -22,28 +22,28 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 
 ## **Árvore de Habilidade**
 
-| Nível | Proficiência | Pulmão Retorcido | Sangramento Preto |     Características      |
-| :---: | :----------: | :--------------: | :---------------: | :----------------------: |
-|  1*   |      +2      |    3d8 Corte     |                   |  **Anátemas** Subclasse  |
-|  2*   |      +2      |        -         |                   |       Treinamento        |
-|  3*   |      +2      |        -         |                   |            ()            |
-|  4*   |      +2      |        -         |                   | Melhoramento de Atributo |
-|  5*   |      +3      |        -         |                   |      Treinamento()       |
-|  6*   |      +3      |       4d8        |                   | Treinamento de Perícias  |
-|  7*   |      +3      |        -         |                   | Proficiencia de Combate  |
-|  8*   |      +3      |        -         |                   | Melhoramento de Atributo |
-|  9*   |      +4      |        -         |                   |        Subclasse         |
-|  10*  |      +4      |        -         |                   |      Treinamento ()      |
-|  11*  |      +4      |       5d10       |                   | Treinamento de Perícias  |
-|  12*  |      +4      |        -         |                   | Melhoramento de Atributo |
-|  13*  |      +5      |        -         |                   | Proficiência de Combate  |
-|  14*  |      +5      |        -         |                   |       Subclasse ()       |
-|  15*  |      +5      |        -         |                   |       Treinamento        |
-|  16*  |      +5      |       7d10       |                   | Treinamento de Atributo  |
-|  17*  |      +6      |        -         |                   | Treinamento de Perícias  |
-|  18*  |      +6      |        -         |                   |       Treinamento        |
-|  19*  |      +6      |        -         |                   | Melhoramento de Atributo |
-|  20*  |      +6      |        -         |                   |        Subclasse         |
+| Nível | Proficiência | Pulmão Retorcido | Sangramento |     Características      |
+| :---: | :----------: | :--------------: | :---------: | :----------------------: |
+|  1*   |      +2      |                  |             |  **Anátemas** Subclasse  |
+|  2*   |      +2      |                  |             |       Treinamento        |
+|  3*   |      +2      |                  |             |            ()            |
+|  4*   |      +2      |                  |             | Melhoramento de Atributo |
+|  5*   |      +3      |                  |             |      Treinamento()       |
+|  6*   |      +3      |                  |             | Treinamento de Perícias  |
+|  7*   |      +3      |                  |             | Proficiencia de Combate  |
+|  8*   |      +3      |                  |             | Melhoramento de Atributo |
+|  9*   |      +4      |                  |             |        Subclasse         |
+|  10*  |      +4      |                  |             |      Treinamento ()      |
+|  11*  |      +4      |                  |             | Treinamento de Perícias  |
+|  12*  |      +4      |                  |             | Melhoramento de Atributo |
+|  13*  |      +5      |                  |             | Proficiência de Combate  |
+|  14*  |      +5      |                  |             |       Subclasse ()       |
+|  15*  |      +5      |                  |             |       Treinamento        |
+|  16*  |      +5      |                  |             | Treinamento de Atributo  |
+|  17*  |      +6      |                  |             | Treinamento de Perícias  |
+|  18*  |      +6      |                  |             |       Treinamento        |
+|  19*  |      +6      |                  |             | Melhoramento de Atributo |
+|  20*  |      +6      |                  |             |        Subclasse         |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
@@ -54,6 +54,13 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 
 ## Seal of Reikala
+**LV 3, Lâmina Faminta:** 
+
+**LV 9, Divisor:** 
+
+**LV 14, Grudar a Carne:** 
+
+**LV 20, Carnificina:** 
 ## Theourgia's Hand
 ## 
 ## Blood Caster
