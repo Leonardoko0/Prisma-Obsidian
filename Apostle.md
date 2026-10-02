@@ -79,9 +79,9 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 9, Vetala:** Você deve estar com 6 pontos de decomposição e sua ação completa para bater no chão fazendo várias veias se espalhar. Das veias um criatura vai emergir segurando uma foice.
 Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição a cada 10% perdidos.
 Ao final do combate a criatura se desfaz e volta para o conjurador, você pode reenvocar ele no inicio de outro combate como uma ação de movimento 
-- Olhar [Grim]
+- Olhar [Red Grim]
 
-**LV 14, Haruspex:** Você pode invocar outro Grim
+**LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate
 
 **LV 20, :** 
 ## Theourgia's Hand
