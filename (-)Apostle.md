@@ -9,9 +9,9 @@
 **Salvaguardas**: 
 
 **Armadura:** 
-## Pulmão Retorcido
+## Anátema: Pulmão Retorcido
 
-## Berço da Mãe Morta 
+## Anátema: Berço da Mãe Morta 
 ## **Árvore de Habilidade**
 
 | Nível | Proficiência | M.B Type Dread |     |     Características      |
