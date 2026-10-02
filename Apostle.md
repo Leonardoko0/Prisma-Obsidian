@@ -103,7 +103,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :--------: | :------: | :-----: | :----------------------: |
 | 6d6 Erebus | Corporal |  2x/18  | Leve, Theourgia's, Amplo |
 
-**Marreta dos desvalidos**:  Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para aplicar o efeito de (Quebrado I) no alvo
+**Marreta dos Desvalidos**:  Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para aplicar o efeito de (Quebrado I) no alvo
 
 |     Dano     | Alcance  | Crítico |       Propriedades       |
 | :----------: | :------: | :-----: | :----------------------: |
