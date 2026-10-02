@@ -73,7 +73,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
 ## Seal of Reikala
-**LV 1, Meatbound:**  
+**LV 1, Meatbound:** Você escolhe um alvo que esteja coberto, gaste 6 pontos de decomposição 
 
 **LV 9, :** 
 
