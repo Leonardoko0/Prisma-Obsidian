@@ -134,7 +134,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :---------: | :------: | :-----: | :-------------------: |
 | 5d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 
-**LV 20, Theourgia's Apotheosis:** 
+**LV 20, Theourgia's Apotheosis:** Você se torna um com a Theourgia's Hand, encravada na sua carne, pele e alma
 ## Blood Caster
 
 
