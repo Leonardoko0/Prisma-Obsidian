@@ -78,10 +78,10 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 
 **LV 9, Vetala:** Ao possuir 6 Pontos de Decomposição, você pode utilizar sua Ação Completa para golpear o chão, fazendo com que diversas veias se espalhem pelo terreno. Uma criatura emerge das veias, segurando uma foice.
 Para realizar a invocação, você pode gastar até 50% da sua Vida. Para cada 10% de Vida perdida, você recebe 1 Ponto de Decomposição.
-Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode invocá-la novamente no início de outro combate utilizando uma **Ação de Movimento**.
+Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode invocá-la novamente no início de outro combate utilizando uma Ação de Movimento.
 - Olhar [Red Grim]
 
-**LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate recuperando 25% da sua vida ou os restos dos PVs da criatura (o que for menor).
+**LV 14, Haruspex:** Você pode invocar outro Grim, seguindo as mesmas condições da invocação anterior. Entretanto, este Grim se desfaz ao final do combate, recuperando 25% de sua Vida ou os PVs restantes da criatura, o que for menor.
 - Olhar [Black Grim]
 
 **LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 pontos de decomposição para revive-lo como uma criatura de sangue, ele manterá sua ficha e retornará com a vida completa, além disso, quando o combate acabar ele lentamente vai começar a dissolver (enquanto ele tem conciencia) até sobra
