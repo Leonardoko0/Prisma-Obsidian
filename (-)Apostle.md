@@ -62,7 +62,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 3, Pulmão Inativo:** 
+**LV 3, Pulmão Dormente:** Gaste 1pp para colocar um timer de no máximo 3 rodadas na habilidade "Anátema: Pulmão Retorcido" 
 
 **LV 5, :** 
 
