@@ -46,6 +46,20 @@
               "icon": "lucide-file",
               "title": "Apostle"
             }
+          },
+          {
+            "id": "6b04450ea0ca886d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Artilherista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artilherista"
+            }
           }
         ],
         "currentTab": 2
@@ -202,6 +216,7 @@
   },
   "active": "64e37e90c51c644b",
   "lastOpenFiles": [
+    "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
     "Apostle.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
@@ -211,7 +226,6 @@
     "Talentos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Sovereign.md",
     "Rpg/Personagens/Arbiter.md",
