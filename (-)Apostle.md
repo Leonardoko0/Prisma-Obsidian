@@ -17,6 +17,8 @@ Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus. "Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
 
+Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da sua cabeça  
+
 
 ## **Árvore de Habilidade**
 
