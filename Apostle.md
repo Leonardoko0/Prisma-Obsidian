@@ -73,12 +73,12 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
 ## Seal of Reikala
-**LV 1, Meatbound:** Escolha um alvo que esteja "Coberto por Sangue Preto", gaste 3 pontos de decomposição e sua ação completa para fazer a pele do alvo rachar e abrir explodindo em sangue. Do sangue e carne um Meatbound é criado. Você deve estar "Coberto por Sangue Preto"
+**LV 1, Meatbound:** Escolha um alvo que esteja "Coberto por Sangue Preto", gaste 3 pontos de Decomposição e sua ação completa para fazer a pele do alvo rachar e abrir explodindo em sangue. Do sangue e carne um Meatbound é criado. Você deve estar "Coberto por Sangue Preto"
 - Olhar [Meatbound]
 
-**LV 9, Vetala:** Você deve estar com 6 pontos de decomposição e sua ação completa para bater no chão fazendo várias veias se espalhar. Das veias um criatura vai emergir segurando uma foice.
-Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição a cada 10% perdidos.
-Ao final do combate a criatura se desfaz e volta para o conjurador, você pode reenvocar ele no inicio de outro combate como uma ação de movimento 
+**LV 9, Vetala:** Ao possuir 6 Pontos de Decomposição, você pode utilizar sua Ação Completa para golpear o chão, fazendo com que diversas veias se espalhem pelo terreno. Uma criatura emerge das veias, segurando uma foice.
+Para realizar a invocação, você pode gastar até 50% da sua Vida. Para cada 10% de Vida perdida, você recebe 1 Ponto de Decomposição.
+Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode invocá-la novamente no início de outro combate utilizando uma **Ação de Movimento**.
 - Olhar [Red Grim]
 
 **LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate recuperando 25% da sua vida ou os restos dos PVs da criatura (o que for menor).
