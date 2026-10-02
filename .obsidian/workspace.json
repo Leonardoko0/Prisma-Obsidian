@@ -47,8 +47,7 @@
               "title": "Apostle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de06c9458352fe48",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Apostle.md",
     "Drifter.md",
+    "Apostle.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
