@@ -10,6 +10,7 @@
 
 **Armadura:** 
 ## Anátema: Pulmão Retorcido
+**Uma Antiga magia **
 
 ## Anátema: Berço da Mãe Morta 
 ## **Árvore de Habilidade**
