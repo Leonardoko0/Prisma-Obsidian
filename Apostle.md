@@ -80,7 +80,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição a cada 10% perdidos
 - Olhar [Grim]
 
-**LV 14, :** 
+**LV 14, Haruspex:** 
 
 **LV 20, :** 
 ## Theourgia's Hand
