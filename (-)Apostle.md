@@ -19,6 +19,8 @@ Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima
 
 Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da sua cabeça. Essa fissura vai derramar sangue deixando o conjurador **Coberto por Sangue Preto**
 
+## Maldição do Sangue Preto
+""
 
 ## **Árvore de Habilidade**
 
@@ -54,14 +56,21 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 
 ## Seal of Reikala
-**LV 3, Lâmina Faminta:** 
+**LV 1, :** 
 
-**LV 9, Divisor:** 
+**LV 9, :** 
 
-**LV 14, Grudar a Carne:** 
+**LV 14, :** 
 
-**LV 20, Carnificina:** 
+**LV 20, :** 
 ## Theourgia's Hand
+**LV 1, :** 
+
+**LV 9, :** 
+
+**LV 14, :** 
+
+**LV 20, :** 
 ## 
 ## Blood Caster
 
