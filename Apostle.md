@@ -84,7 +84,7 @@ Ao final do combate a criatura se desfaz e volta para o conjurador, você pode r
 **LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate recuperando 25% da sua vida ou os restos dos PVs da criatura (o que for menor).
 - Olhar [Black Grim]
 
-**LV 20, Erebusmancy:** Caso um aliado morra, você  
+**LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 pontos de decomposição para revive-lo como uma criatura de sangue, ele manterá sua ficha e retornará com a vida completa, além disso, quando o com 
 ## Theourgia's Hand
 **LV 1, :** 
 
