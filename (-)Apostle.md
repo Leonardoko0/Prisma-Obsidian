@@ -60,6 +60,17 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
+### Habilidade Ativa
+
+**LV 3, Anchor RSB:** 
+
+**LV 5, Ataque Pinça:** 
+
+**LV 10, Âncora inversa:** 
+
+**LV 14, Âncora Rápida:** 
+
+**LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
 ## Seal of Reikala
 **LV 1, :** 
