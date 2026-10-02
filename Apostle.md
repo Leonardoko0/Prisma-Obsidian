@@ -97,7 +97,11 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **LV 9, :** A Theourgia's Hand se molda a vontade do conjurador, ela muda sua aparência e qualidades se adaptando a carne onde está localizada. Escolha entre um dos 3 tipos a seguir
 
-****
+**Foice dos Caídos**
+
+|    Dano    | Alcance  | Crítico |     Propriedades      |
+| :--------: | :------: | :-----: | :-------------------: |
+| 6d6 Erebus | Corporal |  2x/18  | Acuidade, Theourgia's |
 
 **LV 14, :** 
 
