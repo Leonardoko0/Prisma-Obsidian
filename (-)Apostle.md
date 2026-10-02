@@ -20,7 +20,7 @@ Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima
 Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da sua cabeça. Essa fissura vai derramar sangue deixando o conjurador **Coberto por Sangue Preto**
 
 ## Maldição do Sangue Preto
-"Uma fonte maldita e infinita que a muito tempo aberta para o nosso plano, seu fluxo preto decom
+"Uma fonte maldita e infinita que a muito tempo aberta para o nosso plano, seu fluxo preto decompões ao toque, apodrece ao observar e corrompe ao pensar"**
 
 ## **Árvore de Habilidade**
 
