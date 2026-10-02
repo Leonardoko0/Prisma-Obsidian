@@ -81,10 +81,12 @@ Para realizar a invocação, você pode gastar até 50% da sua Vida. Para cada 1
 Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode invocá-la novamente no início de outro combate utilizando uma Ação de Movimento.
 - Olhar [Red Grim]
 
-**LV 14, Haruspex:** Você pode invocar outro Grim, seguindo as mesmas condições da invocação anterior. Entretanto, este Grim se desfaz ao final do combate, recuperando 25% de sua Vida ou os PVs restantes da criatura, o que for menor.
+**LV 14, Haruspex:** Você pode invocar outro Grim, seguindo as mesmas condições da invocação anterior. Entretanto, esse Grim se desfaz ao final do combate, recuperando 25% de sua Vida ou os PVs restantes da criatura, o que for menor.
 - Olhar [Black Grim]
 
-**LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 pontos de decomposição para revive-lo como uma criatura de sangue, ele manterá sua ficha e retornará com a vida completa, além disso, quando o combate acabar ele lentamente vai começar a dissolver (enquanto ele tem conciencia) até sobra
+**LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 Pontos de Decomposição para revive-lo como uma Criatura de Sangue. O aliado mantém sua ficha original e retorna com sua Vida Completa.
+
+Caso um aliado morra, você pode gastar 10 pontos de decomposição para revive-lo como uma criatura de sangue, ele manterá sua ficha e retornará com a vida completa, além disso, quando o combate acabar ele lentamente vai começar a dissolver (enquanto ele tem conciencia) até sobra
 ## Theourgia's Hand
 **LV 1, :** 
 
