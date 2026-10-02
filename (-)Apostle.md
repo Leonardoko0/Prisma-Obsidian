@@ -10,7 +10,7 @@
 
 **Armadura:** 
 ## Anátema: Pulmão Retorcido
-**Uma manifestação do bruto e sanguinário vinda do fundo da mente do conjurador em conexão com o plano do Erebus. O mundano já escapou das suas veias, seu sangue jovem secou na areia brilhante da  **
+**Uma manifestação do bruto e sanguinário vinda do fundo da mente do conjurador em conexão com o plano do Erebus. O mundano já escapou das suas veias, seu sangue jovem secou na areia brilhante da universo e seu destino está traçado por sangue e carne.**
 
 ## Anátema: Berço da Mãe Morta 
 ## **Árvore de Habilidade**
