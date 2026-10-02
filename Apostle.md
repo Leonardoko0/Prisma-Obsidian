@@ -108,13 +108,21 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 |     Dano     | Alcance  | Crítico |        Propriedades        |
 | :----------: | :------: | :-----: | :------------------------: |
 | 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
-**Espada dos Alquebrado**: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco aplica 1 rodada de "Coberto por Sangue Preto"
+**Marreta dos Desvalidos**:: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco aplica 1 rodada de "Coberto por Sangue Preto"
 
 |    Dano     | Alcance  | Crítico |     Propriedades      |
 | :---------: | :------: | :-----: | :-------------------: |
 | 4d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 
-**LV 14, :** A Theourgia's Hand se to, arma parte do seu braço, agora você não precisa mais gastar sua ação de movimento para saca-la, além 
+**LV 14, :** A Theourgia's Hand se to, arma parte do seu braço, agora você não precisa mais gastar sua ação de movimento para saca-la, além disso a arma não se recolhe após você ficar incapaz de usar seu ataque.
+
+**Foice dos Caídos:**
+
+
+**Marreta dos Desvalidos**:
+
+
+**Marreta dos Desvalidos**:
 
 **LV 20, :** 
 ## Blood Caster
