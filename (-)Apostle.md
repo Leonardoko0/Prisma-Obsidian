@@ -9,4 +9,8 @@
 **Salvaguardas**: 
 
 **Armadura:** 
+## Pulmão 
 ##
+
+## Seal of Reikala
+
