@@ -134,7 +134,25 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :---------: | :------: | :-----: | :-------------------: |
 | 5d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 
-**LV 20, Theourgia's Apotheosis:** Você se torna um com a Theourgia's Hand, encravada na sua carne, pele e alma. Você pode gastar 1pp e sua ação de movimento para trocar trocar entre as diferentes formas da lâmina
+**LV 20, Theourgia's Apotheosis:** Você se torna um com a Theourgia's Hand, encravada na sua carne, pele e alma. Você pode gastar 1pp e sua ação de movimento para trocar trocar entre as diferentes formas da lâmina. além disso o dano delas aumenta
+
+**Foice dos Caídos:**
+
+|    Dano    | Alcance | Crítico |       Propriedades       |
+| :--------: | :-----: | :-----: | :----------------------: |
+| 9d6 Erebus |   3m    |  2x/18  | Leve, Theourgia's, Amplo |
+
+**Marreta dos Desvalidos**:
+
+|     Dano      | Alcance  | Crítico |        Propriedades        |
+| :-----------: | :------: | :-----: | :------------------------: |
+| 7d8+10 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
+
+**Espada dos Alquebrado:**
+
+|    Dano     | Alcance  | Crítico |     Propriedades      |
+| :---------: | :------: | :-----: | :-------------------: |
+| 6d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 ## Blood Caster
 
 
