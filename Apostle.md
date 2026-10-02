@@ -73,7 +73,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
 ## Seal of Reikala
-**LV 1, :** 
+**LV 1, Meatbound:**  
 
 **LV 9, :** 
 
