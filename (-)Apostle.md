@@ -30,28 +30,28 @@ Para usar suas habilidades você precisa cumprir algum requisitos:
 Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por Sangue Preto" toma dano direto ou por sangramento.
 ## **Árvore de Habilidade**
 
-| Nível | Proficiência | Pulmão Retorcido | Sangramento |          Características          |
-| :---: | :----------: | :--------------: | :---------: | :-------------------------------: |
-|  1*   |      +2      |   4,5m/3 Tiles   |     1d6     |      **Anátemas** Subclasse       |
-|  2*   |      +2      |        -         |      -      |            Treinamento            |
-|  3*   |      +2      |        -         |      -      |         (Pulmão Dormente)         |
-|  4*   |      +2      |        -         |      -      |     Melhoramento de Atributo      |
-|  5*   |      +3      |        -         |     2d6     | Treinamento(Pinças Respiratórias) |
-|  6*   |      +3      |        -         |      -      |      Treinamento de Perícias      |
-|  7*   |      +3      |        -         |      -      |      Proficiencia de Combate      |
-|  8*   |      +3      |    6m/4 Tiles    |      -      |     Melhoramento de Atributo      |
-|  9*   |      +4      |        -         |      -      |             Subclasse             |
-|  10*  |      +4      |        -         |     3d6     |      Treinamento (Maldição)       |
-|  11*  |      +4      |        -         |      -      |      Treinamento de Perícias      |
-|  12*  |      +4      |        -         |      -      |     Melhoramento de Atributo      |
-|  13*  |      +5      |        -         |      -      |      Proficiência de Combate      |
-|  14*  |      +5      |        -         |      -      |    Subclasse (Berço Manancial)    |
-|  15*  |      +5      |        -         |     4d6     |            Treinamento            |
-|  16*  |      +5      |   7,5m/5 Tiles   |             |      Treinamento de Atributo      |
-|  17*  |      +6      |        -         |             |      Treinamento de Perícias      |
-|  18*  |      +6      |        -         |             |            Treinamento            |
-|  19*  |      +6      |        -         |             |     Melhoramento de Atributo      |
-|  20*  |      +6      |        -         |             |             Subclasse             |
+| Nível | Proficiência | Pulmão Retorcido |   Sangramento   |          Características          |
+| :---: | :----------: | :--------------: | :-------------: | :-------------------------------: |
+|  1*   |      +2      |   4,5m/3 Tiles   | 1d6 Sangramento |      **Anátemas** Subclasse       |
+|  2*   |      +2      |        -         |        -        |            Treinamento            |
+|  3*   |      +2      |        -         |        -        |         (Pulmão Dormente)         |
+|  4*   |      +2      |        -         |        -        |     Melhoramento de Atributo      |
+|  5*   |      +3      |        -         |       2d6       | Treinamento(Pinças Respiratórias) |
+|  6*   |      +3      |        -         |        -        |      Treinamento de Perícias      |
+|  7*   |      +3      |        -         |        -        |      Proficiencia de Combate      |
+|  8*   |      +3      |    6m/4 Tiles    |        -        |     Melhoramento de Atributo      |
+|  9*   |      +4      |        -         |        -        |             Subclasse             |
+|  10*  |      +4      |        -         |  3d6 Arterial   |      Treinamento (Maldição)       |
+|  11*  |      +4      |        -         |        -        |      Treinamento de Perícias      |
+|  12*  |      +4      |        -         |        -        |     Melhoramento de Atributo      |
+|  13*  |      +5      |        -         |        -        |      Proficiência de Combate      |
+|  14*  |      +5      |        -         |        -        |    Subclasse (Berço Manancial)    |
+|  15*  |      +5      |        -         |       4d6       |            Treinamento            |
+|  16*  |      +5      |   7,5m/5 Tiles   |        -        |      Treinamento de Atributo      |
+|  17*  |      +6      |        -         |        -        |      Treinamento de Perícias      |
+|  18*  |      +6      |        -         |        -        |            Treinamento            |
+|  19*  |      +6      |        -         |        -        |     Melhoramento de Atributo      |
+|  20*  |      +6      |        -         |       5d6       |             Subclasse             |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
@@ -88,7 +88,6 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 14, :** 
 
 **LV 20, :** 
-## 
 ## Blood Caster
 
 
