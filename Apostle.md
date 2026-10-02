@@ -95,7 +95,9 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :--------: | :------: | :-----: | :-------------------: |
 | 4d8 Erebus | Corporal |  2x/18  | Acuidade, Theourgia's |
 
-**LV 9, :** A Theourgia's Hand se molda a vontade do conjurador, ela muda sua aparência e qualidades se adaptando a carn
+**LV 9, :** A Theourgia's Hand se molda a vontade do conjurador, ela muda sua aparência e qualidades se adaptando a carne onde está localizada. Escolha entre um dos 3 tipos a seguir
+
+****
 
 **LV 14, :** 
 
