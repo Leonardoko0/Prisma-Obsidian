@@ -10,7 +10,7 @@
 
 **Armadura:** 
 ## Anátema: Pulmão Retorcido
-**Uma manifestação do bruto e sanguinário vinda do fundo da sua mente **
+**Uma manifestação do bruto e sanguinário vinda do fundo da mente do conjurador em conexão com o plano do Erebus. **
 
 ## Anátema: Berço da Mãe Morta 
 ## **Árvore de Habilidade**
