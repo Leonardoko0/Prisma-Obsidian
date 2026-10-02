@@ -4,11 +4,11 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: Escolha quatro entre Adestramento, Arte, Ciências, Éter, Tática, Religião,  . E duas perícia extras
+**Proficiências**: Escolha quatro entre Adestramento, Arte, Ciências, Éter, Tática, Religião, Medicina, Intuição, Percepção. E duas perícia extras
 
-**Salvaguardas**: 
+**Salvaguardas**: Lucidez e Vontade
 
-**Armadura:** 
+**Armadura:** Leve e Média
 ## Anátema: Pulmão Retorcido
 **Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. "O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne".**
 
