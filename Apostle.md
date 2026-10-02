@@ -87,7 +87,7 @@ Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode in
 **LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 Pontos de Decomposição para revive-lo como uma Criatura de Sangue. O aliado mantém sua ficha original e retorna com sua Vida Completa.
 *Ao final do combate, a criatura começa a lentamente se dissolver até que seu corpo desapareça completamente, sobrando só sua caveira.....*
 ## Theourgia's Hand
-**LV 1, :** Como ação de movimento, enquanto você estiver "Coberto por Sangue Preto", você pode arrancar o seu braço revelando uma lâmina feita de ossos, metal enferrujado e carne (Guardando sua arma atual). Você gasta sua ação padrão, 1PP e 2 pontos de Decomposição para atacar usando essa arma.
+**LV 1, Theourgia's :** Como ação de movimento, enquanto você estiver "Coberto por Sangue Preto", você pode arrancar o seu braço revelando uma lâmina feita de ossos, metal enferrujado e carne (Guardando sua arma atual). Você gasta sua ação padrão, 1PP e 2 pontos de Decomposição para atacar usando essa arma.
 Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 - Ao ficar sem a capacidade de usar a Theourgia's Hand, (Seja por falta de PP ou Decomposição) a lâmina se recolhe para dentro do seu braço formando uma camada de carne que em alguns instantes se molda ao seu braço, regenerando assim sua mão.
 
@@ -95,7 +95,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :--------: | :------: | :-----: | :-------------------: |
 | 4d8 Erebus | Corporal |  2x/18  | Acuidade, Theourgia's |
 
-**LV 9, :** A Theourgia's Hand se molda a vontade do conjurador, ela muda sua aparência e qualidades se adaptando a carne onde está localizada. Escolha entre um dos 3 tipos a seguir
+**LV 9, FleshTransfig:** A Theourgia's Hand se molda a vontade do conjurador, ela muda sua aparência e qualidades se adaptando a carne onde está localizada. Escolha entre um dos 3 tipos a seguir
 
 **Foice dos Caídos:** Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para regenerar uma quantidade de vida = seu nível + Con
 
