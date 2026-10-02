@@ -12,5 +12,8 @@
 ## Pulmão Retorcido
 ## Berço da Mãe Morta 
 ## Seal of Reikala
-##
+## Theourgia's Hand
+## 
+## Blood Caster
+
 
