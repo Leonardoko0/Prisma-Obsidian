@@ -78,6 +78,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 
 **LV 9, Vetala:** Você deve estar com 6 pontos de decomposição e sua ação completa para bater no chão fazendo várias veias se espalhar. Das veias um criatura vai emergir segurando uma foice.
 Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição a cada 10% perdidos
+- Olhar [Grim]
 
 **LV 14, :** 
 
