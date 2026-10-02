@@ -76,7 +76,7 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 1, Meatbound:** Você escolhe um alvo que esteja "Coberto por Sangue Preto", gaste 3 pontos de decomposição e sua ação completa para fazer a pele do alvo rachar e abrir explodindo em sangue e criando um Meatbound. Você deve estar "Coberto por Sangue Preto"
 
 **LV 9, Vetala:** Você deve estar com 6 pontos de decomposição e sua ação completa para bater no chão fazendo várias veias se espalhar. Das veias um criatura vai emergir segurando uma foice.
-Você pode gastar 10% da sua vida
+Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição por 
 
 **LV 14, :** 
 
