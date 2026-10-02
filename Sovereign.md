@@ -2,7 +2,7 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: Escolha quatro entre: Acrobacia, Destreza manual, Éter, Furtividade, Intuição, Medicina, Percepção. E duas perícias
+**Proficiências**: Escolha quatro entre: Acrobacia, Destreza manual, Éter, Furtividade, Intuição, Medicina, Percepção. E duas perícias extras
 
 **Salvaguardas**: Lucidez e Moral
 

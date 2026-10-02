@@ -4,7 +4,7 @@
 
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**:
+**Proficiências**: Escolha quatro entre: . E duas perícia extras
 
 **Salvaguardas**: 
 
