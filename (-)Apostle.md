@@ -25,8 +25,9 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 Para usar suas habilidades você precisa cumprir algum requisitos:
 - Estar coberto por sangue preto
 - Ter pontos de "Decomposição"
+- Algumas habilidades também vão precisar que o alvo esteja "Coberto por Sangue Preto"
 
-Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por sangue preto" toma dano direto ou por sangramento.
+Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por Sangue Preto" toma dano direto ou por sangramento.
 ## **Árvore de Habilidade**
 
 | Nível | Proficiência | Pulmão Retorcido | Sangramento |     Características      |
