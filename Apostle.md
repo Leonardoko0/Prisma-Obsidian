@@ -114,7 +114,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 | :---------: | :------: | :-----: | :-------------------: |
 | 4d12 Erebus | Corporal |  2x/19  | Acuidade, Theourgia's |
 
-**LV 14, :** A Theourgia's Hand se to, arma parte do seu braço, agora você não precisa mais gastar sua ação de movimento para saca-la, além disso a arma não se recolhe após você ficar incapaz de usar seu ataque.
+**LV 14, Hemphaestus:** A Theourgia's Hand se to, arma parte do seu braço, agora você não precisa mais gastar sua ação de movimento para saca-la, além disso a arma não se recolhe após você ficar incapaz de usar seu ataque.
 
 **Foice dos Caídos:**
 
