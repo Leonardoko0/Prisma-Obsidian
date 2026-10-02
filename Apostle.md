@@ -108,6 +108,8 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 |     Dano     | Alcance  | Crítico |       Propriedades       |
 | :----------: | :------: | :-----: | :----------------------: |
 | 5d8+5 Erebus | Corporal |  2x/18  | Leve, Theourgia's, Amplo |
+**Espada dos **
+
 
 **LV 14, :** 
 
