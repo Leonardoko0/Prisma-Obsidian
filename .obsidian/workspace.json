@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +228,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "64e37e90c51c644b",
+  "active": "de06c9458352fe48",
   "lastOpenFiles": [
-    "Drifter.md",
     "Apostle.md",
-    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Artilherista.md",
+    "Drifter.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
