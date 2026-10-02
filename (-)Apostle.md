@@ -24,6 +24,9 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 
 Para usar suas habilidades você precisa cumprir algum requisitos:
 - Estar coberto por sangue preto
+- Ter alvos e pontos de "Decomposição"
+
+
 
 
 
