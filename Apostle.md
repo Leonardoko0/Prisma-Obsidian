@@ -87,7 +87,7 @@ Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode in
 **LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 Pontos de Decomposição para revive-lo como uma Criatura de Sangue. O aliado mantém sua ficha original e retorna com sua Vida Completa.
 *Ao final do combate, a criatura começa a lentamente se dissolver até que seu corpo desapareça completamente, sobrando só sua caveira.....*
 ## Theourgia's Hand
-**LV 1, :** 
+**LV 1, :** Enquanto você estiver "Coberto por Sangue Preto", você pode arrancar 
 
 **LV 9, :** 
 
