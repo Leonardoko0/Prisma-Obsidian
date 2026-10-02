@@ -73,7 +73,9 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 **LV 1/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Apostle
 
 ## Seal of Reikala
-**LV 1, Meatbound:** Você escolhe um alvo que esteja "Coberto por Sangue Preto", gaste 3 pontos de decomposição e sua ação completa para fazer a pele do alvo rachar e abrir explodindo em sangue e criando um Meatbound. Você deve estar "Coberto por Sangue Preto"
+**LV 1, Meatbound:** Você pode escolher uma criatura que esteja Coberta por Sangue Preto. Para realizar a invocação, você também deve estar Coberto por Sangue Preto**, gastar **3 Pontos de Decomposição** e utilizar sua **Ação Completa**.
+
+A pele do alvo começa a rachar e se abrir, liberando uma grande quantidade de Sangue Preto e dando origem a um **Meatbound**.
 - Olhar [Meatbound]
 
 **LV 9, Vetala:** Você deve estar com 6 pontos de decomposição e sua ação completa para bater no chão fazendo várias veias se espalhar. Das veias um criatura vai emergir segurando uma foice.
