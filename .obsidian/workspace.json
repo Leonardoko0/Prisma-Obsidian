@@ -89,8 +89,7 @@
               "title": "Sovereign"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +241,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "64e37e90c51c644b",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Drifter.md",
     "Apostle.md",
+    "Drifter.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Armas.md",
     "Sovereign.md",
