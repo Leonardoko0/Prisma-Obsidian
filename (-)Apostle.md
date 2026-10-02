@@ -10,10 +10,10 @@
 
 **Armadura:** 
 ## Anátema: Pulmão Retorcido
-**Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano de Erebus. O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne.**
+**Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne.**
 
 ## Anátema: Berço da Mãe Morta
-**Uma manifestação de recomeço e renascimento,   "Calor e conforto de uma mãe morta em guerra que nunca olhou os olhos de seu filho"**
+**Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus."Calor e conforto de uma mãe morta em guerra que nunca olhou os olhos de seu filho"**
 ## **Árvore de Habilidade**
 
 | Nível | Proficiência | M.B Type Dread |     |     Características      |
