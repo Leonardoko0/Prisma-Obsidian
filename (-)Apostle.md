@@ -11,6 +11,6 @@
 **Armadura:** 
 ## Pulmão Retorcido
 ## Berço da Mãe Morta 
-
 ## Seal of Reikala
+##
 
