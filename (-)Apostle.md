@@ -12,7 +12,7 @@
 ## Anátema: Pulmão Retorcido
 **Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. "O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne".**
 
-Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvo a 4,5m/3 Tiles, o alvo deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura duas rodadas.
+Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvos escolhidos a 4,5m/3 Tiles, o alvo deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura duas rodadas.
 
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus. "Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
@@ -26,7 +26,7 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 | :---: | :----------: | :------------: | --- | :----------------------: |
 |  1*   |      +2      |   3d8 Corte    |     |  **Anátemas** Subclasse  |
 |  2*   |      +2      |       -        |     |       Treinamento        |
-|  3*   |      +2      |       -        |     |                          |
+|  3*   |      +2      |       -        |     |            ()            |
 |  4*   |      +2      |       -        |     | Melhoramento de Atributo |
 |  5*   |      +3      |       -        |     |      Treinamento()       |
 |  6*   |      +3      |      4d8       |     | Treinamento de Perícias  |
