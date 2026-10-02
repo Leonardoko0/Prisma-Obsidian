@@ -17,10 +17,12 @@ Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus. "Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
 
-Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da sua cabeça. Essa fissura vai derramar sangue deixando o conjurador **Coberto por Sangue Preto**
+Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da sua cabeça. Essa fissura vai derramar sangue deixando o conjurador **Coberto por Sangue Preto** por 1d4 rodadas
 
 ## Maldição do Sangue Preto
-**"Uma fonte maldita e infinita que a muito tempo aberta para o nosso plano, seu fluxo preto decompões ao toque, apodrece ao observar e corrompe ao pensar"**
+**"Uma fonte maldita e infinita que, há muito tempo, foi aberta para o nosso plano. Seu fluxo negro decompõe ao toque, apodrece ao ser observado e corrompe ao ser pensado."**
+
+
 
 ## **Árvore de Habilidade**
 
