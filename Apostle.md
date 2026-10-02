@@ -99,16 +99,16 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **Foice dos Caídos:** Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para regenerar uma quantidade de vida = seu nível + Con
 
-|    Dano    | Alcance  | Crítico |       Propriedades       |
-| :--------: | :------: | :-----: | :----------------------: |
-| 6d6 Erebus | Corporal |  2x/18  | Leve, Theourgia's, Amplo |
+|    Dano    | Alcance | Crítico |       Propriedades       |
+| :--------: | :-----: | :-----: | :----------------------: |
+| 6d6 Erebus |   3m    |  2x/18  | Leve, Theourgia's, Amplo |
 
 **Marreta dos Desvalidos**:  Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para aplicar o efeito de (Quebrado I) no alvo
 
-|     Dano     | Alcance  | Crítico |       Propriedades       |
-| :----------: | :------: | :-----: | :----------------------: |
-| 5d8+5 Erebus | Corporal |   2x    | Leve, Theourgia's, Amplo |
-**Espada dos Alquebrado**: Quando acertar um ataque 
+|     Dano     | Alcance  | Crítico |        Propriedades        |
+| :----------: | :------: | :-----: | :------------------------: |
+| 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
+**Espada dos Alquebrado**: Quando acertar um ataque você pode gastar 1pp para 
 
 |    Dano     | Alcance  | Crítico |     Propriedades      |
 | :---------: | :------: | :-----: | :-------------------: |
