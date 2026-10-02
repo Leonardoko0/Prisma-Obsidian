@@ -12,7 +12,7 @@
 ## Anátema: Pulmão Retorcido
 **Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. "O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne".**
 
-Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvos escolhidos a 4,5m/3 Tiles, o alvo deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura duas rodadas.
+Você gasta 2PP e sua ação padrão para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvos escolhidos a 4,5m/3 Tiles, os alvos deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha os alvos ficam **Cobertos por Sangue Preto** e começam a sangrar. O efeito dura duas rodadas.
 
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus. "Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
@@ -22,28 +22,28 @@ Você gasta 1PP e sua ação de movimento para manifestar uma fissura acima da s
 
 ## **Árvore de Habilidade**
 
-| Nível | Proficiência | M.B Type Dread |     |     Características      |
-| :---: | :----------: | :------------: | --- | :----------------------: |
-|  1*   |      +2      |   3d8 Corte    |     |  **Anátemas** Subclasse  |
-|  2*   |      +2      |       -        |     |       Treinamento        |
-|  3*   |      +2      |       -        |     |            ()            |
-|  4*   |      +2      |       -        |     | Melhoramento de Atributo |
-|  5*   |      +3      |       -        |     |      Treinamento()       |
-|  6*   |      +3      |      4d8       |     | Treinamento de Perícias  |
-|  7*   |      +3      |       -        |     | Proficiencia de Combate  |
-|  8*   |      +3      |       -        |     | Melhoramento de Atributo |
-|  9*   |      +4      |       -        |     |        Subclasse         |
-|  10*  |      +4      |       -        |     |      Treinamento ()      |
-|  11*  |      +4      |      5d10      |     | Treinamento de Perícias  |
-|  12*  |      +4      |       -        |     | Melhoramento de Atributo |
-|  13*  |      +5      |       -        |     | Proficiência de Combate  |
-|  14*  |      +5      |       -        |     |       Subclasse ()       |
-|  15*  |      +5      |       -        |     |       Treinamento        |
-|  16*  |      +5      |      7d10      |     | Treinamento de Atributo  |
-|  17*  |      +6      |       -        |     | Treinamento de Perícias  |
-|  18*  |      +6      |       -        |     |       Treinamento        |
-|  19*  |      +6      |       -        |     | Melhoramento de Atributo |
-|  20*  |      +6      |       -        |     |        Subclasse         |
+| Nível | Proficiência | Pulmão Retorcido | Sangramento Preto |     Características      |
+| :---: | :----------: | :--------------: | :---------------: | :----------------------: |
+|  1*   |      +2      |    3d8 Corte     |                   |  **Anátemas** Subclasse  |
+|  2*   |      +2      |        -         |                   |       Treinamento        |
+|  3*   |      +2      |        -         |                   |            ()            |
+|  4*   |      +2      |        -         |                   | Melhoramento de Atributo |
+|  5*   |      +3      |        -         |                   |      Treinamento()       |
+|  6*   |      +3      |       4d8        |                   | Treinamento de Perícias  |
+|  7*   |      +3      |        -         |                   | Proficiencia de Combate  |
+|  8*   |      +3      |        -         |                   | Melhoramento de Atributo |
+|  9*   |      +4      |        -         |                   |        Subclasse         |
+|  10*  |      +4      |        -         |                   |      Treinamento ()      |
+|  11*  |      +4      |       5d10       |                   | Treinamento de Perícias  |
+|  12*  |      +4      |        -         |                   | Melhoramento de Atributo |
+|  13*  |      +5      |        -         |                   | Proficiência de Combate  |
+|  14*  |      +5      |        -         |                   |       Subclasse ()       |
+|  15*  |      +5      |        -         |                   |       Treinamento        |
+|  16*  |      +5      |       7d10       |                   | Treinamento de Atributo  |
+|  17*  |      +6      |        -         |                   | Treinamento de Perícias  |
+|  18*  |      +6      |        -         |                   |       Treinamento        |
+|  19*  |      +6      |        -         |                   | Melhoramento de Atributo |
+|  20*  |      +6      |        -         |                   |        Subclasse         |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
