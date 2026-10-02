@@ -12,7 +12,7 @@
 ## Anátema: Pulmão Retorcido
 **Uma manifestação do que há de mais bruto e sanguinário, vinda do fundo da mente do conjurador em conexão com o plano do Erebus. O mundano já escapou de suas veias, seu sangue jovem secou na areia brilhante do universo, e seu destino está traçado em sangue e carne.**
 
-Você gasta 2PP para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvo a 4,5m/3 Tiles, o alvo deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int)
+Você gasta 2PP para manifestar um pulmão distorcido acima de sua cabeça. O órgão atira diversos jatos de sangue em alvo a 4,5m/3 Tiles, o alvo deve fazer um salvaguarda de reflexo (DT ataque do conjurador com Int) na falha 
 
 ## Anátema: Berço da Mãe Morta
 **Uma manifestação de recomeço e renascimento pútrido e falso, vindo do fundo do mente do conjurador em conexão com o plano do Erebus."Calor e conforto de uma mãe morta em guerra que nunca olhou o rosto de seu filho"**
