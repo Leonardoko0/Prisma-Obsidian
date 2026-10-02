@@ -81,7 +81,8 @@ Você pode gastar até 50% da sua vida ganhando 1 ponto de decomposição a cada
 Ao final do combate a criatura se desfaz e volta para o conjurador, você pode reenvocar ele no inicio de outro combate como uma ação de movimento 
 - Olhar [Red Grim]
 
-**LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate recuperando 25% da sua vida ou os restos de seus PV para o conjurador
+**LV 14, Haruspex:** Você pode invocar outro Grim com as mesmas condições do outro, porém este morre ao final do combate recuperando 25% da sua vida ou os restos dos PVs da criatura (o que for menor).
+- Olhar [Black Grim]
 
 **LV 20, :** 
 ## Theourgia's Hand
