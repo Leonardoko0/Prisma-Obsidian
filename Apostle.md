@@ -108,7 +108,7 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 |     Dano     | Alcance  | Crítico |        Propriedades        |
 | :----------: | :------: | :-----: | :------------------------: |
 | 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
-**Espada dos Alquebrado**: Quando acertar um ataque você pode gastar 1pp para 
+**Espada dos Alquebrado**: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco
 
 |    Dano     | Alcance  | Crítico |     Propriedades      |
 | :---------: | :------: | :-----: | :-------------------: |
