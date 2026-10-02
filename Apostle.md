@@ -85,8 +85,7 @@ Ao final do combate, a criatura se desfaz e retorna ao conjurador. Você pode in
 - Olhar [Black Grim]
 
 **LV 20, Erebusmancy:** Caso um aliado morra, você pode gastar 10 Pontos de Decomposição para revive-lo como uma Criatura de Sangue. O aliado mantém sua ficha original e retorna com sua Vida Completa.
-
-Caso um aliado morra, você pode gastar 10 pontos de decomposição para revive-lo como uma criatura de sangue, ele manterá sua ficha e retornará com a vida completa, além disso, quando o combate acabar ele lentamente vai começar a dissolver (enquanto ele tem conciencia) até sobra
+*Ao final do combate, a criatura começa lentamente a se dissolver até que seu corpo desapareça completamente, sobrando só sua caveira.....*
 ## Theourgia's Hand
 **LV 1, :** 
 
