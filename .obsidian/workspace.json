@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(-)Apostle.md",
+                "file": "Apostle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(-)Apostle"
+              "title": "Apostle"
             }
           }
         ],
@@ -203,7 +203,7 @@
   "active": "64e37e90c51c644b",
   "lastOpenFiles": [
     "Drifter.md",
-    "(-)Apostle.md",
+    "Apostle.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Regras/Carga e Peso.md",
