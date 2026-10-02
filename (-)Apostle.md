@@ -32,26 +32,26 @@ Você ganha esses pontos toda vez que um alvo afetado pelo efeito "Coberto por S
 
 | Nível | Proficiência | Pulmão Retorcido | Sangramento |          Características          |
 | :---: | :----------: | :--------------: | :---------: | :-------------------------------: |
-|  1*   |      +2      |   4,5m/3 Tiles   |             |      **Anátemas** Subclasse       |
-|  2*   |      +2      |        -         |             |            Treinamento            |
-|  3*   |      +2      |        -         |             |         (Pulmão Dormente)         |
-|  4*   |      +2      |        -         |             |     Melhoramento de Atributo      |
-|  5*   |      +3      |        -         |             | Treinamento(Pinças Respiratórias) |
-|  6*   |      +3      |        -         |             |      Treinamento de Perícias      |
-|  7*   |      +3      |        -         |             |      Proficiencia de Combate      |
-|  8*   |      +3      |    6m/5 Tiles    |             |     Melhoramento de Atributo      |
-|  9*   |      +4      |        -         |             |             Subclasse             |
-|  10*  |      +4      |        -         |             |      Treinamento (Maldição)       |
-|  11*  |      +4      |        -         |             |      Treinamento de Perícias      |
-|  12*  |      +4      |        -         |             |     Melhoramento de Atributo      |
-|  13*  |      +5      |        -         |             |      Proficiência de Combate      |
-|  14*  |      +5      |        -         |             |    Subclasse (Berço Manancial)    |
-|  15*  |      +5      |        -         |             |            Treinamento            |
-|  16*  |      +5      |    6m/ Tiles     |             |      Treinamento de Atributo      |
-|  17*  |      +6      |                  |             |      Treinamento de Perícias      |
-|  18*  |      +6      |                  |             |            Treinamento            |
-|  19*  |      +6      |                  |             |     Melhoramento de Atributo      |
-|  20*  |      +6      |                  |             |             Subclasse             |
+|  1*   |      +2      |   4,5m/3 Tiles   |     1d6     |      **Anátemas** Subclasse       |
+|  2*   |      +2      |        -         |      -      |            Treinamento            |
+|  3*   |      +2      |        -         |      -      |         (Pulmão Dormente)         |
+|  4*   |      +2      |        -         |      -      |     Melhoramento de Atributo      |
+|  5*   |      +3      |        -         |     2d6     | Treinamento(Pinças Respiratórias) |
+|  6*   |      +3      |        -         |      -      |      Treinamento de Perícias      |
+|  7*   |      +3      |        -         |      -      |      Proficiencia de Combate      |
+|  8*   |      +3      |    6m/4 Tiles    |      -      |     Melhoramento de Atributo      |
+|  9*   |      +4      |        -         |      -      |             Subclasse             |
+|  10*  |      +4      |        -         |     3d6     |      Treinamento (Maldição)       |
+|  11*  |      +4      |        -         |      -      |      Treinamento de Perícias      |
+|  12*  |      +4      |        -         |      -      |     Melhoramento de Atributo      |
+|  13*  |      +5      |        -         |      -      |      Proficiência de Combate      |
+|  14*  |      +5      |        -         |      -      |    Subclasse (Berço Manancial)    |
+|  15*  |      +5      |        -         |     4d6     |            Treinamento            |
+|  16*  |      +5      |   7,5m/5 Tiles   |             |      Treinamento de Atributo      |
+|  17*  |      +6      |        -         |             |      Treinamento de Perícias      |
+|  18*  |      +6      |        -         |             |            Treinamento            |
+|  19*  |      +6      |        -         |             |     Melhoramento de Atributo      |
+|  20*  |      +6      |        -         |             |             Subclasse             |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
