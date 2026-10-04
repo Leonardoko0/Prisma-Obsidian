@@ -89,8 +89,7 @@
               "title": "(-)Crosslink"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,14 +241,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6b04450ea0ca886d",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "(-)Crosslink.md",
-    "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
-    "Rpg/Personagens/Armas.md",
+    "Rpg/Personagens/Artilherista.md",
     "Apostle.md",
     "Drifter.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
