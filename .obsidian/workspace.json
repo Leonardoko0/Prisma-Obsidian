@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,14 +256,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de06c9458352fe48",
+  "active": "65bfe556c2a0c4cd",
   "lastOpenFiles": [
+    "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Crosslink.md",
     "Sovereign.md",
-    "Drifter.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Regras/Carga e Peso.md",
