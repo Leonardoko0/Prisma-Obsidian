@@ -81,15 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(-)Crosslink.md",
+                "file": "Crosslink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(-)Crosslink"
+              "title": "Crosslink"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +242,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "e5a5dbb772839a6d",
   "lastOpenFiles": [
-    "(-)Crosslink.md",
     "Sovereign.md",
+    "Crosslink.md",
     "Rpg/Personagens/Artilherista.md",
     "Apostle.md",
     "Drifter.md",
