@@ -131,8 +131,7 @@
               "title": "Vestimentas e Armaduras"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,12 +283,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "481e0a01e81d3381",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Drifter.md",
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Implantes.md",
-    "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
     "Crosslink.md",
@@ -297,7 +297,6 @@
     "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Regras/Carga e Peso.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Talentos.md",
     "Rpg/Personagens/Raça.md",
     "Rpg/Personagens/Background.md",
