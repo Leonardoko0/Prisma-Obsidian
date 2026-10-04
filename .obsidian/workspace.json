@@ -103,8 +103,7 @@
               "title": "Lucky 44 (Cartas da Sorte)"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,12 +255,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "65bfe556c2a0c4cd",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Lucky 44 (Cartas da Sorte).md",
     "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
-    "Lucky 44 (Cartas da Sorte).md",
     "Crosslink.md",
     "Sovereign.md",
     "Rpg/Personagens/Armas.md",
