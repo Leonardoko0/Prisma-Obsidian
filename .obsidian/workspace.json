@@ -62,20 +62,6 @@
             }
           },
           {
-            "id": "f5470f9c72d0fff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Armas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armas"
-            }
-          },
-          {
             "id": "3272db8a42623acf",
             "type": "leaf",
             "state": {
@@ -88,8 +74,23 @@
               "icon": "lucide-file",
               "title": "Sovereign"
             }
+          },
+          {
+            "id": "e5a5dbb772839a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(-)Crosslink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(-)Crosslink"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,13 +242,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "6b04450ea0ca886d",
   "lastOpenFiles": [
+    "(-)Crosslink.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Armas.md",
     "Apostle.md",
     "Drifter.md",
-    "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Armas.md",
-    "Sovereign.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Rpg/Regras/Carga e Peso.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
@@ -268,7 +270,6 @@
     "Rpg/Personagens/Traits.md",
     "Sistema de salas.md",
     "(-)Hivemind.md",
-    "SalvaGuarda.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
