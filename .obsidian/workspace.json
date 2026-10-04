@@ -102,8 +102,23 @@
               "icon": "lucide-file",
               "title": "Lucky 44 (Cartas da Sorte)"
             }
+          },
+          {
+            "id": "11fc1a58ce55c5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aparatos(Fazer scaling de -dano fixo-)"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -255,9 +270,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "11fc1a58ce55c5a6",
   "lastOpenFiles": [
     "Lucky 44 (Cartas da Sorte).md",
+    "Rpg/Personagens/Implantes.md",
     "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
@@ -282,7 +298,6 @@
     "Rpg/Personagens/Atributos.md",
     "Rpg/Personagens/Traits.md",
     "Sistema de salas.md",
-    "(-)Hivemind.md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
