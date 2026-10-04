@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "65bfe556c2a0c4cd",
+  "active": "de06c9458352fe48",
   "lastOpenFiles": [
+    "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
+    "Lucky 44 (Cartas da Sorte).md",
     "Crosslink.md",
     "Sovereign.md",
-    "Apostle.md",
     "Drifter.md",
     "Rpg/Personagens/Armas.md",
     "Rpg/Inimigos/Aila (Sledge Queen).md",
@@ -277,7 +278,6 @@
     "Rpg/Universo.md",
     "Sem título.md",
     "Rpg/Personagens/Perícias.md",
-    "Lucky 44 (Cartas da Sorte).md",
     "Combate de Ambiente.md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Atributos.md",
