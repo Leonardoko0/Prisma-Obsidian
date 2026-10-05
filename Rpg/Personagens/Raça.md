@@ -187,3 +187,19 @@ Adiciona +2 no contador de Carisma e +1 em Constituição
 Escolha entre ser treinado em armas de pressão ou armas de corte
 ### Idiomas
 Fluente em Galático comum em profundo
+
+
+Se um gato pudesse falar por 1 minuto, o que ele provavelmente faria primeiro?
+
+A) Reclamaria da comida
+B) Pediria para abrir a porta e depois nem entraria
+C) Contaria todos os crimes que já cometeu
+D) Diria “miau” e ignoraria todo mundo
+
+Se o seu gato pudesse escolher um presente para você, o que ele daria?!?!?!?!?
+
+A) Uma caixa vazia
+B) Um brinquedo que ele nunca usa
+C) Uma folha que encontrou no chão
+D) Um olhar de julgamento acompanhado de um miado
+E) Alguma coisa realmente legal
