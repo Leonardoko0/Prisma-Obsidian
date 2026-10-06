@@ -69,9 +69,9 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso.
+**LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso de *Werfen* no combate.
 
-**LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal fazer um salvaguarda de Tenacidade/Atletismo (DT: Ataque Proficiente com Int) para a DT abaixa em 3 a cada nova rodada
+**LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade/Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
 
 - Amarrado: O atacante recebe vantagem e o alvo não pode se mover.
 
