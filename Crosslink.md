@@ -11,7 +11,7 @@
 ## Cross-Wire Spool C3-7
 **Uma Bobina de fios metálicos dissonantes que possui a capacidade de refletir luz a um ponto em que sua forma desaparece totalmente**
 ### Werfen
-Gaste 2pp para arremessar uma faca 12m/6tiles, ela forma uma área magnética de 2 tiles adjacentes
+Gaste 2pp para arremessar uma faca 12m/6tiles, ela forma uma área magnética de raio 2
  
 
 ### Ziehen
