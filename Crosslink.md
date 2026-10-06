@@ -17,7 +17,9 @@ Um alvo pode fazer um teste de percepção antes de passar pelo fio (DT Tabela) 
 Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e fica sangrando.
 
 *Werfen lateral*
-  Ao jogar a faca em uma parede 
+  Ao jogar a faca em uma parede e outra no chão você gera um fio diagonal que possui efeitos diferentes.
+
+ a
  
 
 ### Ziehen
