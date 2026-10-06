@@ -15,6 +15,10 @@ Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Ma
 
 Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. Quando o fio chegar a 0 pontos ele se quebra. Além disso o fio pode ser atacado.
 
+|  Lv  |  1  | 5   | 10  |  15  | 20  |
+| :--: | :-: | --- | :-: | :--: | --- |
+| Dano | 15  | 17  | 20  | 4d10 |     |
+
 *Werfen Diagonal*
   Ao arremessar uma faca contra uma parede e outra contra o chão, você cria um fio diagonal, que possui propriedades diferentes do fio convencional.
 
