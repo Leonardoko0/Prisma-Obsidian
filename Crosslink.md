@@ -16,7 +16,7 @@ Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Ma
 Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. 
 
 *Werfen Diagonal*
-  Ao jogar a faca em uma parede e outra no chão você gera um fio diagonal que possui efeitos diferentes.
+  Ao arremessar uma faca contra uma parede e outra contra o chão, você cria um fio diagonal, que possui propriedades diferentes do fio convencional.
 
  O alvo deve fazer um teste de acrobacia ao passar pelo fio (DT Tabela), se falhar o alvo não passa do fio, gasta 1 uso do fio e fica sangrando
 
