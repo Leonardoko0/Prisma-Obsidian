@@ -7,3 +7,6 @@
 **Salvaguardas**: 
 
 **Armadura:** Leve
+
+##
+##
