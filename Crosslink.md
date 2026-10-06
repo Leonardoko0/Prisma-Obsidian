@@ -9,4 +9,3 @@
 **Armadura:** Leve
 
 ## Cross-Wire Spool C3-7
-	
