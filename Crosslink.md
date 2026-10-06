@@ -27,17 +27,22 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
 ### Ziehen
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
 Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
+
+| Lv  |     |
+| :-: | :-: |
+|     |     |
+
 ## **Árvore de Habilidade**
 
 | Nível | Proficiência | Magnetismo | Resistência | Sangramento |     Características      |
 | :---: | :----------: | :--------: | :---------: | :---------: | :----------------------: |
-|  1*   |      +2      |            |             |             |  Cross-Wire Spool C3-7   |
-|  2*   |      +2      |            |             |             |      Treinamento ()      |
-|  3*   |      +2      |            |             |             |        Subclasse         |
-|  4*   |      +2      |            |             |             | Melhoramento de Atributo |
-|  5*   |      +3      |            |             |             |      Treinamento()       |
-|  6*   |      +3      |            |             |             | Treinamento de Perícias  |
-|  7*   |      +3      |            |             |             | Proficiencia de Combate  |
+|  1*   |      +2      | Raio de 2  |             |             |  Cross-Wire Spool C3-7   |
+|  2*   |      +2      |     -      |             |             |      Treinamento ()      |
+|  3*   |      +2      |     -      |             |             |        Subclasse         |
+|  4*   |      +2      |     -      |             |             | Melhoramento de Atributo |
+|  5*   |      +3      |     -      |             |             |      Treinamento()       |
+|  6*   |      +3      |     -      |             |             | Treinamento de Perícias  |
+|  7*   |      +3      |    Rai     |             |             | Proficiencia de Combate  |
 |  8*   |      +3      |            |             |             | Melhoramento de Atributo |
 |  9*   |      +4      |            |             |             |        Subclasse         |
 |  10*  |      +4      |            |             |             |      Treinamento ()      |
