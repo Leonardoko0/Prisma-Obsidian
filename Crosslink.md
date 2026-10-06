@@ -4,7 +4,7 @@
 
 **Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Furtividade, intimidação, Percepção, Tática. E duas perícias extras.
 
-**Salvaguardas**: Vontade e
+**Salvaguardas**: Vontade e Reflexo
 
 **Armadura:** Leve 
 
