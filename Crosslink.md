@@ -23,6 +23,8 @@ Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e 
 
 *Werfen Superior*
  Ao jogar uma faca no teto e outra no chão você gera um fio ascendente que possui efeitos diferentes.
+
+ A área é reduzida para 1 tile apenas, po
  
 
 ### Ziehen
