@@ -12,7 +12,7 @@
 ### Werfen
 Gaste 2pp e sua ação principal. Você arremessa uma faca 12m/6 Tiles, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado quase invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando.
 
-**Tabela de DT**
+**Tabela de DT** 
  
 | Lv  |  1  |  5  | 10  | 15  | 20  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
