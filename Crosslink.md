@@ -94,7 +94,9 @@ Quando colocar um fio, posicione essa armadilha como uma ação de movimento. Qu
 - Caltrops: Espinhos que são completamente visíveis a olho nu
 Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor. ao pisar o alvo perde metade de seu movimento pela rodada e toma 1d4 de dano.
 
-**LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas
+**LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas.
+
+- 
 
 **LV 14, :** 
 
