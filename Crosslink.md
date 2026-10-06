@@ -7,7 +7,6 @@
 **Salvaguardas**: Vontade e Reflexo
 
 **Armadura:** Leve 
-
 ## Cross-Wire Spool C3-7
 **Uma bobina de fios metálicos dissonantes capaz de refletir a luz até um ponto em que seus fios se tornam praticamente invisíveis.**
 ### Werfen
@@ -80,6 +79,6 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Crosslink
 
-###
-###
-###
+##
+##
+##
