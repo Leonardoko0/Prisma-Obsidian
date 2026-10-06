@@ -51,11 +51,11 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 |  13*  |      +5      |     -      |  Dureza 3   |      -       | Proficiência de Combate  |
 |  14*  |      +5      |   Raio 4   |      -      |      -       |       Subclasse ()       |
 |  15*  |      +5      |     -      |      -      |     4d6      |       Treinamento        |
-|  16*  |      +5      |     -      |      -      |              | Treinamento de Atributo  |
-|  17*  |      +6      |     -      |      -      |              | Treinamento de Perícias  |
-|  18*  |      +6      |     -      |      -      |              |       Treinamento        |
-|  19*  |      +6      |     -      |  Dureza 4   |              | Melhoramento de Atributo |
-|  20*  |      +6      |   Raio 5   |      -      |              |        Subclasse         |
+|  16*  |      +5      |     -      |      -      |      -       | Treinamento de Atributo  |
+|  17*  |      +6      |     -      |      -      |      -       | Treinamento de Perícias  |
+|  18*  |      +6      |     -      |      -      |      -       |       Treinamento        |
+|  19*  |      +6      |     -      |  Dureza 4   |      -       | Melhoramento de Atributo |
+|  20*  |      +6      |   Raio 5   |      -      |     5d6      |        Subclasse         |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
