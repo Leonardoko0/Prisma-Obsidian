@@ -42,20 +42,20 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 |  4*   |      +2      |     -      |             |             | Melhoramento de Atributo |
 |  5*   |      +3      |     -      |             |             |      Treinamento()       |
 |  6*   |      +3      |     -      |             |             | Treinamento de Perícias  |
-|  7*   |      +3      |    Rai     |             |             | Proficiencia de Combate  |
-|  8*   |      +3      |            |             |             | Melhoramento de Atributo |
-|  9*   |      +4      |            |             |             |        Subclasse         |
-|  10*  |      +4      |            |             |             |      Treinamento ()      |
-|  11*  |      +4      |            |             |             | Treinamento de Perícias  |
-|  12*  |      +4      |            |             |             | Melhoramento de Atributo |
-|  13*  |      +5      |            |             |             | Proficiência de Combate  |
-|  14*  |      +5      |            |             |             |       Subclasse ()       |
-|  15*  |      +5      |            |             |             |       Treinamento        |
-|  16*  |      +5      |            |             |             | Treinamento de Atributo  |
-|  17*  |      +6      |            |             |             | Treinamento de Perícias  |
-|  18*  |      +6      |            |             |             |       Treinamento        |
-|  19*  |      +6      |            |             |             | Melhoramento de Atributo |
-|  20*  |      +6      |            |             |             |        Subclasse         |
+|  7*   |      +3      |   Raio 3   |             |             | Proficiencia de Combate  |
+|  8*   |      +3      |     -      |             |             | Melhoramento de Atributo |
+|  9*   |      +4      |     -      |             |             |        Subclasse         |
+|  10*  |      +4      |     -      |             |             |      Treinamento ()      |
+|  11*  |      +4      |     -      |             |             | Treinamento de Perícias  |
+|  12*  |      +4      |     -      |             |             | Melhoramento de Atributo |
+|  13*  |      +5      |     -      |             |             | Proficiência de Combate  |
+|  14*  |      +5      |   Raio 4   |             |             |       Subclasse ()       |
+|  15*  |      +5      |     -      |             |             |       Treinamento        |
+|  16*  |      +5      |     -      |             |             | Treinamento de Atributo  |
+|  17*  |      +6      |     -      |             |             | Treinamento de Perícias  |
+|  18*  |      +6      |     -      |             |             |       Treinamento        |
+|  19*  |      +6      |     -      |             |             | Melhoramento de Atributo |
+|  20*  |      +6      |   Raio 5   |             |             |        Subclasse         |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
