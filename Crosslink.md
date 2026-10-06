@@ -106,3 +106,11 @@ Aranha
 **LV 20, :** 
 ## Warland
 Atirar balas ao passar 
+
+**LV 3, :** 
+
+**LV 9, :** 
+
+**LV 14, :** 
+
+**LV 20, :** 
