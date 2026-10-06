@@ -11,7 +11,7 @@
 ## Cross-Wire Spool C3-7
 **Uma Bobina de fios metálicos dissonantes que possui a capacidade de refletir luz a um ponto em que sua forma desaparece totalmente**
 ### Werfen
-Gaste 2pp para arremessar uma faca 12m/6tiles, ela forma uma área magnética de raio 2, ao arremessar outra faca dentro desse raio um fio laminado se forma como uma ponte entre as duas.
+Gaste 2pp e sua ação principal para arremessar uma faca 12m/6tiles, ela forma uma área magnética de raio 2, ao arremessar outra faca dentro desse raio um fio laminado se forma como uma ponte entre as duas.
 Um alvo pode fazer um teste de percepção antes de passar pelo fio (DT Tabela) na falha ele não percebe o fio e sofre suas consequências.
 
 Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e fica sangrando.
@@ -26,3 +26,4 @@ Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e 
 
  A área é reduzida para 1 tile apenas, porém se o alvo não passar no teste de percepção ele recebe um dano e gasta 1 uso do fio.
 ### Ziehen
+Você gasta sua ação
