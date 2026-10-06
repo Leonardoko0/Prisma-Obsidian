@@ -4,9 +4,9 @@
 
 **Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Furtividade, intimidação, Percepção, Tática. E duas perícias extras.
 
-**Salvaguardas**: Vontade
+**Salvaguardas**: Vontade e
 
-**Armadura:** Leve
+**Armadura:** Leve 
 
 ## Cross-Wire Spool C3-7
 **Uma bobina de fios metálicos dissonantes capaz de refletir a luz até um ponto em que seus fios se tornam praticamente invisíveis.**
