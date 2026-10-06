@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3272db8a42623acf",
+  "active": "e5a5dbb772839a6d",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
     "Crosslink.md",
-    "Sovereign.md",
     "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Nômade.md",
