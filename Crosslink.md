@@ -98,7 +98,8 @@ Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor
 
 - Gas Shell: Uma bomba de gás que cega e deixa os inimigos sem ar
 Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo. Você pode conecta-lo a um fio ou coloca-lo em uma armadilha de pisar para ativação. Ao ser ativado o alvo fica cego e recupera apenas metade da sua estâmina pelos próximo turno
-- Dynamite Stack: Uma banana dinamite que precisa 
+- Dynamite Stack: Uma banana dinamite que precisa de ativação própria
+
 
 **LV 14, :** 
 
