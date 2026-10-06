@@ -97,7 +97,7 @@ Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor
 **LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas.
 
 - Gas Shell: Uma bomba de gás que cega e deixa os inimigos sem ar
-Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo. Você pode conecta-lo a um fio para ativação ou colocar 
+Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo. Você pode conecta-lo a um fio ou coloca-lo em uma armadilha de pisar para ativação
 
 **LV 14, :** 
 
