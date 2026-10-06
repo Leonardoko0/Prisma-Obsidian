@@ -19,28 +19,28 @@ Gaste 2PP e sua ação principal para arremessar (6m/9m) ou bater com sua faca, 
 
 **Soberania:** Após arremessar a faca outra exatamente igual se cria na sua mão e a arremessada desaparece 
 ## **Árvore de Habilidade**
-| Nível | Proficiência |    Dano    | Alcance | Crítico |             Propriedades             | Dissolver |
-| :---: | :----------: | :--------: | :-----: | :-----: | :----------------------------------: | :-------: |
-|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |    Leve, Arremesso, **Soberania**    |           |
-|   2   |      +2      |     -      |    -    |    -    |     Treinamento (Dissolver Alma)     |    1d4    |
-|   3   |      +2      |     -      |    -    |  2x/19  |              Subclasse               |     -     |
-|   4   |      +2      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
-|   5   |      +3      |    3d4     |    -    |    -    |     Treinamento, (Sangue Sonho)      |     -     |
-|   6   |      +3      |     -      |    -    |    -    |        Treinamento de Perícia        |     -     |
-|   7   |      +3      |     -      |  9/12m  |    -    |       Proficiência de Combate        |     -     |
-|   8   |      +3      |     -      |    -    |    -    |       Melhoramento de Atributo       |    2d4    |
-|   9   |      +4      |    4d4     |    -    |    -    |              Subclasse               |     -     |
-|  10   |      +4      |     -      |    -    |    -    |    Treinamento(Molde d Pesadelo)     |     -     |
-|  11   |      +4      |     -      |    -    |  3x/19  |        Treinamento de Perícia        |     -     |
-|  12   |      +4      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
-|  13   |      +5      |    5d5     |    -    |    -    |       Proficiência de Combate        |     -     |
-|  14   |      +5      |     -      | 12/15m  |    -    |              Subclasse               |    3d4    |
-|  15   |      +5      |     -      |    -    |    -    |             Treinamento              |     -     |
-|  16   |      +5      |     -      |    -    |    -    | Melhoramento de Atributo (Colateral) |     -     |
-|  17   |      +6      |    6d6     |    -    |    -    |        Treinamento de Perícia        |     -     |
-|  18   |      +6      |     -      |    -    |    -    |             Treinamento              |    4d4    |
-|  19   |      +6      |     -      |    -    |    -    |       Melhoramento de Atributo       |     -     |
-|  20   |      +6      |     -      | 15/18m  |    -    |              Subclasse               |     -     |
+| Nível | Proficiência |    Dano    | Alcance | Crítico | Dissolver |             Propriedades             |
+| :---: | :----------: | :--------: | :-----: | :-----: | :-------: | :----------------------------------: |
+|   1   |      +2      | 2d3 Etério |  6m/9m  |   2x    |           |    Leve, Arremesso, **Soberania**    |
+|   2   |      +2      |     -      |    -    |    -    |    1d4    |     Treinamento (Dissolver Alma)     |
+|   3   |      +2      |     -      |    -    |  2x/19  |     -     |              Subclasse               |
+|   4   |      +2      |     -      |    -    |    -    |     -     |       Melhoramento de Atributo       |
+|   5   |      +3      |    3d4     |    -    |    -    |     -     |     Treinamento, (Sangue Sonho)      |
+|   6   |      +3      |     -      |    -    |    -    |     -     |        Treinamento de Perícia        |
+|   7   |      +3      |     -      |  9/12m  |    -    |     -     |       Proficiência de Combate        |
+|   8   |      +3      |     -      |    -    |    -    |    2d4    |       Melhoramento de Atributo       |
+|   9   |      +4      |    4d4     |    -    |    -    |     -     |              Subclasse               |
+|  10   |      +4      |     -      |    -    |    -    |     -     |    Treinamento(Molde d Pesadelo)     |
+|  11   |      +4      |     -      |    -    |  3x/19  |     -     |        Treinamento de Perícia        |
+|  12   |      +4      |     -      |    -    |    -    |     -     |       Melhoramento de Atributo       |
+|  13   |      +5      |    5d5     |    -    |    -    |     -     |       Proficiência de Combate        |
+|  14   |      +5      |     -      | 12/15m  |    -    |    3d4    |              Subclasse               |
+|  15   |      +5      |     -      |    -    |    -    |     -     |             Treinamento              |
+|  16   |      +5      |     -      |    -    |    -    |     -     | Melhoramento de Atributo (Colateral) |
+|  17   |      +6      |    6d6     |    -    |    -    |     -     |        Treinamento de Perícia        |
+|  18   |      +6      |     -      |    -    |    -    |    4d4    |             Treinamento              |
+|  19   |      +6      |     -      |    -    |    -    |     -     |       Melhoramento de Atributo       |
+|  20   |      +6      |     -      | 15/18m  |    -    |     -     |              Subclasse               |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
