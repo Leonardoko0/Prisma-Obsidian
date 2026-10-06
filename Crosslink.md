@@ -27,3 +27,35 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
 ### Ziehen
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
 Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
+## **Árvore de Habilidade**
+
+| Nível | Proficiência | M.B Type Dread | Crítico |  Ataque Pinça  |       Características        |
+| :---: | :----------: | :------------: | :-----: | :------------: | :--------------------------: |
+|  1*   |      +2      |   3d8 Corte    |   2x    |       -        |                              |
+|  2*   |      +2      |       -        |    -    |       -        |         Treinamento          |
+|  3*   |      +2      |       -        |    -    |       -        |          Subclasse           |
+|  4*   |      +2      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  5*   |      +3      |       -        |    -    | 6d8 Perfuração |        Treinamento()         |
+|  6*   |      +3      |      4d8       |    -    |       -        |   Treinamento de Perícias    |
+|  7*   |      +3      |       -        |  2x/19  |       -        |   Proficiencia de Combate    |
+|  8*   |      +3      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  9*   |      +4      |       -        |    -    |       -        |          Subclasse           |
+|  10*  |      +4      |       -        |    -    |       -        | Treinamento (Âncora inversa) |
+|  11*  |      +4      |      5d10      |    -    |      7d10      |   Treinamento de Perícias    |
+|  12*  |      +4      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  13*  |      +5      |       -        |    -    |       -        |   Proficiência de Combate    |
+|  14*  |      +5      |       -        |  2x/18  |       -        |  Subclasse (Âncora Rápida)   |
+|  15*  |      +5      |       -        |    -    |       -        |         Treinamento          |
+|  16*  |      +5      |      7d10      |    -    |      9d10      |   Treinamento de Atributo    |
+|  17*  |      +6      |       -        |    -    |       -        |   Treinamento de Perícias    |
+|  18*  |      +6      |       -        |    -    |       -        |         Treinamento          |
+|  19*  |      +6      |       -        |    -    |       -        |   Melhoramento de Atributo   |
+|  20*  |      +6      |       -        |    -    |       -        |          Subclasse           |
+### Melhoramentos
+**LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
+
+**LV 2/5/10/15/18 Treinamento:** Escolha um treinamento na tabela, treinamentos são habilidades ativas ou passivas que garantem vantagens em diversas situações
+
+**LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
+
+**LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
