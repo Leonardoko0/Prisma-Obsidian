@@ -87,7 +87,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 ## Jaeger
 
-**LV 3, :** 
+**LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de 
 
 **LV 9, :** 
 
