@@ -19,7 +19,7 @@ Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e 
 *Werfen lateral*
   Ao jogar a faca em uma parede e outra no chão você gera um fio diagonal que possui efeitos diferentes.
 
- a
+ O alvo deve fazer um teste de acrobacia ao passa pelo fio (DT Tabela), se falha 
  
 
 ### Ziehen
