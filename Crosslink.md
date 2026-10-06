@@ -13,7 +13,7 @@
 Gaste 2pp e sua ação principal. Você arremessa uma faca 12m/6 Tiles, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado quase invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando.
 
 **Tabela de DT**
-
+ 
 | Lv  |  1  |  5  | 10  | 15  | 20  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | DT  | 15  | 17  | 20  | 22  | 25  |
@@ -32,6 +32,8 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
 ### Ziehen
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
 Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
+
+**Tabela de Dano de Corte**
 
 |     Lv     |  1   |  6   |  11  |  16  |
 | :--------: | :--: | :--: | :--: | :--: |
