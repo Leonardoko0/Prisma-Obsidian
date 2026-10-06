@@ -101,7 +101,7 @@ Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo
 - Dynamite Stack: Uma banana dinamite que precisa de ativação própria
 Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado a bomba explode o alvo e alvo adjacentes a ele, causando 8d6 Perfuração ou Balístico (Sua escolha)
 
-**LV 14, :** 
+**LV 14, :** Você se torna um armadilheiro que sabe exatamente como atrair sua vítima até 
 
 **LV 20, :** 
 ## Weaver
