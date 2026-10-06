@@ -66,9 +66,9 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Preparação:** Você pode gastar 
+**LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso.
 
-**LV 6, :**
+**LV 6, :** 
 
 **LV 10, :**
 
