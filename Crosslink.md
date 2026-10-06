@@ -49,7 +49,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 |  11*  |      +4      |     -      |      -      |      -       | Treinamento de Perícias  |
 |  12*  |      +4      |     -      |      -      |      -       | Melhoramento de Atributo |
 |  13*  |      +5      |     -      |  Dureza 3   |      -       | Proficiência de Combate  |
-|  14*  |      +5      |   Raio 4   |      -      |      -       |       Subclasse ()       |
+|  14*  |      +5      |   Raio 4   |      -      |      -       | Subclasse (Reposicionar) |
 |  15*  |      +5      |     -      |      -      |     4d6      |       Treinamento        |
 |  16*  |      +5      |     -      |      -      |      -       | Treinamento de Atributo  |
 |  17*  |      +6      |     -      |      -      |      -       | Treinamento de Perícias  |
@@ -66,7 +66,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, :** 
+**LV 2, Preparação:** Você pode gastar 
 
 **LV 6, :**
 
