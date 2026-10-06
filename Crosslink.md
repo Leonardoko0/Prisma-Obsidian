@@ -26,4 +26,4 @@ Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e 
 
  A área é reduzida para 1 tile apenas, porém se o alvo não passar no teste de percepção ele recebe um dano e gasta 1 uso do fio.
 ### Ziehen
-Você gasta sua ação e 2pp para puxar todas as facas de volta até você criando uma linha de corte que atravessa todos os inimigos 
+Você gasta sua ação e 2pp para puxar todas as facas de volta até você criando uma linha de corte que atravessa todos os inimigos no caminho causando dano por faca. A cada faca que 
