@@ -18,11 +18,11 @@ Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto.
 *Werfen Diagonal*
   Ao arremessar uma faca contra uma parede e outra contra o chão, você cria um fio diagonal, que possui propriedades diferentes do fio convencional.
 
- O alvo deve fazer um teste de acrobacia ao passar pelo fio (DT Tabela), se falhar o alvo não passa do fio, gasta 1 uso do fio e fica sangrando
+ O alvo deve fazer um teste de acrobacia ao passar pelo fio (DT Tabela), se falhar o alvo não passa do fio e fica sangrando
 
 *Werfen Ascendente*
- Ao jogar uma faca no teto e outra no chão você gera um fio ascendente que possui efeitos diferentes.
+Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio ascendente, que possui propriedades diferentes do fio convencional.
 
- A área é reduzida para 1 tile apenas, porém se o alvo não passar no teste de percepção ele recebe um dano e gasta 1 uso do fio.
+ A área é reduzida para 1 tile apenas, porém se o alvo não passar no teste de percepção ele recebe um dano de co
 ### Ziehen
 Você gasta sua ação e 2pp para puxar todas as facas em um raio de 8 tiles de volta até você, criando uma linha de corte que atravessa todos os inimigos no caminho causando dano por faca. A cada faca que você recolher recupera 1pp.
