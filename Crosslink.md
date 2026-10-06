@@ -9,4 +9,4 @@
 **Armadura:** Leve
 
 ## Cross-Wire Spool C3-7
-**Uma Bobina de fios metálicos disson **
+**Uma Bobina de fios metálicos dissonantes que possui a capacidade de refletir luz a um ponto em que sua forma desaparece totalmente **
