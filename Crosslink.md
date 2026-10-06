@@ -89,14 +89,14 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia um Kit de armadilhas que possui 3 usos e regenera todo inicio de combate.
 
-- Shotshell Trap: uma bala de escopeta com um prego de ativador
+- Shotshell: Trap: uma bala de escopeta com um prego de ativador
 Quando colocar um fio, posicione essa armadilha como uma ação de movimento. Quando um alvo for derrubado ele cairá na armadilha e receberá o tiro. Causa 4d4 Dano Balístico.
 - Caltrops: Espinhos que são completamente visíveis a olho nu
 Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor. ao pisar o alvo perde metade de seu movimento pela rodada e toma 1d4 de dano.
 
 **LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas.
 
-- 
+- Gas Shell:
 
 **LV 14, :** 
 
