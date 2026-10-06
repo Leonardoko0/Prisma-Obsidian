@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3272db8a42623acf",
+  "active": "e5a5dbb772839a6d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
     "Crosslink.md",
-    "Rpg/Personagens/Armas.md",
-    "Sovereign.md",
     "Apostle.md",
+    "Sovereign.md",
+    "Rpg/Personagens/Armas.md",
     "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
     "Lucky 44 (Cartas da Sorte).md",
@@ -273,7 +274,6 @@
     "Rpg/Regras/Carga e Peso.md",
     "Talentos.md",
     "Rpg/Personagens/Background.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
     "Rpg/Fendas Malignas.md",
     "Rpg/Dissônancias.md",
