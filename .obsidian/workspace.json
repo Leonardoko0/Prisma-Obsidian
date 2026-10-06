@@ -144,9 +144,21 @@
               "icon": "lucide-file",
               "title": "Raça"
             }
+          },
+          {
+            "id": "3489d37de70c9a5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,7 +310,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8deb513d3a85b52e",
+  "active": "3489d37de70c9a5d",
   "lastOpenFiles": [
     "Drifter.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
