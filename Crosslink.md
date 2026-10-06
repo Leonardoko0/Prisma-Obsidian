@@ -15,6 +15,9 @@ Gaste 2pp para arremessar uma faca 12m/6tiles, ela forma uma área magnética de
 Um alvo pode fazer um teste de percepção antes de passar pelo fio (DT Tabela) na falha ele não percebe o fio e sofre suas consequências.
 
 Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e fica sangrando.
+
+*Werfen lateral*
+  Ao jogar a faca em uma parede 
  
 
 ### Ziehen
