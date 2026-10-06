@@ -68,7 +68,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso.
 
-**LV 5 Envolver, :** 
+**LV 5, Envolver :** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de durebil 
 
 **LV 10, :**
 
