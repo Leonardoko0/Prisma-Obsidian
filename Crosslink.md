@@ -36,11 +36,11 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 | Nível | Proficiência | Magnetismo | Resistência | Sangramento |     Características      |
 | :---: | :----------: | :--------: | :---------: | :---------: | :----------------------: |
-|  1*   |      +2      | Raio de 2  |  Dureza 1   |             |  Cross-Wire Spool C3-7   |
-|  2*   |      +2      |     -      |      -      |             |      Treinamento ()      |
-|  3*   |      +2      |     -      |      -      |             |        Subclasse         |
-|  4*   |      +2      |     -      |      -      |             | Melhoramento de Atributo |
-|  5*   |      +3      |     -      |  Dureza 2   |             |      Treinamento()       |
+|  1*   |      +2      | Raio de 2  |  Dureza 1   |     1d6     |  Cross-Wire Spool C3-7   |
+|  2*   |      +2      |     -      |      -      |      -      |      Treinamento ()      |
+|  3*   |      +2      |     -      |      -      |      -      |        Subclasse         |
+|  4*   |      +2      |     -      |      -      |      -      | Melhoramento de Atributo |
+|  5*   |      +3      |     -      |  Dureza 2   |      -      |      Treinamento()       |
 |  6*   |      +3      |     -      |      -      |             | Treinamento de Perícias  |
 |  7*   |      +3      |   Raio 3   |      -      |             | Proficiencia de Combate  |
 |  8*   |      +3      |     -      |      -      |             | Melhoramento de Atributo |
