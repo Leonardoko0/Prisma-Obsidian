@@ -94,12 +94,12 @@ Quando colocar um fio, posicione essa armadilha como uma ação de movimento. Qu
 - Caltrops: Espinhos que são completamente visíveis a olho nu
 Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor. ao pisar o alvo perde metade de seu movimento pela rodada e toma 1d4 de dano.
 
-**LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas.
+**LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas criativas de afugentar suas presas.
 
 - Gas Shell: Uma bomba de gás que cega e deixa os inimigos sem ar
 Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo. Você pode conecta-lo a um fio ou coloca-lo em uma armadilha de pisar para ativação. Ao ser ativado o alvo fica cego e recupera apenas metade da sua estâmina pelos próximo turno
 - Dynamite Stack: Uma banana dinamite que precisa de ativação própria
-Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado a bomba explode o alvo e alvo adjacentes a ele, causando 8d6 Perfuração ou 
+Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado a bomba explode o alvo e alvo adjacentes a ele, causando 8d6 Perfuração ou Balístico (Sua escolha)
 
 **LV 14, :** 
 
