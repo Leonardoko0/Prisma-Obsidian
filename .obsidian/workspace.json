@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "6b04450ea0ca886d",
   "lastOpenFiles": [
-    "Drifter.md",
     "Apostle.md",
     "Crosslink.md",
-    "Rpg/Personagens/Artilherista.md",
     "Sovereign.md",
+    "Drifter.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
