@@ -37,7 +37,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 | Nível | Proficiência | Magnetismo | Resistência | Sangramento  |     Características      |
 | :---: | :----------: | :--------: | :---------: | :----------: | :----------------------: |
 |  1*   |      +2      | Raio de 2  |  Dureza 1   |     1d6      |  Cross-Wire Spool C3-7   |
-|  2*   |      +2      |     -      |      -      |      -       |      Treinamento ()      |
+|  2*   |      +2      |     -      |      -      |      -       |   Treinamento (Anzol)    |
 |  3*   |      +2      |     -      |      -      |      -       |        Subclasse         |
 |  4*   |      +2      |     -      |      -      |      -       | Melhoramento de Atributo |
 |  5*   |      +3      |     -      |  Dureza 2   |     2d6      |  Treinamento(Envolver)   |
