@@ -71,9 +71,9 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso.
 
-**LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Ele deve fazer um teste de Atletismo ou um Salvaguarda de Tenacidade.
+**LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Ele deve fazer um teste de Atletismo ou um Salvaguarda de Tenacidade. 
 
-- Amarrado
+- Amarrado: O atacante recebe vantagem e o alvo não pode se mover.
 
 
 **LV 10, Anzol:** Quando um alvo quebrar o fio (Seja por passar por ele ou ataca-lo), gaste sua reação para fazer a faca que o segurava voar em direção a o inimigo causando dano de corte.
