@@ -92,7 +92,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 - Shotshell Trap: uma bala de escopeta com um prego de ativador
 Quando colocar um fio, posicione essa armadilha como uma ação de movimento. Quando um alvo for derrubado ele cairá na armadilha e receberá o tiro. Causa 4d4 Dano Balístico.
 - Caltrops: Espinhos que são completamente visíveis a olho nu
-Gaste uma carga para
+Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor.
 
 **LV 9, :** 
 
