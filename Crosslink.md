@@ -13,7 +13,7 @@
 ### Werfen
 Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando.
 
-Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. Quando o fio chegar a 0 pontos ele se quebra. Além disso o fio pode ser quebrado por um ataqu
+Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. Quando o fio chegar a 0 pontos ele se quebra. Além disso o fio pode ser quebrado por um ataque.
 
 | Lv  |  1  |  5  | 10  |  15  |  20  |
 | :-: | :-: | :-: | :-: | :--: | :--: |
@@ -32,9 +32,9 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
 Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
 
-|  Lv  |  1   |  6   |  11  |  16  |
-| :--: | :--: | :--: | :--: | :--: |
-| Dano | 1d10 | 2d10 | 3d10 | 4d10 |
+|     Lv     |  1   |  6   |  11  |  16  |
+| :--------: | :--: | :--: | :--: | :--: |
+| Dano corte | 1d10 | 2d10 | 3d10 | 4d10 |
 
 ## **Árvore de Habilidade**
 
