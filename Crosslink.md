@@ -22,7 +22,7 @@ Ao passar pelo fio o alvo ele gasta 1 uso do fio que ele passou, é derrubado e 
  O alvo deve fazer um teste de acrobacia ao passar pelo fio (DT Tabela), se falhar o alvo não passa do fio, gasta 1 uso do fio e fica sangrando
 
 *Werfen Superior*
- Ao jogar uma faca no teto e outra no chão você gera um fio transversal
+ Ao jogar uma faca no teto e outra no chão você gera um fio Ascendente
  
 
 ### Ziehen
