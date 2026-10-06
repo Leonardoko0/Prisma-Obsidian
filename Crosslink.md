@@ -87,7 +87,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 ## Jaeger
 
-**LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia dois novos tipos de armadilhas.
+**LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia um Kit de armadilhas que possui 3 usos e 
 
 - 
 
