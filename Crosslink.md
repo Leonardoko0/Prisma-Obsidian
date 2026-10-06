@@ -82,5 +82,5 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Crosslink
 
 ## Jaeger
-##
+## Weaver
 ##
