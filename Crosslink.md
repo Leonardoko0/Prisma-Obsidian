@@ -13,7 +13,7 @@
 ### Werfen
 Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando.
 
-Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. 
+Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. Quando o fio chegar a 0 pontos ele se quebra.
 
 *Werfen Diagonal*
   Ao arremessar uma faca contra uma parede e outra contra o chão, você cria um fio diagonal, que possui propriedades diferentes do fio convencional.
@@ -68,7 +68,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 2, Preparação:** Você pode gastar 1 de Estâmina para usar a sua habilidade uma segunda vez sem gastar PP se for seu primeiro uso.
 
-**LV 5, Envolver :** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de durebil 
+**LV 5, Envolver :** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo
 
 **LV 10, :**
 
