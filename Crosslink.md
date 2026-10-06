@@ -26,4 +26,4 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
  A área é reduzida para 1 tile apenas, porém se o alvo não passar no teste de percepção ele recebe um dano de corte e fica sangrando
 ### Ziehen
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
-Durante o trajeto, cada faca cria uma linha de corte, atravessando todos os inimigos que estiverem em seu caminho.
+Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
