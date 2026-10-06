@@ -103,8 +103,7 @@
               "title": "Vestimentas e Armaduras"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,12 +255,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Vestimentas e Armaduras.md",
+    "Crosslink.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
-    "Crosslink.md",
-    "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Nômade.md",
     "Drifter.md",
     "Apostle.md",
