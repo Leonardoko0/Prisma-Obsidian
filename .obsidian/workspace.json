@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "de06c9458352fe48",
   "lastOpenFiles": [
+    "Crosslink.md",
     "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
-    "Crosslink.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
