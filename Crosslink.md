@@ -96,7 +96,7 @@ Gaste uma carga para posicionar 3 Caltrops em uma área de raio 3 ao seu arredor
 
 **LV 9, :** Você aumenta suas cargas para 5 e descobre novas formas de afugentar suas presas.
 
-- Gas Shell:
+- Gas Shell: Uma bomba de gás que cega e dei
 
 **LV 14, :** 
 
