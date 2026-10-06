@@ -28,9 +28,9 @@ Ao arremessar uma faca contra o teto e outra contra o chão, você cria um fio a
 Você gasta sua ação e 2pp. Você utiliza o mecanismo de atração das facas. Todas as facas dentro de um raio de 8 tiles são puxadas de volta até você.
 Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimigos que estiverem em seu caminho. Além disso para cada faca recuperada você recupera 1pp
 
-|  Lv  |  1   | 6    |  11  | 16  | 20  |
-| :--: | :--: | ---- | :--: | :-: | :-: |
-| Dano | 1d10 | 2d10 | 3d10 | 4d  |     |
+|  Lv  |  1   | 6    |  11  |  16  |
+| :--: | :--: | ---- | :--: | :--: |
+| Dano | 1d10 | 2d10 | 3d10 | 4d10 |
 
 ## **Árvore de Habilidade**
 
@@ -40,7 +40,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 |  2*   |      +2      |     -      |      -      |      -       |      Treinamento ()      |
 |  3*   |      +2      |     -      |      -      |      -       |        Subclasse         |
 |  4*   |      +2      |     -      |      -      |      -       | Melhoramento de Atributo |
-|  5*   |      +3      |     -      |  Dureza 2   |     2d6      |      Treinamento()       |
+|  5*   |      +3      |     -      |  Dureza 2   |     2d6      |  Treinamento(Envolver)   |
 |  6*   |      +3      |     -      |      -      |      -       | Treinamento de Perícias  |
 |  7*   |      +3      |   Raio 3   |      -      |      -       | Proficiencia de Combate  |
 |  8*   |      +3      |     -      |      -      |      -       | Melhoramento de Atributo |
