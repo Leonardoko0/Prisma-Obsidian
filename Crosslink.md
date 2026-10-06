@@ -77,3 +77,9 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 10, Anzol:** Quando um alvo quebrar o fio (Seja por passar por ele ou ataca-lo), gaste sua reação para fazer a faca que o segurava voar em direção a o inimigo causando dano de corte.
 
 **LV 16, Reposicionar:** Você pode gastar 3pp para regenerar todos os fios quebrados a 8 tiles de distância.
+
+**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Crosslink
+
+###
+###
+###

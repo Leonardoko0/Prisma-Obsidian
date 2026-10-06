@@ -58,6 +58,8 @@ Gaste 2PP e sua ação principal para arremessar (6m/9m) ou bater com sua faca, 
 **LV 10, Molde de Pesadelo**: Escolha um entre os três atributos físico: (For, Agi e Con) para adicionar como desvantagem no efeito "Cata Sonho"
 
 **LV 16, Colateral:** Gastando 1 PP. Se a Cytherean acertar gere 2 facas etérias no chão que voam assim que outros alvo chegarem perto. Cada faca voa 4,5m e o alvo deve fazer um salvaguarda de Agi (DT 20) ou é acertado e sofre o efeito "Cata Sonho" 
+
+**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Sovereign
 ## Sandman
 
 **LV 3, Sonho Azul:** (Ação Livre) Gasta 1 PP para trocar entre modos
