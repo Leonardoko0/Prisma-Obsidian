@@ -11,9 +11,9 @@
 ## Cross-Wire Spool C3-7
 **Uma bobina de fios metálicos dissonantes capaz de refletir a luz até um ponto em que seus fios se tornam praticamente invisíveis.**
 ### Werfen
-Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando,
+Gaste 2pp e sua ação principal. Você arremessa uma faca, criando uma área Magnética de raio 2 tiles. Ao arremessar outra faca dentro dela, um fio laminado invisível se forma entre as duas. Um alvo pode realizar um teste de Percepção (DT Tabela) antes de atravessá-lo, se falhar não percebe o fio e sofre seus efeitos. Ao passar o alvo é derrubado e fica sangrando.
 
-Ao passar pelo fio o alvo gasta 1 uso do fio que ele passou, é derrubado e fica sangrando.
+Toda vez que um alvo passar por um fio o mesmo é desgastado em 1 ponto. 
 
 *Werfen Diagonal*
   Ao jogar a faca em uma parede e outra no chão você gera um fio diagonal que possui efeitos diferentes.
