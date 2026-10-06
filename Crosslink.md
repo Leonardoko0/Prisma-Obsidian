@@ -61,10 +61,10 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 
-**LV 2, Dissolver Alma:** Agora o efeito "Cata Sonho" dissolve o espírito do alvo lentamente, dando dano Etério continuo enquanto o efeito estiver ativo.
+**LV 2, :** 
 
-**LV 6, Sangue Sonho:** Você molda uma faca falsa feita do seu próprio sangue e então a usa sem gastar PP. Se corte dando 1d6 para usar sua habilidade de forma enfraquecida em uma categoria a baixo (Ex: se o dano for 3d4 por padrão ele será diminuído para 2d3) Olhar a tabela de Árvore de Habilidade.
+**LV 6, :**
 
-**LV 10, Molde de Pesadelo**: Escolha um entre os três atributos físico: (For, Agi e Con) para adicionar como desvantagem no efeito "Cata Sonho"
+**LV 10, :**
 
-**LV 16, Colateral:** Gastando 1 PP. Se a Cytherean acertar gere 2 facas etérias no chão que voam assim que outros alvo chegarem perto. Cada faca voa 4,5m e o alvo deve fazer um salvaguarda de Agi (DT 20) ou é acertado e sofre o efeito "Cata Sonho" 
+**LV 16, :** 
