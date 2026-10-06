@@ -9,3 +9,4 @@
 **Armadura:** Leve
 
 ## Cross-Wire Spool C3-7
+**Uma Bobina de fios metálicos disson **
