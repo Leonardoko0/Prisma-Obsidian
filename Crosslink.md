@@ -103,7 +103,8 @@ Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 14, :** Você se torna um armadilheiro que sabe exatamente como atrair sua vítima até o fundo do poço, "As vezes sendo até meio cômico". Aumenta suas cargas para 8
 
-- Armadilha de Gatinho Bomba
+- Armadilha de Gatinho Bomba: "Um 'Gato?' nada suspeito"
+
 
 **LV 20, :** 
 ## Weaver
