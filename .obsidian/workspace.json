@@ -103,8 +103,7 @@
               "title": "Itens Gerais"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,13 +255,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de06c9458352fe48",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Apostle.md",
     "Drifter.md",
     "Crosslink.md",
     "Rpg/Personagens/Itens Gerais.md",
-    "Sovereign.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
