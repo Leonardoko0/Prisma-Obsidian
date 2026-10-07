@@ -124,9 +124,9 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **Marreta dos Desvalidos**:
 
-|     Dano     | Alcance  | Crítico |        Propriedades        |
-| :----------: | :------: | :-----: | :------------------------: |
-| 6d8+8 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
+|     Dano     | Alcance  | Crítico |     Propriedades      |
+| :----------: | :------: | :-----: | :-------------------: |
+| 6d8+8 Erebus | Corporal |   2x    | Pesado, Theourgia's,  |
 
 **Espada dos Alquebrado:**
 
@@ -144,9 +144,9 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **Marreta dos Desvalidos**:
 
-|     Dano      | Alcance  | Crítico |        Propriedades        |
-| :-----------: | :------: | :-----: | :------------------------: |
-| 7d8+10 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
+|     Dano      | Alcance  | Crítico |     Propriedades      |
+| :-----------: | :------: | :-----: | :-------------------: |
+| 7d8+10 Erebus | Corporal |   2x    | Pesado, Theourgia's,  |
 
 **Espada dos Alquebrado:**
 
