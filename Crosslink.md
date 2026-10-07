@@ -77,7 +77,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 **LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
 
-- Amarrado: O atacante recebe vantagem e o alvo não pode se mover.
+- Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
 
 **LV 10, Anzol:** Quando um alvo quebrar o fio (Seja por passar por ele ou ataca-lo), gaste sua reação para fazer a faca que o segurava voar em direção a o inimigo causando dano de corte.
 
@@ -104,7 +104,7 @@ Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 14, :** Você se torna um armadilheiro que sabe exatamente como atrair sua vítima até o fundo do poço, "As vezes sendo até meio cômico". Aumenta suas cargas para 8
 
 - Armadilha de Gatinho Bomba: "Um 'Gato?' nada suspeito"
-Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação com o carisma do seu personagem contra um salvaguarda de Moral de um alvo. Se ele falhar vai deixar o "gato" se aproximar e esse "gato" vai fazer "CABUM". Ao explodir ele causa 5d8 de dano elétrico e deixa o alvo Amarrado (DT 20)
+Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação com o carisma do seu personagem contra um salvaguarda de Moral de um alvo. Se ele falhar vai deixar o "gato" se aproximar e esse "gato" vai fazer "CABUM". Ao explodir ele causa 5d8 de dano elétrico e deixa o alvo Amarrado (DT 20). DT abaixa em 5 a cada rodada 
 
 **LV 20, :** 
 ## Weaver
