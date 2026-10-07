@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "de06c9458352fe48",
   "lastOpenFiles": [
-    "Rpg/Personagens/Itens Gerais.md",
     "Apostle.md",
     "Drifter.md",
     "Crosslink.md",
+    "Rpg/Personagens/Itens Gerais.md",
     "Sovereign.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Artilherista.md",
