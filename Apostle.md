@@ -105,9 +105,9 @@ Você recebe vantagem ao acertar um alvo que esteja "Coberto por Sangue Preto"
 
 **Marreta dos Desvalidos**:  Quando acertar um ataque com essa arma, você pode gastar 1 pp ou 1 Decomposição para aplicar o efeito de (Quebrado I) no alvo
 
-|     Dano     | Alcance  | Crítico |        Propriedades        |
-| :----------: | :------: | :-----: | :------------------------: |
-| 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's, Amplo |
+|     Dano     | Alcance  | Crítico |     Propriedades      |
+| :----------: | :------: | :-----: | :-------------------: |
+| 5d8+5 Erebus | Corporal |   2x    | Pesado, Theourgia's,  |
 **Espada do Alquebrado**: Quando acertar um ataque você pode gastar 1pp para realizar um soco junto do ataque caso o ataque principal acerte o soco também acertará. O soco aplica 1 rodada de "Coberto por Sangue Preto"
 
 |    Dano     | Alcance  | Crítico |     Propriedades      |
