@@ -87,7 +87,7 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 
 ## Jaeger
 
-**LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia um Kit de armadilhas que possui 3 usos e regenera todo inicio de combate. Para posicionar armadilhas extras gaste sua ação de movimento ou 2 Estâmina
+**LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia um Kit de armadilhas que possui 3 usos e regenera todo inicio de combate. Para posicionar armadilhas extras gaste sua ação de movimento ou 2 Estâmina como ação livre
 
 - Shotshell: Trap: uma bala de escopeta com um prego de ativador
 Quando colocar um fio, posicione essa armadilha como uma ação de movimento. Quando um alvo for derrubado ele cairá na armadilha e receberá o tiro. Causa 4d4 Dano Balístico.
