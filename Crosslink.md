@@ -106,7 +106,7 @@ Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Armadilha de Gatinho Bomba: "Um 'Gato?' nada suspeito"
 Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação com o carisma do seu personagem contra um salvaguarda de Moral de um alvo. Se ele falhar vai deixar o "gato" se aproximar e esse "gato" vai fazer "CABUM". Ao explodir ele causa 5d8 de dano elétrico e deixa o alvo Amarrado (DT 20]/). DT abaixa em 5 a cada rodada 
 
-**LV 20, :** 
+ * *LV 20, :** 
 ## Weaver
 Aranha
 
