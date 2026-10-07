@@ -90,20 +90,35 @@
             }
           },
           {
-            "id": "3d10a3c0c4fc152f",
+            "id": "0694a82bcd0e0d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rpg/Personagens/Itens Gerais.md",
+                "file": "Rpg/Personagens/Arbiter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itens Gerais"
+              "title": "Arbiter"
+            }
+          },
+          {
+            "id": "a1fb22da02c4f78f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Nômade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nômade"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,16 +270,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "6b04450ea0ca886d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Arbiter.md",
+    "Rpg/Personagens/Itens Gerais.md",
     "Sovereign.md",
     "Apostle.md",
     "Drifter.md",
     "Crosslink.md",
-    "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Artilherista.md",
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
@@ -274,7 +290,6 @@
     "Rpg/Regras/Carga e Peso.md",
     "Talentos.md",
     "Rpg/Personagens/Background.md",
-    "Rpg/Personagens/Arbiter.md",
     "Rpg/Fendas Malignas.md",
     "Rpg/Dissônancias.md",
     "Rpg/Universo.md",
