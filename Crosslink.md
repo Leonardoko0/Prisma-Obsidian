@@ -84,7 +84,6 @@ Durante o trajeto, cada faca cria uma linha de corte atravessando todos os inimi
 **LV 16, Reposicionar:** Você pode gastar 3pp para regenerar todos os fios quebrados a 8 tiles de distância.
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Crosslink
-
 ## Jaeger
 
 **LV 3, :** Você sabe como as pessoas e animais são e descobriu diversas formas criativas de acabar com a vida dessas coisas. Vocês desbloqueia um Kit de armadilhas que possui 3 usos e regenera todo inicio de combate. Para posicionar armadilhas extras gaste sua ação de movimento ou 2 Estâmina como ação livre
@@ -106,7 +105,7 @@ Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Armadilha de Gatinho Bomba: "Um 'Gato?' nada suspeito"
 Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação com o carisma do seu personagem contra um salvaguarda de Moral de um alvo. Se ele falhar vai deixar o "gato" se aproximar e esse "gato" vai fazer "CABUM". Ao explodir ele causa 5d8 de dano elétrico e deixa o alvo Amarrado (DT 20]/). DT abaixa em 5 a cada rodada 
 
-	 * *LV 20, :** 
+**LV 20, :** 
 ## Weaver
 Aranha
 
