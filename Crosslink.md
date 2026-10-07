@@ -109,8 +109,8 @@ Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo
 
 **LV 20, :** Você se torna o mestre dos mestre em criar armadilhas das mais diversas formas criativas e malucas. "O primeiro passo para enganar seu oponente é enganar a si mesmo". Aumenta suas Cargas para 10
 
-- Magnum Opus Lâmina:
-Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento
+- Magnum Opus de Lâmina:
+Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado uma serra circular gigante vai ser jogada de baixo para 
 ## Weaver
 Aranha
 
