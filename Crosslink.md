@@ -107,7 +107,7 @@ Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo
 - Armadilha de Tachinhas: Um canhão de tachinhas pesadas
 Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um canhão que ocupa um tile para atirar em todos os adjacentes caso um inimigo passe ao seu lado. Ele causa 2d6 de dano perfurante e finaliza o movimento do alvo no local. Na próxima rodada o alvo pode se mover livremente mas tomará mais 2d6 de dano perfurante
 
-**LV 20, :** Você se torna 
+**LV 20, :** Você se torna o mestre dos mestre em criar armadilhas das mais diversas formas criativas e malucas. "O pri"
 ## Weaver
 Aranha
 
