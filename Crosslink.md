@@ -112,7 +112,7 @@ Gaste 3 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredo
 - Magnum Opus de Lâmina: Apensa uma serra
 Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado uma serra circular gigante vai ser jogada de baixo para cima e caindo de cima pra baixo. No primeiro acerto cause 5d6 Corte e deixe o alvo sangrando, Pernas completamente dilaceradas. No segundo acerto o alvo pode fazer um salvaguarda de reflexo contra um ataque com intelecto com proficiência seu, se falhar toma +5d6 Corte e deixo o alvo atordoado pelas próximas 1d2+1 rodadas.
 - Magnum Opus a Laser: Só um feixe de luz
-Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado um canhão a laser vai atirar nos primeiros 3 alvos inimigos que estiverem na sua frente, que devem fazer um salvaguarda de Reflexo para diminuir o dano na metade. Causa 12d12 Energia e deixa os alvos paralisados por uma quantidade de rodadas
+Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado um canhão a laser vai atirar nos primeiros 3 alvos inimigos que estiverem na sua frente, que devem fazer um salvaguarda de Reflexo para diminuir o dano na metade. Causa 12d12 Energia e deixa os alvos lentos por uma quantidade de rodadas igual ao número de doze rodados nesses 12d12
 ## Weaver
 Aranha
 
