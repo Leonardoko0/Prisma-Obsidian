@@ -104,7 +104,7 @@ Gaste 3 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 14, :** Você se torna um armadilheiro que sabe exatamente como atrair sua vítima até o fundo do poço, "As vezes sendo até meio cômico". Aumenta suas cargas para 8
 
 - Armadilha de Gatinho Bomba: "Um 'Gato?' nada suspeito"
-Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação 
+Gaste 2 cargas para posicionar 1 em um tile em uma área de raio 3 ao seu arredor. Um "gatinho" de aparência pacífica que você controla. Ele anda 1 tile toda rodada e pode fazer um teste de enganação com o carisma do seu personagem contra um salvaguarda de Moral de um alvo. Se ele falhar ele vai deixa o "gato" se aproximar 
 
 **LV 20, :** 
 ## Weaver
