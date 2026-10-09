@@ -143,8 +143,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Spinnennetz**: Gaste 1pp para criar efeitos diversos atirando uma carga de teias grossas
 - Festkleben: Gaste sua ação de movimento para disparar uma carga de teia contra uma criatura, prendendo-a à sua posição atual. O alvo pode realizar um teste de Atletismo (DT igual a 10 + metade do nível do Crosslink) para encerrar o efeito.
-- Entwaffnen: Gaste sua ação principal para disparar uma carga de teia contra uma criatura e realizar um ataque. Se acertar, você puxa uma arma empunhada pelo alvo diretamente para si. Criaturas de alta periculosidade podem realizar uma salvaguarda de Reflexos para agarrar a arma antes que ela chegue até você.
-- Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. Caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
+- Entwaffnen: Gaste sua ação principal para disparar uma carga de teia contra uma criatura e realizar um ataque. Se acertar, você puxa uma arma empunhada pelo alvo. Criaturas de alta periculosidade podem realizar uma salvaguarda de Reflexos para agarrar a arma antes que ela chegue até você.
+- Aufhängen: Gaste sua ação completa para erguer uma criatura Amarrada até um ponto elevado e prendê-la nele. Caso a criatura consiga se libertar, ela cairá e sofrerá o dano de queda normalmente, sem possibilidade de realizar uma salvaguarda para reduzir esse dano.
 
 **LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastar sua ação principal para dar ataques rasantes com vantagem em alvos abaixo de você e retornar a sua posição aéria
 ## Warland
