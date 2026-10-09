@@ -117,7 +117,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 3, :** Você perde a capacidade de usar seus fios como armadilhas.
 
-
+**Werfen**:
+ Gaste 1pp e sua ação de movimento para atirar seus fios 
 
 **LV 9, :** 
 
