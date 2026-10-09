@@ -144,7 +144,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **Spinnennetz**: Gaste 1pp para criar efeitos diversos atirando uma carga de teias grossas
 - Festkleben: Atire uma carga como ação de movimento que gruda o alvo na posição atual, ele pode fazer um teste de atletismo (DT 10+metade do nível do Crosslink) para quebrar a teia
 - Entwaffnen: Atire uma carga como ação principal rode um ataque contra o alvo se acertar puxe a arma do alvo até você. Alvos de alta periculosidade pode fazer um salvaguarda de Reflexo para pegar a arma no ar
-- Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo p
+- Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
 
 **LV 20, :** 
 ## Warland
