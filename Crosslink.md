@@ -139,7 +139,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Fortbewegung**: Gaste 1 PP e sua ação principal ou de movimento para se puxar até um ponto conectado por Vorbereiten. Após concluir o deslocamento, o fio é rompido.
 
-**LV 14, :** 
+**LV 14, Spinnennetz:** Você aperfeiçoa seus fios, criando cargas de teias espessas capazes de imobilizar inimigos, desarmá-los ou suspendê-los no ambiente.
 
 **Spinnennetz**: Gaste 1pp para criar efeitos diversos atirando uma carga de teias grossas
 - Festkleben: Atire uma carga como ação de movimento que gruda o alvo na posição atual, ele pode fazer um teste de atletismo (DT 10+metade do nível do Crosslink) para quebrar a teia
