@@ -122,7 +122,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
  - Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo, se passar puxe o alvo para a borda dos 6 tiles. Se ele passar ele pode escolher entre terminar a condição ou fazer mais um teste de atletismo contra você para te puxar. Alvos de categoria de tamanho acima recebem vantagem contra o menor 
 
-**Ziehen**:
+**Ziehen**: Muda a forma que você puxa, aperta ou empurra alvos envolvidos nos seus fios
 
  Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência
 
@@ -130,11 +130,10 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
  **LV 5, Envolver:** Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
 
+ - Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
 
-- Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
- 
 
-**LV 9, :** 
+**LV 9, :** Você descobres 
 
 **LV 14, :** 
 
