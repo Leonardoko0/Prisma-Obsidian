@@ -126,7 +126,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
  Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" os fios ao redor de uma criatura causando um dano = Dano de Corte + Dano de Sangramento + 1d6 corte, para cada nível de Resistência. Termina condição
 
- Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para se puxar até o alvo ou puxar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem. 
+ Verschieben: Gaste 1 PP e sua ação principal para puxar a si mesmo até uma criatura Envolvida por Fios Soltos ou deslocar essa criatura para qualquer tile dentro do seu raio de 6 tiles. Caso o deslocamento faça o alvo colidir com um obstáculo ou cair de um precipício, ele poderá realizar uma salvaguarda com (DT igual a 10 + metade do nível do Crosslink) para evitar o efeito. Se o alvo possuir uma categoria de tamanho superior à sua,ro de Atletismo contra ele, realizada com desvantagem.
 
  **LV 5, Envolver:** Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
 
