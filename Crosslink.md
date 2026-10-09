@@ -135,9 +135,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 9, Spinnentrieb:** Você desenvolve novas formas de utilizar seus fios para se prender ao ambiente e atravessar o campo de batalha com agilidade
 
-**Vorbereiten**: Gaste 1 PP e sua ação de movimento para lançar seus fios contra um objeto ou superfície não viva a até 12 metros (8 tiles). Você fica conectado ao ponto atingido e pode se afastar até 8 tiles dele. Caso ultrapasse esse limite, a conexão é rompida.
+**Vorbereiten**: Gaste 1 PP e sua ação de movimento para lançar seus fios contra um objeto ou superfície não viva a até 12 metros (8 tiles). Você fica conectado ao ponto atingido e pode se afastar até 8 tiles dele. Caso ultrapasse esse limite, o fio é rompido.
 
-**Fortbewegung**: Gaste 1 PP e sua ação principal ou de movimento para se puxar até um ponto conectado por Vorbereiten. Após concluir o deslocamento, a conexão é encerrada.
+**Fortbewegung**: Gaste 1 PP e sua ação principal ou de movimento para se puxar até um ponto conectado por Vorbereiten. Após concluir o deslocamento, o fio é rompido.
 
 **LV 14, :** 
 
