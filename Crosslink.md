@@ -148,6 +148,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 20, Spinnenkönig:** Você alcança o domínio absoluto sobre seus fios, utilizando-os para se suspender no ar e atacar suas presas de ângulos imprevisíveis.
 
+Você recebe uma ação de movimento adicional por rodada, que pode ser utilizada para ativar suas habilidades de Weaver. Além disso, enquanto estiver conectado aos seus fios, você pode se manter suspenso no ar e utilizá-los para se deslocar pelo campo de batalha, movimentando-se entre pontos de ancoragem.
+
 Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastar sua ação principal para dar ataques rasantes com vantagem em alvos abaixo de você e retornar a sua posição aéria
 ## Warland
 Atirar balas ao passar 
