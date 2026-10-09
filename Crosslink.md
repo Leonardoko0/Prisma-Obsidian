@@ -124,7 +124,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Ziehen**:
 
- Drücken
+ Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios
 
 **LV 9, :** 
 
