@@ -141,6 +141,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 14, :** 
 
+Spinnennetz: Gaste 1pp para criar efeitos diversos atirando
+
 **LV 20, :** 
 ## Warland
 Atirar balas ao passar 
