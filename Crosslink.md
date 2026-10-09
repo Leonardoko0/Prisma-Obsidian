@@ -135,7 +135,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **LV 9, :** Você descobres novas formas de usar seus fios de forma traiçoeira e móvel
 
-**Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles).
+**Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles) O alvo fica envolvido com fios soltos ligado a você em um raio de 6 tiles. 
 
 Fortbewegung
 
