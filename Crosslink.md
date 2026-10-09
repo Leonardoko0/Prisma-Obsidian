@@ -124,9 +124,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Ziehen**: Muda a forma que você puxa, aperta ou empurra alvos envolvidos nos seus fios
 
- Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência
+ Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência. Termina condição
 
- Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para se puxar até o alvo ou puxar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem.
+ Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para se puxar até o alvo ou puxar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem. 
 
  **LV 5, Envolver:** Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
 
@@ -137,7 +137,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles). Você se prende ao objeto envolvido em um raio de 8 tiles. Sair desse raio quebra a ligação dos fios.
 
-**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**. Quebra os fios no objeto
+**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**. Termina condição
 
 **LV 14, :** 
 
@@ -146,7 +146,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Entwaffnen: Atire uma carga como ação principal rode um ataque contra o alvo se acertar puxe a arma do alvo até você. Alvos de alta periculosidade pode fazer um salvaguarda de Reflexo para pegar a arma no ar
 - Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. Caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
 
-**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério
+**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você pode 
 ## Warland
 Atirar balas ao passar 
 
