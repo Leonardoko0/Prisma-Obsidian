@@ -137,7 +137,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles). Você se prende ao objeto envolvido em um raio de 8 tiles. Sair desse raio quebra a ligação dos fios.
 
-**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**
+**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**. Quebra os fios no objeto
 
 **LV 14, :** 
 
@@ -146,7 +146,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Entwaffnen: Atire uma carga como ação principal rode um ataque contra o alvo se acertar puxe a arma do alvo até você. Alvos de alta periculosidade pode fazer um salvaguarda de Reflexo para pegar a arma no ar
 - Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. Caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
 
-**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como
+**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério
 ## Warland
 Atirar balas ao passar 
 
