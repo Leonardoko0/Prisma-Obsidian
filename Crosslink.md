@@ -120,9 +120,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **Werfen**:
  Gaste 1 PP e sua ação de movimento para lançar seus fios contra uma criatura a até 9 metros (6 tiles). O alvo fica "Envolvido por Fios Soltos", permanecendo conectado a você enquanto estiver dentro de um raio de 6 tiles.
 
-- Envolvido por Fios Soltos. O alvo pode gastar sua ação de movimento para encerrar essa condição voluntariamente. Caso tente se afastar para além do limite de 6 tiles, você e o alvo devem rodar Atletismo. Se você vencer, puxa o alvo de volta para a borda do seu alcance de 6 tiles. Se o alvo vencer, pode encerrar a condição ou realizar um disputa de Atletismo para puxar você em sua direção. Criaturas com uma categoria de tamanho superior à sua recebem vantagem nesses testes contra você. 
+- Envolvido por Fios Soltos. O alvo pode gastar sua ação de movimento para encerrar essa condição voluntariamente. Caso tente se afastar para além do limite de 6 tiles, você e o alvo devem rodar Atletismo. Se você vencer, puxa o alvo de volta para a borda do seu alcance de 6 tiles. Se o alvo vencer, pode encerrar a condição ou realizar um novo teste de Atletismo para puxar você em sua direção. Criaturas com uma categoria de tamanho superior à sua recebem vantagem nesses testes contra você. 
 
-**Ziehen**: Muda a forma que você puxa, aperta ou empurra alvos envolvidos nos seus fios
+**Ziehen**: Você aprende a manipular a tensão dos fios para esmagar, deslocar ou arremessar criaturas conectadas a eles.
 
  Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência. Termina condição
 
