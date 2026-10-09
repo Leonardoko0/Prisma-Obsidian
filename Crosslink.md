@@ -124,6 +124,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Ziehen**:
 
+ Drücken
+
 **LV 9, :** 
 
 **LV 14, :** 
