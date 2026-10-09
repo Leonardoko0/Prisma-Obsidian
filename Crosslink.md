@@ -137,7 +137,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles). Você se prende ao objeto envolvido em um raio de 8 tiles. Sair desse raio quebra a ligação dos fios.
 
-**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio
+**Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**
 
 **LV 14, :** 
 
