@@ -120,13 +120,13 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **Werfen**:
  Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo (9m/6 Tiles). O alvo fica envolvido com fios soltos ligado a você em um raio de 6 tiles
 
- - Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo, se passar puxe o alvo para a borda dos 6 tiles. Se ele passar ele pode escolher entre terminar a condição ou fazer mais um teste de atletismo contra você para te puxar
+ - Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo, se passar puxe o alvo para a borda dos 6 tiles. Se ele passar ele pode escolher entre terminar a condição ou fazer mais um teste de atletismo contra você para te puxar. Alvos de categoria de tamanho acima recebem vantagem contra o menor 
 
 **Ziehen**:
 
  Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência
 
- Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para puxar ou empurrar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desc
+ Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para puxar ou empurrar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem.
  
 
 **LV 9, :** 
