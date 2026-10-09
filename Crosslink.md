@@ -115,7 +115,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para ativação dessa armadilha, este fio não pode ativar outras armadilhas ou causar sangramento. Ao ser ativado um canhão a laser vai atirar nos primeiros 3 alvos inimigos que estiverem na sua frente, que devem fazer um salvaguarda de Reflexo para diminuir o dano na metade. Causa 12d12 Energia e deixa os alvos fracos por uma quantidade de rodadas igual ao número "doze" rodados nesses 12d12
 ## Weaver
 
-**LV 3, :** Você perde a capacidade de usar seus fios como armadilhas.
+**LV 3, Fadenbindung:** Você perde a capacidade de usar seus fios como armadilhas.
 
 **Werfen**:
  Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo (9m/6 Tiles). O alvo fica envolvido com fios soltos ligado a você em um raio de 6 tiles
