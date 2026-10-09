@@ -146,7 +146,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Entwaffnen: Gaste sua ação principal para disparar uma carga de teia contra uma criatura e realizar um ataque. Se acertar, você puxa uma arma empunhada pelo alvo. Criaturas de alta periculosidade podem realizar uma salvaguarda de Reflexos para agarrar a arma antes que ela chegue até você.
 - Aufhängen: Gaste sua ação completa para erguer uma criatura Amarrada até um ponto elevado e prendê-la nele (8 tiles) 12m. Caso a criatura se libertar, ela cairá e sofrerá o dano de queda normalmente, sem possibilidade de realizar uma salvaguarda para reduzir esse dano.
 
-**LV 20, Spinnenkönig:** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastar sua ação principal para dar ataques rasantes com vantagem em alvos abaixo de você e retornar a sua posição aéria
+**LV 20, Spinnenkönig:** Você alcança o domínio absoluto sobre seus fios, utilizando-os para se suspender no ar e atacar suas presas de ângulos imprevisíveis.
+
+Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastar sua ação principal para dar ataques rasantes com vantagem em alvos abaixo de você e retornar a sua posição aéria
 ## Warland
 Atirar balas ao passar 
 
