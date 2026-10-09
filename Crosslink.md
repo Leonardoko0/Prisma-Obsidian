@@ -124,7 +124,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
 **Ziehen**: Você aprende a manipular a tensão dos fios para esmagar, deslocar ou arremessar criaturas conectadas a eles.
 
- Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para apertar o alvo com os fios causando um dano = Dano de Corte + Dano de Sangramento + 1d6 para cada nível de Resistência. Termina condição
+ Drücken: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" os fios ao redor de uma criatura causando um dano = Dano de Corte + Dano de Sangramento + 1d6 corte, para cada nível de Resistência. Termina condição
 
  Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para se puxar até o alvo ou puxar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem. 
 
