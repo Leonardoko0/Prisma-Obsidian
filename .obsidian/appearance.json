@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Bookman Old Style",
   "textFontFamily": "",
   "baseFontSize": 16,
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": false
 }
