@@ -133,7 +133,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
  - Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
 
 
-**LV 9, :** Você descobres 
+**LV 9, :** Você descobres novas formas de usar seus fios de forma traiçoeira e móvel
+
+
 
 **LV 14, :** 
 
