@@ -118,9 +118,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 3, Fadenbindung:** Você perde a capacidade de usar seus fios como armadilhas.
 
 **Werfen**:
- Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo (9m/6 Tiles). O alvo fica envolvido com fios soltos ligado a você em um raio de 6 tiles
+ Gaste 1 PP e sua ação de movimento para lançar seus fios contra uma criatura a até 9 metros (6 tiles). O alvo fica "Envolvido por Fios Soltos", permanecendo conectado a você enquanto estiver dentro de um raio de 6 tiles.
 
- - Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo, se passar puxe o alvo para a borda dos 6 tiles. Se ele passar ele pode escolher entre terminar a condição ou fazer mais um teste de atletismo contra você para te puxar. Alvos de categoria de tamanho acima recebem vantagem contra o menor 
+- Envolvido por Fios Soltos. O alvo pode gastar sua ação de movimento para encerrar essa condição voluntariamente. Caso tente se afastar para além do limite de 6 tiles, inicia-se uma disputa de Atletismo entre você e o alvo. Se você vencer, puxa o alvo de volta para a borda do seu alcance de 6 tiles. Se o alvo vencer, poderá encerrar a condição ou realizar uma nova disputa de Atletismo para puxar você em sua direção. Criaturas com uma categoria de tamanho superior à sua recebem vantagem nesses testes contra você. 
 
 **Ziehen**: Muda a forma que você puxa, aperta ou empurra alvos envolvidos nos seus fios
 
