@@ -133,9 +133,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
  - Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
 
 
-**LV 9, :** Você descobres novas formas de usar seus fios de forma traiçoeira e móvel
+**LV 9, Spinnentrieb:** Você desenvolve novas formas de utilizar seus fios para se prender ao ambiente e atravessar o campo de batalha com agilidade
 
-**Vorbereiten**: Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo não vivo (12m/8 Tiles). Você se prende ao objeto envolvido em um raio de 8 tiles. Sair desse raio quebra a ligação dos fios.
+**Vorbereiten**: Gaste 1 PP e sua ação de movimento para lançar seus fios contra um objeto ou superfície não viva a até 12 metros (8 tiles). Você fica conectado ao ponto atingido e pode se afastar até 8 tiles dele. Caso ultrapasse esse limite, a conexão é rompida. fios.
 
 **Fortbewegung**: Gasta 1pp e sua ação ou principal ou de movimento para se puxar até os fio que estejam sendo envolvidos por **Vorbereiten**. Termina condição
 
