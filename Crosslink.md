@@ -128,7 +128,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 
  Verschieben: Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para puxar ou empurrar o alvo para qualquer tile dentro da sua área de 6 tiles. Se o alvo for bater em alguma coisa ou empurrado para um precipício ele tem direito rodar um salvaguarda (DT 10+ metade do nível do Crosslink). Se o alvo for uma categoria de tamanho maior que o Crosslink o Crosslink deve fazer um teste de atletismo contra o alvo com desvantagem.
 
- **LV 5, Envolver:** Quando um alvo cair em uma armadilha. Escolha gastar 2 pontos de Resistência do seu fio para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
+ **LV 5, Envolver:** Gaste 1pp e sua ação principal em um alvo que esteja "Envolvido Com Fios Soltos" para deixar o alvo amarrado. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo (DT: Ataque Proficiente com Int) se passar deixa de estar amarrado. A DT abaixa em 3 a cada nova rodada
+
 
 - Amarrado: O atacante recebe vantagem e o alvo não pode se mover. Na sua rodada o alvo deve gastar sua ação principal para fazer um salvaguarda de Tenacidade ou Atletismo para tentar se libertar
  
