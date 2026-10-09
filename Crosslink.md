@@ -118,9 +118,9 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 3, :** Você perde a capacidade de usar seus fios como armadilhas.
 
 **Werfen**:
- Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo (9m/6 Tiles). O alvo fica envolvido com fios soltos
+ Gaste 1pp e sua ação de movimento para atirar seus fios em uma alvo (9m/6 Tiles). O alvo fica envolvido com fios soltos ligado a você
 
-- Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo  
+- Envolvido Com Fios Soltos: O alvo pode gastar sua ação de movimento para terminar a condição. Quando o alvo tentar se distanciar mais que 6 tiles de você rode atletismo contra o atletismo do alvo, se passar puxe o alvo para a borda de  
 
 **LV 9, :** 
 
