@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,11 +270,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0694a82bcd0e0d54",
+  "active": "e5a5dbb772839a6d",
   "lastOpenFiles": [
+    "Rpg/Personagens/Arbiter.md",
     "Drifter.md",
     "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Arbiter.md",
     "Crosslink.md",
     "Rpg/Personagens/Artilherista.md",
     "Apostle.md",
