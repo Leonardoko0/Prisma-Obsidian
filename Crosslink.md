@@ -146,7 +146,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 - Entwaffnen: Atire uma carga como ação principal rode um ataque contra o alvo se acertar puxe a arma do alvo até você. Alvos de alta periculosidade pode fazer um salvaguarda de Reflexo para pegar a arma no ar
 - Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. Caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
 
-**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você pode 
+**LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastapode dar ataques rasantes com vantagem em alvos abaixo de você e retornar
 ## Warland
 Atirar balas ao passar 
 
