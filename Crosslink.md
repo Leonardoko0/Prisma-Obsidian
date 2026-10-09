@@ -142,8 +142,8 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 14, Spinnennetz:** Você aperfeiçoa seus fios, criando cargas de teias espessas capazes de imobilizar inimigos, desarmá-los ou suspendê-los no ambiente.
 
 **Spinnennetz**: Gaste 1pp para criar efeitos diversos atirando uma carga de teias grossas
-- Festkleben: Atire uma carga como ação de movimento que gruda o alvo na posição atual, ele pode fazer um teste de atletismo (DT 10+metade do nível do Crosslink) para quebrar a teia
-- Entwaffnen: Atire uma carga como ação principal rode um ataque contra o alvo se acertar puxe a arma do alvo até você. Alvos de alta periculosidade pode fazer um salvaguarda de Reflexo para pegar a arma no ar
+- Festkleben: Gaste sua ação de movimento para disparar uma carga de teia contra uma criatura, prendendo-a à sua posição atual. O alvo pode realizar um teste de Atletismo (DT igual a 10 + metade do nível do Crosslink) para encerrar o efeito.
+- Entwaffnen: Gaste sua ação principal para disparar uma carga de teia contra uma criatura e realizar um ataque. Se acertar, você puxa uma arma empunhada pelo alvo diretamente para si. Criaturas de alta periculosidade podem realizar uma salvaguarda de Reflexos para agarrar a arma antes que ela chegue até você.
 - Aufhängen: Gaste sua ação completa em um alvo que esteja amarrado para puxar o alvo para um ponto alto e prende-lo lá. Caso o alvo se solte ele cai do ponto sofrendo o dano de queda sem salvaguarda para redução
 
 **LV 20, :** Você ganha mais uma ação de movimento para usar suas habilidades, além disso você pode se manter pendurado nos seus fios e usa-los como movimento aério. Você gastar sua ação principal para dar ataques rasantes com vantagem em alvos abaixo de você e retornar a sua posição aéria
