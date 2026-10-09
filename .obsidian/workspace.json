@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -270,15 +270,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "0694a82bcd0e0d54",
   "lastOpenFiles": [
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
-    "Crosslink.md",
-    "Sovereign.md",
     "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
+    "Crosslink.md",
     "Apostle.md",
+    "Sovereign.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
