@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,17 +270,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6b04450ea0ca886d",
+  "active": "e5a5dbb772839a6d",
   "lastOpenFiles": [
-    "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Arbiter.md",
-    "Rpg/Personagens/Itens Gerais.md",
-    "Sovereign.md",
+    "Crosslink.md",
+    "Rpg/Personagens/Artilherista.md",
     "Apostle.md",
     "Drifter.md",
-    "Crosslink.md",
+    "Rpg/Personagens/Nômade.md",
+    "Rpg/Personagens/Itens Gerais.md",
+    "Sovereign.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
-    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
