@@ -142,7 +142,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **LV 14, :** 
 
 **Spinnennetz**: Gaste 1pp para criar efeitos diversos atirando uma carga de teias grossas
-- Festkleben:
+- Festkleben: Atire uma carga como ação de movimento que gruda o alvo na posição atual, ele pode fazer um teste 
 
 **LV 20, :** 
 ## Warland
