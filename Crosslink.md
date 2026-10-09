@@ -120,7 +120,7 @@ Gaste 5 cargas para posicionar 1, além disso, deixe um fio especificamente para
 **Werfen**:
  Gaste 1 PP e sua ação de movimento para lançar seus fios contra uma criatura a até 9 metros (6 tiles). O alvo fica "Envolvido por Fios Soltos", permanecendo conectado a você enquanto estiver dentro de um raio de 6 tiles.
 
-- Envolvido por Fios Soltos. O alvo pode gastar sua ação de movimento para encerrar essa condição voluntariamente. Caso tente se afastar para além do limite de 6 tiles, inicia-se uma disputa de Atletismo entre você e o alvo. Se você vencer, puxa o alvo de volta para a borda do seu alcance de 6 tiles. Se o alvo vencer, poderá encerrar a condição ou realizar uma nova disputa de Atletismo para puxar você em sua direção. Criaturas com uma categoria de tamanho superior à sua recebem vantagem nesses testes contra você. 
+- Envolvido por Fios Soltos. O alvo pode gastar sua ação de movimento para encerrar essa condição voluntariamente. Caso tente se afastar para além do limite de 6 tiles, você e o alvo devem rodar Atletismo. Se você vencer, puxa o alvo de volta para a borda do seu alcance de 6 tiles. Se o alvo vencer, pode encerrar a condição ou realizar um disputa de Atletismo para puxar você em sua direção. Criaturas com uma categoria de tamanho superior à sua recebem vantagem nesses testes contra você. 
 
 **Ziehen**: Muda a forma que você puxa, aperta ou empurra alvos envolvidos nos seus fios
 
