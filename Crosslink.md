@@ -156,7 +156,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 **LV 3, :** Suas facas se transformam em equipamentos especializados nos fios. Gaste 1PP  junto com 
 **Werfen** para escolher um tipo de equipamento que será arremessado.
 
-**Arpão**: Quando um alvo passar pelo fio uma seta de metal vai ser atirada contra o alvo. Causa  
+**Arpão**: Quando um alvo passar pelo fio uma seta de metal vai ser atirada contra o alvo. Causa 1d8 Perfurante (+1d8 no níveis 6/10/15/19) 
 
 **LV 9, :** 
 
