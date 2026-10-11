@@ -167,8 +167,8 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **LV 14, Preparação Tática:** Você domina a preparação das suas próprias habilidades. além disso você pode usar a habilidade **Reposicionar** no nível 14.
 
-**Disparada de Armadilhas**: Gaste toda sua estâmina para poder usar **Werfen** como ação livre mas pagando o seu custo
+**Disparada de Armadilhas**: Você pode gastar toda a sua Estâmina para utilizar **Werfen** como uma ação livre, pagando normalmente o custo em PP.
 
-**LV 20, :** Você sabe como misturar seus equipamentos de forma que um não quebre o outro
+**LV 20, Overclock:** Você sabe como misturar seus equipamentos de forma que um não quebre o outro
 
 **Overclock**: Você pode gastar +1pp para colocar um segundo equipamento junto com o primeiro e +2pp para um terceiro e +3pp para um quarto.
