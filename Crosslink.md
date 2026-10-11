@@ -166,10 +166,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fará ligamento com o seu equipamento. No nível 15 você pode colocar 2 fragmentos
 
-**LV 14, :** Você sabe como preparar o ambiente para um combate como ninguém. Você desbloqueia ****
+**LV 14, :** Você sabe como preparar o ambiente para um combate como ninguém. Você desbloqueia 
+**Reposicionar** no nível 14 
 
 **Disparada de Armadilhas**: Gaste toda sua estâmina para poder usar **Werfen** como ação livre mas pagando o seu custo
-
-
 
 **LV 20, :** 
