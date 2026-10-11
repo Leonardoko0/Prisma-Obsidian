@@ -165,7 +165,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Fragmentado**: Após arremessar, você pode posicionar outro equipamento a até 3 tiles de distância do primeiro. O segundo equipamento só pode estabelecer se conectar com o equipamento que originou o fragmento. No nível 15, você pode posicionar 2 fragmentos em vez de um.
 
-**LV 14, Preparação Tática:** Você domina a preparação do terreno e sabe transformar o ambiente em uma extensão do seu arsenal. Sua capacidade de manipular o posicionamento dos fios evolui, permitindo que você utilize a habilidade **Reposicionar**.
+**LV 14, Preparação Tática:** Você domina a preparação das suas próprias habilidades. além disso você pode usar a habilidade **Reposicionar** no nível 14.
 
 **Disparada de Armadilhas**: Gaste toda sua estâmina para poder usar **Werfen** como ação livre mas pagando o seu custo
 
