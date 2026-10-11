@@ -160,7 +160,10 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Conector**: O raio de magnetismo aumenta em 2. Aumenta em 1 nos níveis 7/14/20
 
-**LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua
+**LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua disposição
+
+**Rede**: Todos os tiles adjacentes a rede ficam cobertos
+****
 
 **LV 14, :** 
 
