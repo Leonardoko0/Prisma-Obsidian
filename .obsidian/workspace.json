@@ -117,8 +117,7 @@
               "title": "Nômade"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,11 +269,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e5a5dbb772839a6d",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Crosslink.md",
     "Rpg/Personagens/Artilherista.md",
     "Apostle.md",
-    "Crosslink.md",
     "Rpg/Personagens/Arbiter.md",
     "Drifter.md",
     "Rpg/Personagens/Nômade.md",
