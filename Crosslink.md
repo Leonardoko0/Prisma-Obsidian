@@ -163,7 +163,8 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 **LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua disposição
 
 **Rede**: Todos os tiles adjacentes a rede ficam cobertos com **Werfen** padrão. No nível 15 você pode escolher o tipo do **Werfen** posicionado
-****
+
+**Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fara 
 
 **LV 14, :** 
 
