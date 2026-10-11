@@ -156,7 +156,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 **LV 3, :** Suas facas se transformam em equipamentos especializados nos fios. Gaste 1PP  junto com 
 **Werfen** para escolher um tipo de equipamento que será arremessado.
 
-****
+**Arpão**
 
 **LV 9, :** 
 
