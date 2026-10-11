@@ -153,7 +153,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 **Sturzflug**: Enquanto estiver suspenso pelos fios, gaste sua ação principal para realizar um ataque rasante contra uma criatura abaixo de você. Esse ataque é realizado com vantagem. Após isso você retorna à sua posição suspensa original.
 ## Warland 
 
-**LV 3, :** Suas facas se tran
+**LV 3, :** Suas facas se transformam em equipamentos especializados nos fios. Gaste 1PP 
 
 **LV 9, :** 
 
