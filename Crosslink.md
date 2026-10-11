@@ -161,9 +161,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **LV 9, Expansão de Arsenal:** Você amplia a variedade de equipamentos especializados disponíveis para utilizar com **Werfen**, desbloqueando as seguintes opções.
 
-**Rede**: Ao arremessar este equipamento, você espalha seus fios pela área ao redor, cobrindo todos os tiles adjacentes à rede com o efeito de **Werfen padrão**. No nível 15, você pode escolher qual tipo de **Werfen** será aplicado aos tiles cobertos.o
+**Rede**: Ao arremessar, você espalha seus fios pela área ao redor, cobrindo todos os tiles adjacentes à rede com o efeito de **Werfen** padrão. No nível 15, você pode escolher qual tipo de **Werfen** será aplicado aos tiles cobertos.
 
-**Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fará ligamento com o seu equipamento. No nível 15 você pode colocar 2 fragmentos
+**Fragmentado**: Após arremessar, você pode posicionar outro equipamento a até **3 tiles de distância** do primeiro. O segundo equipamento só pode estabelecer uma conexão com o equipamento que originou o fragmento. No nível 15, você pode posicionar **2 fragmentos** em vez de um.
 
 **LV 14, :** Você sabe como preparar o ambiente para um combate como ninguém. Você desbloqueia 
 **Reposicionar** no nível 14 
