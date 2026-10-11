@@ -164,7 +164,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Rede**: Todos os tiles adjacentes a rede ficam cobertos com **Werfen** padrão. No nível 15 você pode escolher o tipo do **Werfen** posicionado
 
-**Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fara 
+**Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fará ligamento com o seu equipamento. No nível 15 você pode colocar 2 fragmentos
 
 **LV 14, :** 
 
