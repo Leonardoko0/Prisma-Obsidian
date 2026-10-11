@@ -171,4 +171,4 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Disparada de Armadilhas**: Gaste toda sua estâmina para poder usar **Werfen** como ação livre mas pagando o seu custo
 
-**LV 20, :** 
+**LV 20, :** Você sabe como misturar seus equipamentos de forma que um não q
