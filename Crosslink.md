@@ -153,8 +153,7 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 **Sturzflug**: Enquanto estiver suspenso pelos fios, gaste sua ação principal para realizar um ataque rasante contra uma criatura abaixo de você. Esse ataque é realizado com vantagem. Após isso você retorna à sua posição suspensa original.
 ## Warland 
 
-**LV 3, :** Suas facas se transformam em equipamentos especializados nos fios. Gaste 1PP  junto com 
-**Werfen** para escolher um tipo de equipamento que será arremessado.
+**LV 3, Equipamentos Especializados:** Suas facas melhoram para equipamentos especializados, ampliando as capacidades de uso dos seus fios. Ao utilizar **Werfen**, você pode gastar +1 PP adicional** para escolher um dos seguintes equipamentos, aplicando seu efeito ao equipamento arremessado.
 
 **Arpão**: Quando um alvo passar pelo fio uma seta de metal vai ser atirada contra o alvo. Causa 1d8 Perfurante (+1d8 no níveis 6/10/15/19) 
 
