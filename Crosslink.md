@@ -169,6 +169,6 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Disparada de Armadilhas**: Você pode gastar toda a sua Estâmina para utilizar **Werfen** como uma ação livre, pagando normalmente o custo em PP.
 
-**LV 20, Overclock:** Você sabe como misturar seus equipamentos de forma que um não quebre o outro
+**LV 20, Overclock:** Você aprendeu a combinar diferentes equipamentos sem comprometer o funcionamento dos seus fios. Seus dispositivos passam a operar em conjunto, permitindo criar configurações mais complexas e imprevisíveis.
 
-**Overclock**: Você pode gastar +1pp para colocar um segundo equipamento junto com o primeiro e +2pp para um terceiro e +3pp para um quarto.
+**Overclock**: Ao utilizar **Werfen**, você pode gastar PP adicional para acoplar outros equipamentos ao mesmo arremesso. Para cada equipamento adicional, o custo aumenta progressivamente (+1 PP para o segundo equipamento, +2 PP para o terceiro e +3 PP para o quarto). Cada equipamento acoplado aplica seu respectivo efeito ao conjunto.
