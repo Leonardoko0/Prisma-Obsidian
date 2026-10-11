@@ -155,9 +155,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **LV 3, Equipamentos Especializados:** Suas facas melhoram para equipamentos especializados, ampliando as capacidades de uso dos seus fios. Ao utilizar **Werfen**, você pode gastar +1 PP  para escolher um dos seguintes equipamentos.
 
-**Arpão**: Seus fios são preparados para disparar um projétil metálico contra qualquer alvo que o atravessar. Quando um alvo passar pelo fio, uma seta de metal será disparada contra ele, causando 1d8 de dano perfurante**. Esse dano aumenta em **+1d8 nos níveis 6, 10, 15 e 19**.
+**Arpão**: Seus fios são preparados para disparar um projétil metálico contra qualquer alvo que o atravessar. Quando um alvo passar pelo fio, cause 1d8 de dano perfurante. Esse dano aumenta em +1d8 nos níveis 6, 10, 15 e 19.
 
-**Conector**: O raio de magnetismo aumenta em 2. Aumenta em 1 nos níveis 7/14/20
+**Conector**: O equipamento reforça o campo magnético dos seus fio. O raio de magnetismo aumenta em **2 tiles**, recebendo um aumento adicional de **1 tile nos níveis 7, 14 e 20**.
 
 **LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua disposição
 
