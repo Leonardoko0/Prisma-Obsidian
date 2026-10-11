@@ -173,4 +173,4 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **LV 20, :** Você sabe como misturar seus equipamentos de forma que um não quebre o outro
 
-**Overclock**: Você pode gastar 1pp para colocar um segundo equipamento junto com o primeiro e 2pp para um terceiro e 3pp para um quarto
+**Overclock**: Você pode gastar +1pp para colocar um segundo equipamento junto com o primeiro e +2pp para um terceiro e +3pp para um quarto.
