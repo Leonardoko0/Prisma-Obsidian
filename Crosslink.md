@@ -157,9 +157,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Arpão**: Seus fios são preparados para disparar um projétil metálico contra qualquer alvo que o atravessar. Quando um alvo passar pelo fio, cause 1d8 de dano perfurante. Esse dano aumenta em +1d8 nos níveis 6, 10, 15 e 19.
 
-**Conector**: O equipamento reforça o campo magnético dos seus fio. O raio de magnetismo aumenta em **2 tiles**, recebendo um aumento adicional de **1 tile nos níveis 7, 14 e 20**.
+**Conector**: O equipamento reforça o campo magnético dos seus fio. O raio de magnetismo aumenta em 2 tiles. Aumenta 1 tile nos níveis 7, 14 e 20.
 
-**LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua disposição
+**LV 9, :** Seu domínio sobre os fios permite desenvolver novas configurações para seus equipamentos. Você amplia a variedade de equipamentos especializados disponíveis para utilizar com **Werfen**, desbloqueando as seguintes opções.
 
 **Rede**: Todos os tiles adjacentes a rede ficam cobertos com **Werfen** padrão. No nível 15 você pode escolher o tipo do **Werfen** posicionado
 
