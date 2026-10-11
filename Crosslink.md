@@ -168,6 +168,6 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **LV 14, :** Você sabe como preparar o ambiente para um combate como ninguém.
 
-
+**Disparada de Armadilhas**: Gaste toda sua estâmina para poder usar Werfen como ação livre 
 
 **LV 20, :** 
