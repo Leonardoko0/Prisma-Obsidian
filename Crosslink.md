@@ -159,9 +159,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Conector**: O equipamento reforça o campo magnético dos seus fio. O raio de magnetismo aumenta em 2 tiles. Aumenta 1 tile nos níveis 7, 14 e 20.
 
-**LV 9, :** Seu domínio sobre os fios permite desenvolver novas configurações para seus equipamentos. Você amplia a variedade de equipamentos especializados disponíveis para utilizar com **Werfen**, desbloqueando as seguintes opções.
+**LV 9, Expansão de Arsenal:** Você amplia a variedade de equipamentos especializados disponíveis para utilizar com **Werfen**, desbloqueando as seguintes opções.
 
-**Rede**: Todos os tiles adjacentes a rede ficam cobertos com **Werfen** padrão. No nível 15 você pode escolher o tipo do **Werfen** posicionado
+**Rede**: Ao arremessar este equipamento, você espalha seus fios pela área ao redor, cobrindo todos os tiles adjacentes à rede com o efeito de **Werfen padrão**. No nível 15, você pode escolher qual tipo de **Werfen** será aplicado aos tiles cobertos.o
 
 **Fragmentado**: Após atirar o equipamento, posicione outro em até 3 tiles de distancia do primeiro. Este só fará ligamento com o seu equipamento. No nível 15 você pode colocar 2 fragmentos
 
