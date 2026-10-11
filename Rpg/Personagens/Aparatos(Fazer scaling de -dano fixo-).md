@@ -154,3 +154,4 @@ Um equipamento que absorve impacto e por um curto período de tempo o utiliza co
 Ao usar: Ao usar Retalhação, quando receber o próximo ataque resista a 10 desse dano e esse dano será adicionado no seu ataque
 
 "Minha obra prima eles disseram e talvez estivessem certos" - Mestre Oktus após criar a bobina de contra Momentum
+
