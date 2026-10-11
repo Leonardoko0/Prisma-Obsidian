@@ -158,9 +158,9 @@ Você recebe uma ação de movimento adicional por rodada, que pode ser utilizad
 
 **Arpão**: Quando um alvo passar pelo fio uma seta de metal vai ser atirada contra o alvo. Causa 1d8 Perfurante (+1d8 no níveis 6/10/15/19) 
 
-**Conector**: O raio de magnetismo aumenta em 2. Aumenta em 1 nos níveis 7/14/20 
+**Conector**: O raio de magnetismo aumenta em 2. Aumenta em 1 nos níveis 7/14/20
 
-**LV 9, :** 
+**LV 9, :** Aumente a quantidade de equipamento diferentes que você tem a sua
 
 **LV 14, :** 
 
