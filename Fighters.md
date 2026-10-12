@@ -7,11 +7,11 @@
 | Kestrel |     |     |     |     |
 | Mantis  |     |     |     |     |
 ## Strikers
-|          |     |     |     |     |
+| Ravager  |     |     |     |     |
 | :------: | :-: | :-: | :-: | :-: |
 | Falchion |     |     |     |     |
-|          |     |     |     |     |
-|          |     |     |     |     |
+| Marauder |     |     |     |     |
+| Corsair  |     |     |     |     |
 ## Sieges
 |     |     |     |     |     |
 | :-: | :-: | :-: | :-: | :-: |
