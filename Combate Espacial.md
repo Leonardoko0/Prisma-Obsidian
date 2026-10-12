@@ -1,1 +1,1 @@
-#base [[Sistema de s]]
+#base [[Sistema de salas]]
