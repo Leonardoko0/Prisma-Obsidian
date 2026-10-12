@@ -3,4 +3,5 @@
 
 # Tamanho
 ## Vectors
-##
+## Strikers
+## Sieges
