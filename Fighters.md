@@ -43,6 +43,6 @@
 |      Railguns      | 1650u | 1d8+2  |     7     |     2     |    Velocidade -1    |
 |  Canhão de Plasma  | 1000u | 1d4+2  |     2     |     1     | Precisa (Ar Plasma) |
 |   Lança Mísseis    | 2000u | 1d12+4 |    10     |     3     |   Recarregar (1)    |
-|  Laser de Combate  |       |        |           |           |                     |
+|  Laser de Combate  | 1750u | 1d4+2  |     4     |     1     |      Contínuo       |
 ## Gadgets
 # Funcionamento
