@@ -9,12 +9,12 @@
 | Mantis  | 20000u |  7   |     7      |           |
 ![[Pasted image 20261015150020.png|413]]
 ## Strikers
-|    -     | Preço | Vida | Velocidade | Extra |
-| :------: | :---: | :--: | :--------: | :---: |
-| Ravager  |       |      |            |       |
-| Falchion |       |      |            |       |
-| Marauder |       |      |            |       |
-| Corsair  |       |      |            |       |
+|    -     | Preço  | Vida | Velocidade | Extra |
+| :------: | :----: | :--: | :--------: | :---: |
+| Ravager  | 20000u |      |            |       |
+| Falchion |        |      |            |       |
+| Marauder |        |      |            |       |
+| Corsair  |        |      |            |       |
 ![[Pasted image 20261015145603.png|410]]
 ## Sieges
 | Titan |     |     |     |     |
