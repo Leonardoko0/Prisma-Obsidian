@@ -26,12 +26,12 @@
 # Equipamentos
 
 ## Motores
-|      -       | Preço | Impulso | Extra |
-| :----------: | :---: | :-----: | :---: |
-| Astra DRX-13 |       |         |       |
-| Astra KR-12  |       |         |       |
-| Astra ADX-03 |       |         |       |
-|     Para     |       |         |       |
+|       -       | Preço | Impulso | Energia | Extra |
+| :-----------: | :---: | :-----: | :-----: | :---: |
+| Astra DRX-13  | 6000u |    3    |   10    |   -   |
+|  Astra KR-12  |  450  |         |         |       |
+| Astra ADX-03  |       |         |         |       |
+| Paragon PF-08 |       |         |         |       |
 ## Armas
 ## Gadgets
 # Funcionamento
