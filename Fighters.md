@@ -45,7 +45,8 @@
 |  Lança Mísseis   | 2000u | 1d12+4 |    10     |     3     | 20 Tiles | Recarregar (1) Vel -1 |
 |   Laser de Com   | 1750u |  1d4   |     4     |     1     | 6 Tiles  |       Contínuo        |
 |  Canhão de Íons  | 2000u |  2d10  |     8     |     4     | 4 Tiles  |  (Reator Ionizante)   |
-|  Arpão Vetorial  | 500u  |   2    |     0     |     2     | 10 Tiles |  Puxa 4 tiles rodada  |
-| Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |     Puxa 8 Tiles      |
+|  Arpão Vetorial  | 500u  |   2    |     0     |     2     | 10 Tiles |  Puxa 4 Tiles rodada  |
+| Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |  Puxa 8 Tiles rodada  |
+| Arpão Corsair's  | 2000u |   5    |     0     |           |          |                       |
 ## Gadgets
 # Funcionamento
