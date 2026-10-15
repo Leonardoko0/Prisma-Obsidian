@@ -52,5 +52,5 @@
 
 ### Escudos 
 ### Armazéns e Consumíveis
-### 
+### Outros
 # Funcionamento
