@@ -51,5 +51,6 @@
 ## Gadgets
 
 ### Escudos 
-### Armazéns
+### Armazéns e Consumíveis
+### 
 # Funcionamento
