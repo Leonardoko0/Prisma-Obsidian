@@ -49,4 +49,7 @@
 | Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |  Puxa 8 Tiles rodada  |
 | Arpão Corsair's  | 2000u |   5    |     0     |     3     | 5 Tiles  |    Invasão de Nave    |
 ## Gadgets
+
+### Escudos 
+###
 # Funcionamento
