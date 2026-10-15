@@ -1,7 +1,7 @@
 #Veículo [[Tipos]]
 # Tamanho
 ## Vectors
-|    -    | Preço  | Vida | Velocidade |     Extra     |
+|  Nome   | Preço  | Vida | Velocidade |     Extra     |
 | :-----: | :----: | :--: | :--------: | :-----------: |
 |  Dart   | 15000u |  5   |     8      |       -       |
 |  Wisp   | 18000u |  6   |     7      |   **Wisp's*   |
@@ -9,7 +9,7 @@
 | Mantis  | 20000u |  7   |     7      | Duas Cadeiras |
 ![[Pasted image 20261015150020.png|413]]
 ## Strikers
-|    -     | Preço  | Vida | Velocidade |     Extra     |
+|   Nome   | Preço  | Vida | Velocidade |     Extra     |
 | :------: | :----: | :--: | :--------: | :-----------: |
 | Ravager  | 20000u |  12  |     5      | Duas Cadeiras |
 | Falchion | 22000u |  11  |     7      |       -       |
@@ -17,7 +17,7 @@
 | Corsair  | 35000u |  15  |     6      |   Corsair's   |
 ![[Pasted image 20261015145603.png|410]]
 ## Sieges
-|    -     | Preço  | Vida | Velocidade |     Extra      |
+|   Nome   | Preço  | Vida | Velocidade |     Extra      |
 | :------: | :----: | :--: | :--------: | :------------: |
 |  Titan   | 25000u |  20  |     4      | Três Cadeiras  |
 |  Anvil   | 35000u |  27  |     4      | Três Cadeiras  |
@@ -26,7 +26,7 @@
 # Equipamentos
 
 ## Motores
-|       -       | Preço  | Impulso | Energia |     Extra     |
+|     Nome      | Preço  | Impulso | Energia |     Extra     |
 | :-----------: | :----: | :-----: | :-----: | :-----------: |
 | Astra DRX-13  | 6000u  |    3    |   10    |       -       |
 |  Astra KR-12  | 4500u  |    2    |   10    | +2 Velocidade |
@@ -34,7 +34,7 @@
 | Paragon PF-08 | 12000u |    2    |   25    |       -       |
 |  Astra L-157  | 10000u |    3    |   20    |       -       |
 | Paragon UU11  | 13000u |    2    |   25    | +4 Velocidade |
-|   Astra A1    | 2000u  |    4    |   20    |       -       |
+|   Astra A1    | 20000u |    4    |   20    |       -       |
 ## Armas
 ## Gadgets
 # Funcionamento
