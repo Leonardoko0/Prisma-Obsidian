@@ -53,10 +53,10 @@
 ### Escudos 
 |    Nome    | Preço | Escudo | U Energia | Extra |
 | :--------: | :---: | :----: | :-------: | :---: |
-| ESC M2200  | 1000u |        |           |       |
-| ESC H8770  | 1250u |        |           |       |
-| ESC M6000  |       |        |           |       |
-| ESC H16840 |       |        |           |       |
+| ESC M2200  | 1000u |   8    |     5     |       |
+| ESC H8770  | 1250u |   12   |     7     |       |
+| ESC MT6000 | 750u  |   6    |           |       |
+| ESC H16840 | 1750u |   15   |    10     |       |
 ### Armazéns e Consumíveis
 ### Outros
 # Funcionamento
