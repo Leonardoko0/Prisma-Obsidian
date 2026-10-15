@@ -173,7 +173,8 @@
               "title": "Fighters"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -327,7 +328,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "7d7074120a4ef7bc",
   "lastOpenFiles": [
     "Fighters.md",
     "Pasted image 20261015150020.png",
