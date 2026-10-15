@@ -17,10 +17,11 @@
 | Corsair  | 35000u |  15  |     6      | Corsair's |
 ![[Pasted image 20261015145603.png|410]]
 ## Sieges
-| Titan |     |     |     |     |
-| :---: | :-: | :-: | :-: | :-: |
-| Anvil |     |     |     |     |
-|       |     |     |     |     |
+|    -     | Preço  | Vida | Velocidade | Extra |
+| :------: | :----: | :--: | :--------: | :---: |
+|  Titan   | 25000u |  20  |     4      |       |
+|  Anvil   |        |      |            |       |
+| Behemoth |        |      |            |       |
 ![[Pasted image 20261015144817.png|424]]
 # Equipamentos
 # Funcionamento
