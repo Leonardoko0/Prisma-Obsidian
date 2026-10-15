@@ -53,7 +53,7 @@
 ### Escudos 
 | Nome | Preço | Escudo | U Energia | Extra |
 | :--: | :---: | :----: | :-------: | :---: |
-|      |       |        |           |       |
+| ESC  |       |        |           |       |
 |      |       |        |           |       |
 ### Armazéns e Consumíveis
 ### Outros
