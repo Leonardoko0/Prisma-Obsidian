@@ -1,12 +1,12 @@
 #Veículo [[Tipos]]
 # Tamanho
 ## Vectors
-|    -    | Preço  | Vida | Velocidade |
-| :-----: | :----: | :--: | :--------: |
-|  Dart   | 15000u |  5   |     8      |
-|  Wisp   | 18000u |      |            |
-| Kestrel |        |      |            |
-| Mantis  |        |      |            |
+|    -    | Preço  | Vida | Velocidade | Extra |
+| :-----: | :----: | :--: | :--------: | :---: |
+|  Dart   | 15000u |  5   |     8      |       |
+|  Wisp   | 18000u |  6   |     7      | Wisp  |
+| Kestrel |        |      |            |       |
+| Mantis  |        |      |            |       |
 ![[Pasted image 20261015150020.png|413]]
 ## Strikers
 | Ravager  |     |     |     |     |
