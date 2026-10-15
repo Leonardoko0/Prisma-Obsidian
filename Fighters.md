@@ -11,10 +11,10 @@
 ## Strikers
 |    -     | Preço  | Vida | Velocidade | Extra |
 | :------: | :----: | :--: | :--------: | :---: |
-| Ravager  | 20000u |  12  |     6      |       |
-| Falchion |        |      |            |       |
-| Marauder |        |      |            |       |
-| Corsair  |        |      |            |       |
+| Ravager  | 20000u |  12  |     5      |       |
+| Falchion | 22000u |  11  |     7      |       |
+| Marauder | 28000u |  16  |     5      |       |
+| Corsair  | 35000u |      |            |       |
 ![[Pasted image 20261015145603.png|410]]
 ## Sieges
 | Titan |     |     |     |     |
