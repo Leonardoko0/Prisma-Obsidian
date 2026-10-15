@@ -36,13 +36,13 @@
 | Paragon UU11  | 13000u |    2    |   25    | +4 Velocidade |
 |   Astra A1    | 20000u |    4    |   20    |       -       |
 ## Armas
-|        Nome        | Preço | Dano  | U Energia | U Impulso | Extra |
-| :----------------: | :---: | :---: | :-------: | :-------: | :---: |
-| Laser de Mineração | 450u  | 1d4+1 |     3     |     2     |   -   |
-|       P-Uzi        | 1250u | 1d6+1 |     5     |     1     |   -   |
-|      Railguns      | 1650  |       |           |           |       |
-|                    |       |       |           |           |       |
-|                    |       |       |           |           |       |
-|                    |       |       |           |           |       |
+|        Nome        | Preço | Dano  | U Energia | U Impulso |     Extra     |
+| :----------------: | :---: | :---: | :-------: | :-------: | :-----------: |
+| Laser de Mineração | 450u  | 1d4+1 |     3     |     2     |       -       |
+|       P-Uzi        | 1250u | 1d6+1 |     5     |     1     |       -       |
+|      Railguns      | 1650u | 1d8+2 |     7     |     2     | Velocidade -1 |
+|                    |       |       |           |           |               |
+|                    |       |       |           |           |               |
+|                    |       |       |           |           |               |
 ## Gadgets
 # Funcionamento
