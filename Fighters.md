@@ -12,6 +12,7 @@
 | Falchion |     |     |     |     |
 | Marauder |     |     |     |     |
 | Corsair  |     |     |     |     |
+![[Pasted image 20261015145603.png]]
 ## Sieges
 | Titan |     |     |     |     |
 | :---: | :-: | :-: | :-: | :-: |
