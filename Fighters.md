@@ -42,7 +42,7 @@
 |       P-Uzi        | 1250u | 1d6+1  |     5     |     1     |          -          |
 |      Railguns      | 1650u | 1d8+2  |     7     |     2     |    Velocidade -1    |
 |  Canhão de Plasma  | 1000u | 1d4+2  |     2     |     1     | Precisa (Ar Plasma) |
-|   Lança Mísseis    | 2000u | 1d12+4 |    10     |           |                     |
+|   Lança Mísseis    | 2000u | 1d12+4 |    10     |     3     |   Recarregar (1)    |
 |                    |       |        |           |           |                     |
 ## Gadgets
 # Funcionamento
