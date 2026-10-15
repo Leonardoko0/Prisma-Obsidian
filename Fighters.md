@@ -28,13 +28,14 @@
 ## Motores
 |     Nome      | Preço  | Impulso | Energia |     Extra     |
 | :-----------: | :----: | :-----: | :-----: | :-----------: |
-| Astra DRX-13  | 6000u  |    3    |   10    |       -       |
-|  Astra KR-12  | 4500u  |    2    |   10    | +2 Velocidade |
-| Astra ADX-03  | 8000u  |    4    |   15    |       -       |
-| Paragon PF-08 | 12000u |    2    |   25    |       -       |
-|  Astra L-157  | 10000u |    3    |   20    |       -       |
-| Paragon UU11  | 13000u |    2    |   25    | +4 Velocidade |
-|   Astra A1    | 20000u |    4    |   20    |       -       |
+| Astra DRX-13  | 6000u  |    3    |   15    |       -       |
+|  Astra KR-12  | 4500u  |    2    |   15    | +2 Velocidade |
+|               |        |    2    |         |               |
+| Astra ADX-03  | 8000u  |    4    |   20    |       -       |
+| Paragon PF-08 | 12000u |    2    |   30    |       -       |
+|  Astra L-157  | 10000u |    3    |   25    |       -       |
+| Paragon UU11  | 13000u |    2    |   30    | +4 Velocidade |
+|   Astra A1    | 20000u |    4    |   25    |       -       |
 ## Armas
 |       Nome       | Preço |  Dano  | U Energia | U Impulso | Alcance  |         Extra         |
 | :--------------: | :---: | :----: | :-------: | :-------: | :------: | :-------------------: |
@@ -55,7 +56,7 @@
 | :--------: | :---: | :----: | :-------: | :---: |
 | ESC M2200  | 1000u |   8    |     5     |       |
 | ESC H8770  | 1250u |   12   |     7     |       |
-| ESC MT6000 | 750u  |   6    |           |       |
+| ESC MT6000 | 750u  |   6    |     3     |       |
 | ESC H16840 | 1750u |   15   |    10     |       |
 ### Armazéns e Consumíveis
 ### Outros
