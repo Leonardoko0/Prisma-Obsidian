@@ -17,6 +17,6 @@
 | :---: | :-: | :-: | :-: | :-: |
 | Anvil |     |     |     |     |
 |       |     |     |     |     |
-![[Pasted image 20261015144741.png]]
+![[Pasted image 20261015144817.png|424]]
 # Equipamentos
 # Funcionamento
