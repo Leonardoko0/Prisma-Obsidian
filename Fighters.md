@@ -51,6 +51,10 @@
 ## Gadgets
 
 ### Escudos 
+| Nome | Preço | Escudo | U Energia | Extra |
+| :--: | :---: | :----: | :-------: | :---: |
+|      |       |        |           |       |
+|      |       |        |           |       |
 ### Armazéns e Consumíveis
 ### Outros
 # Funcionamento
