@@ -20,8 +20,8 @@
 |    -     | Preço  | Vida | Velocidade | Extra |
 | :------: | :----: | :--: | :--------: | :---: |
 |  Titan   | 25000u |  20  |     4      |       |
-|  Anvil   |        |      |            |       |
-| Behemoth |        |      |            |       |
+|  Anvil   | 35000u |  27  |     4      |       |
+| Behemoth | 50000u |  40  |     3      |       |
 ![[Pasted image 20261015144817.png|424]]
 # Equipamentos
 # Funcionamento
