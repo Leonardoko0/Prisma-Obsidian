@@ -36,8 +36,8 @@
 | Paragon UU11  | 13000u |    2    |   25    | +4 Velocidade |
 |   Astra A1    | 20000u |    4    |   20    |       -       |
 ## Armas
-|        Nome        | Preço | Dano | Energia | Extra |
-| :----------------: | :---: | :--: | :-----: | :---: |
-| Laser de Mineração |       |      |         |       |
+|        Nome        | Preço | Dano  | U Energia | U Impulso | Extra |
+| :----------------: | :---: | :---: | :-------: | :-------: | :---: |
+| Laser de Mineração | 450u  | 1d4+1 |     3     |     1     |       |
 ## Gadgets
 # Funcionamento
