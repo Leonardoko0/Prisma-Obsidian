@@ -59,5 +59,10 @@
 | ESC H8770  | 1250u |   12   |     7     |   -   |
 | ESC H16840 | 1750u |   15   |    10     |   -   |
 ### Armazéns e Consumíveis
+|       Nome       | Preço | U Energia | Extra |
+| :--------------: | :---: | :-------: | :---: |
+|  Armazém Plasma  |       |           |       |
+| Reator Ionizante |       |           |       |
+|                  |       |           |       |
 ### Outros
 # Funcionamento
