@@ -11,7 +11,7 @@
 ## Strikers
 |    -     | Preço  | Vida | Velocidade | Extra |
 | :------: | :----: | :--: | :--------: | :---: |
-| Ravager  | 20000u |      |            |       |
+| Ravager  | 20000u |  12  |     6      |       |
 | Falchion |        |      |            |       |
 | Marauder |        |      |            |       |
 | Corsair  |        |      |            |       |
