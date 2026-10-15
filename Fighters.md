@@ -38,6 +38,11 @@
 ## Armas
 |        Nome        | Preço | Dano  | U Energia | U Impulso | Extra |
 | :----------------: | :---: | :---: | :-------: | :-------: | :---: |
-| Laser de Mineração | 450u  | 1d4+1 |     3     |     1     |       |
+| Laser de Mineração | 450u  | 1d4+1 |     3     |     2     |   0   |
+|                    |       |       |           |           |       |
+|                    |       |       |           |           |       |
+|                    |       |       |           |           |       |
+|                    |       |       |           |           |       |
+|                    |       |       |           |           |       |
 ## Gadgets
 # Funcionamento
