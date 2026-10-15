@@ -51,10 +51,12 @@
 ## Gadgets
 
 ### Escudos 
-| Nome | Preço | Escudo | U Energia | Extra |
-| :--: | :---: | :----: | :-------: | :---: |
-| ESC  |       |        |           |       |
-|      |       |        |           |       |
+|    Nome    | Preço | Escudo | U Energia | Extra |
+| :--------: | :---: | :----: | :-------: | :---: |
+| ESC M2200  | 1000u |        |           |       |
+| ESC H8770  | 1250u |        |           |       |
+| ESC M6000  |       |        |           |       |
+| ESC H16840 |       |        |           |       |
 ### Armazéns e Consumíveis
 ### Outros
 # Funcionamento
