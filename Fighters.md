@@ -51,5 +51,5 @@
 ## Gadgets
 
 ### Escudos 
-###
+### Armazéns
 # Funcionamento
