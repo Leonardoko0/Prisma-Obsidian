@@ -26,6 +26,10 @@
 # Equipamentos
 
 ## Motores
+|  -  | Preço | Impulso | Velocidade | Extra |
+| :-: | :---: | :-----: | :--------: | :---: |
+|     |       |         |            |       |
+|     |       |         |            |       |
 ## Armas
 ## Gadgets
 # Funcionamento
