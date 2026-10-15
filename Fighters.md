@@ -19,9 +19,9 @@
 ## Sieges
 |   Nome   | Preço  | Vida | Velocidade |     Extra      |
 | :------: | :----: | :--: | :--------: | :------------: |
-|  Titan   | 25000u |  22  |     4      | Três Cadeiras  |
-|  Anvil   | 35000u |  27  |     4      | Três Cadeiras  |
-| Behemoth | 50000u |  40  |     3      | Cinco Cadeiras |
+|  Titan   | 25000u |  22  |     4      |       -        |
+|  Anvil   | 35000u |  29  |     4      | Três Cadeiras  |
+| Behemoth | 50000u |  42  |     3      | Cinco Cadeiras |
 ![[Pasted image 20261015144817.png|424]]
 # Equipamentos
 
@@ -38,8 +38,8 @@
 ## Armas
 |        Nome        | Preço | Dano  | U Energia | U Impulso | Extra |
 | :----------------: | :---: | :---: | :-------: | :-------: | :---: |
-| Laser de Mineração | 450u  | 1d4+1 |     3     |     2     |   0   |
-|       P-Uzi        | 1250u |       |           |           |       |
+| Laser de Mineração | 450u  | 1d4+1 |     3     |     2     |   -   |
+|       P-Uzi        | 1250u |  1d6  |     5     |     1     |   -   |
 |                    |       |       |           |           |       |
 |                    |       |       |           |           |       |
 |                    |       |       |           |           |       |
