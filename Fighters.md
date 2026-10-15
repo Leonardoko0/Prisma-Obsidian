@@ -26,10 +26,12 @@
 # Equipamentos
 
 ## Motores
-|  -  | Preço | Impulso | Extra |
-| :-: | :---: | :-----: | :---: |
-|     |       |         |       |
-|     |       |         |       |
+|      -       | Preço | Impulso | Extra |
+| :----------: | :---: | :-----: | :---: |
+| Astra DRX-13 |       |         |       |
+| Astra KR-12  |       |         |       |
+| Astra ADX-03 |       |         |       |
+|     Para     |       |         |       |
 ## Armas
 ## Gadgets
 # Funcionamento
