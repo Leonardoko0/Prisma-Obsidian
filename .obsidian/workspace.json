@@ -173,8 +173,7 @@
               "title": "Fighters"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "4b99027977eea2f4",
@@ -327,15 +327,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d7074120a4ef7bc",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Fighters.md",
     "Pasted image 20261015150020.png",
     "Pasted image 20261015145603.png",
     "Pasted image 20261015144817.png",
     "Pasted image 20261015144813.png",
     "Pasted image 20261015144741.png",
     "Rpg/Personagens/Arbiter.md",
-    "Fighters.md",
     "Combate Espacial.md",
     "Sistema de salas.md",
     "Barcos (Mudar nome).md",
@@ -370,7 +370,6 @@
     "Pasted image 20260523170531.png",
     "Sem título 1.canvas",
     "Rpg/Personagens/Criação De Personagem.html",
-    "Imagems/Pasted image 20260421161824.png",
     "Rpg/Inimigos",
     "Rpg/Organizações",
     "Rpg/Regras",
