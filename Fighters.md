@@ -1,11 +1,13 @@
 #Veículo [[Tipos]]
 # Tamanho
 ## Vectors
-|  Dart   |     |     |     |     |
-| :-----: | :-: | :-: | :-: | :-: |
-|  Wisp   |     |     |     |     |
-| Kestrel |     |     |     |     |
-| Mantis  |     |     |     |     |
+|    -    | Preço | Vida | Velocidade |     |
+| :-----: | :---: | :--: | :--------: | :-: |
+|  Dart   |       |      |            |     |
+|  Wisp   |       |      |            |     |
+| Kestrel |       |      |            |     |
+| Mantis  |       |      |            |     |
+![[Pasted image 20261015150020.png|413]]
 ## Strikers
 | Ravager  |     |     |     |     |
 | :------: | :-: | :-: | :-: | :-: |
