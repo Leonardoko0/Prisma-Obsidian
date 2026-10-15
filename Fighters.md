@@ -24,4 +24,8 @@
 | Behemoth | 50000u |  40  |     3      | Cinco Cadeiras |
 ![[Pasted image 20261015144817.png|424]]
 # Equipamentos
+
+## Motores
+## Armas
+## Gadgets
 # Funcionamento
