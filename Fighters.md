@@ -32,9 +32,9 @@
 |  Astra KR-12  | 4500u  |    2    |   10    | +2 Velocidade |
 | Astra ADX-03  | 8000u  |    4    |   15    |       -       |
 | Paragon PF-08 | 12000u |    2    |   25    |       -       |
-|  Astra L-157  | 10000u |         |         |               |
-| Paragon UU11  |        |         |         |               |
-|   Astra A1    |        |         |         |               |
+|  Astra L-157  | 10000u |    3    |   20    |       -       |
+| Paragon UU11  | 13000u |    2    |   25    | +4 Velocidade |
+|   Astra A1    | 2000u  |    4    |   20    |       -       |
 ## Armas
 ## Gadgets
 # Funcionamento
