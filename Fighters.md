@@ -49,7 +49,7 @@
 |  Arpão Vetorial  | 500u  |   2    |     0     |     2     | 10 Tiles |  Puxa 4 Tiles rodada  |
 | Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |  Puxa 8 Tiles rodada  |
 | Arpão Corsair's  | 2000u |   5    |     0     |     3     | 5 Tiles  |    Invasão de Nave    |
-| Lâmina Vermelha  | 2500u |  3d4   |     5     |     1     | Adjacent |                       |
+| Lâmina Vermelha  | 2500u |  3d4   |     5     |     1     | Adjacent |     Módulo Lâmina     |
 ## Gadgets
 
 ### Escudos 
@@ -65,6 +65,7 @@
 |    Armazém Plasma    |       | 1 cada arma |         (Canhão de Plasma)          |
 |   Reator Ionizante   |       | 8 cada arma |          (Canhão de Íons)           |
 |    Reator a Laser    |       |      4      |         Laser Causa +2 dano         |
+|    Módulo Lâmina     |       |             |                                     |
 |  Tanque Metalíquido  |       |      5      |     (usos 2) Regenera 2d8 vida      |
 | G Tanque Metalíquido |       |     10      |     (usos 2) Regenera 2d12 vida     |
 |   Bomba Gruda-Suga   |       |      0      |      (P-Uzi)(2 usos) Grudento       |
