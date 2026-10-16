@@ -3,7 +3,7 @@
 ## Armamento
 ### Módulo de Armas Brancas
 - Preço:
-- Tamanho:
+- Tamanho: 7x7
 **Nível 1:**
   Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
   - Permite consertar equipamento
