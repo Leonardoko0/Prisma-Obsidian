@@ -190,7 +190,7 @@ Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura,
 Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
 ### Segurança
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave (5) Câmeras de baixa qualidade e permanecem estáticas.
 **Nível 2:**
