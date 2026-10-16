@@ -89,8 +89,7 @@
               "title": "Sistema de salas"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistema de salas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,7 +240,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fc852c4347a3cf1d",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Sistema de salas.md",
     "Fighters.md",
