@@ -1,1 +1,0 @@
-#base [[Estação Principal]]
