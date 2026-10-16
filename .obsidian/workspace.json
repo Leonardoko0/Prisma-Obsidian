@@ -171,8 +171,7 @@
               "title": "Fighters"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -325,8 +324,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d7074120a4ef7bc",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Combate Espacial.md",
     "Fighters.md",
     "Pasted image 20261015150020.png",
     "Pasted image 20261015145603.png",
@@ -334,7 +334,6 @@
     "Pasted image 20261015144813.png",
     "Pasted image 20261015144741.png",
     "Rpg/Personagens/Arbiter.md",
-    "Combate Espacial.md",
     "Sistema de salas.md",
     "Barcos (Mudar nome).md",
     "Crosslink.md",
