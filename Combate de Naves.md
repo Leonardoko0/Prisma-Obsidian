@@ -1,2 +1,2 @@
-#base [[Sistema de salas]] [[Sistema de Base]]
+#base [[Sistema de salas]]
 #
