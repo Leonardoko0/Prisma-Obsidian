@@ -10,11 +10,9 @@
           {
             "id": "129fdb495341a08d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
