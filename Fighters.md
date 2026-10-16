@@ -1,4 +1,4 @@
-#Veículo [[Tipos]]
+#base [[Sistema de Base]]
 # Tamanho
 ## Vectors
 |  Nome   | Preço  | Vida | Velocidade |     Extra     |
