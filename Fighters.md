@@ -63,7 +63,7 @@
 | :--------------: | :---: | :---------: | :---: |
 |  Armazém Plasma  |       | 1 cada arma |       |
 | Reator Ionizante |       | 8 cada arma |       |
-|                  |       |             |       |
+| Capsula de Fuga  |       |      1      |       |
 |                  |       |             |       |
 ### Outros
 
