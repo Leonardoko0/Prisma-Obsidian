@@ -41,7 +41,7 @@
 | :--------------: | :---: | :----: | :-------: | :-------: | :------: | :-------------------: |
 |  Laser de Mine   | 450u  | 1d4+1  |     3     |     2     | 4 Tiles  |           -           |
 |      P-Uzi       | 1250u | 1d6+1  |     5     |     1     | 6 Tiles  |           -           |
-|     Railguns     | 1650u | 1d8+2  |     7     |     2     | 15 Tiles |     Velocidade -1     |
+|     Railgun      | 1650u | 1d8+2  |     7     |     2     | 15 Tiles |     Velocidade -1     |
 | Canhão de Plasma | 1000u | 1d4+2  |     2     |     1     | 8 Tiles  |      (Ar Plasma)      |
 |  Lança Mísseis   | 2000u | 1d12+4 |    10     |     3     | 20 Tiles | Recarregar (1) Vel -1 |
 |   Laser de Com   | 1750u |  1d4   |     4     |     1     | 6 Tiles  |       Contínuo        |
@@ -65,7 +65,8 @@
 |   Reator Ionizante   |       | 8 cada arma |                             |
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
 | G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
-|   Bomba Gruda-Suga   |       |      0      |  (P-Uzi) (2 usos) Grudendo  |
+|   Bomba Gruda-Suga   |       |      0      |  (P-Uzi)(2 usos) Grudento   |
+|   Barra Flamejante   |       |             |   (Railgun)(2 usos) 1d6     |
 ### Outros
 
 |      Nome       | Preço | U Energia |       Extra        |
