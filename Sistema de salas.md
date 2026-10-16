@@ -281,7 +281,7 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
  - Espaço para 2 Nave de Combate
- - Pode reabastecer suprimentos das naves de combate
+ - Pode reabastecer suprimentos das naves de combate. Descaso/Dias
 
 |          | Abastecer | Vida 25% | Carregar Gadget |
 | :------: | :-------: | :------: | :-------------: |
