@@ -1,4 +1,4 @@
-#base [[Sistema de Base]] [[Locomoção]]
+#base [[Sistema de Base]] [[Customização]]
 # Tamanho
 ## Vectors
 |  Nome   | Preço  | Vida | Velocidade |     Extra     |
