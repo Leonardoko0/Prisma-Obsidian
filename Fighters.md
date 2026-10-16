@@ -61,7 +61,7 @@
 ### Armazéns e Consumíveis
 |       Nome       | Preço |  U Energia  | Extra |
 | :--------------: | :---: | :---------: | :---: |
-|  Armazém Plasma  |       |             |       |
+|  Armazém Plasma  |       | 1 cada arma |       |
 | Reator Ionizante |       | 8 cada arma |       |
 |  Manto Camaleão  |       |             |       |
 |   Wisp's Manto   |       |             |       |
