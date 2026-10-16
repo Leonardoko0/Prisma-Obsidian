@@ -63,13 +63,14 @@
 | :------------------: | :---: | :---------: | :-------------------------: |
 |    Armazém Plasma    |       | 1 cada arma |                             |
 |   Reator Ionizante   |       | 8 cada arma |                             |
-|   Capsula de Fuga    |       |      1      |     Ativa após derrota      |
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
 | G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
 ### Outros
 
-|      Nome      | Preço | U Energia | Extra |
-| :------------: | :---: | :-------: | :---: |
-| Manto Camaleão |       |           |       |
-|  Wisp's Manto  |       |           |       |
+|      Nome       | Preço | U Energia |       Extra        |
+| :-------------: | :---: | :-------: | :----------------: |
+| Manto Camaleão  |       |           |                    |
+|  Wisp's Manto   |       |           |                    |
+| Capsula de Fuga |       |     1     | Ativa após derrota |
+|                 |       |           |                    |
 # Funcionamento
