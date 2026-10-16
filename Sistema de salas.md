@@ -3,7 +3,7 @@
 ## Armamento
 ### Módulo de Armas Brancas
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
   Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
   - Permite consertar equipamento
@@ -18,7 +18,7 @@
  - Permite colocar melhorias **Finais** na sua arma
 ### Módulo de Disparos
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
  - Permite consertar equipamento
@@ -33,7 +33,7 @@
  - Evita a primeira danificação na sua arma
 ### Câmara de Munição
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
  - Abaixa o preço das balas em 25% (SM)(ME)(HV)(SH)(LG)
@@ -47,22 +47,22 @@
  - Permite pegar Balas (SM)(ME)(HV)(SH)(LG) Experimentais
 ### Módulo de Armadura
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
-Uma oficina especializada na manutenção de armaduras. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
-- Permite consertar armaduras **Protetoras e Vigias**
-- Faz a adaptação da armadura até o level 7
+ Uma oficina especializada na manutenção de armaduras. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
+ - Permite consertar armaduras **Protetoras e Vigias**
+ - Faz a adaptação da armadura até o level 7
 **Nível 2:**
-O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
-- Permite consertar armaduras **Sentinelas**
-- Faz adaptação da armadura até o level 15
+ O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
+ - Permite consertar armaduras **Sentinelas**
+ - Faz adaptação da armadura até o level 15
 **Nível 3:**
-O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
-- Permite consertar armaduras **Bastiões e Aegis**
-- Faz adaptação da armadura até o level 20
+ O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
+ - Permite consertar armaduras **Bastiões e Aegis**
+ - Faz adaptação da armadura até o level 20
 ### Bancada de Explosivos
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
  - Permite a criação de granadas **Lancinante**
@@ -74,7 +74,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
  - Permite a criação de granadas **Armagedom**
 ### Sala de Aparatos
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
  - Aumenta em 1 a quantidade de usos de um aparato
