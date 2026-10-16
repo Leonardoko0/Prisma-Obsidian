@@ -200,7 +200,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 ## Divertimento
 ### Sala de Jogos
 - Preço:
-- Tamanho:
+- Tamanho: 7x7
 **Nível 1:**
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
  - Entre Missões possuir essa sala aumenta em 1d a qualidade de descanso na nave
@@ -213,7 +213,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 "Nem só de luta vive um agente"
 ### Módulo de Realidade Aumentada
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Equipado com uma câmara de Realidade Aumentada de uso padrão. Permite utilizar discos de treinamento VR de Categoria 1 a 3
 **Nível 2:**
@@ -223,7 +223,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 "CyberMind Sempre aprimorando suas mais diversas experiencias"
 ### Câmara de Artes
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Sala equipada com materiais improvisados para diferentes formas de arte. Disponibiliza tintas, telas, canetas, massas de modelagem e alguns instrumentos musicais Improvisados.
  - Aumenta qualquer teste de arte realizado na sala em +2
@@ -239,7 +239,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 - Permite criar obras pra nave
 ### Academia
 - Preço:
-- Tamanho:
+- Tamanho: 7x7
 **Nível 1:**
  Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
  - Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
@@ -251,8 +251,8 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
  - Uma vez por missão pode definir que sua primeira rodada de um combate terá +2 de estâmina não acumulável 
  "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico
-- Preço:
-- Tamanho:
+- Preço: 
+- Tamanho: 10x10
 **Nível 1:**
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
 **Nível 2:**
