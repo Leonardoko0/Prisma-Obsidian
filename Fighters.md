@@ -65,18 +65,18 @@
 |    Armazém Plasma    | 350u  | 1 cada arma |         (Canhão de Plasma)          |
 |   Reator Ionizante   | 500u  | 8 cada arma |          (Canhão de Íons)           |
 |    Reator a Laser    | 600u  |      4      |         Laser Causa +2 dano         |
-|    Módulo Lâmina     |       |      5      |          (Lâmina Vermelha)          |
-|  Tanque Metalíquido  |       |      5      |     (usos 2) Regenera 2d8 vida      |
-| G Tanque Metalíquido |       |     10      |     (usos 2) Regenera 2d12 vida     |
-|   Bomba Gruda-Suga   |       |      0      |      (P-Uzi)(2 usos) Grudento       |
-|  Barra "Flamejante"  |       |      0      |     (Railgun)(2 usos) +1d6 dano     |
-|     Minas Balão      |       |      0      | (2 usos) Alvos adjacentes: 3d4 dano |
+|    Módulo Lâmina     | 1250u |      5      |          (Lâmina Vermelha)          |
+|  Tanque Metalíquido  | 1000u |      5      |     (usos 2) Regenera 2d8 vida      |
+| G Tanque Metalíquido | 2000u |     10      |     (usos 2) Regenera 2d12 vida     |
+|   Bomba Gruda-Suga   | 250u  |      0      |      (P-Uzi)(2 usos) Grudento       |
+|  Barra "Flamejante"  | 350u  |      0      |     (Railgun)(2 usos) +1d6 dano     |
+|     Minas Balão      | 500u  |      0      | (2 usos) Alvos adjacentes: 3d4 dano |
 ### Outros
 
 |         Nome         | Preço | U Energia |             Extra             |
 | :------------------: | :---: | :-------: | :---------------------------: |
-|    Manto Camaleão    |       |     8     |  1 Impulso +3 Contra Ataques  |
-|     Wisp's Manto     |       |     4     |  1 Impulso +3 Contra Ataques  |
+|    Manto Camaleão    | 1250u |     8     |  1 Impulso +3 Contra Ataques  |
+|     Wisp's Manto     | 1250u |     4     |  1 Impulso +3 Contra Ataques  |
 |   Capsula de Fuga    |       |     1     |      Ativa após derrota       |
 |  Acelerador de bala  |       |     2     |    1 Impulso por +5 tiles     |
 | Magnetizador de bala |       |     2     |    1 Impulso por +3 Acerto    |
