@@ -59,12 +59,13 @@
 | ESC H8770  | 1250u |   12   |     7     |   -   |
 | ESC H16840 | 1750u |   15   |    10     |   -   |
 ### Armazéns e Consumíveis
-|        Nome        | Preço |  U Energia  |       Extra        |
-| :----------------: | :---: | :---------: | :----------------: |
-|   Armazém Plasma   |       | 1 cada arma |                    |
-|  Reator Ionizante  |       | 8 cada arma |                    |
-|  Capsula de Fuga   |       |      1      | Ativa após derrota |
-| Tanque Metalíquido |       |      5      |      (usos 2)      |
+|         Nome         | Preço |  U Energia  |            Extra            |
+| :------------------: | :---: | :---------: | :-------------------------: |
+|    Armazém Plasma    |       | 1 cada arma |                             |
+|   Reator Ionizante   |       | 8 cada arma |                             |
+|   Capsula de Fuga    |       |      1      |     Ativa após derrota      |
+|  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
+| G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
 ### Outros
 
 |      Nome      | Preço | U Energia | Extra |
