@@ -1,1 +1,0 @@
-#base [[Sistema de salas]]

@@ -11,10 +11,14 @@
             "id": "129fdb495341a08d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Combate Espacial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combate Espacial"
             }
           },
           {
@@ -157,8 +161,7 @@
               "title": "Fighters"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,10 +314,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2a15ae47d5b07a6e",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Barcos (Mudar nome).md",
     "Combate Espacial.md",
+    "Barcos (Mudar nome).md",
     "Fighters.md",
     "Pasted image 20261015150020.png",
     "Pasted image 20261015145603.png",
