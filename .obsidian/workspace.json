@@ -75,7 +75,8 @@
               "title": "Consertando e Repondo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,6 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fighters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,7 +228,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "e2d44cc8c44f9d08",
   "lastOpenFiles": [
     "Customização.md",
     "Consertando e Repondo.md",
