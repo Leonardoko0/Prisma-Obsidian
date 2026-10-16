@@ -280,8 +280,8 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 - Tamanho:
 **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
- - Espaço para 1 Nave de Combate
- - Pode reabastecer suprimentos das naves de combate
+ - Espaço para 2 Nave de Combate
+ - Pode reabastecer suprimentos das naves de combate = Energia U
 **Nível 2:**
  O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
  - Aumenta o espaço de Naves de Combate em +1
