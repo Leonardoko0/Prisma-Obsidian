@@ -186,12 +186,8 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
 ### Sala de Máquinas
 - Preço:
-- Tamanho: 5x5
-Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc
-### Núcleo de Éter
-- Preço:
-- Tamanho: 5x5
-Sala onde é gerada toda energia da nave. Altamente instável quando há necessidade de reparos 
+- Tamanho: 7x7
+Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
 ### Segurança
 - Preço:
 - Tamanho:
