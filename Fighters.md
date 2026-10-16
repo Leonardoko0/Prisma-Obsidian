@@ -70,10 +70,11 @@
 |   Barra Flamejante   |       |      0      | (Railgun)(2 usos) +1d6 dano |
 ### Outros
 
-|        Nome        | Preço | U Energia |       Extra        |
-| :----------------: | :---: | :-------: | :----------------: |
-|   Manto Camaleão   |       |           |                    |
-|    Wisp's Manto    |       |           |                    |
-|  Capsula de Fuga   |       |     1     | Ativa após derrota |
-| Acelerador de bala |       |     5     |                    |
+|        Nome        | Preço | U Energia |         Extra          |
+| :----------------: | :---: | :-------: | :--------------------: |
+|   Manto Camaleão   |       |           |                        |
+|    Wisp's Manto    |       |           |                        |
+|  Capsula de Fuga   |       |     1     |   Ativa após derrota   |
+| Acelerador de bala |       |     2     | 1 impulso por +5 tiles |
+|                    |       |           |                        |
 # Funcionamento
