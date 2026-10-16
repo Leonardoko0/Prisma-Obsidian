@@ -1,4 +1,4 @@
-#base [[Locomoção]] [[Combate de Naves]][[Níveis de Base]] [[Bases Provisórias]]
+#base [[Nave]]
 # Salas
 ## Armamento
 ### Módulo de Armas Brancas
