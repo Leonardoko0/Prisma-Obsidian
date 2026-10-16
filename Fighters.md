@@ -61,7 +61,7 @@
 ### Armazéns e Consumíveis
 |         Nome         | Preço |  U Energia  |            Extra            |
 | :------------------: | :---: | :---------: | :-------------------------: |
-|    Armazém Plasma    |       | 1 cada arma |                             |
+|    Armazém Plasma    |       | 1 cada arma |     (Canhão de Plasma)      |
 |   Reator Ionizante   |       | 8 cada arma |                             |
 |    Reator a Laser    |       |      4      |     Laser Causa +2 dano     |
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
