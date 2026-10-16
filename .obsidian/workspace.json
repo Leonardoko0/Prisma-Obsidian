@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistema de salas.md",
+                "file": "Consertando e Repondo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,12 +228,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5dab8b484c86f98b",
+  "active": "5842280e33c8b074",
   "lastOpenFiles": [
+    "Sistema de salas.md",
     "Fighters.md",
     "Customização.md",
     "Consertando e Repondo.md",
-    "Sistema de salas.md",
     "Combate de Naves.md",
     "Nave.md",
     "Bases Provisórias.md",
