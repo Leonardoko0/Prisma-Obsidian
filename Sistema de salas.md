@@ -263,7 +263,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 ## Outros
 ### Sala de Treinamento
 - Preço:
-- Tamanho:
+- Tamanho: 10x10
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
