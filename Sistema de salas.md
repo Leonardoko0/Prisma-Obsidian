@@ -87,7 +87,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 ## Ciência
 ### Ala Médica
 - Preço:
-- Tamanho:
+- Tamanho: 7x7
 **Nível 1:**
  Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
  - Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
@@ -106,7 +106,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
  - Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
  - Permite o uso de drogas de Tarja Preta
@@ -118,7 +118,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
  - Permite o uso de drogas de Tarja Vazia
 ### Laboratório
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:** 
  Um laboratório equipado com instrumentos básicos para pesquisa biológica e química. Permite analisar materiais simples, identificar compostos comuns e confeccionar itens
  - Enquanto na sala recebe +2 em ciência
@@ -133,7 +133,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
  - Permite a analise de itens dissonantes 
 ### Câmara de Implantes
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também  permite realizar diagnósticos e reparos.
  - Permite o uso de Implantes de Categoria 1
@@ -146,7 +146,7 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
  - Pode gerar Bloqueadores imunológicos
 ### Módulo de Oficina
 - Preço:
-- Tamanho:
+- Tamanho: 5x5
 **Nível 1:**
  Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
  - Permite concertar equipamentos e produzir outros auxiliares de complexidade baixa
@@ -269,7 +269,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 **Nível 3:**
 ### Hangar
 - Preço:
-- Tamanho:
+- Tamanho: 10x10
 **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
  - Espaço para 2 Naves de Combate
