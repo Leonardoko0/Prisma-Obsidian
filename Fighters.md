@@ -49,6 +49,7 @@
 |  Arpão Vetorial  | 500u  |   2    |     0     |     2     | 10 Tiles |  Puxa 4 Tiles rodada  |
 | Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |  Puxa 8 Tiles rodada  |
 | Arpão Corsair's  | 2000u |   5    |     0     |     3     | 5 Tiles  |    Invasão de Nave    |
+|                  |       |        |           |           |          |                       |
 ## Gadgets
 
 ### Escudos 
@@ -59,16 +60,16 @@
 | ESC H8770  | 1250u |   12   |     7     |   -   |
 | ESC H16840 | 1750u |   15   |    12     |   -   |
 ### Armazéns e Consumíveis
-|         Nome         | Preço |  U Energia  |            Extra            |
-| :------------------: | :---: | :---------: | :-------------------------: |
-|    Armazém Plasma    |       | 1 cada arma |     (Canhão de Plasma)      |
-|   Reator Ionizante   |       | 8 cada arma |      (Canhão de Íons)       |
-|    Reator a Laser    |       |      4      |     Laser Causa +2 dano     |
-|  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
-| G Tanque Metalíquido |       |     10      | (usos 2) Regenera 2d12 vida |
-|   Bomba Gruda-Suga   |       |      0      |  (P-Uzi)(2 usos) Grudento   |
-|  Barra "Flamejante"  |       |      0      | (Railgun)(2 usos) +1d6 dano |
-|        Minas         |       |             |                             |
+|         Nome         | Preço |  U Energia  |                Extra                |
+| :------------------: | :---: | :---------: | :---------------------------------: |
+|    Armazém Plasma    |       | 1 cada arma |         (Canhão de Plasma)          |
+|   Reator Ionizante   |       | 8 cada arma |          (Canhão de Íons)           |
+|    Reator a Laser    |       |      4      |         Laser Causa +2 dano         |
+|  Tanque Metalíquido  |       |      5      |     (usos 2) Regenera 2d8 vida      |
+| G Tanque Metalíquido |       |     10      |     (usos 2) Regenera 2d12 vida     |
+|   Bomba Gruda-Suga   |       |      0      |      (P-Uzi)(2 usos) Grudento       |
+|  Barra "Flamejante"  |       |      0      |     (Railgun)(2 usos) +1d6 dano     |
+|     Minas Balão      |       |      0      | (2 usos) Alvos adjacentes: 3d4 dano |
 ### Outros
 
 |         Nome         | Preço | U Energia |             Extra             |
