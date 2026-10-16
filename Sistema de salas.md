@@ -283,11 +283,11 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Espaço para 2 Nave de Combate
  - Pode reabastecer suprimentos das naves de combate. Descaso/Dias
 
-|          | Abastecer | Vida 25% | Carregar Gadget |
-| :------: | :-------: | :------: | :-------------: |
-| Vectors  |     1     |    1     |        0        |
-| Strikers |     2     |    2     |        1        |
-|  Sieges  |     3     |    3     |        2        |
+|          | Abastecer | Vida 25% | Carregar Gadget |     |
+| :------: | :-------: | :------: | :-------------: | --- |
+| Vectors  |     1     |    1     |        0        |     |
+| Strikers |     2     |    2     |        1        |     |
+|  Sieges  |     3     |    3     |        2        |     |
 
 
 **Nível 2:**
