@@ -75,7 +75,7 @@
 |    Manto Camaleão    |       |           |                         |
 |     Wisp's Manto     |       |           |                         |
 |   Capsula de Fuga    |       |     1     |   Ativa após derrota    |
-|  Acelerador de bala  |       |     2     | 1 impulso por +5 tiles  |
+|  Acelerador de bala  |       |     2     | 1 Impulso por +5 tiles  |
 | Magnetizador de bala |       |     2     | 1 Impulso por +3 acerto |
-|                      |       |           |                         |
+|   Afiador de bala    |       |     2     |  1 Impulso por +3 Dano  |
 # Funcionamento
