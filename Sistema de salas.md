@@ -296,14 +296,19 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
 
 |          | Abastecer | Vida 25% | Carregar Gadget | Nave Destruída |
 | :------: | :-------: | :------: | :-------------: | :------------: |
-| Vectors  |     1     |    1     |        0        |       5        |
-| Strikers |     2     |    2     |        1        |       10       |
-|  Sieges  |     3     |    3     |        2        |       15       |
+| Vectors  |     0     |    1     |        0        |       5        |
+| Strikers |     1     |    1     |        0        |       10       |
+|  Sieges  |     2     |    2     |        1        |       15       |
 
 **Nível 3:**
  O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
  - Aumenta o espaço de Naves de Combate em +2
- 
+
+|          | Abastecer | Vida 25% | Carregar Gadget | Nave Destruída |
+| :------: | :-------: | :------: | :-------------: | :------------: |
+| Vectors  |     0     |    1     |        0        |       5        |
+| Strikers |     0     |    1     |        0        |       10       |
+|  Sieges  |     1     |    1     |        0        |       15       |
 ### Igreja
 - Preço:
 - Tamanho:
