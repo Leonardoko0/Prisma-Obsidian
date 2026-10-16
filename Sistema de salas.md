@@ -1,7 +1,4 @@
 #base [[Nave]]
-# Tamanhos
-
-Pequen
 # Salas
 ## Armamento
 ### Módulo de Armas Brancas
