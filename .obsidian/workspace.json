@@ -75,8 +75,7 @@
               "title": "Consertando e Repondo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consertando e Repondo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,12 +226,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5842280e33c8b074",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Sistema de salas.md",
-    "Fighters.md",
     "Customização.md",
     "Consertando e Repondo.md",
+    "Sistema de salas.md",
+    "Fighters.md",
     "Combate de Naves.md",
     "Nave.md",
     "Bases Provisórias.md",
