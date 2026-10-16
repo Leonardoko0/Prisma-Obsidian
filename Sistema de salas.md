@@ -283,17 +283,17 @@ Pequena caixa alojada na sala de comando, local onde toda a mente da IA reside. 
  - Espaço para 2 Nave de Combate
  - Pode reabastecer suprimentos das naves de combate. Descaso/Dias
 
-|          | Abastecer | Vida 25% | Carregar Gadget |     |
-| :------: | :-------: | :------: | :-------------: | --- |
-| Vectors  |     1     |    1     |        0        |     |
-| Strikers |     2     |    2     |        1        |     |
-|  Sieges  |     3     |    3     |        2        |     |
+|          | Abastecer | Vida 25% | Carregar Gadget | Nave Destruída |
+| :------: | :-------: | :------: | :-------------: | :------------: |
+| Vectors  |     1     |    1     |        0        |       5        |
+| Strikers |     2     |    2     |        1        |       10       |
+|  Sieges  |     3     |    3     |        2        |       15       |
 
 
 **Nível 2:**
  O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
  - Aumenta o espaço de Naves de Combate em +1
- - Conserta 20% da durabilidade das naves paradas
+ 
 **Nível 3:**
  O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
  - Aumenta o espaço de Naves de Combate em +1
