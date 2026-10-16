@@ -57,7 +57,7 @@
 | ESC MT6000 | 750u  |   6    |     3     |   -   |
 | ESC M2200  | 1000u |   8    |     5     |   -   |
 | ESC H8770  | 1250u |   12   |     7     |   -   |
-| ESC H16840 | 1750u |   15   |    10     |   -   |
+| ESC H16840 | 1750u |   15   |    12     |   -   |
 ### Armazéns e Consumíveis
 |         Nome         | Preço |  U Energia  |            Extra            |
 | :------------------: | :---: | :---------: | :-------------------------: |
@@ -65,7 +65,7 @@
 |   Reator Ionizante   |       | 8 cada arma |      (Canhão de Íons)       |
 |    Reator a Laser    |       |      4      |     Laser Causa +2 dano     |
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
-| G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
+| G Tanque Metalíquido |       |     10      | (usos 2) Regenera 2d12 vida |
 |   Bomba Gruda-Suga   |       |      0      |  (P-Uzi)(2 usos) Grudento   |
 |   Barra Flamejante   |       |      0      | (Railgun)(2 usos) +1d6 dano |
 ### Outros
