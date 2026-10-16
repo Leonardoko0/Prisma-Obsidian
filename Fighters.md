@@ -65,7 +65,7 @@
 |   Reator Ionizante   |       | 8 cada arma |                             |
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
 | G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
-|   Bomba Gruda-Suga   |       |      0      |           (P-Uzi)           |
+|   Bomba Gruda-Suga   |       |      0      |  (P-Uzi) (2 usos) Grudendo  |
 ### Outros
 
 |      Nome       | Preço | U Energia |       Extra        |
