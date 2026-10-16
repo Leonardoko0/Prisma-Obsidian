@@ -303,7 +303,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 |  Sieges  |     1     |    1     |        0        |       15       |
 ### Igreja
 - Preço:
-- Tamanho:
+- Tamanho 7x7
 **Nível 1:**
 Um pequeno templo universal destinado ao descanso espiritual da tripulação. O ambiente é relativamente simples, silencioso e aberto a diferentes crenças.
 - Abaixa um de cansaço da tribulação
@@ -315,14 +315,19 @@ O templo é aumentado e passa a conter uma biblioteca de textos religiosos, memo
 Transforma-se em um santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias.
 ### Prisão
 - Preço:
-- Tamanho:
+- Tamanho: 10x10
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
 ### Palco e Teatro
 - Preço:
-- Tamanho:
+- Tamanho: 10x10
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
 ### Depósito
+- Preço:
+- Tamanho: 10x10
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
