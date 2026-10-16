@@ -72,11 +72,12 @@
 
 |         Nome         | Preço | U Energia |             Extra             |
 | :------------------: | :---: | :-------: | :---------------------------: |
-|    Manto Camaleão    |       |           |                               |
-|     Wisp's Manto     |       |           |                               |
+|    Manto Camaleão    |       |     8     |  1 Impulso +3 Contra ataques  |
+|     Wisp's Manto     |       |     4     |  1 Impulso +3 Contra Ataques  |
 |   Capsula de Fuga    |       |     1     |      Ativa após derrota       |
 |  Acelerador de bala  |       |     2     |    1 Impulso por +5 tiles     |
 | Magnetizador de bala |       |     2     |    1 Impulso por +3 acerto    |
 |   Afiador de bala    |       |     2     |     1 Impulso por +3 Dano     |
 |     Nitro B.Y.E      |       |     4     | 1 Impulso por 3 Tiles movidos |
+|                      |       |           |                               |
 # Funcionamento
