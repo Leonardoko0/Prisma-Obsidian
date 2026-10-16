@@ -63,9 +63,12 @@
 | :--------------: | :---: | :---------: | :---: |
 |  Armazém Plasma  |       | 1 cada arma |       |
 | Reator Ionizante |       | 8 cada arma |       |
-|  Manto Camaleão  |       |             |       |
-|   Wisp's Manto   |       |             |       |
 |                  |       |             |       |
 |                  |       |             |       |
 ### Outros
+
+|      Nome      | Preço | U Energia | Extra |
+| :------------: | :---: | :-------: | :---: |
+| Manto Camaleão |       |           |       |
+|  Wisp's Manto  |       |           |       |
 # Funcionamento
