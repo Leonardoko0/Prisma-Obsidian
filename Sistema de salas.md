@@ -3,7 +3,7 @@
 ## Armamento
 ### Módulo de Armas Brancas
 - Preço:
-- Tamanho: 7x7
+- Tamanho:
 **Nível 1:**
   Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
   - Permite consertar equipamento
@@ -162,13 +162,13 @@ O módulo torna-se uma oficina de engenharia defensiva de última geração. A i
 ## Funcionamento da Nave
 ### Quartos Únicos
 - Preço: 0
-- Tamanho:
+- Tamanho: 5x5
 São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. **Banheiros não inclusos**.
 
 *Não ter um quarto significa ter descanso precário*
 ### Refeitório
 - Preço: 0
-- Tamanho:
+- Tamanho: 10x10
 **Nível 1:**
  Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
  "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
