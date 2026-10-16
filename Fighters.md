@@ -79,5 +79,5 @@
 | Magnetizador de bala |       |     2     |    1 Impulso por +3 Acerto    |
 |   Afiador de bala    |       |     2     |     1 Impulso por +3 Dano     |
 |     Nitro B.Y.E      |       |     4     | 1 Impulso por 3 Tiles movidos |
-|  Redutor de Matéroa  |       |    10     |       Permite colocar+1       |
+|  Redutor de Matéria  |       |    10     |    Permite colocar +1 Arma    |
 # Funcionamento
