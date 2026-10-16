@@ -66,7 +66,8 @@
 |  Tanque Metalíquido  |       |      5      | (usos 2) Regenera 2d8 vida  |
 | G Tanque Metalíquido |       |     15      | (usos 2) Regenera 2d12 vida |
 |   Bomba Gruda-Suga   |       |      0      |  (P-Uzi)(2 usos) Grudento   |
-|   Barra Flamejante   |       |             |   (Railgun)(2 usos) 1d6     |
+|   Barra Flamejante   |       |      0      | (Railgun)(2 usos) +1d6 dano |
+|    Reator a Laser    |       |             |                             |
 ### Outros
 
 |      Nome       | Preço | U Energia |       Extra        |
