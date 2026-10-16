@@ -64,8 +64,8 @@
 | :------------------: | :---: | :---------: | :---------------------------------: |
 |    Armazém Plasma    | 350u  | 1 cada arma |         (Canhão de Plasma)          |
 |   Reator Ionizante   | 500u  | 8 cada arma |          (Canhão de Íons)           |
-|    Reator a Laser    | 600u  |      4      |         Laser Causa +2 dano         |
 |    Módulo Lâmina     | 1250u |      5      |          (Lâmina Vermelha)          |
+|    Reator a Laser    | 600u  |      4      |         Laser Causa +2 dano         |
 |  Tanque Metalíquido  | 1000u |      5      |     (usos 2) Regenera 2d8 vida      |
 | G Tanque Metalíquido | 2000u |     10      |     (usos 2) Regenera 2d12 vida     |
 |   Bomba Gruda-Suga   | 250u  |      0      |      (P-Uzi)(2 usos) Grudento       |
