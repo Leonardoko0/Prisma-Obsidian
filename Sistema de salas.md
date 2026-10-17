@@ -252,7 +252,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
  "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico
 - Preço: 
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
 **Nível 2:**
@@ -263,13 +263,13 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 ## Outros
 ### Sala de Treinamento
 - Preço:
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
 ### Hangar e Drop Pod
 - Preço:
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
  - Espaço para 2 Naves de Combate
@@ -315,19 +315,19 @@ O templo é aumentado e passa a conter uma biblioteca de textos religiosos, memo
 Transforma-se em um santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias.
 ### Prisão
 - Preço:
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
 ### Palco e Teatro
 - Preço:
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
 ### Depósito
 - Preço:
-- Tamanho: 10x10
+- Tamanho: 11x11
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
