@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistema de salas.md",
+                "file": "Fighters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,11 +242,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5dab8b484c86f98b",
+  "active": "e2d44cc8c44f9d08",
   "lastOpenFiles": [
+    "Sistema de salas.md",
     "Customização.md",
     "Consertando e Repondo.md",
-    "Sistema de salas.md",
     "Fighters.md",
     "Combate de Naves.md",
     "Nave.md",
