@@ -331,3 +331,15 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
+### Banheiros
+- Preço:
+- Tamanho: 3x3
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
+### Elevadores
+- Preço:
+- Tamanho: 3x3
+**Nível 1:**
+**Nível 2:**
+**Nível 3:**
