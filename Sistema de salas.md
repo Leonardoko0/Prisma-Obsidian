@@ -267,7 +267,7 @@ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia 
 **Nível 1:**
 **Nível 2:**
 **Nível 3:**
-### Hangar
+### Hangar e Drop Pod
 - Preço:
 - Tamanho: 10x10
 **Nível 1:**
