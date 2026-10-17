@@ -116,8 +116,43 @@
               "icon": "lucide-file",
               "title": "Classes de Frontline"
             }
+          },
+          {
+            "id": "4f153db44bd0ed66",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 1402.5,
+                  "y": -500,
+                  "zoom": -1.8081512212586615
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "6f48c11755ef8df1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Minha PEÇA.canvas",
+                "viewState": {
+                  "x": 1175.5,
+                  "y": -519.24,
+                  "zoom": -1.5881649327595002
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Minha PEÇA"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,8 +304,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "6f48c11755ef8df1",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "Classes de Frontline.md",
     "Rpg/Personagens/Raça.md",
     "Sistema de salas.md",
@@ -301,12 +337,10 @@
     "Rpg/Personagens/Armas.md",
     "Lucky 44 (Cartas da Sorte).md",
     "Rpg/Personagens/Implantes.md",
-    "Rpg/Inimigos/Aila (Sledge Queen).md",
     "Pasted image 20260801171925.png",
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
     "Pasted image 20260801170407.png",
-    "Sem título.canvas",
     "Minha PEÇA.canvas",
     "Sem título.base",
     "Recording 20260414191404.m4a",
