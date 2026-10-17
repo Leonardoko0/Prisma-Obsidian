@@ -160,7 +160,7 @@
  - Permite fazer engenharia reversa em equipamento. além disso pode criar equipamentos complexos
  - Enquanto na sala recebe +10 em tecnologia
 ## Funcionamento da Nave
-### Quartos Únicos
+### Quartos Únicos/ Quarto Regular
 - Preço: 0
 - Tamanho: 5x5
 São quartos personalizados onde cada jogador pode personalizar da forma que quiser. Usado pra guardar equipamento e itens pessoais. **Banheiros não inclusos**.
