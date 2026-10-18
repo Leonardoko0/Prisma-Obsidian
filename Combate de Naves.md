@@ -63,4 +63,4 @@ Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quanti
 
 O principal objetivo do combate entre Fighters é derrubar as naves inimigas e neutralizar as ameaças no campo de batalha, abrindo caminho para atacar e destruir a nave principal adversária.
 ### Embate de Rush 
-Quando dois Fighters estão cara a cara a 5 
+Quando dois Fighters estão cara a cara a 5 tiles ou menos de distância, qualquer um deles pode escolher começar um Embate de Rush
