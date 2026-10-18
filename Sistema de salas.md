@@ -374,24 +374,24 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Dano: 2d10+2
 - Extra: Empurra o alvo 1d4+3 tiles
 ### Lança Chamas Demônio
-- Preço: 10000u
+- Preço: 10000u/ 5𖠂
 - Tempo de Recarga: 1 Rodadas
 - Distância: 4 Tiles
 - Dano: 3d8+2
 - Extra: O alvo tomar +1d4 de dano nas próxima 2 rodadas. Acumulativo
 ## Gadgets Automáticos
 ### Escudo Protetor V2
-- Preço: 4500u
+- Preço: 4500u/ 4𖠂
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 10 pontos de vida
 ### Escudo Protetor V1
-- Preço: 7000u
+- Preço: 7000u/ 4𖠂
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 20 pontos de vida
 ### Dispenser de Gás Camaleão
-- Preço: 3000u
+- Preço: 3000u/ 3𖠂
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 1
 - Ação: O próximo ataque recebido tem seu dano divido na metade
