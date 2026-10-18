@@ -401,32 +401,27 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Extra: O alvo tomar +1d4 de dano nas próxima 2 rodadas. Acumulativo
 ## Gadgets Automáticos
 ### Escudo Protetor V2
-- Preço: 2500u
+- Preço:
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 10 pontos de vida
-- Extra: N/A
 ### Escudo Protetor V1
-- Preço: 2500u
-- Módulo Operante: Atira quando um alvo entrar no alcance
-- Tempo de Recarga: 1 Rodadas
-- Distância: 6 Tiles
-- Dano: 1d6+1
-- Extra: N/A
+- Preço:
+- Módulo Operante: Ativa assim que puder
+- Tempo de Recarga: 4 Rodadas
+- Escudo: Cria uma barreira de 20 pontos de vida
 ### Dispenser de Gás Camaleão
 - Preço: 2500u
-- Módulo Operante: Atira quando um alvo entrar no alcance
-- Tempo de Recarga: 1 Rodadas
-- Distância: 6 Tiles
-- Dano: 1d6+1
-- Extra: N/A
+- Módulo Operante: Ativa assim que puder
+- Tempo de Recarga: 4 Rodadas
+- Escudo: Cria uma barreira de 20 pontos de vida
+
 ### Robôs de Reparo Emergencial
 - Preço: 2500u
-- Módulo Operante: Atira quando um alvo entrar no alcance
-- Tempo de Recarga: 1 Rodadas
-- Distância: 6 Tiles
-- Dano: 1d6+1
-- Extra: N/A
+- Módulo Operante: Ativa assim que puder
+- Tempo de Recarga: 0 Rodadas
+- Robô:
+
 ## Gadgets de Interação
 ### Atirador de Cobertura
 ### Dispensador de Metalíquido
