@@ -76,10 +76,8 @@ Durante esse trajeto, o piloto também pode ser resgatado por um Fighter aliado 
 
 Enquanto você não é resgatado e fica boiando em gravidade zero, você se torna vulnerável a qualquer inimigo que decida te explodir.
 # Dano em Alvo Pequenos
-As naves e os _Fighters_ possuem armamentos de grande poder destrutivo, capazes de causar danos devastadores. Para simplificar os combates espaciais, o dano de seus equipamentos é adaptado à escala de combate entre naves.
+As Naves e os Fighters possuem armamentos de grande poder destrutivo, capazes de causar danos devastadores. Para simplificar os combates espaciais, o dano de seus equipamentos é adaptado à escala de combate entre naves.
 
-Nas fichas de equipamentos, os valores de dano já estão ajustados para essa escala. Entretanto, **o dano real dessas armas contra humanoides é 10 vezes maior**.
+Nas fichas de equipamentos, os valores de dano estão modificados para essa escala. Entretanto, o dano real dessas armas contra humanoides é 10 vezes maior.
 
-Sempre que uma arma espacial atingir um humanoide, multiplique seu dano por 10. Por exemplo, uma arma que causa **1d6 de dano na escala de naves** causaria **10d6 de dano contra um humanoide**.
-
-Essa diferença representa a enorme disparidade de poder entre armamentos projetados para destruir naves e a resistência de seres humanoides.
+Sempre que uma arma espacial atingir um humanoide, multiplique seu dano por 10. Por exemplo, uma arma que causa 1d6 de dano na escala de naves causaria 10d6 de dano contra um humanoide.
