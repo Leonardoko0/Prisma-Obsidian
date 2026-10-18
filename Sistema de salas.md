@@ -270,7 +270,7 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 |  Sieges  |     3     |    3     |        2        |       15       |
 
 
-**Nível 2:** 27000u/ 10𖠂
+**Nível 2:** 27000u/10𖠂
  O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
  - Aumenta o espaço de Naves de Combate em +2
 
@@ -280,7 +280,7 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 | Strikers |     1     |    1     |        0        |       10       |
 |  Sieges  |     2     |    2     |        1        |       15       |
 
-**Nível 3:** 50000u/ 1𖠂
+**Nível 3:** 50000u/ 20𖠂
  O hangar é dividido em docas independentes e equipado com um sistema avançado de piso inteligente. Robôs técnicos especializados realizam diagnósticos, substituição de peças e reparos complexos com mínima intervenção humana. "Mesmo assim eu não acho que a equipe vai parar de sequestrar esses robozinhos"
  - Aumenta o espaço de Naves de Combate em +2
 
@@ -290,16 +290,15 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 | Strikers |     0     |    1     |        0        |       10       |
 |  Sieges  |     1     |    1     |        0        |       15       |
 ### Igreja
-- Preço:
 - Tamanho 7x7
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
 Um pequeno templo universal destinado ao descanso espiritual da tripulação. O ambiente é relativamente simples, silencioso e aberto a diferentes crenças.
 - Abaixa um de cansaço da tribulação
 - Passar tempo aqui anula efeitos mentais básicos
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
 O templo é aumentado e passa a conter uma biblioteca de textos religiosos, memoriais para agentes caídos e espaços dedicados a diferentes tradições espirituais.
 - 
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
 Transforma-se em um santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias.
 ### Prisão
 - Preço:
