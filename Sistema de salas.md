@@ -2,7 +2,7 @@
 # Salas
 ## Armamento
 ### Módulo de Armas Brancas
-- Preço:
+- Preço: 500u/1 𓂀
 - Tamanho: 5x5
 **Nível 1:**
   Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
