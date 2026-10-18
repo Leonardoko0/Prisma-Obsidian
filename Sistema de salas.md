@@ -367,14 +367,14 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Dano: 1d8+2
 - Extra: N/A
 ### Torretas Rifle Retardador
-- Preço:
+- Preço: 3250u
 - Módulo Operante: Atira em um alvo aleatório no alcance
 - Tempo de Recarga: 2 Rodada
 - Distância: 15 Tiles
 - Dano: 1d8+2
 - Extra: Faz o alvo perder 2 de movimento
 ### Lança Torpedos
-- Preço:
+- Preço: 5000u
 - Módulo Operante: Atira em um alvo aleatório no alcance
 - Tempo de Recarga: 2 Rodadas
 - Distância: 10 Tiles
@@ -382,6 +382,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Extra: N/A
 ## Armas Montadas
 ### Mini-Gun A Laser
+
 ### Catapulta Crash Repulsora
 ### Lança Chamas Demônio
 
