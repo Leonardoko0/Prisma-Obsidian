@@ -356,15 +356,14 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Torretas Metralhadora Leves
 ### Torretas Espingarda de Impulso
 ### Torretas Rifle Retardador
-###
-###
+### Lança Torpedos
 ## Armas Montadas
 ### Mini-Gun A Laser
 ### Catapulta Crash Repulsora
 ### Lança Chamas Demônio
 
 ## Gadgets Automáticos
-###
+### Escutd
 ###
 ###
 ###
