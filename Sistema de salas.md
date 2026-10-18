@@ -397,8 +397,8 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 10000u
 - Tempo de Recarga: 1 Rodadas
 - Distância: 4 Tiles
-- Dano: 2d10+2
-- Extra: Empurra o alvo 1d4+3 tiles
+- Dano: 2d8+2
+- Extra: 
 ## Gadgets Automáticos
 ### Escudo Protetor V2
 ### Escudo Protetor V1
