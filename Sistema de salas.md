@@ -370,4 +370,4 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ###
 ## Gadgets de Interação
 ### Atirador de Cobertura
-### Dispensador de 
+### Dispensador de Metalíquido
