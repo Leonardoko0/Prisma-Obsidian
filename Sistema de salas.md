@@ -363,10 +363,10 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Lança Chamas Demônio
 
 ## Gadgets Automáticos
-### Escutd
-###
-###
-###
+### Escudo Protetor V2
+### Escudo Protetor V1
+### Dispenser de Gás Camaleão
+### Robôs de Reparo Emerg
 ## Gadgets de Interação
 ### Atirador de Cobertura
 ### Dispensador de Metalíquido
