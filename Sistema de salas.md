@@ -404,7 +404,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 2500u
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 4 Rodadas
-- Dano: 1d6+1
+- Escudo: Cria uma barreira de 10
 - Extra: N/A
 ### Escudo Protetor V1
 - Preço: 2500u
