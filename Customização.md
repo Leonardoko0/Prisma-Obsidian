@@ -54,7 +54,7 @@
 |    Manto Camaleão    | 1250u |     8     |  1 Impulso +3 Contra Ataques  |
 |     (Wisp) Manto     | 1250u |     4     |  1 Impulso +3 Contra Ataques  |
 |   Capsula de Fuga    | 125u  |     1     |      Ativa após derrota       |
-|  Acelerador de bala  | 350u  |     2     |    1 Impulso por +5 tiles     |
+|  Acelerador de bala  | 350u  |     2     |   1 Impulso por +5 alcance    |
 | Magnetizador de bala | 350u  |     2     |    1 Impulso por +3 Acerto    |
 |   Afiador de bala    | 350u  |     2     |     1 Impulso por +3 Dano     |
 |     Nitro B.Y.E      | 700u  |     4     | 1 Impulso por 3 Tiles movidos |
