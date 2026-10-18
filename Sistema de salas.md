@@ -130,7 +130,7 @@
 **Nível 2:** 4500u/ 3𖠂
  Os equipamentos são melhorados e passam a suportar implantes de maiores riscos.
  - Permite o uso de Implantes de Categoria 2
-**Nível 3:** 10500/ 5𖠂
+**Nível 3:** 10500u/ 5𖠂
  A câmara é melhorada em um centro cirúrgico cibernético de última geração. Disponibiliza remédios bloqueadores imunológicos.
  - Permite o uso de Implantes de Categoria 3
  - Pode gerar Bloqueadores imunológicos
@@ -140,11 +140,11 @@
  Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
  - Permite concertar equipamentos e produzir outros auxiliares de complexidade baixa
  - Enquanto na sala recebe +2 em tecnologia
-**Nível 2:** 2500/ 3𖠂
+**Nível 2:** 2500u/ 3𖠂
  O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. 
  - Permite analisar equipamentos para descobrir informações (Fabricante, Dano, Capacidades e melhorias) além disso pode criar equipamentos de complexidade um pouco maior
  - Enquanto na sala recebe +5 em tecnologia
-**Nível 3:** 6500/ 5𖠂
+**Nível 3:** 6500u/ 5𖠂
  Transforma-se em um laboratório profissional de eletrônica, equipado com equipamento de ponta para pesquisa, desenvolvimento e fabricação. Capaz de produzir dispositivos avançados e realizar engenharia reversa.
  - Permite fazer engenharia reversa em equipamento. além disso pode criar equipamentos complexos
  - Enquanto na sala recebe +10 em tecnologia
@@ -158,13 +158,13 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 ### Refeitório
 - Preço: 0
 - Tamanho: 11x11
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
  "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
-**Nível 2:** +u
+**Nível 2:** 
  Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
  "Agora ninguém reclama na hora da janta :)"
-**Nível 3:** +u
+**Nível 3:** 
  Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
  "Alguns dizem que vale a pena voltar da missão só pela comida"
  
