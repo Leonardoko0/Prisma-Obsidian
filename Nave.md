@@ -11,4 +11,4 @@ Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental d
 "Cuidar da nave é cuidar da própria equipe, CUIDE DA SUA NAVE."
 
 # [[Sistema de Salas]]
-É aqui que os agentes vão ter listadas todas as salas disponíveis para customizar a nave da forma que preferirem. Elas vão do nível 1 (Padrão)
+É aqui que os agentes vão ter listadas todas as salas disponíveis para customizar a nave da forma que preferirem. Elas vão do nível 1, (Padrão e as vezes meio precário) 2 (Sala de nível intermediário mas já quebra um baita galho) e 3 (Salas )
