@@ -353,10 +353,27 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 # Armas e Gadgets
 ## Armas Automáticas
 ### Torretas Metralhadora Leves
-- 
+- Preço:
+- Módulo Operante:
+- Tempo de Recarga:
+- Distância:
+- Dano:
+- Extra:
 ### Torretas Espingarda de Impulso
+- Preço:
+- Distância:
+- Dano:
+- Extra:
 ### Torretas Rifle Retardador
+- Preço:
+- Distância:
+- Dano:
+- Extra:
 ### Lança Torpedos
+- Preço:
+- Distância:
+- Dano:
+- Extra:
 ## Armas Montadas
 ### Mini-Gun A Laser
 ### Catapulta Crash Repulsora
