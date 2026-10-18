@@ -39,5 +39,7 @@ Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda r
 ## Embarcando
 Quando duas naves grande entram em combate o combate dura até uma delas ser destruída ou  quando as duas colidirem (Adjacentes uma a outra) que nesse caso começa uma cena de Embarque.
 
-Quando as duas naves se colidem os agentes se pre
+Quando as duas naves se colidem os agentes se preparam e adentram a nave invasora, ou visse versa. Assim o combate termina quando a nave se render ou todos estarem mortos.
+
+Qualquer Fighters que se aproxime adent
 # Fighters
