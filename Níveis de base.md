@@ -8,8 +8,8 @@ Este é o nível padrão das naves do Prisma. Normalmente, as naves são entregu
 Status:
 - Vida: 50
 - Movimento: 3
-- Espaços de Armas e Gadgets Manuais: 2
-- Espaços de Armas Gadgets Automáticas: 1
+- Espaços de Armas e Gadgets Manuais: 1
+- Espaços de Armas Gadgets Automáticas: 2
 
 No Nível um a nave possui:
 -  4 Espaços 3x3
@@ -28,8 +28,8 @@ Espaçodinâmica, projetado para melhorar sua eficiência e desempenho.
 Status:
 - Vida: 80
 - Movimento: 3
-- Espaços de Armas e Gadgets Manuais: 4
-- Espaços de Armas Gadgets Automáticas: 2
+- Espaços de Armas e Gadgets Manuais: 2
+- Espaços de Armas Gadgets Automáticas: 4
 
 No Nível dois a nave possui:
 -  4 Espaços 3x3
