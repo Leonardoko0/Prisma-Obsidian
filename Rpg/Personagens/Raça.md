@@ -49,7 +49,7 @@ Duração: Até o fim da queda
 Uma brisa suave e constante envolve seu corpo, fluindo pela sua pele como se sempre tivesse feito parte de você. Em um instante, seu peso parece desaparecer, e o ar passa a sustentá-lo com delicadeza.
 
 Enquanto estiver sob esse efeito, a velocidade de descida do alvo é reduzida, permitindo uma queda lenta de até 18 metros. Se a criatura tocar o solo antes de completar essa distância, ela não sofre qualquer dano de queda.
-Você
+Você também pode usar essa habilidade para mudar sua direção de movimento dentro de 0 Gravidade
 
 ### Habilidade: Marcas (Mudar)
 Conjuração: Ação
