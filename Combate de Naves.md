@@ -70,4 +70,6 @@ Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando su
 **Bônus de Pilotagem:** Além dos bônus de Pilotagem, ambos os Fighters recebem um bônus adicional equivalente à metade de sua Velocidade durante o Embate de Rush.
 
 # Sendo Derrotado
-Ao ter sua nave destruída você é ejetado para um tile adjacente e continua
+Ao ter sua nave destruída você é ejetado para um tile adjacente e continua seguindo nesse mesmo sentido toda nova rodada se movendo 1 tile.
+
+Uma 
