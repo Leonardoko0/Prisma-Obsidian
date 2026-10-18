@@ -25,7 +25,7 @@ Espaçodinâmica, projetado para melhorar sua eficiência e desempenho.
 "Finalmente uma nave decente"
 
 Status:
-- Vida: 50
+- Vida: 80
 - Espaços de Armas:
 - Espaços de Gadgets:
 
@@ -41,6 +41,11 @@ No Nível dois a nave possui:
 
 Neste nível, um novo compartimento é adicionado na parte superior ou inferior da nave. Esse compartimento só pode ser acessado por elevadores.
 "Talvez um luxo de vez quando não faz mal"
+
+Status:
+- Vida: 100
+- Espaços de Armas:
+- Espaços de Gadgets:
 
 No Nível três a nave possui:
 -  6 Espaços 3x3
