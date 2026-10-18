@@ -2,9 +2,8 @@
 # Salas
 ## Armamento
 ### Módulo de Armas Brancas
-- Preço: 500u/ 1𖠂
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 500u/ 1𖠂
   Uma oficina especializada na manutenção e aprimoramento de armas brancas. Equipada com afiadores, serras d’água e bancadas de trabalho para manutenção de lâminas e mecanismos.
   - Permite consertar equipamento
   - Permite colocar melhorias em **Atributo** na sua arma
@@ -12,27 +11,25 @@
  Os equipamentos são substituídos por ferramentas profissionais, permitindo modificações mais sofisticadas e a manutenção de armamentos complexos. Uma parceria tecnológica da SharpWine™
  - Permite consertar e utilizar armas brancas Combatentes
  - Permite colocar melhorias **Características** na sua arma
-**Nível 3:** 
+**Nível 3:** 5000u/ 5𖠂
  O módulo atinge um padrão industrial de elite. Além dos equipamentos de última geração, **Blade X**, uma esfera robótica dotada de inteligência artificial especializada em combate corpo a corpo, metalurgia e aprimoramento de armamentos está lá para lhe ajudar. Uma parceria tecnológica da SharpWine™
  - Permite consertar e utilizar armas brancas Predadoras
  - Permite colocar melhorias **Finais** na sua arma
 ### Módulo de Disparos
-- Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 500u/ 1𖠂
  Uma oficina especializada em armas de fogo, equipada com bancadas de manutenção e kits de limpeza. Permite manter armamentos em perfeito estado e realiza modificações básicas.
  - Permite consertar equipamento
  - Todas as armas tem alcance máximo e mínimo aumentado em 3
-**Nível 2:**
+**Nível 2:** 2000u/ 3𖠂
  O módulo recebe equipamentos para usinagem e calibração avançada, permitindo a fabricação de componentes de alta qualidade
  - Permite consertar equipamento Combatentes
  - Atirar seu último disparo sem ter as quantidade de balas recomendada não corta o dano pela metade
-**Nível 3:**
+**Nível 3:** 5000u/ 5𖠂
  O módulo é transformado em uma oficina balística de ponta. e começa a poder trabalhar com armas inteligentes e calibrar sensores e miras aim-bot
  - Permite consertar equipamento Predadora
  - Evita a primeira danificação na sua arma
 ### Câmara de Munição
-- Preço:
 - Tamanho: 5x5
 **Nível 1:**
  Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
