@@ -43,5 +43,5 @@ Quando as duas naves se colidem os agentes se preparam e adentram a nave invasor
 
 Qualquer Fighters que se aproxime adjacentemente pode escolher também adentrar na cena e também escolhendo onde da nave ele ira adentrar.
 
-Durante essa cena, o combate entre os Fighters contínua, ou seja a nave pode se
+Durante essa cena, o combate entre os Fighters contínua, ou seja as naves podem ser destruídas enquanto a tripulação está na outra nave. Quando o Combate dos 
 # Fighters
