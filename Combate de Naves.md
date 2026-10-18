@@ -45,8 +45,9 @@ Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, 
 
 **Combate simultâneo:** O combate entre os Fighters continua normalmente durante a cena de Embarque. Isso significa que as naves envolvidas ainda podem sofrer ataques e até ser destruídas enquanto os agentes estiverem combatendo dentro de uma delas.
 # Fighters
+## Funcionamento
+Os Fighters Tem algumas regras importantes para se preocupar durante o combate.
 ## Combate
 ### Combate Geral
 ### Embate de Rush 
-## Funcionamento
 
