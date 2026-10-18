@@ -1,2 +1,2 @@
 #Base [[Sistema de Base]]
-A nave é o principal instrumento de trabalho do prisma (Sim, não são as armas nem os explosivos) pois permitem que os agente se movam no espaço e façam o seu trabalho. Uma nave conta com diversas coisa como: Um motor Dissonante, Diversas salas com vários propósitos 
+A nave é o principal instrumento de trabalho do prisma (Sim, não são as armas nem os explosivos) pois permitem que os agente se movam no espaço e façam o seu trabalho. Uma nave conta com diversas coisa como: Um motor Dissonante, Diversas salas com vários propósitos e claro, uma sala de controle para tudo isso. A Nave vai ser onde a equipe vai dormir, comer e descansar no meio de uma  
