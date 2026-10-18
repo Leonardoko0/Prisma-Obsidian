@@ -118,41 +118,21 @@
             }
           },
           {
-            "id": "4f153db44bd0ed66",
+            "id": "20207d2fb6b0672f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 1402.5,
-                  "y": -500,
-                  "zoom": -1.8081512212586615
-                }
+                "file": "Sistema de salas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
-            }
-          },
-          {
-            "id": "6f48c11755ef8df1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Minha PEÇA.canvas",
-                "viewState": {
-                  "x": -565.8320831705794,
-                  "y": 204.29147038890187,
-                  "zoom": -0.9214982660928336
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Minha PEÇA"
+              "icon": "lucide-file",
+              "title": "Sistema de salas"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -304,10 +284,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6f48c11755ef8df1",
+  "active": "20207d2fb6b0672f",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "Classes de Frontline.md",
+    "Sem título.canvas",
+    "Minha PEÇA.canvas",
     "Rpg/Personagens/Raça.md",
     "Sistema de salas.md",
     "Fighters.md",
@@ -341,7 +322,6 @@
     "Pasted image 20260801170933.png",
     "Pasted image 20260801170605.png",
     "Pasted image 20260801170407.png",
-    "Minha PEÇA.canvas",
     "Sem título.base",
     "Recording 20260414191404.m4a",
     "Pasted image 20260523170531.png",

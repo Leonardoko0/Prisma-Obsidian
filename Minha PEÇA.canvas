@@ -51,7 +51,7 @@
 		{"id":"1679295051c3df75","type":"text","text":"Ele encontra uma parcela dos personagens","x":14,"y":540,"width":250,"height":50,"color":"1"},
 		{"id":"703918d2cb3e76a3","type":"text","text":"Algum personagem pode levar ele até o morto","x":14,"y":780,"width":250,"height":60,"color":"1"},
 		{"id":"52e368c867a00610","type":"text","text":"Ele observa o cadaver ","x":264,"y":660,"width":250,"height":60,"color":"1"},
-		{"id":"b5df9edfbf75904e","x":-804,"y":-73,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b5df9edfbf75904e","type":"text","text":"","x":-804,"y":-73,"width":250,"height":60},
 		{"id":"46907788221986a7","type":"file","file":"Imagems/Pasted image 20260415162431.png","x":-1640,"y":-680,"width":2282,"height":1990,"color":"6"}
 	],
 	"edges":[
