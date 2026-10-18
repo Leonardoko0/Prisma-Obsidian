@@ -48,8 +48,8 @@ Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, 
 ## Funcionamento
 Os Fighters Tem algumas regras importantes para se preocupar durante o combate. Entre elas estão: Velocidade, Vida, Impulso, Usos das Arma e Rolagens
 
-**Velocidade:** Velocidade é o atributo que define  
-**Vida:**
+**Velocidade:** Velocidade é o atributo que define quantos tiles você pode se mover com sua ação de movimento. Além disso, velocidade também define seus bonûs e 
+**Vida:** 
 **Impulso:**
 **Usos:**
 
