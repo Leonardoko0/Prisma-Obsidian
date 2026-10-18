@@ -6,7 +6,7 @@ Para concertar a nave não existe muitos gastos adicionais. Você só precisa do
 
 ## Hangar
 - Preço:
-- Tamanho:
+- Tamanho: 11x11
 ### **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
  - Espaço para 2 Naves de Combate
