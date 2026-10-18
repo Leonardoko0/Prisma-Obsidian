@@ -7,6 +7,7 @@ Este é o nível padrão das naves do Prisma. Normalmente, as naves são entregu
 
 Status:
 - Vida: 50
+- Movimento: 3
 - Espaços de Armas:
 - Espaços de Gadgets:
 
@@ -26,6 +27,7 @@ Espaçodinâmica, projetado para melhorar sua eficiência e desempenho.
 
 Status:
 - Vida: 80
+- Movimento: 3
 - Espaços de Armas:
 - Espaços de Gadgets:
 
@@ -44,6 +46,7 @@ Neste nível, um novo compartimento é adicionado na parte superior ou inferior 
 
 Status:
 - Vida: 100
+- Movimento: 3
 - Espaços de Armas:
 - Espaços de Gadgets:
 
