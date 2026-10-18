@@ -71,7 +71,7 @@
 - Tamanho: 5x5
 **Nível 1:** 1000u/ 1𖠂
  Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
- - Aumenta em 1 a quantidade de usos de um aparato
+ - Aumenta em +1 a quantidade de usos de um aparato
 **Nível 2:** 3000u/ 3𖠂
  A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
  - Permite levar mais um aparato nas missões
