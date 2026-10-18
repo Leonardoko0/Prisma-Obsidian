@@ -17,5 +17,10 @@ Nave Principal 2: 8
 # Nave Principal
 ## Pilotando A Nave
 A nave pode ser controlada tanto por um jogador quanto o piloto automático. No caso, quando um jogador está no controle ele tem acesso a diversas ações de movimento e controle da nave.
+### Ações
+#### Movimentar
+#### Mover Energia ()
+####
+
 ## Usando Armas e Gadgets
 # Fighters
