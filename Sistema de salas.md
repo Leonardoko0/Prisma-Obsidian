@@ -382,7 +382,11 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Extra: N/A
 ## Armas Montadas
 ### Mini-Gun A Laser
-
+- Preço: 6000u
+- Tempo de Recarga: 2 Rodadas
+- Distância: 10 Tiles
+- Dano: 1d12+4
+- Extra: N/A
 ### Catapulta Crash Repulsora
 ### Lança Chamas Demônio
 
