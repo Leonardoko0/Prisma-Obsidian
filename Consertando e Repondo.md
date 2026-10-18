@@ -18,7 +18,6 @@ Para concertar a nave não existe muitos gastos adicionais. Você só precisa do
 | Strikers |     2     |    2     |        1        |       10       |
 |  Sieges  |     3     |    3     |        2        |       15       |
 
-
 ### **Nível 2:**
  O hangar recebe um sistema de piso inteligente com plataformas rotativas. Pequenos robôs técnicos começam a auxiliar na manutenção, "Eles são muito fofo, mas eu imploro que a equipe deixe eles fazerem seus trabalhos".
  - Aumenta o espaço de Naves de Combate em +2
