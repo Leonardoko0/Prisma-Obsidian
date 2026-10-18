@@ -37,7 +37,11 @@ Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda r
 - Troque para outra arma montada na nave ou ocupe a cadeira do piloto para assumir o controle da nave.
 - Utilize a arma montada ou o Gadget que estiver operando no momento, seguindo as regras e os efeitos específicos do equipamento.
 ## Embarcando
-Quando duas naves de grande porte entram em combate, o confronto continua até que uma delas seja destruída ou que ambas fiquem adjacentes, permitindo o início de uma cena de **Embarque**.
+Quando duas naves de grande porte entram em combate, o confronto continua até que uma delas seja destruída ou que ambas fiquem adjacentes, dando início a uma cena de Embarque.
+
+Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, ou defender a própria nave contra uma invasão. A cena de Embarque continua até que a tripulação de uma das naves se renda ou seja completamente derrotada.
+
+**Participação dos Fighters:** Qualquer _Fighter_ que se aproxime o suficiente para ficar adjacente a uma das naves envolvidas pode optar por participar da cena de Embarque. Nesse caso, seu piloto escolhe o ponto da nave em que deseja entrar.
 
 Quando as duas naves se colidem os agentes se preparam e adentram a nave invasora, ou visse versa. Assim o combate termina quando a nave se render ou todos estarem mortos.
 
