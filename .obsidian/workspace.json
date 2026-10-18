@@ -75,7 +75,8 @@
               "title": "Sistema de Salas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +228,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "c791591729fe798d",
   "lastOpenFiles": [
-    "Combate de Naves.md",
-    "Fighters.md",
-    "Rpg/Personagens/Raça.md",
     "Sistema de Salas.md",
     "Customização.md",
+    "Fighters.md",
+    "Rpg/Personagens/Raça.md",
+    "Combate de Naves.md",
     "Nave.md",
     "Níveis de Base.md",
     "Consertando e Repondo.md",
