@@ -398,7 +398,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Tempo de Recarga: 1 Rodadas
 - Distância: 4 Tiles
 - Dano: 2d8+2
-- Extra: 
+- Extra: O alvo tomar +
 ## Gadgets Automáticos
 ### Escudo Protetor V2
 ### Escudo Protetor V1
