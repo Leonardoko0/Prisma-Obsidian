@@ -40,4 +40,4 @@ No Nível três a nave possui:
 
 ![[Pasted image 20261017231725.png|445]]
 # Estação
-Estações são literalmente grandes naves co
+Estações são literalmente grandes naves com muitas sala e nada de capacidade de combate. Diferente das naves, estações são difíceis de melhorar e
