@@ -25,9 +25,9 @@ Você gasta a sua ação para redirecionar a energia da nave para os seus motore
 #### Mover Energia Armas (Alcance)
 Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles.
 #### Mover Energia Armas (Recarga)
-Você gasta a sua ação para redirecionar a energia da nave para as armas. Todas as Armas Manuais recarregam uma rodada mais rápido.
+Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada, todas as Armas Manuais recarregam uma rodada mais rápido.
 #### Mover Energia Armas (Dano)
-Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles.
+Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada, todos os ataques realizados com Armas Manuais tem seu dano aumentado em 
 #### Mover Energia (Gadgets)
 
 ## Usando Armas e Gadgets
