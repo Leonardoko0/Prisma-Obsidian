@@ -10,9 +10,9 @@ Quando estão fora de uma missão, os agentes normalmente podem contar com as es
 Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental da vida e do trabalho dos agentes. Suas coisas podem e vão fazer a diferença entre uma missão bem-sucedida e um desastre completo. 
 "Cuidar da nave é cuidar da própria equipe, CUIDE DA SUA NAVE."
 # [[Sistema de Salas]]
-É aqui que os agentes vão ter listadas todas as salas disponíveis para customizar a nave da forma que preferirem. Elas vão do nível 1 ao 3
+É aqui que os agentes vão ter listadas todas as salas e equipamentos disponíveis para customizar a nave da forma que preferirem. Elas vão do nível 1 ao 3
 - Nível 1 Padrão: Instalações básicas que cumprem suas funções, e as vezes podem ser meio precárias
 - Nível 2 Intermediário: Instalações aprimoradas e com mais coisinhas. Já quebram um baita galho e atendem muito bem à maioria das necessidades.
 - Nível 3 Avançado: Instalações de alto nível, equipadas com tecnologias superiores e capacidades impressionantes.
-
-# Nív
+# [[Níveis de Base]]
+É aqui que os agente vão poder olhas as melhorias que
