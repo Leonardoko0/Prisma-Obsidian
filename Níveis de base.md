@@ -11,12 +11,13 @@ No Nível um a nave possui:
 # Nível 2
 No Nível dois a nave possui:
 -  4 Espaços 3x3
--  10 Espaços 5x5
+- 10 Espaços 5x5
 -  5 Espaços 7x7
--  3 Espaços 11x11
+-  4 Espaços 11x11
 
 ![[Pasted image 20261017231708.png|445]]
 # Nível 3
+Neste Nível um compartimento inferior ou superior é adicionado na nave, o compartimento só pode ser acessado p
 No Nível três a nave possui:
 -  4 Espaços 3x3
 -  8 Espaços 5x5
