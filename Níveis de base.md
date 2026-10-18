@@ -47,8 +47,8 @@ Neste nível, um novo compartimento é adicionado na parte superior ou inferior 
 Status:
 - Vida: 100
 - Movimento: 3
-- Espaços de Armas e Gadgets Manuais: 6
-- Espaços de Armas Gadgets Automáticas: 3
+- Espaços de Armas e Gadgets Manuais: 3
+- Espaços de Armas Gadgets Automáticas: 6
 
 No Nível três a nave possui:
 -  6 Espaços 3x3
