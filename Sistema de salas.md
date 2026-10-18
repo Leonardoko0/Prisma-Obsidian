@@ -428,6 +428,6 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Ação: Atire um projétil para servir de cobertura para um aliado. Atire quando um aliado receber um ataque, atire uma cobertura recebe um dano máximo de até 12 pontos vida do ataques recebidos. 
 ### Dispensador de Metalíquido
 - Preço: 8000u
-- Tempo de Recarga: 0 Rodadas
+- Tempo de Recarga: 3 Rodadas
 - Distância: 5 Tiles, Move +5 tiles toda rodada no mesmo sentido
-- Ação: Atira um pacote de Metalíquido
+- Ação: Atira um pacote de Metalíquido que regenera 2d8 pontos de vida
