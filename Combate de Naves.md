@@ -65,7 +65,7 @@ O principal objetivo do combate entre Fighters é derrubar as naves inimigas e n
 ### Embate de Rush 
 Quando dois Fighters estão frente a frente, a uma distância de 5 tiles ou menos, qualquer um dos pilotos pode declarar um Embate de Rush durante seu turno.
 
-Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando suas ações de movimento para se aproximar enquanto gastam seus Impulsos simultaneamente para atacar e se defender dos ataques adversários. Durante esse confronto, ambos os pilotos comprometem **todas as suas ações** ao Embate, não podendo realizar outras ações até que ele seja resolvido.
+Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando suas ações de movimento para se aproximar enquanto gastam seus Impulsos simultaneamente para atacar e se defender dos ataques adversários. Durante esse confronto, ambos os pilotos comprometem todas as suas ações ao Embate.
 
 Um embate de Rush é quando os dois Fighters vão na direção um do outro gastando seu movimento para frente e gastando seus impulsos ao mesmo tempo atirando um no outro e se defendendo um do outro. Ambos gastam suas ações completas dessa forma.
 
