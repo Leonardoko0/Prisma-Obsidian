@@ -375,10 +375,10 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Extra: Faz o alvo perder 2 de movimento
 ### Lança Torpedos
 - Preço:
-- Módulo Operante:
-- Tempo de Recarga:
-- Distância:
-- Dano:
+- Módulo Operante: Atira em um alvo aleatório no alcance
+- Tempo de Recarga: 2 Rodadas
+- Distância: 10 Tiles
+- Dano: 1d10+4
 - Extra:
 ## Armas Montadas
 ### Mini-Gun A Laser
