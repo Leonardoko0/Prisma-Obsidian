@@ -15,4 +15,4 @@ Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental d
 - Nível 2 Intermediário: Instalações aprimoradas e com mais coisinhas. Já quebram um baita galho e atendem muito bem à maioria das necessidades.
 - Nível 3 Avançado: Instalações de alto nível, equipadas com tecnologias superiores e capacidades impressionantes.
 # [[Níveis de Base]]
-É aqui que os agente vão poder olhas as melhorias que
+É aqui que os agente vão poder melhorar a nave principal. A nave saí do nível 1/0 passar para o nível 2 e finalmente chega no 3. Todas essas melhorias aumentam a quan
