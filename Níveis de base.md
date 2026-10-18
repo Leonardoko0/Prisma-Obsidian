@@ -19,7 +19,7 @@ No Nível um a nave possui:
 
 ![[Pasted image 20261017231646.png|442]]
 ## Nível 2
-**Custo:** 25𖠂, 250000u
+**Custo:** 35𖠂/250000u
 
 Neste nível, a nave aumenta de tamanho na parte frontal, adotando um formato mais
 Espaçodinâmica, projetado para melhorar sua eficiência e desempenho. 
@@ -39,7 +39,7 @@ No Nível dois a nave possui:
 
 ![[Pasted image 20261017231708.png|445]]
 ## Nível 3
-**Custo:** 35 Influência, 350000u
+**Custo:** 45𖠂/350000u
 
 Neste nível, um novo compartimento é adicionado na parte superior ou inferior da nave. Esse compartimento só pode ser acessado por elevadores.
 "Talvez um luxo de vez quando não faz mal"
