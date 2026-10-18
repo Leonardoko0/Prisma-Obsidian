@@ -35,5 +35,6 @@ Você gasta a sua ação para redirecionar a energia da nave para seus Gadgets. 
 Um jogador que está dentro da nave pode fazer várias coisas com as armas montadas, ela podem ser acessadas na sala de controle.
 
 Toda a rodada um jogador tem acesso a duas ações:
-Movimento: Trocar para outra arma montada ou 
+Movimento: Trocar para outra arma montada ou cadeira do piloto da nave
+Atirar: Usar Arma ou Gadget que você está
 # Fighters
