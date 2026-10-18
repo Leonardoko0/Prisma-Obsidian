@@ -353,14 +353,14 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 # Armas e Gadgets
 ## Armas Automáticas
 ### Torretas Metralhadora Leves
-- Preço:
+- Preço: 2500u
 - Módulo Operante: Atira quando um alvo entrar no alcance
 - Tempo de Recarga: 1 Rodadas
 - Distância: 6 Tiles
 - Dano: 1d6+1
 - Extra: N/A
 ### Torretas Espingarda de Impulso
-- Preço:
+- Preço: 3250u
 - Módulo Operante: Atira quando um alvo entrar no alcance
 - Tempo de Recarga: 1 Rodada
 - Distância: 3 Tiles
@@ -378,8 +378,8 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Módulo Operante: Atira em um alvo aleatório no alcance
 - Tempo de Recarga: 2 Rodadas
 - Distância: 10 Tiles
-- Dano: 1d10+4
-- Extra:
+- Dano: 1d12+4
+- Extra: N/A
 ## Armas Montadas
 ### Mini-Gun A Laser
 ### Catapulta Crash Repulsora
