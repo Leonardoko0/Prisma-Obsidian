@@ -218,11 +218,11 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 **Nível 1:** 500u/ 1𖠂
  Sala equipada com materiais improvisados para diferentes formas de arte. Disponibiliza tintas, telas, canetas, massas de modelagem e alguns instrumentos musicais Improvisados.
  - Aumenta qualquer teste de arte realizado na sala em +2
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 2000u/ 3𖠂
  A sala recebe novos equipamentos e materiais de qualidade superior. Os instrumentos musicais permanecem os mesmos.
  - Aumenta qualquer teste de arte realizado na sala em +5
  - Pode escolher um teste de arte por missão para receber esse bônus fora da sala de forma que faça sentido
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 5000u/ 5𖠂
  Transforma-se em um ateliê profissional, com materiais da mais alta qualidade, ferramentas especializadas e equipamentos raros, capazes de produzir qualquer forma de expressão artística. 
  - Aumenta qualquer teste de arte realizado na sala em +10
  - Pode escolher um teste de arte por missão para receber +5 fora da sala de forma que faça sentido
@@ -233,20 +233,20 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 **Nível 1:** 750u/ 1𖠂
  Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
  - Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 2500u/ 3𖠂
  A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
  - Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 6500u/ 5𖠂
  A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
  - Uma vez por missão pode definir que sua primeira rodada de um combate terá +2 de estâmina não acumulável 
  "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico 
 - Tamanho: 11x11
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 3000u/ 1𖠂
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 9000u/ 𖠂
  Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 27000u/ 15𖠂
  Arena mais brutal com elementos destrutivos. MAIS peças e habilidades ALÉM disso todo robô construído recebe um Módulo Especial (habilidade exclusiva especial).
 **"LET THE ROBOTS HIT THE FLOOR"**
 ## Outros
