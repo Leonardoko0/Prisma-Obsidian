@@ -291,27 +291,26 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 |  Sieges  |     1     |    1     |        0        |       15       |
 ### Igreja
 - Tamanho 7x7
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 500u/ 1𖠂
 Um pequeno templo universal destinado ao descanso espiritual da tripulação. O ambiente é relativamente simples, silencioso e aberto a diferentes crenças.
 - Abaixa um de cansaço da tribulação
 - Passar tempo aqui anula efeitos mentais básicos
-**Nível 2:** 750u/ 1𖠂
+**Nível 2:** 2000/ 3𖠂
 O templo é aumentado e passa a conter uma biblioteca de textos religiosos, memoriais para agentes caídos e espaços dedicados a diferentes tradições espirituais.
 - 
-**Nível 3:** 750u/ 1𖠂
+**Nível 3:** 5000/ 5𖠂
 Transforma-se em um santuário de contemplação, equipado com tecnologia de hologramas para criar ambientes personalizados de meditação e cerimônias.
 ### Prisão
-- Preço:
 - Tamanho: 11x11
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
+**Nível 1:** 750u/ 1𖠂
+**Nível 2:** 2500u/ 3𖠂
+**Nível 3:** 6500u/ 5𖠂
 ### Palco e Teatro
 - Preço:
 - Tamanho: 11x11
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
+**Nível 1:** 750u/ 1𖠂
+**Nível 2:** 750u/ 1𖠂
+**Nível 3:** 750u/ 1𖠂
 ### Depósito
 - Preço:
 - Tamanho: 11x11
