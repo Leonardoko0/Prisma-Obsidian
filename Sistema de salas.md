@@ -353,9 +353,9 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 # Armas e Gadgets
 
 ## Armas Automáticas
-### Torretas Leves
-### Espingarda 
-###
+### Torretas Metralha Leves
+### Torreta Espingarda de Impulso
+### Rifle
 ###
 ###
 ## Armas Montadas
