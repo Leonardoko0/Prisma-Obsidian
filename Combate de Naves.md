@@ -37,7 +37,7 @@ Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda r
 - Troque para outra arma montada na nave ou ocupe a cadeira do piloto para assumir o controle da nave.
 - Utilize a arma montada ou o Gadget que estiver operando no momento, seguindo as regras e os efeitos específicos do equipamento.
 ## Embarcando
-Quando duas naves grande entram em combate o combate dura até uma delas ser destruída ou  quando as duas colidirem (Adjacentes uma a outra) que nesse caso começa uma cena de Embarque.
+Quando duas naves de grande porte entram em combate, o confronto continua até que uma delas seja destruída ou que ambas fiquem adjacentes, permitindo o início de uma cena de **Embarque**.
 
 Quando as duas naves se colidem os agentes se preparam e adentram a nave invasora, ou visse versa. Assim o combate termina quando a nave se render ou todos estarem mortos.
 
