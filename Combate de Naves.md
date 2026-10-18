@@ -16,6 +16,6 @@ Nave Principal 2: 8
 | Fighters 1           | 12         |
 # Nave Principal
 ## Pilotando A Nave
-A nave pode tento r
+A nave pode tanto tem um jogador controlando quanto o piloto automático. No caso, quando um jogador está no controle ele tem acesso a diversas ações de 
 ## Usando Armas e Gadgets
 # Fighters
