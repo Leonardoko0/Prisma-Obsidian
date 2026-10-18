@@ -19,7 +19,7 @@ No Nível um a nave possui:
 
 ![[Pasted image 20261017231646.png|442]]
 ## Nível 2
-**Custo:** 25 Influência, 250000u
+**Custo:** 25𖠂, 250000u
 
 Neste nível, a nave aumenta de tamanho na parte frontal, adotando um formato mais
 Espaçodinâmica, projetado para melhorar sua eficiência e desempenho. 
