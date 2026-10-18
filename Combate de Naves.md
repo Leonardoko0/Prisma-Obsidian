@@ -67,4 +67,4 @@ Quando dois Fighters estão cara a cara a 5 tiles ou menos de distância, qualqu
 
 Um embate de Rush é quando os dois Fighters vão na direção um do outro gastando seu movimento para frente e gastando seus impulsos ao mesmo tempo atirando um no outro e se defendendo um do outro. Ambos gastam suas ações completas dessa forma.
 
-Outro detalhye
+Outro detalhe importante é que além do bonus de pilotagem, no Embate de Rush ambas as naves adicionam também a metade da sua velocidade como bonus.
