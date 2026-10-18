@@ -169,7 +169,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
 - Tamanho: 7x7
-**Nível 1:** 2500u/ 1𖠂
+**Nível 1:** 0/ 1𖠂
  Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
 **Nível 2:** 7500u/ 1𖠂
  a
@@ -177,14 +177,19 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  a
 ### Sala de Máquinas
 - Tamanho: 7x7
-Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
+**Nível 1:** 0u/ 1𖠂
+ Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
+**Nível 2:** 7500u/ 1𖠂
+ a
+**Nível 3:** 15000u/ 1𖠂
+ a
 ### Segurança
 - Tamanho: 5x5
 **Nível 1:** 750u/ 1𖠂
  Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave (5) Câmeras de baixa qualidade e permanecem estáticas.
-**Nível 2:** 2550u/ 1𖠂
+**Nível 2:** 2500u/ 1𖠂
  Aumenta a quantidade de câmeras pela nave (10). Controle de rotação das câmeras, além de contar com microfones integrados.
-**Nível 3:** 750u/ 1𖠂
+**Nível 3:** 6500u/ 1𖠂
  Aumenta ainda mais a quantidade de câmeras (15). As unidades são protegidas por placas de blindagem e possuem microfones e autofalantes de qualidade.
 ## Divertimento
 ### Sala de Jogos
