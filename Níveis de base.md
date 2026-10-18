@@ -42,4 +42,9 @@ No Nível três a nave possui:
 # Estação
 Estações são literalmente grandes naves com muitas sala e nada de capacidade de combate. Diferente das naves, estações são difíceis de melhorar e normalmente já possuem salas o bastante para suprir suas necessidades.
 
+Está Estação Possui:
+- 20 Espaços 5x5
+-  8 Espaços 7x7
+-  6 Espaços 11x11
+
 ![[Pasted image 20261017233324.png]]
