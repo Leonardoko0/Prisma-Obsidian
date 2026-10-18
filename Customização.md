@@ -24,7 +24,7 @@
 |  Canhão de Íons  | 2000u |  2d10  |     8     |     4     | 4 Tiles  |  (Reator Ionizante)   |
 |  Arpão Vetorial  | 500u  |   2    |     0     |     2     | 10 Tiles |  Puxa 4 Tiles rodada  |
 | Arpão Magnético  | 1000u |   2    |     5     |     2     | 20 Tiles |  Puxa 8 Tiles rodada  |
-| Arpão Corsair's  | 2000u |   5    |     0     |     3     | 5 Tiles  |    Invasão de Nave    |
+| Arpão (Corsair)  | 2000u |   5    |     0     |     3     | 5 Tiles  |    Invasão de Nave    |
 | Lâmina Vermelha  | 2500u |  3d4   |     5     |     1     | Adjacent |     Módulo Lâmina     |
 ## Gadgets
 
@@ -52,7 +52,7 @@
 |         Nome         | Preço | U Energia |             Extra             |
 | :------------------: | :---: | :-------: | :---------------------------: |
 |    Manto Camaleão    | 1250u |     8     |  1 Impulso +3 Contra Ataques  |
-|     Wisp's Manto     | 1250u |     4     |  1 Impulso +3 Contra Ataques  |
+|     (Wisp) Manto     | 1250u |     4     |  1 Impulso +3 Contra Ataques  |
 |   Capsula de Fuga    | 125u  |     1     |      Ativa após derrota       |
 |  Acelerador de bala  | 350u  |     2     |    1 Impulso por +5 tiles     |
 | Magnetizador de bala | 350u  |     2     |    1 Impulso por +3 Acerto    |
