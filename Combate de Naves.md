@@ -27,7 +27,7 @@ Você gasta a sua ação para redirecionar a energia da nave para as armas. Ness
 #### Mover Energia Armas (Recarga)
 Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada, todas as Armas Manuais recarregam uma rodada mais rápido.
 #### Mover Energia Armas (Dano)
-Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada, todos os ataques realizados com Armas Manuais tem seu dano aumentado em +4 para 1d
+Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada, todos os ataques realizados com Armas Manuais tem seu dano aumentado em +2 para cada 1d4, +4 para cada 1d8 e +5 para cada 1d10
 #### Mover Energia (Gadgets)
 
 ## Usando Armas e Gadgets
