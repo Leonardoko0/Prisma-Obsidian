@@ -6,11 +6,11 @@ Fighters 2: 20 iniciativa
 Nave Principal 1: 14
 Nave Principal 2: 8
 
-
-| Tabela de Iniciativa |     |
-| -------------------- | --- |
-| Fighters 2           | 20  |
-|                      |     |
-
+| Tabela de Iniciativa | Iniciativa |
+| -------------------- | ---------- |
+| Fighters 2           | 20         |
+| Nave Principal 1     | 14         |
+| Nave Principal 2     | 8          |
+| Fighters 1           | 12         |
 # Nave Principal
 # Fighters
