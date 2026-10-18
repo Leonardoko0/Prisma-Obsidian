@@ -388,8 +388,17 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Dano: 4d4
 - Extra: N/A
 ### Catapulta Crash Repulsora
+- Preço: 8000u
+- Tempo de Recarga: 1 Rodadas
+- Distância: 6 Tiles
+- Dano: 1d10+2
+- Extra: Empurra o alvo 1d4+3 tiles
 ### Lança Chamas Demônio
-
+- Preço: 8000u
+- Tempo de Recarga: 1 Rodadas
+- Distância: 6 Tiles
+- Dano: 1d10+2
+- Extra: Empurra o alvo 1d4+3 tiles
 ## Gadgets Automáticos
 ### Escudo Protetor V2
 ### Escudo Protetor V1
