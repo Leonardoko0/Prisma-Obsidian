@@ -362,17 +362,17 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Torretas Espingarda de Impulso
 - Preço:
 - Módulo Operante: Atira quando um alvo entrar no alcance
-- Tempo de Recarga: 1 rodada
+- Tempo de Recarga: 1 Rodada
 - Distância: 3 Tiles
 - Dano: 1d8+2
 - Extra: N/A
 ### Torretas Rifle Retardador
 - Preço:
 - Módulo Operante: Atira em um alvo aleatório no alcance
-- Tempo de Recarga: 1 Rodada
-- Distância:
-- Dano:
-- Extra:
+- Tempo de Recarga: 2 Rodada
+- Distância: 15 Tiles
+- Dano: 1d8+2
+- Extra: Faz o alvo perder 2 de movimento
 ### Lança Torpedos
 - Preço:
 - Módulo Operante:
