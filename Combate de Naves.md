@@ -74,4 +74,6 @@ Quando um Fighter é destruído, seu piloto é ejetado para um tile adjacente à
 
 Durante esse trajeto, o piloto também pode ser resgatado por um Fighter aliado que possua uma cadeira ou um Drop Pod disponível para transportá-lo.
 
-Enquanto você não é resgatado e fica boiando em gravidade zero, você se torna vulnerável a qualquer inimigo
+Enquanto você não é resgatado e fica boiando em gravidade zero, você se torna vulnerável a qualquer inimigo que decida te explodir.
+# Dano em Alvo Pequenos
+As Naves e Fighter possuem grandes armas com capacidade de explodir qualquer um. Nas regras de equipamento seu
