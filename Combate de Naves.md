@@ -31,7 +31,7 @@ Você gasta a sua ação para redirecionar a energia da nave para as armas. Ness
 #### Mover Energia (Gadgets)
 Você gasta a sua ação para redirecionar a energia da nave para seus Gadgets. Nessa rodada, todos os Gadgets recarregam uma rodada mais rápido.
 
-## Usando Armas e Gadgets
+### Usando Armas e Gadgets
 Um agente que estiver na nave principal pode operar as armas e os equipamentos de combate instalados nela. Todos esses sistemas/cabines de controle podem ser acessados pela Sala de Controle.
 Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda rodada:
 - Troque para outra arma montada na nave ou ocupe a cadeira do piloto para assumir o controle da nave.
