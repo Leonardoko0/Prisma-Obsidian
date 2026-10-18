@@ -52,7 +52,7 @@
  O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
  - Permite consertar armaduras **Sentinelas**
  - Faz adaptação da armadura até o level 15
-**Nível 3:** 6000u/ 5𖠂
+**Nível 3:** 6500u/ 5𖠂
  O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
  - Permite consertar armaduras **Bastiões e Aegis**
  - Faz adaptação da armadura até o level 20
@@ -64,19 +64,18 @@
 **Nível 2:** 2500u/ 3𖠂
  A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
  - Permite a criação de granadas **Caóticas**
-**Nível 3:** 6000u/ 5𖠂
+**Nível 3:** 6500u/ 5𖠂
  Transforma-se em um laboratório do Armagedom de alta segurança, preparado para sintetizar compostos experimentais e explosivos de rendimento nuclear. A instalação possui sistemas automáticos de contenção para evitar acidentes durante a produção.
  - Permite a criação de granadas **Armagedom**
 ### Sala de Aparatos
-- Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 1000u/ 1𖠂
  Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
  - Aumenta em 1 a quantidade de usos de um aparato
-**Nível 2:**
+**Nível 2:** 2500u/ 3𖠂
  A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
  - Permite levar mais um aparato nas missões
-**Nível 3:**
+**Nível 3:** 5000u/ 5𖠂
  Transforma-se em um centro de desenvolvimento tecnológico. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
  - Aumenta em +1 a quantidade de usos de um aparato
 ## Ciência
