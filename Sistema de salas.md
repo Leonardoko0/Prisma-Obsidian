@@ -430,4 +430,4 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
 - Distância: 5 Tiles, Move +5 tiles toda rodada no mesmo sentido
-- Ação:
+- Ação: Atira um pacote de 
