@@ -4,14 +4,14 @@
 ## Motores
 |     Nome      | Preço  | Impulso | Energia |     Extra     |
 | :-----------: | :----: | :-----: | :-----: | :-----------: |
-| Astra DRX-13  | 6000u  |    3    |   15    |       -       |
-|  Astra KR-12  | 4500u  |    2    |   15    | +2 Velocidade |
-|  FIFI 11055   | 5000u  |    2    |   20    | -1 Velocidade |
-| Astra ADX-03  | 8000u  |    4    |   20    |       -       |
-| Paragon PF-08 | 12000u |    2    |   30    |       -       |
-|  Astra L-157  | 10000u |    3    |   25    |       -       |
-| Paragon UU11  | 13000u |    2    |   30    | +4 Velocidade |
-|   Astra A1    | 20000u |    4    |   25    |       -       |
+| Astra DRX-13  | 4000u  |    3    |   15    |       -       |
+|  Astra KR-12  | 2500u  |    2    |   15    | +2 Velocidade |
+|  FIFI 11055   | 3000u  |    2    |   20    | -1 Velocidade |
+| Astra ADX-03  | 6000u  |    4    |   20    |       -       |
+| Paragon PF-08 | 10000u |    2    |   30    |       -       |
+|  Astra L-157  | 8000u  |    3    |   25    |       -       |
+| Paragon UU11  | 11000u |    2    |   30    | +4 Velocidade |
+|   Astra A1    | 18000u |    4    |   25    |       -       |
 ## Armas
 |       Nome       | Preço |  Dano  | U Energia | U Impulso | Alcance  |         Extra         |
 | :--------------: | :---: | :----: | :-------: | :-------: | :------: | :-------------------: |
