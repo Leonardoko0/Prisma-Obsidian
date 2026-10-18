@@ -17,10 +17,12 @@ No Nível dois a nave possui:
 
 ![[Pasted image 20261017231708.png|445]]
 # Nível 3
-Neste Nível um compartimento inferior ou superior é adicionado na nave, o compartimento só pode ser acessado p
+Neste Nível um compartimento inferior ou superior é adicionado na nave, o compartimento só pode ser acessado por elevadores.
+
 No Nível três a nave possui:
--  4 Espaços 3x3
--  8 Espaços 5x5
--  3 Espaços 7x7
--  3 Espaços 11x11
+-  6 Espaços 3x3
+- 15 Espaços 5x5
+-  6 Espaços 7x7
+-  5 Espaços 11x11
+
 ![[Pasted image 20261017231725.png|445]]
