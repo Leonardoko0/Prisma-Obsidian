@@ -103,7 +103,8 @@
               "title": "Nave"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,7 +256,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "0d5e1224cfff02f8",
   "lastOpenFiles": [
     "Níveis de Base.md",
     "Nave.md",
