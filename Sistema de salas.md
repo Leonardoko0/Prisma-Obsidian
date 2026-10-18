@@ -173,7 +173,7 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
 **Nível 2:** 7500u/ 5𖠂
  a
-**Nível 3:** 15000u/ 10𖠂
+**Nível 3:** 15000u/ 15𖠂
  a
 ### Sala de Máquinas
 - Tamanho: 7x7
@@ -181,7 +181,7 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
 **Nível 2:** 7500u/ 5𖠂
  a
-**Nível 3:** 15000u/ 10𖠂
+**Nível 3:** 15000u/ 15𖠂
  a
 ### Segurança
 - Tamanho: 5x5
@@ -242,11 +242,11 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico 
 - Tamanho: 11x11
-**Nível 1:** 3000u/ 1𖠂
+**Nível 1:** 3000u/ 3𖠂
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
-**Nível 2:** 9000u/ 𖠂
+**Nível 2:** 9000u/ 5𖠂
  Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
-**Nível 3:** 27000u/ 15𖠂
+**Nível 3:** 18000u/ 15𖠂
  Arena mais brutal com elementos destrutivos. MAIS peças e habilidades ALÉM disso todo robô construído recebe um Módulo Especial (habilidade exclusiva especial).
 **"LET THE ROBOTS HIT THE FLOOR"**
 ## Outros
