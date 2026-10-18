@@ -11,7 +11,11 @@ No Nível um a nave possui:
 -  3 Espaços 11x11
 ![[Pasted image 20261017231646.png|442]]
 # Nível 2 Espaçodinâmica.
-Nesse nível a nave aumenta de tamanho para frente e adotando uma forma mais Espaçodinâmica.
+**Custo:** 25 
+
+Neste nível, a nave aumenta de tamanho na parte frontal, adotando um formato mais
+Espaçodinâmica, projetado para melhorar sua eficiência e desempenho. 
+"Finalmente uma nave decente"
 
 No Nível dois a nave possui:
 -  4 Espaços 3x3
