@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,12 +256,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5842280e33c8b074",
+  "active": "20207d2fb6b0672f",
   "lastOpenFiles": [
-    "Sistema de Salas.md",
-    "Customização.md",
     "Consertando e Repondo.md",
+    "Customização.md",
     "Níveis de Base.md",
+    "Sistema de Salas.md",
     "Fighters.md",
     "Nave.md",
     "Pasted image 20261017233324.png",

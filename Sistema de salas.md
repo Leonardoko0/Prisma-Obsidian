@@ -406,7 +406,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 10 pontos de vida
 ### Escudo Protetor V1
-- Preço: 8000u
+- Preço: 7000u
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 20 pontos de vida
