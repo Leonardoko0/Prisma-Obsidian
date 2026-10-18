@@ -55,5 +55,6 @@ Os Fighters Tem algumas regras importantes para se preocupar durante o combate. 
 - **Rolagens:** Todas as rolagens se baseiam em embates de pilotagem. Quando você atirar em um alvo você roda pilotagem contra a pilotagem do alvo e a mesma coisa ocorre quando você é acertado.
 ## Combate
 ### Combate Geral
+O Combate geral dos Fighters é bem parecido com o combate padrão. Cada nave possui sua ação de movimento e seus Impulsos que são vulgaremente
 ### Embate de Rush 
 
