@@ -72,27 +72,27 @@
 **Nível 1:** 1000u/ 1𖠂
  Uma oficina equipada para a fabricação e manutenção de aparatos táticos básicos. Possui impressoras industriais e componentes eletrônicos suficientes para desenvolver equipamentos de suporte utilizados em operações de campo.
  - Aumenta em 1 a quantidade de usos de um aparato
-**Nível 2:** 2500u/ 3𖠂
+**Nível 2:** 3000u/ 3𖠂
  A oficina recebe novos equipamentos de prototipagem e montagem, permitindo a criação de dispositivos mais sofisticados que combinam mecânica, eletrônica e compostos químicos.
  - Permite levar mais um aparato nas missões
-**Nível 3:** 5000u/ 5𖠂
+**Nível 3:** 8000u/ 5𖠂
  Transforma-se em um centro de desenvolvimento tecnológico. Equipamentos industriais, inteligência artificial e impressoras de precisão permitem criar dispositivos experimentais e exclusivos para a equipe.
  - Aumenta em +1 a quantidade de usos de um aparato
 ## Ciência
 ### Ala Médica
 - Preço:
 - Tamanho: 7x7
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
  - Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
  - Capacidade de duas pessoas 
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
  - Recupera 50% da vida do paciente 
  - Espaço de quatro pessoas 
  - Cura doenças e infecções diversas
  - Recupera um quarto do seus dados de vida (arredondado pra baixo)
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  A enfermaria é transformada em um centro médico de alta tecnologia, equipado para procedimentos complexos e tratamentos especializados.
  - Recupera 75% da vida do paciente
  - Espaço de oito pessoas
@@ -101,27 +101,27 @@
 ### Bancada de Narcóticos
 - Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
  - Permite o uso de drogas de Tarja Preta
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e perigosos. Passa a produzir medicamentos de **Tarja Negra**
  - Permite o uso de drogas de Tarja Negra
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  A bancada evolui para um laboratório de drogas dissonantes. Capaz de desenvolver drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça Dissonantes.
  - Permite o uso de drogas de Tarja Vazia
 ### Laboratório
 - Preço:
 - Tamanho: 5x5
-**Nível 1:** 
+**Nível 1:** 750u/ 1𖠂 
  Um laboratório equipado com instrumentos básicos para pesquisa biológica e química. Permite analisar materiais simples, identificar compostos comuns e confeccionar itens
  - Enquanto na sala recebe +2 em ciência
  - Permite analisar solos e poucos líquidos
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos, escaneamento de líquidos e a identificação de agentes desconhecidos. Melhora a capacidade de fabricar itens científicos mais avançados.
  - Enquanto na sala recebe +5 em ciência
  - Permite analisar criaturas e sangue
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  Digno de ser considerado um real Laboratório. Capaz de analisar materiais extremamente raros, desenvolver compostos inéditos e fabricar equipamentos e substâncias de alto nível.
  - Enquanto na sala recebe +10 em ciência
  - Permite a analise de itens dissonantes 
