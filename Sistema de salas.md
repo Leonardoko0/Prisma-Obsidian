@@ -353,5 +353,20 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 # Armas e Gadgets
 
 ## Armas Automáticas
+### Torretas 
+###
+###
+###
+###
 ## Armas Montadas
-## Gadge
+###
+###
+###
+## Gadgets Automáticos
+###
+###
+###
+###
+## Gadgets de Interação
+##
+##
