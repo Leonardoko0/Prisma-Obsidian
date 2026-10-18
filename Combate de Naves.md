@@ -21,11 +21,11 @@ A nave pode ser controlada tanto por um jogador quanto o piloto automático. No 
 #### Movimentar
 Você sempre pode se movimentar uma vez como ação livre a cada rodada. Seu movimento padrão é de 3 espaços
 #### Mover Energia (Motores)
-Você gasta a sua ação para redirecionar a energia da nave para os seus motores, nessa rodada a ação "Movimentar" Tem seu movimento dobrado
+Você gasta a sua ação para redirecionar a energia da nave para os seus motores. Nessa rodada a ação "Movimentar" Tem seu movimento dobrado
 #### Mover Energia Armas (Alcance)
-Você gasta a sua ação para redirecionar a energia da nave para as armas, nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles
+Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles
 #### Mover Energia Armas (Recarga)
-Você gasta a sua ação para redirecionar a energia da nave para as armas, nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles
+Você gasta a sua ação para redirecionar a energia da nave para as armas. Nessa rodada todos os ataques realizados com Armas Manuais tem seu alcance aumentado em +4 Tiles
 
 #### Mover Energia Armas (Dano)
 #### Mover Energia (Gadgets)
