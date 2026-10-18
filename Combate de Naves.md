@@ -55,6 +55,11 @@ Os Fighters Tem algumas regras importantes para se preocupar durante o combate. 
 - **Rolagens:** Todas as rolagens se baseiam em embates de pilotagem. Quando você atirar em um alvo você roda pilotagem contra a pilotagem do alvo e a mesma coisa ocorre quando você é acertado.
 ## Combate
 ### Combate Geral
+O combate entre _Fighters_ funciona de maneira semelhante ao combate padrão, mas utiliza um sistema próprio de ações e recursos adaptado ao combate espacial.
+
+Cada Fighter possui uma ação de movimento e uma quantidade de **Impulsos**, que funcionam como suas ações padrão. Os Impulsos são utilizados para operar os sistemas da nave e ativar seus equipamentos durante o combate.
+
+
 O Combate geral dos Fighters é bem parecido com o combate padrão. Cada nave possui sua ação de movimento e seus Impulsos que vulgarmente são suas ações padrões.
 Cada Fighters possui seus equipamentos e armas que usam impulsos para funcionar, cada arma gasta uma quantidade específica determinada por "U Impulso"
 A luta de Fighters tem o principal objetivo de derrubar os Fighters inimigos e evitar ameaças enquanto tentam destruir a nave inimiga principal
