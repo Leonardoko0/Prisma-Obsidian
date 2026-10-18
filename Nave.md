@@ -9,3 +9,6 @@ Quando estão fora de uma missão, os agentes normalmente podem contar com as es
 
 Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental da vida e do trabalho dos agentes. Suas coisas podem e vão fazer a diferença entre uma missão bem-sucedida e um desastre completo. 
 "Cuidar da nave é cuidar da própria equipe, CUIDE DA SUA NAVE."
+
+# [[Sistema de Salas]]
+É aqui que os agentes vão ter listadas todas as salas disponível

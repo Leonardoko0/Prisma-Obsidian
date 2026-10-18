@@ -1,2 +1,2 @@
-#base [[Sistema de salas]] [[Níveis de Base]] [[Customização]]
+#base [[Sistema de Salas]] [[Níveis de Base]] [[Customização]]
 #
