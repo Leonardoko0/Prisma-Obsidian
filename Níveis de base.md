@@ -1,2 +1,1 @@
 #base [[Nave]]
-A nave por si é uma váriavel extrema. Existem milhares de modelos e formatos, Porém no caso de vcs a gente tem a nave do prisma (que é uma nave muito boa em seus diversos sentidos) vai servir muito bem. A cada nível adiciona espaços de sala e slots de equipamentos de combate. Melhorias de nave podem ser compradas tanto com 
