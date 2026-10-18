@@ -103,8 +103,7 @@
               "title": "Sistema de Salas"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +255,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "006623e6bc006a4c",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Customização.md",
     "Sistema de Salas.md",
     "Consertando e Repondo.md",
-    "Customização.md",
     "Nave.md",
     "Níveis de Base.md",
     "Fighters.md",
