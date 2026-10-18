@@ -74,4 +74,4 @@ Quando um Fighter é destruído, seu piloto é ejetado para um tile adjacente à
 
 Durante esse trajeto, o piloto também pode ser resgatado por um Fighter aliado que possua uma cadeira ou um Drop Pod disponível para transportá-lo.
 
-A ejeção permite que os pilotos sobrevivam à destruição de seus _Fighters_, mas não garante um resgate imediato. Até alcançar um local seguro ou receber ajuda de um aliado, eles permanecem vulneráveis no espaço.
+Enquanto você não é resgatado, você se torna vulnerável a qualquer inimigo
