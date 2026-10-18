@@ -425,7 +425,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 4000u
 - Tempo de Recarga: 3 Rodadas
 - Distância: 20 Tiles
-- Ação: Atire um projétil para servir de cobertura para um aliado 
+- Ação: Atire um projétil para servir de cobertura para um aliado. Atire quando um aliado receber um ataque. A cobertur 
 ### Dispensador de Metalíquido
 - Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
