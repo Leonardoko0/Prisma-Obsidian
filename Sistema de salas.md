@@ -160,32 +160,31 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 **Nível 1:** 750u/ 1𖠂
  Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
  "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
-**Nível 2:** 750u/ 1𖠂
+**Nível 2:** 2500u/ 1𖠂
  Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
  "Agora ninguém reclama na hora da janta :)"
-**Nível 3:** 750u/ 1𖠂
+**Nível 3:** 6500u/ 1𖠂
  Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
  "Alguns dizem que vale a pena voltar da missão só pela comida
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
 - Tamanho: 7x7
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 2500u/ 1𖠂
  Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
-**Nível 2:** 750u/ 1𖠂
+**Nível 2:** 7500u/ 1𖠂
  a
-**Nível 3:** 750u/ 1𖠂
+**Nível 3:** 15000u/ 1𖠂
  a
-Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
 ### Sala de Máquinas
 - Tamanho: 7x7
 Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
 ### Segurança
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave (5) Câmeras de baixa qualidade e permanecem estáticas.
-**Nível 2:**
+**Nível 2:** 2550u/ 1𖠂
  Aumenta a quantidade de câmeras pela nave (10). Controle de rotação das câmeras, além de contar com microfones integrados.
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  Aumenta ainda mais a quantidade de câmeras (15). As unidades são protegidas por placas de blindagem e possuem microfones e autofalantes de qualidade.
 ## Divertimento
 ### Sala de Jogos
