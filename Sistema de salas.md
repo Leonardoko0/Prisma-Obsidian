@@ -165,7 +165,7 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
  "Agora ninguém reclama na hora da janta :)"
 **Nível 3:** 6500u/ 5𖠂
  Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
- "Alguns dizem que vale a pena voltar da missão só pela comida
+ "Alguns dizem que vale a pena voltar da missão só pela comida"
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
 - Tamanho: 7x7
