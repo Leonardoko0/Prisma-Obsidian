@@ -193,30 +193,27 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  Aumenta ainda mais a quantidade de câmeras (15). As unidades são protegidas por placas de blindagem e possuem microfones e autofalantes de qualidade.
 ## Divertimento
 ### Sala de Jogos
-- Preço:
 - Tamanho: 7x7
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂 
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
  - Entre Missões possuir essa sala aumenta em 1d a qualidade de descanso na nave
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável. 
  - Dois personagens que fizerem atividades juntos recebem um bônus de Sinergia onde o próximo teste compartilhado entre os dois recebe vantagem
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  A sala recebe equipamentos de última geração. Os jogadores podem definir que jogos sejam armazenados no depósito da sala. O ambiente se torna extremamente confortável.
   - Nega a primeira fadiga recebida pelo personagem
 "Nem só de luta vive um agente"
 ### Módulo de Realidade Aumentada
-- Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Equipado com uma câmara de Realidade Aumentada de uso padrão. Permite utilizar discos de treinamento VR de Categoria 1 a 3
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  O sistema recebe uma atualização de processamento, permitindo criar Disquetes de VR de Categoria 1 e 2. A capacidade máxima de execução é ampliada para categoria 4.
 **Nível 3:**
  A instalação é substituída por uma câmara profissional de alta fidelidade CyberMind. A criação de Disquetes de VR passa a suportar categoria 3. A capacidade máxima de execução é ampliada para categoria 5
 "CyberMind Sempre aprimorando suas mais diversas experiencias"
 ### Câmara de Artes
-- Preço:
 - Tamanho: 5x5
 **Nível 1:**
  Sala equipada com materiais improvisados para diferentes formas de arte. Disponibiliza tintas, telas, canetas, massas de modelagem e alguns instrumentos musicais Improvisados.
@@ -232,7 +229,6 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  - Permite Criar obras Únicas 
 - Permite criar obras pra nave
 ### Academia
-- Preço:
 - Tamanho: 7x7
 **Nível 1:**
  Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
@@ -244,8 +240,7 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
  A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
  - Uma vez por missão pode definir que sua primeira rodada de um combate terá +2 de estâmina não acumulável 
  "Só acho...err....que a gente já treina o bastante em combate real"
-### Ringue Mecânico
-- Preço: 
+### Ringue Mecânico 
 - Tamanho: 11x11
 **Nível 1:**
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
