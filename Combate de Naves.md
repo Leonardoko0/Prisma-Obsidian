@@ -5,5 +5,12 @@ Ex: Fighters 1: 12 iniciativa
 Fighters 2: 20 iniciativa
 Nave Principal 1: 14
 Nave Principal 2: 8
+
+
+| Tabela de Iniciativa |     |
+| -------------------- | --- |
+| Fighters 2           | 20  |
+|                      |     |
+
 # Nave Principal
 # Fighters
