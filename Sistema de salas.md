@@ -429,6 +429,6 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Dispensador de Metalíquido
 - Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
-- Distância: 12 Tiles
+- Distância: 5 Tiles, Move +5 tiles toda rodada no mesmo sentido
 - Dano: 5d4
 - Extra: N/A
