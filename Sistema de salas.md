@@ -340,14 +340,14 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Dano: 1d6+1
 - Extra: N/A
 ### Torretas Espingarda de Impulso
-- Preço: 3250u/ 4𖠂
+- Preço: 3250u/ 3𖠂
 - Módulo Operante: Atira quando um alvo entrar no alcance
 - Tempo de Recarga: 1 Rodada
 - Distância: 3 Tiles
 - Dano: 1d8+2
 - Extra: N/A
 ### Torretas Rifle Retardador
-- Preço: 3250u/ 4𖠂
+- Preço: 3250u/ 3𖠂
 - Módulo Operante: Atira em um alvo aleatório no alcance
 - Tempo de Recarga: 2 Rodada
 - Distância: 15 Tiles
@@ -362,13 +362,13 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Extra: N/A
 ## Armas Montadas
 ### Mini-Gun A Laser
-- Preço: 6000u /5𖠂
+- Preço: 6000u/ 4𖠂
 - Tempo de Recarga: 0 Rodadas
 - Distância: 12 Tiles
 - Dano: 5d4
 - Extra: N/A
 ### Catapulta Crash Repulsora
-- Preço: 8000u/
+- Preço: 8000u/ 4𖠂
 - Tempo de Recarga: 2 Rodadas
 - Distância: 6 Tiles
 - Dano: 2d10+2
