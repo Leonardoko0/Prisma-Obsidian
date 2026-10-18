@@ -99,13 +99,13 @@
  - Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
 - Tamanho: 5x5
-**Nível 1:** 750/ 1𖠂
+**Nível 1:** 750u/ 1𖠂
  Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
  - Permite o uso de drogas de Tarja Preta
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 2500u/ 3𖠂
  Os equipamentos são aprimorados, permitindo a manipulação de compostos mais instáveis e perigosos. Passa a produzir medicamentos de **Tarja Negra**
  - Permite o uso de drogas de Tarja Negra
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 6500u/ 5𖠂
  A bancada evolui para um laboratório de drogas dissonantes. Capaz de desenvolver drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça Dissonantes.
  - Permite o uso de drogas de Tarja Vazia
 ### Laboratório
@@ -114,23 +114,23 @@
  Um laboratório equipado com instrumentos básicos para pesquisa biológica e química. Permite analisar materiais simples, identificar compostos comuns e confeccionar itens
  - Enquanto na sala recebe +2 em ciência
  - Permite analisar solos e poucos líquidos
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 2500u/ 3𖠂
  O laboratório recebe equipamentos de maior precisão. permite analisar tecidos biológicos, escaneamento de líquidos e a identificação de agentes desconhecidos. Melhora a capacidade de fabricar itens científicos mais avançados.
  - Enquanto na sala recebe +5 em ciência
  - Permite analisar criaturas e sangue
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 3500u/ 5𖠂
  Digno de ser considerado um real Laboratório. Capaz de analisar materiais extremamente raros, desenvolver compostos inéditos e fabricar equipamentos e substâncias de alto nível.
  - Enquanto na sala recebe +10 em ciência
  - Permite a analise de itens dissonantes 
 ### Câmara de Implantes
 - Tamanho: 5x5
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 1500u/ 1𖠂
  Uma câmara médica equipada para a instalação, calibração e manutenção de implantes. Também  permite realizar diagnósticos e reparos.
  - Permite o uso de Implantes de Categoria 1
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 4500u/ 3𖠂
  Os equipamentos são melhorados e passam a suportar implantes de maiores riscos.
  - Permite o uso de Implantes de Categoria 2
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 10500/ 5𖠂
  A câmara é melhorada em um centro cirúrgico cibernético de última geração. Disponibiliza remédios bloqueadores imunológicos.
  - Permite o uso de Implantes de Categoria 3
  - Pode gerar Bloqueadores imunológicos
@@ -140,11 +140,11 @@
  Uma oficina equipada com ferramentas e equipamentos eletrônicos para manutenção, reparos e fabricação de dispositivos simples.
  - Permite concertar equipamentos e produzir outros auxiliares de complexidade baixa
  - Enquanto na sala recebe +2 em tecnologia
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 2500/ 3𖠂
  O módulo recebe equipamentos de maior precisão, permitindo a análise e a pesquisa de tecnologias específicas. 
  - Permite analisar equipamentos para descobrir informações (Fabricante, Dano, Capacidades e melhorias) além disso pode criar equipamentos de complexidade um pouco maior
  - Enquanto na sala recebe +5 em tecnologia
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 6500/ 5𖠂
  Transforma-se em um laboratório profissional de eletrônica, equipado com equipamento de ponta para pesquisa, desenvolvimento e fabricação. Capaz de produzir dispositivos avançados e realizar engenharia reversa.
  - Permite fazer engenharia reversa em equipamento. além disso pode criar equipamentos complexos
  - Enquanto na sala recebe +10 em tecnologia
