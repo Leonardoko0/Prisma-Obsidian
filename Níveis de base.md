@@ -11,7 +11,7 @@ No Nível um a nave possui:
 -  3 Espaços 11x11
 ![[Pasted image 20261017231646.png|442]]
 # Nível 2 Espaçodinâmica.
-**Custo:** 25 
+**Custo:** 25 Influência, 250000u
 
 Neste nível, a nave aumenta de tamanho na parte frontal, adotando um formato mais
 Espaçodinâmica, projetado para melhorar sua eficiência e desempenho. 
@@ -25,7 +25,9 @@ No Nível dois a nave possui:
 
 ![[Pasted image 20261017231708.png|445]]
 # Nível 3
-Neste Nível um compartimento inferior ou superior é adicionado na nave, o compartimento só pode ser acessado por elevadores.
+**Custo:** 35 Influência, 350000u
+
+Neste nível, um novo compartimento é adicionado à parte superior ou inferior da nave. Esse compartimento só pode ser acessado por meio de elevadores.
 
 No Nível três a nave possui:
 -  6 Espaços 3x3
