@@ -36,4 +36,6 @@ Um agente que estiver na nave principal pode operar as armas e os equipamentos d
 Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda rodada:
 - Troque para outra arma montada na nave ou ocupe a cadeira do piloto para assumir o controle da nave.
 - Utilize a arma montada ou o Gadget que estiver operando no momento, seguindo as regras e os efeitos específicos do equipamento.
+## Embarcando
+Quando duas naves grande entram em combate
 # Fighters
