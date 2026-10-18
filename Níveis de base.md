@@ -46,5 +46,6 @@ Está Estação Possui:
 - 20 Espaços 5x5
 -  8 Espaços 7x7
 -  6 Espaços 11x11
+-  1 Espaço 13x13
 
 ![[Pasted image 20261017233324.png]]
