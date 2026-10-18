@@ -70,5 +70,8 @@ Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando su
 **Bônus de Pilotagem:** Além dos bônus de Pilotagem, ambos os Fighters recebem um bônus adicional equivalente à metade de sua Velocidade durante o Embate de Rush.
 
 # Sendo Derrotado
-Ao ter sua nave destruída você é ejetado para um tile adjacente e continua seguindo nesse mesmo sentido toda nova rodada se movendo 1 tile até chegar em um planeta ou nave principal.
-Além disso você pode ser recolhido por um Fighter aliado que tenha uma cadeira/drop pod disponível.
+Quando um Fighter é destruído, seu piloto é ejetado para um tile adjacente à posição da nave, mantendo o mesmo sentido de deslocamento. O piloto continua se movendo automaticamente nessa direção,1 tile por rodada até alcançar uma nave principal.
+
+Durante esse trajeto, o piloto também pode ser resgatado por um Fighter aliado que possua uma cadeira ou um Drop Pod disponível para transportá-lo.
+
+A ejeção permite que os pilotos sobrevivam à destruição de seus _Fighters_, mas não garante um resgate imediato. Até alcançar um local seguro ou receber ajuda de um aliado, eles permanecem vulneráveis no espaço.
