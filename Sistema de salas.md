@@ -169,7 +169,13 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
 ### Sala de Comando
 - Tamanho: 7x7
-Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
+**Nível 1:** 250u/ 1𖠂
+ a
+**Nível 2:** 750u/ 1𖠂
+ a
+**Nível 3:** 750u/ 1𖠂
+ a
+
 ### Sala de Máquinas
 - Tamanho: 7x7
 Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
