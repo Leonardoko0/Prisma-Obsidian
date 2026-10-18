@@ -28,7 +28,7 @@ No Nível dois a nave possui:
 **Custo:** 35 Influência, 350000u
 
 Neste nível, um novo compartimento é adicionado na parte superior ou inferior da nave. Esse compartimento só pode ser acessado por elevadores.
-"Talvez um luxo de ve"
+"Talvez um luxo de vez quando não faz mal"
 
 No Nível três a nave possui:
 -  6 Espaços 3x3
