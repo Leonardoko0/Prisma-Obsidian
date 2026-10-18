@@ -41,5 +41,7 @@ Quando duas naves grande entram em combate o combate dura até uma delas ser des
 
 Quando as duas naves se colidem os agentes se preparam e adentram a nave invasora, ou visse versa. Assim o combate termina quando a nave se render ou todos estarem mortos.
 
-Qualquer Fighters que se aproxime adjacentemente pode escolher também adentrar na cena também escolhendo onde da nave ele 
+Qualquer Fighters que se aproxime adjacentemente pode escolher também adentrar na cena e também escolhendo onde da nave ele ira adentrar.
+
+Durante essa cena, o combate entre os Fighters contínua, ou seja a nave pode se
 # Fighters
