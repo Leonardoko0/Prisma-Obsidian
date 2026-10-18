@@ -56,6 +56,6 @@ Os Fighters Tem algumas regras importantes para se preocupar durante o combate. 
 ## Combate
 ### Combate Geral
 O Combate geral dos Fighters é bem parecido com o combate padrão. Cada nave possui sua ação de movimento e seus Impulsos que vulgarmente são suas ações padrões.
-A luta
+A luta de Fighters tem o principal objetivo 
 ### Embate de Rush 
 
