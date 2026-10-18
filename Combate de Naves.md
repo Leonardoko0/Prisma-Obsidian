@@ -20,8 +20,9 @@ A nave pode ser controlada tanto por um jogador quanto o piloto automático. No 
 ### Ações
 #### Movimentar
 #### Mover Energia (Motores)
-#### Mover Energia (Armas Alcance)
-#### Mover Ener
+#### Mover Energia Armas (Alcance)
+#### Mover Energia Armas (Recarga)
+#### Mover Energia Armas (Dano)
 #### Mover Energia (Gadgets)
 
 ## Usando Armas e Gadgets
