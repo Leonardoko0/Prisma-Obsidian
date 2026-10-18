@@ -313,20 +313,18 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Depósito
 - Tamanho: 11x11
 **Nível 1:** 750u/ 1𖠂
-**Nível 2:** 750u/ 1𖠂
-**Nível 3:** 750u/ 1𖠂
+**Nível 2:** 2500u/ 1𖠂
+**Nível 3:** 6500u/ 1𖠂
 ### Banheiros
 - Tamanho: 3x3
-**Nível 1:** 750u/ 1𖠂
-**Nível 2:** 750u/ 1𖠂
-**Nível 3:** 750u/ 1𖠂
+**Nível 1:** 500u/ 1𖠂
+**Nível 2:** 2000u/ 1𖠂
+**Nível 3:** 5000u/ 1𖠂
 ### Elevadores
-- Preço:
 - Tamanho: 3x3
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
-
+**Nível 1:** 250u/ 1𖠂
+**Nível 2:** 500u/ 1𖠂
+**Nível 3:** 750u/ 1𖠂
 ### Banheiro Grande
 - Preço:
 - Tamanho: 7x7
