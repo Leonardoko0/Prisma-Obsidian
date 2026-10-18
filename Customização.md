@@ -49,13 +49,13 @@
 |     Minas Balão      | 500u  |      0      | (2 usos) Alvos adjacentes: 3d4 dano |
 ### Outros
 
-|         Nome         | Preço | U Energia |             Extra             |
-| :------------------: | :---: | :-------: | :---------------------------: |
-|    Manto Camaleão    | 1250u |     8     |  1 Impulso +3 Contra Ataques  |
-|     (Wisp) Manto     | 1250u |     4     |  1 Impulso +3 Contra Ataques  |
-|   Capsula de Fuga    | 125u  |     1     |      Ativa após derrota       |
-|  Acelerador de bala  | 350u  |     2     |   1 Impulso por +5 alcance    |
-| Magnetizador de bala | 350u  |     2     |    1 Impulso por +3 Acerto    |
-|   Afiador de bala    | 350u  |     2     |     1 Impulso por +3 Dano     |
-|     Nitro B.Y.E      | 700u  |     4     | 1 Impulso por 3 Tiles movidos |
-|  Redutor de Matéria  | 1500u |    10     |    Permite colocar +1 Arma    |
+|         Nome         | Preço | U Energia |            Extra            |
+| :------------------: | :---: | :-------: | :-------------------------: |
+|    Manto Camaleão    | 1250u |     8     | 1 Impulso +3 Contra Ataques |
+|     (Wisp) Manto     | 1250u |     4     | 1 Impulso +3 Contra Ataques |
+|   Capsula de Fuga    | 125u  |     1     |     Ativa após derrota      |
+|  Acelerador de bala  | 350u  |     2     |  1 Impulso por +5 alcance   |
+| Magnetizador de bala | 350u  |     2     |   1 Impulso por +3 Acerto   |
+|   Afiador de bala    | 350u  |     2     |    1 Impulso por +3 Dano    |
+|     Nitro B.Y.E      | 700u  |     4     | 1 Impulso por +3 velocidade |
+|  Redutor de Matéria  | 1500u |    10     |   Permite colocar +1 Arma   |
