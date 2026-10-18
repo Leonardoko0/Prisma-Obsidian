@@ -422,13 +422,13 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Robô: Regenera 1d4 pontos de vida
 ## Gadgets de Interação
 ### Atirador de Cobertura
-- Preço: 6000u
+- Preço: 4000u
 - Tempo de Recarga: 0 Rodadas
 - Distância: 12 Tiles
 - Dano: 5d4
 - Extra: N/A
 ### Dispensador de Metalíquido
-- Preço: 6000u
+- Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
 - Distância: 12 Tiles
 - Dano: 5d4
