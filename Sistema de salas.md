@@ -360,7 +360,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ###
 ## Armas Montadas
 ### Mini-Gun A Laser
-### Catapulta Repulsora
+### Catapulta Crash Repulsora
 ### Lança Chamas Demônio
 
 ## Gadgets Automáticos
@@ -369,5 +369,5 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ###
 ###
 ## Gadgets de Interação
-##
-##
+### Atirador de Cobertura
+### Dispensador de 
