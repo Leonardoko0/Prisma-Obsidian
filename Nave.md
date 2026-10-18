@@ -14,4 +14,7 @@ Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental d
 - Nível 1 Padrão: Instalações básicas que cumprem suas funções, mas podem apresentar limitações estruturais ou tecnológicas. Em alguns casos, são até um pouco precárias.
 - Nível 2 Intermediário: Instalações aprimoradas, com recursos mais eficientes e melhores condições de uso. Já quebram um baita galho e atendem muito bem à maioria das necessidades.
 - Nível 3 Avançado: Instalações de alto desempenho, equipadas com tecnologias superiores e capacidades impressionantes, oferecendo o melhor que o Prisma tem a disponibilizar.
-# Níveis de Base
+
+
+Elas vão do nível 1, (Padrão e as vezes meio precário) 2 (Sala de nível intermediário mas já quebra um baita galho) e 3 (Salas com performasse impressionante e capacidades superiores)
+# Nív
