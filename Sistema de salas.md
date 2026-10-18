@@ -81,17 +81,17 @@
 ## Ciência
 ### Ala Médica
 - Tamanho: 7x7
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 1500u/ 1𖠂
  Uma enfermaria equipada com instrumentos médicos improvisados, capaz de realizar atendimentos básicos e estabilizar pacientes após missões
  - Durante um Descanso Curto, recupera uma quantidade de Vida igual ao número de Dados de Vida do personagem dividido por **3**.
  - Capacidade de duas pessoas 
-**Nível 2:** 750u/ 3𖠂
+**Nível 2:** 4500u/ 3𖠂
  A enfermaria recebe equipamentos médicos modernos, permitindo tratamentos mais eficientes e procedimentos de média complexidade.
  - Recupera 50% da vida do paciente 
  - Espaço de quatro pessoas 
  - Cura doenças e infecções diversas
  - Recupera um quarto do seus dados de vida (arredondado pra baixo)
-**Nível 3:** 750u/ 5𖠂
+**Nível 3:** 10500u/ 5𖠂
  A enfermaria é transformada em um centro médico de alta tecnologia, equipado para procedimentos complexos e tratamentos especializados.
  - Recupera 75% da vida do paciente
  - Espaço de oito pessoas
@@ -99,7 +99,7 @@
  - Recupera metade dos seus dados de vida
 ### Bancada de Narcóticos
 - Tamanho: 5x5
-**Nível 1:** 750u/ 1𖠂
+**Nível 1:** 750/ 1𖠂
  Uma bancada farmacêutica destinada à produção e manipulação de medicamentos controlados. Equipada para sintetizar remédios de **Tarja Preta**
  - Permite o uso de drogas de Tarja Preta
 **Nível 2:** 750u/ 3𖠂
