@@ -59,7 +59,7 @@ O combate entre Fighters funciona de maneira semelhante ao combate padrão, mas 
 
 Cada Fighter possui uma ação de movimento e uma quantidade de Impulsos, que funcionam como suas ações padrão. Os Impulsos são utilizados para ativar seus equipamentos durante o combate.
 
-Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quantidade específica de Impulsos para funcionar. Esse custo é determinado por "U Impulso" de cada equipamento, indicando quantos Impulsos são necessários.
+Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quantidade específica de Impulsos para funcionar. Esse custo é determinado "U Impulso" e varia para cada equipamento e arma.
 
 O principal objetivo do combate entre Fighters é derrubar as naves inimigas e neutralizar as ameaças no campo de batalha, abrindo caminho para atacar e destruir a nave principal adversária.
 ### Embate de Rush 
