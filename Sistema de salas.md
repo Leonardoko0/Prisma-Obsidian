@@ -425,7 +425,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 4000u
 - Tempo de Recarga: 3 Rodadas
 - Distância: 20 Tiles
-- Ação:
+- Ação: Atire um projétil para servir de um conv 
 ### Dispensador de Metalíquido
 - Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
