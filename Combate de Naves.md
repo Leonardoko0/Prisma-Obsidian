@@ -32,9 +32,8 @@ Você gasta a sua ação para redirecionar a energia da nave para as armas. Ness
 Você gasta a sua ação para redirecionar a energia da nave para seus Gadgets. Nessa rodada, todos os Gadgets recarregam uma rodada mais rápido.
 
 ## Usando Armas e Gadgets
-Um jogador que está dentro da nave pode fazer várias coisas com as armas montadas, ela podem ser acessadas na sala de controle.
-
-Toda a rodada um jogador tem acesso a duas ações:
+Um agente que estiver na nave principal pode operar as armas e os equipamentos de combate instalados nela. Todos esses sistemas/cabines de controle podem ser acessados pela Sala de Controle.
+Durante seu turno, cada jogador possui duas ações para realizar as seguintes operações:
 Movimento: Trocar para outra arma montada ou cadeira do piloto da nave
 Atirar: Usar Arma ou Gadget que você está
 # Fighters
