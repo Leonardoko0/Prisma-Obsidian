@@ -107,7 +107,8 @@
  - Permite o uso de drogas de Tarja Negra
 **Nível 3:** 6500u/ 5𖠂
  A bancada evolui para um laboratório de drogas dissonantes. Capaz de desenvolver drogas de **Tarja Vazia**. Os equipamentos suportam compostos extremamente perigosos, instáveis e pelo mais incrível que pareça Dissonantes.
- - Permite o uso de drogas de Tarja Vazia
+ - Permite o uso de drogas de Tarja Void
+ 
 ### Laboratório
 - Tamanho: 5x5
 **Nível 1:** 750u/ 1𖠂 
