@@ -68,3 +68,6 @@ Quando dois Fighters estão frente a frente, a uma distância de 5 tiles ou meno
 Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando suas ações de movimento para se aproximar enquanto gastam seus Impulsos simultaneamente para atacar e se defender dos ataques adversários. Durante esse confronto, ambos os pilotos comprometem todas as suas ações ao Embate e perde o resto da sua rodada. Após isso os dois voltam a instancia do combate padrão.
 
 **Bônus de Pilotagem:** Além dos bônus de Pilotagem, ambos os Fighters recebem um bônus adicional equivalente à metade de sua Velocidade durante o Embate de Rush.
+
+# Sendo Derrotado
+Ao ter sua nave destruída
