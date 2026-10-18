@@ -23,9 +23,9 @@ Ocupam um espaço de 1x3 tile espacial
 ## Sieges
 Ocupam um espaço de 2x3 tile espacial
 
-|   Nome   |  Preço  | Vida | Velocidade |      Extra      |
-| :------: | :-----: | :--: | :--------: | :-------------: |
-|  Titan   | 25000u  |  22  |     4      |        -        |
-|  Anvil   | 35000u  |  29  |     4      |  Três Cadeiras  |
-| Behemoth | 50000u  |  38  |     3      | Quatro Cadeiras |
+|   Nome   | Preço  | Vida | Velocidade |      Extra      |
+| :------: | :----: | :--: | :--------: | :-------------: |
+|  Titan   | 25000u |  22  |     4      |        -        |
+|  Anvil   | 35000u |  29  |     4      |  Três Cadeiras  |
+| Behemoth | 50000u |  38  |     3      | Quatro Cadeiras |
 ![[Pasted image 20261015144817.png|424]]
