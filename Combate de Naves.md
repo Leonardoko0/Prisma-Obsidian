@@ -46,11 +46,12 @@ Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, 
 **Combate simultâneo:** O combate entre os Fighters continua normalmente durante a cena de Embarque. Isso significa que as naves envolvidas ainda podem sofrer ataques e até ser destruídas enquanto os agentes estiverem combatendo dentro de uma delas.
 # Fighters
 ## Funcionamento
-Os Fighters Tem algumas regras importantes para se preocupar durante o combate. Entre elas estão: Velocidade, Vida, Impulso e usos das arma
+Os Fighters Tem algumas regras importantes para se preocupar durante o combate. Entre elas estão: Velocidade, Vida, Impulso, Usos das Arma e Rolagens
 
-**Velocidade:** 
-**Vida**
-**Impulso**
+**Velocidade:** Velocidade é o atributo que define  
+**Vida:**
+**Impulso:**
+**Usos:**
 
 ## Combate
 ### Combate Geral
