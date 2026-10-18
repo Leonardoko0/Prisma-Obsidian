@@ -413,8 +413,8 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Dispenser de Gás Camaleão
 - Preço: 2500u
 - Módulo Operante: Ativa assim que puder
-- Tempo de Recarga: 4 Rodadas
-- Ação:
+- Tempo de Recarga: 1
+- Ação: O próximo ataque recebido tem seu dano divido na metade
 ### Robôs de Reparo Emergencial
 - Preço: 2500u
 - Módulo Operante: Ativa assim que puder
