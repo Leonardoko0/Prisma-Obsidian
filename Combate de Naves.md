@@ -37,5 +37,5 @@ Durante seu turno, cada jogador possui duas ações que pode usar uma vez toda r
 - Troque para outra arma montada na nave ou ocupe a cadeira do piloto para assumir o controle da nave.
 - Utilize a arma montada ou o Gadget que estiver operando no momento, seguindo as regras e os efeitos específicos do equipamento.
 ## Embarcando
-Quando duas naves grande entram em combate
+Quando duas naves grande entram em combate o combate dura até u
 # Fighters
