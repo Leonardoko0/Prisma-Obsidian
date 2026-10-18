@@ -411,7 +411,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Tempo de Recarga: 4 Rodadas
 - Escudo: Cria uma barreira de 20 pontos de vida
 ### Dispenser de Gás Camaleão
-- Preço: 2500u
+- Preço: 
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 1
 - Ação: O próximo ataque recebido tem seu dano divido na metade
@@ -419,7 +419,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Preço: 2500u
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 0 Rodadas
-- Robô:
+- Robô: Regenera 1d4 pontos de vida
 ## Gadgets de Interação
 ### Atirador de Cobertura
 ### Dispensador de Metalíquido
