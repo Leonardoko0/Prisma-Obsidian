@@ -51,7 +51,9 @@ Os Fighters Tem algumas regras importantes para se preocupar durante o combate. 
 **Velocidade:** Velocidade é o atributo que define quantos tiles você pode se mover com sua ação de movimento. Além disso, velocidade também define seus bonus em um embate de Rush (Velocidade divido por 2) 
 **Vida:** Atributo que define quanta porrada que você pode receber antes de explodir
 **Impulso:** São suas "Ações Padrões", são elas que deixam você usar suas Armas e Gadgets  
-**Usos:** cada Arma/Gadget pode ser usado a
+**Usos:** cada Arma/Gadget pode ser usado apenas uma vez por rodada.
+
+Rolagens: Todas as rolagens se baseiam 
 
 ## Combate
 ### Combate Geral
