@@ -65,4 +65,6 @@ O principal objetivo do combate entre Fighters é derrubar as naves inimigas e n
 ### Embate de Rush 
 Quando dois Fighters estão cara a cara a 5 tiles ou menos de distância, qualquer um deles pode escolher começar um Embate de Rush nas suas rodadas.
 
-Um embate de Rush é quando os dois Fighters vão na direção um do outro gastando seu movimento para frente e gastando seus impulsos ao mesmo tempo atirando um no outro e 
+Um embate de Rush é quando os dois Fighters vão na direção um do outro gastando seu movimento para frente e gastando seus impulsos ao mesmo tempo atirando um no outro e se defendendo um do outro. Ambos gastam suas ações completas dessa forma.
+
+Outro detalhye
