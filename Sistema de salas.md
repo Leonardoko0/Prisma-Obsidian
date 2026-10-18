@@ -423,10 +423,9 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ## Gadgets de Interação
 ### Atirador de Cobertura
 - Preço: 4000u
-- Tempo de Recarga: 0 Rodadas
-- Distância: 12 Tiles
-- Dano: 5d4
-- Extra: N/A
+- Tempo de Recarga: 3 Rodadas
+- Distância: 20 Tiles
+- Ação:
 ### Dispensador de Metalíquido
 - Preço: 8000u
 - Tempo de Recarga: 0 Rodadas
