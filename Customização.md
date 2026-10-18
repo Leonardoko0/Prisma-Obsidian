@@ -59,4 +59,4 @@
 |   Afiador de bala    | 350u  |     2     |    1 Impulso por +3 Dano    |
 |     Nitro B.Y.E      | 700u  |     4     | 1 Impulso por +3 velocidade |
 |  Redutor de Matéria  | 1500u |    10     |   Permite colocar +1 Arma   |
-|    Cadeira Extra     | 500u  |     1     |                             |
+|    Cadeira Extra     | 500u  |    10     | Permite mais um passageiro  |
