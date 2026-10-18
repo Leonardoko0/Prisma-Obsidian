@@ -306,23 +306,20 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 **Nível 2:** 2500u/ 3𖠂
 **Nível 3:** 6500u/ 5𖠂
 ### Palco e Teatro
-- Preço:
+- Tamanho: 11x11
+**Nível 1:** 1500/ 1𖠂
+**Nível 2:** 4500u/ 3𖠂
+**Nível 3:** 10500u/ 5𖠂
+### Depósito
 - Tamanho: 11x11
 **Nível 1:** 750u/ 1𖠂
 **Nível 2:** 750u/ 1𖠂
 **Nível 3:** 750u/ 1𖠂
-### Depósito
-- Preço:
-- Tamanho: 11x11
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
 ### Banheiros
-- Preço:
 - Tamanho: 3x3
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
+**Nível 1:** 750u/ 1𖠂
+**Nível 2:** 750u/ 1𖠂
+**Nível 3:** 750u/ 1𖠂
 ### Elevadores
 - Preço:
 - Tamanho: 3x3
@@ -333,9 +330,9 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Banheiro Grande
 - Preço:
 - Tamanho: 7x7
-**Nível 1:**
-**Nível 2:**
-**Nível 3:**
+**Nível 1:** 750u/ 1𖠂
+**Nível 2:** 750u/ 1𖠂
+**Nível 3:** 750u/ 1𖠂
 # Armas e Gadgets
 ## Armas Automáticas
 ### Torretas Metralhadora Leves
