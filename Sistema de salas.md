@@ -396,18 +396,18 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Tempo de Recarga: 1
 - Ação: O próximo ataque recebido tem seu dano divido na metade
 ### Robôs de Reparo Emergencial
-- Preço: 3000u
+- Preço: 3000u/ 3𖠂
 - Módulo Operante: Ativa assim que puder
 - Tempo de Recarga: 0 Rodadas
 - Robô: Regenera 1d4 pontos de vida
 ## Gadgets de Interação
 ### Atirador de Cobertura
-- Preço: 4000u
+- Preço: 4000u/ 3𖠂
 - Tempo de Recarga: 3 Rodadas
 - Distância: 20 Tiles
 - Ação: Atire um projétil para servir de cobertura para um aliado. Atire quando um aliado receber um ataque, atire uma cobertura recebe um dano máximo de até 12 pontos vida do ataques recebidos. 
 ### Dispensador de Metalíquido
-- Preço: 8000u
+- Preço: 8000u/ 𖠂4
 - Tempo de Recarga: 3 Rodadas
 - Distância: 5 Tiles, Move +5 tiles toda rodada no mesmo sentido
 - Ação: Atira um pacote de Metalíquido que regenera 2d8 pontos de vida
