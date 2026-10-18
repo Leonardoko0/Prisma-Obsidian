@@ -160,10 +160,10 @@ São quartos personalizados onde cada jogador pode personalizar da forma que qui
 **Nível 1:** 750u/ 1𖠂
  Produz compostos nutricionais básicos e água potável. Conta com equipamentos de cozinha precários e acomodações simples
  "O gosto é duvidoso,(E muito) mas pelo menos enche o estômago."
-**Nível 2:** 2500u/ 1𖠂
+**Nível 2:** 2500u/ 3𖠂
  Produz ingredientes variados e bebidas (incluindo líquidos alcoólicos). Possui equipamentos de cozinha de boa qualidade e um ambiente confortável.
  "Agora ninguém reclama na hora da janta :)"
-**Nível 3:** 6500u/ 1𖠂
+**Nível 3:** 6500u/ 5𖠂
  Produz pratos elaborados de alta qualidade e uma grande variedade de bebidas. Conta com equipamentos de cozinha profissionais, proporciona um conforto incrível
  "Alguns dizem que vale a pena voltar da missão só pela comida
 O Refeitório é principalmente um elemento narrativo de qualidade de vida porém o mestre pode dar bônus em descanso no caso de alguns pratos e cenas.
@@ -171,25 +171,25 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 - Tamanho: 7x7
 **Nível 1:** 0u
  Sala onde tudo acontece. O controle da nave é feito por essa sala, Temperatura, localização, Núcleo da IA, velocidade e principalmente **Tem uma cafeteira inclusa**
-**Nível 2:** 7500u/ 1𖠂
+**Nível 2:** 7500u/ 5𖠂
  a
-**Nível 3:** 15000u/ 1𖠂
+**Nível 3:** 15000u/ 10𖠂
  a
 ### Sala de Máquinas
 - Tamanho: 7x7
 **Nível 1:** 0u
  Sala que faz a nave funcionar, sistemas hidráulicos, distribuição de energia e etc. Também contém o Núcleo de Éter
-**Nível 2:** 7500u/ 1𖠂
+**Nível 2:** 7500u/ 5𖠂
  a
-**Nível 3:** 15000u/ 1𖠂
+**Nível 3:** 15000u/ 10𖠂
  a
 ### Segurança
 - Tamanho: 5x5
 **Nível 1:** 750u/ 1𖠂
  Uma sala de monitoramento equipada com diversas telas conectadas a um número limitado de câmeras distribuídas pela nave (5) Câmeras de baixa qualidade e permanecem estáticas.
-**Nível 2:** 2500u/ 1𖠂
+**Nível 2:** 2500u/ 3𖠂
  Aumenta a quantidade de câmeras pela nave (10). Controle de rotação das câmeras, além de contar com microfones integrados.
-**Nível 3:** 6500u/ 1𖠂
+**Nível 3:** 6500u/ 5𖠂
  Aumenta ainda mais a quantidade de câmeras (15). As unidades são protegidas por placas de blindagem e possuem microfones e autofalantes de qualidade.
 ## Divertimento
 ### Sala de Jogos
@@ -197,10 +197,10 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 **Nível 1:** 750u/ 1𖠂 
  Uma área de lazer equipada com diversos aparelhos como arcades, computadores e emuladores. Confortável e oferece uma boa forma de descanso entre as missões.
  - Entre Missões possuir essa sala aumenta em 1d a qualidade de descanso na nave
-**Nível 2:** 750u/ 1𖠂
+**Nível 2:** 750u/ 3𖠂
  Os equipamentos são modernizados e a variedade de jogos aumenta. Além disso a sala passa a ter: Just Rebole, hóquei de mesa, pebolim e Twister. A iluminação é personalizada, tornando o ambiente mais agradável. 
  - Dois personagens que fizerem atividades juntos recebem um bônus de Sinergia onde o próximo teste compartilhado entre os dois recebe vantagem
-**Nível 3:** 750u/ 1𖠂
+**Nível 3:** 750u/ 5𖠂
  A sala recebe equipamentos de última geração. Os jogadores podem definir que jogos sejam armazenados no depósito da sala. O ambiente se torna extremamente confortável.
   - Nega a primeira fadiga recebida pelo personagem
 "Nem só de luta vive um agente"
@@ -208,21 +208,21 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 - Tamanho: 5x5
 **Nível 1:** 750u/ 1𖠂
  Equipado com uma câmara de Realidade Aumentada de uso padrão. Permite utilizar discos de treinamento VR de Categoria 1 a 3
-**Nível 2:** 750u/ 1𖠂
+**Nível 2:** 750u/ 3𖠂
  O sistema recebe uma atualização de processamento, permitindo criar Disquetes de VR de Categoria 1 e 2. A capacidade máxima de execução é ampliada para categoria 4.
-**Nível 3:**
+**Nível 3:** 750u/ 5𖠂
  A instalação é substituída por uma câmara profissional de alta fidelidade CyberMind. A criação de Disquetes de VR passa a suportar categoria 3. A capacidade máxima de execução é ampliada para categoria 5
 "CyberMind Sempre aprimorando suas mais diversas experiencias"
 ### Câmara de Artes
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Sala equipada com materiais improvisados para diferentes formas de arte. Disponibiliza tintas, telas, canetas, massas de modelagem e alguns instrumentos musicais Improvisados.
  - Aumenta qualquer teste de arte realizado na sala em +2
-**Nível 2:**
+**Nível 2:** 750u/ 3𖠂
  A sala recebe novos equipamentos e materiais de qualidade superior. Os instrumentos musicais permanecem os mesmos.
  - Aumenta qualquer teste de arte realizado na sala em +5
  - Pode escolher um teste de arte por missão para receber esse bônus fora da sala de forma que faça sentido
-**Nível 3:**
+**Nível 3:** 750u/ 5𖠂
  Transforma-se em um ateliê profissional, com materiais da mais alta qualidade, ferramentas especializadas e equipamentos raros, capazes de produzir qualquer forma de expressão artística. 
  - Aumenta qualquer teste de arte realizado na sala em +10
  - Pode escolher um teste de arte por missão para receber +5 fora da sala de forma que faça sentido
@@ -230,23 +230,23 @@ O Refeitório é principalmente um elemento narrativo de qualidade de vida poré
 - Permite criar obras pra nave
 ### Academia
 - Tamanho: 7x7
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Uma academia equipada com aparelhos básicos para treinamento de força e condicionamento físico. Inclui um vestiário pra uso da tripulação.
  - Pode escolher um salvaguarda (For, Agi e Con) para receber vantagem
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  A instalação recebe equipamentos mais modernos e uma maior variedade de aparelhos. O vestiário passa a contar com chuveiros.
  - Os primeiros 1d2 testes de perícias (For, Agi e Con) recebem +2
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  A academia atinge um padrão profissional com equipamentos de alto desempenho. A sala começa a poder produzir suplementos nutricionais.
  - Uma vez por missão pode definir que sua primeira rodada de um combate terá +2 de estâmina não acumulável 
  "Só acho...err....que a gente já treina o bastante em combate real"
 ### Ringue Mecânico 
 - Tamanho: 11x11
-**Nível 1:**
+**Nível 1:** 750u/ 1𖠂
  Uma oficina repleta de sucatas, ferramentas e uma estação de montagem. Os tripulantes podem construir seus próprios robôs de combate e colocá-los para lutar entre si em partidas amistosas ou **Não**.
-**Nível 2:**
+**Nível 2:** 750u/ 1𖠂
  Novas peças, módulos e ferramentas. Novos componentes, armamentos e habilidades, permitindo projetos cheios de Caos Caótico.
-**Nível 3:**
+**Nível 3:** 750u/ 1𖠂
  Arena mais brutal com elementos destrutivos. MAIS peças e habilidades ALÉM disso todo robô construído recebe um Módulo Especial (habilidade exclusiva especial).
 **"LET THE ROBOTS HIT THE FLOOR"**
 ## Outros
