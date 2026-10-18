@@ -355,16 +355,16 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Torretas Metralhadora Leves
 - Preço:
 - Módulo Operante: Atira quando um alvo entrar no alcance
-- Tempo de Recarga: 2 Rodadas
+- Tempo de Recarga: 1 Rodadas
 - Distância: 6 Tiles
-- Dano: 1d2
-- Extra:
+- Dano: 1d6+1
+- Extra: N/A
 ### Torretas Espingarda de Impulso
 - Preço:
-- Módulo Operante:
-- Tempo de Recarga:
-- Distância:
-- Dano:
+- Módulo Operante: Atira quando um alvo entrar no alcance
+- Tempo de Recarga: 1 rodada
+- Distância: 3 Tiles
+- Dano: 1d8+2
 - Extra:
 ### Torretas Rifle Retardador
 - Preço:
