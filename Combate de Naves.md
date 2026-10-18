@@ -53,7 +53,7 @@ Os Fighters Tem algumas regras importantes para se preocupar durante o combate. 
 **Impulso:** São suas "Ações Padrões", são elas que deixam você usar suas Armas e Gadgets  
 **Usos:** cada Arma/Gadget pode ser usado apenas uma vez por rodada.
 
-Rolagens: Todas as rolagens se baseiam 
+**Rolagens:** Todas as rolagens se baseiam em embates de pilotagem 
 
 ## Combate
 ### Combate Geral
