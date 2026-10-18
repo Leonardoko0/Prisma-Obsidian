@@ -28,8 +28,8 @@ Espaçodinâmica, projetado para melhorar sua eficiência e desempenho.
 Status:
 - Vida: 80
 - Movimento: 3
-- Espaços de Armas:
-- Espaços de Gadgets:
+- Espaços de Armas e Gadgets Manuais: 4
+- Espaços de Armas Gadgets Automáticas: 2
 
 No Nível dois a nave possui:
 -  4 Espaços 3x3
@@ -47,8 +47,8 @@ Neste nível, um novo compartimento é adicionado na parte superior ou inferior 
 Status:
 - Vida: 100
 - Movimento: 3
-- Espaços de Armas:
-- Espaços de Gadgets:
+- Espaços de Armas e Gadgets Manuais: 6
+- Espaços de Armas Gadgets Automáticas: 3
 
 No Nível três a nave possui:
 -  6 Espaços 3x3
