@@ -5,6 +5,11 @@ A cada nível, a nave recebe novos espaços para salas e slots para equipamentos
 ## Nível 1
 Este é o nível padrão das naves do Prisma. Normalmente, as naves são entregues em perfeito estado, com suas salas já divididas e prontas desde o início. Porém, esse não é o caso de vocês: a nave do grupo é considerada NV 0, pq está em um estado de conservação terrível, toda danificada e precisando de reparos.
 
+Status:
+- Vida: 50
+- Espaços de Armas:
+- Espaços de Gadgets:
+
 No Nível um a nave possui:
 -  4 Espaços 3x3
 -  8 Espaços 5x5
@@ -18,6 +23,11 @@ No Nível um a nave possui:
 Neste nível, a nave aumenta de tamanho na parte frontal, adotando um formato mais
 Espaçodinâmica, projetado para melhorar sua eficiência e desempenho. 
 "Finalmente uma nave decente"
+
+Status:
+- Vida: 50
+- Espaços de Armas:
+- Espaços de Gadgets:
 
 No Nível dois a nave possui:
 -  4 Espaços 3x3
