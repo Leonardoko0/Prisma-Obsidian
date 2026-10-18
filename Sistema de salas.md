@@ -365,11 +365,11 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 - Tempo de Recarga: 1 rodada
 - Distância: 3 Tiles
 - Dano: 1d8+2
-- Extra:
+- Extra: N/A
 ### Torretas Rifle Retardador
 - Preço:
-- Módulo Operante:
-- Tempo de Recarga:
+- Módulo Operante: Atira em um alvo aleatório no alcance
+- Tempo de Recarga: 1 Rodada
 - Distância:
 - Dano:
 - Extra:
