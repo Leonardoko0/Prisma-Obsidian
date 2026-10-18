@@ -103,8 +103,7 @@
               "title": "Nave"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +255,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0d5e1224cfff02f8",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
     "Níveis de Base.md",
-    "Sistema de salas.md",
     "Nave.md",
+    "Sistema de salas.md",
     "Pasted image 20261017233324.png",
     "Pasted image 20261017231725.png",
     "Pasted image 20261017231708.png",
