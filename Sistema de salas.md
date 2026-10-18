@@ -31,39 +31,37 @@
  - Evita a primeira danificação na sua arma
 ### Câmara de Munição
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:** 500u/ 1𖠂
  Instalação destinada ao armazenamento e recarga de munições. Equipada com prensas, balanças de precisão e ferramentas para fabricação de projéteis convencionais.
  - Abaixa o preço das balas em 25% (SM)(ME)(HV)(SH)(LG)
-**Nível 2:**
+**Nível 2:** 2000u/ 3𖠂
  A câmara recebe equipamentos industriais para produção em larga escala e manipulação de compostos balísticos. Novos calibres e tipos de munição tornam-se disponíveis.
  - Abaixa o preço das balas em 33% agora também de alguns tipos de (CH) como Flechas, Energia, Combustível e Pressão
  - Permite pegar Balas (SM)(ME)(HV)(SH)(LG) especiais
-**Nível 3:**
+**Nível 3:** 5000u/ 5𖠂
  A instalação é transformada em uma fábrica balística de alta tecnologia, equipada com sistemas automatizados e linhas de produção avançadas para munições experimentais.
  - Abaixa o preço de todas as balas em 50%
  - Permite pegar Balas (SM)(ME)(HV)(SH)(LG) Experimentais
 ### Módulo de Armadura
-- Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1:**  500u/ 1𖠂
  Uma oficina especializada na manutenção de armaduras. Equipada com prensas, máquinas de costura industrial, moldes e ferramentas para trabalhar metais, polímeros e tecidos balísticos.
  - Permite consertar armaduras **Protetoras e Vigias**
  - Faz a adaptação da armadura até o level 7
-**Nível 2:**
+**Nível 2:** 2000u/ 3𖠂
  O módulo recebe equipamentos industriais de alta periculosidade para trabalhar materiais compostos e ligas metálicas avançadas. 
  - Permite consertar armaduras **Sentinelas**
  - Faz adaptação da armadura até o level 15
-**Nível 3:**
+**Nível 3:** 5000u/ 5𖠂
  O módulo torna-se uma oficina de engenharia defensiva de última geração. A instalação recebe maior potência em blindagem, ergonomia e sistemas de proteção.
  - Permite consertar armaduras **Bastiões e Aegis**
  - Faz adaptação da armadura até o level 20
 ### Bancada de Explosivos
-- Preço:
 - Tamanho: 5x5
-**Nível 1:**
+**Nível 1: 500u/ 1𖠂**
  Uma bancada reforçada para a manipulação de compostos explosivos, equipado com recipientes blindados e sistemas básicos de contenção. Permite fabricar explosivos de baixa potência.
  - Permite a criação de granadas **Lancinante**
-**Nível 2:**
+**Nível 2:** 2000u/ 3𖠂
  A bancada recebe equipamentos industriais e sistemas de segurança aprimorados para a produção de explosivos militares e cargas especializadas.
  - Permite a criação de granadas **Caóticas**
 **Nível 3:**
