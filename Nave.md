@@ -7,4 +7,5 @@ Além de servir como meio de transporte, a nave também funciona como uma casa p
 
 Quando estão fora de uma missão, os agentes normalmente podem contar com as estações para atender às suas necessidades, desde descanso e alimentação até manutenção de equipamentos e acesso a outros serviços da organização.
 
-Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental da vida e do trabalho dos agentes. Sua estrutura, seus equipamentos e suas melhorias podem fazer a diferença entre uma missão bem-sucedida e um desastre completo. **Cuidar da nave é cuidar da própria equipe.**
+Por isso, uma nave não é apenas uma ferramenta, ela é uma parte fundamental da vida e do trabalho dos agentes. Suas coisas podem e vão fazer a diferença entre uma missão bem-sucedida e um desastre completo. 
+"Cuidar da nave é cuidar da própria equipe, CUIDE DA SUA NAVE."
