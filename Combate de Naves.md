@@ -43,9 +43,5 @@ Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, 
 
 **Participação dos Fighters:** Qualquer Fighter que se aproxime o suficiente para ficar adjacente a uma das naves envolvidas pode optar por participar da cena de Embarque. Nesse caso, seu piloto escolhe o ponto da nave em que quer entrar.
 
-**Combate simultâneo:** O combate entre os _Fighters_ continua normalmente durante a cena de Embarque. Isso significa que as naves envolvidas ainda podem sofrer ataques e até ser destruídas enquanto os agentes estiverem combatendo dentro de uma delas.
-
-Qualquer Fighters que se aproxime adjacentemente pode escolher também adentrar na cena e também escolhendo onde da nave ele ira adentrar.
-
-Durante essa cena, o combate entre os Fighters contínua, ou seja as naves podem ser destruídas enquanto a tripulação está na outra nave.
+**Combate simultâneo:** O combate entre os Fighters continua normalmente durante a cena de Embarque. Isso significa que as naves envolvidas ainda podem sofrer ataques e até ser destruídas enquanto os agentes estiverem combatendo dentro de uma delas.
 # Fighters
