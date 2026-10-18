@@ -353,14 +353,14 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 # Armas e Gadgets
 
 ## Armas Automáticas
-### Torretas Metralha Leves
-### Torreta Espingarda de Impulso
-### Rifle
+### Torretas Metralhadora Leves
+### Torretas Espingarda de Impulso
+### Torretas Rifle Retardador
 ###
 ###
 ## Armas Montadas
-###
-###
+### Mini-Gun A Laser
+### 
 ###
 ## Gadgets Automáticos
 ###
