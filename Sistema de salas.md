@@ -351,9 +351,9 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 **Nível 2:**
 **Nível 3:**
 # Armas e Gadgets
-
 ## Armas Automáticas
 ### Torretas Metralhadora Leves
+- Distância 
 ### Torretas Espingarda de Impulso
 ### Torretas Rifle Retardador
 ### Lança Torpedos
@@ -366,7 +366,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 ### Escudo Protetor V2
 ### Escudo Protetor V1
 ### Dispenser de Gás Camaleão
-### Robôs de Reparo Emerg
+### Robôs de Reparo Emergencial
 ## Gadgets de Interação
 ### Atirador de Cobertura
 ### Dispensador de Metalíquido
