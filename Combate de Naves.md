@@ -59,7 +59,7 @@ O combate entre _Fighters_ funciona de maneira semelhante ao combate padrão, ma
 
 Cada Fighter possui uma ação de movimento e uma quantidade de Impulsos, que funcionam como suas ações padrão. Os Impulsos são utilizados para ativar seus equipamentos durante o combate.
 
-Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quantidade específica de Impulsos para funcionar. Esse custo é determinado pe "U Impulso" de cada equipamento, indicando quantos Impulsos são necessários para utilizá-lo.
+Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quantidade específica de Impulsos para funcionar. Esse custo é determinado por "U Impulso" de cada equipamento, indicando quantos Impulsos são necessários.
 
 O Combate geral dos Fighters é bem parecido com o combate padrão. Cada nave possui sua ação de movimento e seus Impulsos que vulgarmente são suas ações padrões.
 Cada Fighters possui seus equipamentos e armas que usam impulsos para funcionar, cada arma gasta uma quantidade específica determinada por "U Impulso"
