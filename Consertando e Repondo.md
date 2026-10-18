@@ -5,7 +5,6 @@ Quando uma nave entra em Combate é obvio que ela vai utilizar: Balas, Energia, 
 Para concertar a nave não existe muitos gastos adicionais. Você só precisa do nosso mega Hangar de naves
 
 ## Hangar
-- Preço:
 - Tamanho: 11x11
 ### **Nível 1:**
  Um grande hangar equipado com guindastes e ferramentas de manutenção para naves de combate.
