@@ -61,6 +61,8 @@ Cada Fighter possui uma ação de movimento e uma quantidade de Impulsos, que fu
 
 Cada Fighter possui suas próprias armas e equipamentos, que consomem uma quantidade específica de Impulsos para funcionar. Esse custo é determinado por "U Impulso" de cada equipamento, indicando quantos Impulsos são necessários.
 
+O principal objetivo do combate entre Fighters é derrubar as naves inimigas e neutralizar as ameaças no campo de batalha, abrindo caminho para atacar e destruir a nave principal adversária. 
+
 O Combate geral dos Fighters é bem parecido com o combate padrão. Cada nave possui sua ação de movimento e seus Impulsos que vulgarmente são suas ações padrões.
 Cada Fighters possui seus equipamentos e armas que usam impulsos para funcionar, cada arma gasta uma quantidade específica determinada por "U Impulso"
 A luta de Fighters tem o principal objetivo de derrubar os Fighters inimigos e evitar ameaças enquanto tentam destruir a nave inimiga principal
