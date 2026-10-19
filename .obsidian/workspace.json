@@ -33,7 +33,8 @@
               "title": "Combate de Naves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "f0951195beed576f",
   "lastOpenFiles": [
     "Combate de Naves.md",
     "Sovereign.md",
