@@ -48,7 +48,7 @@ Quando isso acontece, os agentes podem se preparar para invadir a nave inimiga, 
 ## Funcionamento
 Os Fighters Tem algumas regras importantes para se preocupar durante o combate. Entre elas estão: Velocidade, Vida, Impulso, Usos das Arma e Rolagens
 
-**Velocidade:** Velocidade é o atributo que define quantos tiles você pode se mover com sua ação de movimento. Além disso, velocidade também define seus bonus em um embate de Rush (Velocidade divido por 2) 
+- **Velocidade:** Velocidade é o atributo que define quantos tiles você pode se mover com sua ação de movimento. Além disso, velocidade também define seus bonus em um embate de Rush (Velocidade divido por 2) 
 - **Vida:** Atributo que define quanta porrada que você pode receber antes de explodir
 - **Impulso:** São suas "Ações Padrões", são elas que deixam você usar suas Armas e Gadgets  
 - **Usos:** cada Arma/Gadget pode ser usado apenas uma vez por rodada.
@@ -67,7 +67,7 @@ Quando dois Fighters estão frente a frente, a uma distância de 5 tiles ou meno
 
 Ao iniciar o Embate, ambos os Fighters avançam um contra o outro, utilizando suas ações de movimento para se aproximar enquanto gastam seus Impulsos simultaneamente para atacar e se defender dos ataques adversários. Durante esse confronto, ambos os pilotos comprometem todas as suas ações ao Embate e perde o resto da sua rodada. Após isso os dois voltam a instancia do combate padrão.
 
-**Bônus de Pilotagem:** Além dos bônus de Pilotagem, ambos os Fighters recebem um bônus adicional equivalente à metade de sua Velocidade durante o Embate de Rush.
+**Bônus de Velocidade:** Além dos bônus de Pilotagem, ambos os Fighters recebem um bônus adicional equivalente à metade de sua Velocidade durante o Embate de Rush.
 
 # Sendo Derrotado
 Quando um Fighter é destruído, seu piloto é ejetado para um tile adjacente à posição da nave, mantendo o mesmo sentido de deslocamento. O piloto continua se movendo automaticamente nessa direção,1 tile por rodada até alcançar uma nave principal.

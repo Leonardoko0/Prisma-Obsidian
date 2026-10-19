@@ -33,8 +33,7 @@
               "title": "Combate de Naves"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +185,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f0951195beed576f",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Combate de Naves.md",
     "Sovereign.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
@@ -198,7 +198,6 @@
     "Nave.md",
     "Níveis de Base.md",
     "Sistema de Salas.md",
-    "Combate de Naves.md",
     "Fighters.md",
     "Customização.md",
     "Consertando e Repondo.md",
