@@ -117,8 +117,7 @@
               "title": "Sovereign"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,8 +269,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b35695084eeb293e",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Sovereign.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
     "Crosslink.md",
@@ -303,7 +303,6 @@
     "Pasted image 20261015144813.png",
     "Pasted image 20261015144741.png",
     "Rpg/Personagens/Aparatos(Fazer scaling de -dano fixo-).md",
-    "Sovereign.md",
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
