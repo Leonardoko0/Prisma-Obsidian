@@ -65,7 +65,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 4, Serum L:** Ao atacar você pode gastar 1 ⍒ para receber metade de um dos efeitos de Bloodlust. O dano é dividido pela metade, ou seja: Se o dano extra for 1d8 ele se torna 1d4. A mesma coisa ocorre com Sangue-Pesado
 
-**LV 8, 2X :** 
+**LV 8, 2X:** Enquanto Bloodlust estiver ativo, gaste 2pp para dobrar um de seus efeitos.
 
 **LV 10, :**
 
