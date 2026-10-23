@@ -15,4 +15,4 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 
 - Toda vez que você passar em um teste de Ataque ou em testes de Perícias/Salvaguarda com força. "1 Gota (⍒)"
 
-- Toda vez que você 
+- Toda vez que você fizer uma reação que reduza ou 
