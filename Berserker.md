@@ -9,3 +9,4 @@
 **Armadura:** Leve, Média e pesadas
 
 ## Calamity Serum
+O ## Calamity Serum
