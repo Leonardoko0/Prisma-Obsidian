@@ -24,7 +24,7 @@ Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais 
 
 Para utilizar seu estimulante gaste 4pp. Ele dura uma quantidade de rodadas variável. É gasto 1⍒ no primeira rodada e toda rodada adicional com o estimulante ativo gasta  1⍒ extra. ou seja: Na primeira rodada você gasta 1⍒, na segunda 2⍒, na terceira 3⍒.
 
-Ao falhar em man
+Ao falhar em manter o estimulante ativo você fica 
 
 ## **Árvore de habilidade**
 
