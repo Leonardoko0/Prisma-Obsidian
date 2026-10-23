@@ -39,7 +39,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 |  4*   |      +2      |   -    |  -   |       -       | Melhoramento de Atributo (Serum L) |
 |  5*   |      +3      |   -    |  -   |     1d8+2     |            Treinamento             |
 |  6*   |      +3      |   +3   |  -   |       -       |      Treinamento de Perícias       |
-|  7*   |      +3      |   -    | 2dD  |       -       |      Proficiencia de Combate       |
+|  7*   |      +3      |   -    |      |       -       |      Proficiencia de Combate       |
 |  8*   |      +3      |   -    |  -   |       -       |    Melhoramento de Atributo ( )    |
 |  9*   |      +4      |   -    |  -   |       -       |             Subclasse              |
 |  10*  |      +4      |   -    |  -   |     2d8+4     |      Treinamento (Imparável)       |
@@ -62,7 +62,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
-**LV 4, Serum L:** Ao atacar você  
+**LV 4, Serum L:** Ao atacar você pode gastar 1 ⍒ para receber metade de um dos efeitos de Bloodlust. (Acerto/Dano/)
 
 **LV 8, :** 
 
