@@ -13,6 +13,8 @@ O Calamity Serum é um estimulante produzido a partir de substâncias químicas 
 ### Produzindo
 A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas ao utilizar as habilidades.
 
-- Toda vez que você passar em um teste de Ataque ou em testes de Perícias/Salvaguarda com força. "1 Gota (⍒)"
+- Toda vez que você passar em um teste de Ataque ou em testes de Perícias/Salvaguarda com força. 1 Gota (⍒)
 
-- Toda vez que você fizer uma reação que reduza ou 
+- Toda vez que você fizer uma reação que reduza ou receba dano. 1 Gota (⍒)
+
+- T
