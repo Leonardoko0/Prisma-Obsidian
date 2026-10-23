@@ -27,7 +27,7 @@ Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração de
 Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Calamita.
 
 ### Veisalgia Calamita
-Ao não possuir ⍒ para manter os estimula ativo o efeito consome o alvo deixando-o em um estado de ressaca
+Ao não possuir ⍒ para manter os estimula ativo o efeito consome o Berserker deixando-o em um estado de Veisalgia.
 
 ## **Árvore de habilidade**
 
