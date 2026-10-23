@@ -38,20 +38,20 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 |  3*   |      +2      |   -    |  -   |       -       |             Subclasse              |
 |  4*   |      +2      |   -    |  -   |       -       | Melhoramento de Atributo (Serum L) |
 |  5*   |      +3      |   -    |  -   |     1d8+2     |            Treinamento             |
-|  6*   |      +3      |   +3   |  -   |       -       |      Treinamento de Perícias       |
-|  7*   |      +3      |   -    |      |       -       |      Proficiencia de Combate       |
+|  6*   |      +3      |   +3   | 2dD  |       -       |      Treinamento de Perícias       |
+|  7*   |      +3      |   -    |  -   |       -       |      Proficiencia de Combate       |
 |  8*   |      +3      |   -    |  -   |       -       |    Melhoramento de Atributo ( )    |
 |  9*   |      +4      |   -    |  -   |       -       |             Subclasse              |
 |  10*  |      +4      |   -    |  -   |     2d8+4     |      Treinamento (Imparável)       |
 |  11*  |      +4      |   +4   |  -   |       -       |      Treinamento de Perícias       |
-|  12*  |      +4      |   -    |  -   |       -       |      Melhoramento de Atributo      |
-|  13*  |      +5      |   -    | 3dD  |       -       |      Proficiência de Combate       |
+|  12*  |      +4      |   -    | 3dD  |       -       |      Melhoramento de Atributo      |
+|  13*  |      +5      |   -    |  -   |       -       |      Proficiência de Combate       |
 |  14*  |      +5      |   -    |  -   |       -       |             Subclasse              |
 |  15*  |      +5      |   -    |  -   |     3d8+6     |            Treinamento             |
 |  16*  |      +5      |   -    |  -   |       -       |      Treinamento de Atributo       |
 |  17*  |      +6      |   +5   |  -   |       -       |    Treinamento de Perícias (  )    |
-|  18*  |      +6      |   -    |  -   |       -       |            Treinamento             |
-|  19*  |      +6      |   -    | 4dD  |       -       |      Melhoramento de Atributo      |
+|  18*  |      +6      |   -    | 4dD  |       -       |            Treinamento             |
+|  19*  |      +6      |   -    |  -   |       -       |      Melhoramento de Atributo      |
 |  20*  |      +6      |   -    |  -   |     4d8+8     |             Subclasse              |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
