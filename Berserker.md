@@ -20,11 +20,11 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 - Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
 ### Utilizando
-Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Sangue-Pesado" toda vez que atacar um alvo. toda rodada seu "Sangue-Pesado" é cortado pela metade.
+Ao utilizar o estimulante, você entra no estado de Bloodlust, recebendo bônus nas suas jogadas de ataque e no dano causado. Além disso, sempre que atacar um alvo, você recebe uma quantidade de vida temporária chamada **Sangue-Pesado**. A cada rodada, a quantidade de Sangue-Pesado que você possui é reduzida pela metade.
 
 Para utilizar seu estimulante gaste 4pp. Ele dura uma quantidade de rodadas variável. É gasto 1⍒ no primeira rodada e toda rodada adicional com o estimulante ativo gasta  1⍒ extra. ou seja: Na primeira rodada você gasta 1⍒, na segunda 2⍒, na terceira 3⍒.
 
-Ao falhar em manter o estimulante ativo você fica 
+Ao falhar em manter o estimulante ativo você fica com "Ressaca Calamita"
 
 ## **Árvore de habilidade**
 
