@@ -20,32 +20,32 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 - Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
 ### Utilizando
-Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Vampirismo" toda vez que atacar um alvo.
+Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Sangue-Pesado" toda vez que atacar um alvo. toda rodada seu SanguePesado
 
 ## **Árvore de habilidade**
 
-| Nível | Proficiência | Acerto | Dano | Vampirismo |       Características        |
-| :---: | :----------: | :----: | :--: | :--------: | :--------------------------: |
-|  1*   |      +2      |   +2   | +1dD |    1d6     |        Calamity Serum        |
-|  2*   |      +2      |   -    |  -   |     -      | Treinamento (Serum Laranja)  |
-|  3*   |      +2      |   -    |  -   |     -      |          Subclasse           |
-|  4*   |      +2      |   -    |  -   |     -      | Melhoramento de Atributo ()  |
-|  5*   |      +3      |   -    |  -   |    1d8     |         Treinamento          |
-|  6*   |      +3      |   +3   |  -   |     -      |   Treinamento de Perícias    |
-|  7*   |      +3      |   -    | 2dD  |     -      |   Proficiencia de Combate    |
-|  8*   |      +3      |   -    |  -   |     -      | Melhoramento de Atributo ( ) |
-|  9*   |      +4      |   -    |  -   |     -      |          Subclasse           |
-|  10*  |      +4      |   -    |  -   |    2d8     |   Treinamento (Imparável)    |
-|  11*  |      +4      |   +4   |  -   |     -      |   Treinamento de Perícias    |
-|  12*  |      +4      |   -    |  -   |     -      |   Melhoramento de Atributo   |
-|  13*  |      +5      |   -    | 3dD  |     -      |   Proficiência de Combate    |
-|  14*  |      +5      |   -    |  -   |     -      |          Subclasse           |
-|  15*  |      +5      |   -    |  -   |    3d8     |         Treinamento          |
-|  16*  |      +5      |   -    |  -   |     -      |   Treinamento de Atributo    |
-|  17*  |      +6      |   +5   |  -   |     -      | Treinamento de Perícias (  ) |
-|  18*  |      +6      |   -    |  -   |     -      |         Treinamento          |
-|  19*  |      +6      |   -    | 4dD  |     -      |   Melhoramento de Atributo   |
-|  20*  |      +6      |   -    |  -   |    4d8     |          Subclasse           |
+| Nível | Proficiência | Acerto | Dano | Sangue-Pesado |       Características        |
+| :---: | :----------: | :----: | :--: | :-----------: | :--------------------------: |
+|  1*   |      +2      |   +2   | +1dD |      1d6      |        Calamity Serum        |
+|  2*   |      +2      |   -    |  -   |       -       | Treinamento (Serum Laranja)  |
+|  3*   |      +2      |   -    |  -   |       -       |          Subclasse           |
+|  4*   |      +2      |   -    |  -   |       -       | Melhoramento de Atributo ()  |
+|  5*   |      +3      |   -    |  -   |      1d8      |         Treinamento          |
+|  6*   |      +3      |   +3   |  -   |       -       |   Treinamento de Perícias    |
+|  7*   |      +3      |   -    | 2dD  |       -       |   Proficiencia de Combate    |
+|  8*   |      +3      |   -    |  -   |       -       | Melhoramento de Atributo ( ) |
+|  9*   |      +4      |   -    |  -   |       -       |          Subclasse           |
+|  10*  |      +4      |   -    |  -   |      2d8      |   Treinamento (Imparável)    |
+|  11*  |      +4      |   +4   |  -   |       -       |   Treinamento de Perícias    |
+|  12*  |      +4      |   -    |  -   |       -       |   Melhoramento de Atributo   |
+|  13*  |      +5      |   -    | 3dD  |       -       |   Proficiência de Combate    |
+|  14*  |      +5      |   -    |  -   |       -       |          Subclasse           |
+|  15*  |      +5      |   -    |  -   |      3d8      |         Treinamento          |
+|  16*  |      +5      |   -    |  -   |       -       |   Treinamento de Atributo    |
+|  17*  |      +6      |   +5   |  -   |       -       | Treinamento de Perícias (  ) |
+|  18*  |      +6      |   -    |  -   |       -       |         Treinamento          |
+|  19*  |      +6      |   -    | 4dD  |       -       |   Melhoramento de Atributo   |
+|  20*  |      +6      |   -    |  -   |      4d8      |          Subclasse           |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
