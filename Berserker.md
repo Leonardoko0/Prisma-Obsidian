@@ -62,8 +62,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
-**LV 4, Serum L:** Ao atacar você pode gastar 1 ⍒ para receber metade de um dos efeitos de Bloodlust. (Acerto/Dano/)
-
+**LV 4, Serum L:** Ao atacar você pode gastar 1 ⍒ para receber metade de um dos efeitos de Bloodlust. O dano é dividido pela metade, ou seja: Se o dano extra for 1d8 ele se to
 **LV 8, :** 
 
 **LV 10, :**
