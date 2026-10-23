@@ -2,8 +2,9 @@
 
 **Pontos de vida**: 1d6 +modificador de vigor
 
-**Proficiências**: Escolha Duas entre Acrobacia, Atletismo, Destreza manual, Éter Furtividade, Percepção. E duas perícias extras.
+**Proficiências**:
 
-**Salvaguardas**: Agilidade e Sentido
+**Salvaguardas**: 
 
-**Armadura:** Leve e Média
+**Armadura:** Leve, Média e pesadas
+
