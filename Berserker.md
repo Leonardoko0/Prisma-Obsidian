@@ -67,6 +67,6 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 8, 2X:** Enquanto Bloodlust estiver ativo, gaste 2pp para dobrar um de seus efeitos.
 
-**LV 10, :**
+**LV 10, Overdose:** Você pode 
 
 **LV 17, :** 
