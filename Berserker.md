@@ -11,4 +11,6 @@
 ## Calamity Serum
 O Calamity Serum é um estimulante produzido a partir de substâncias químicas extraídas do corpo de um Berserker. Essas substâncias são fundidas e combinadas aos filtros dissonantes Calamitas, dando origem ao composto final.
 ### Produzindo
-A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gast
+A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas ao utilizar as habilidades.
+
+- Toda vez que você passar em um teste de Ataque ou em testes de Perícias com forças
