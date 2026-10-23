@@ -27,7 +27,7 @@ Ao utilizar você entra no estado de Bloodlust: Você recebe mais
 | Nível | Proficiência |     |     |       Características        |
 | :---: | :----------: | :-: | :-: | :--------------------------: |
 |  1*   |      +2      |     |     |        Calamity Serum        |
-|  2*   |      +2      |     |     |       Treinamento ( )        |
+|  2*   |      +2      |     |     | Treinamento (Serum Laranja)  |
 |  3*   |      +2      |     |     |          Subclasse           |
 |  4*   |      +2      |     |     | Melhoramento de Atributo ()  |
 |  5*   |      +3      |     |     |         Treinamento          |
@@ -46,3 +46,21 @@ Ao utilizar você entra no estado de Bloodlust: Você recebe mais
 |  18*  |      +6      |     |     |         Treinamento          |
 |  19*  |      +6      |     |     |   Melhoramento de Atributo   |
 |  20*  |      +6      |     |     |          Subclasse           |
+### Melhoramentos
+**LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
+
+**LV 2/5/10/15/18 Treinamento:** Escolha um treinamento na tabela, treinamentos são habilidades ativas ou passivas que garantem vantagens em diversas situações
+
+**LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
+
+**LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
+### Habilidade Ativa
+**LV 2, Karui Suteppu:** 
+
+**LV 4, Kaifuku:** 
+
+**LV 8, Guarda Alta:** 
+
+**LV 10, imparável:**
+
+**LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Selo
