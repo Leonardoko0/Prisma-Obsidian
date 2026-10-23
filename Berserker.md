@@ -20,7 +20,9 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 - Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
 ### Utilizando
-Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Sangue-Pesado" toda vez que atacar um alvo. toda rodada seu SanguePesado
+Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Sangue-Pesado" toda vez que atacar um alvo. toda rodada seu "Sangue-Pesado" é cortado pela metade.
+
+Para utilizar seu estimulante gaste 4pp. Ele dura uma quantidade de rodadas variável.  
 
 ## **Árvore de habilidade**
 
