@@ -20,7 +20,7 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 - Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
 ### Utilizando
-Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você
+Ao utilizar você entra no estado de Bloodlust: Você recebe mais acerto e mais danos nos seus ataques. Além disso você recebe vida temporária chamada de "Vam"
 
 ## **Árvore de habilidade**
 
