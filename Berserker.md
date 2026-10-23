@@ -24,8 +24,9 @@ Ao utilizar o estimulante, você entra no estado de Bloodlust, recebendo bônus 
 
 Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração depende da quantidade de "Gotas" que você possui. Na primeira rodada, você gasta 1⍒. A cada rodada adicional, o custo aumenta em 1⍒. Ou seja o custo é 1⍒ na primeira rodada, 2⍒ na segunda, 3⍒ na terceira e assim por diante.
 
-Ao falhar em manter o estimulante ativo você fica com "Ressaca Calamita"
+Ao falhar em manter o estimulante ativo, você sofre a condição Ressaca Calamita.
 
+## Ressaca Calamita
 ## **Árvore de habilidade**
 
 | Nível | Proficiência | Acerto | Dano | Sangue-Pesado |       Características        |
