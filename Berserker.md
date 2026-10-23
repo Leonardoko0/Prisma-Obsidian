@@ -27,7 +27,7 @@ Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração de
 Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Calamita.
 
 ### Veisalgia Calamita
-Ao não possuir ⍒ para manter os estimula ativo o efeito consome o Berserker deixando-o em um estado de Veisalgia. Você perde todo seu Sangue-Pesado e não pode reagir por duas rodadas
+Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito consome as reservas do Berserker, deixando-o em estado de **Veisalgia**. Você perde todo o Sangue-Pesado restante e não pode realizar reações durante 2 rodadas.
 
 ## **Árvore de habilidade**
 
