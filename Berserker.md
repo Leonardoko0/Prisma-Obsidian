@@ -55,12 +55,12 @@ Ao utilizar você entra no estado de Bloodlust: Você recebe mais
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
-**LV 2, Karui Suteppu:** 
+**LV 2, :** 
 
-**LV 4, Kaifuku:** 
+**LV 4, :** 
 
-**LV 8, Guarda Alta:** 
+**LV 8, :** 
 
-**LV 10, imparável:**
+**LV 10, :**
 
-**LV 17, Kaze No Hebi:** Aumenta seu movimento em 1,5m a mais por cada Selo
+**LV 17, :** 
