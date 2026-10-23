@@ -17,6 +17,7 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 
 - Toda vez que você fizer uma reação que reduza ou receba dano. 1 Gota (⍒)
 
-- Toda vez que você eliminar um alvo. 1 Gota (⍒)
+- Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
-- 
+### Utilizando
+
