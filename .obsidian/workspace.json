@@ -20,20 +20,77 @@
             }
           },
           {
-            "id": "f0951195beed576f",
+            "id": "9ffcd5fa1976ef72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combate de Naves.md",
+                "file": "Berserker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combate de Naves"
+              "title": "Berserker"
+            }
+          },
+          {
+            "id": "244f6db6d1cccb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Nômade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nômade"
+            }
+          },
+          {
+            "id": "581a5b790ba2c819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drifter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drifter"
+            }
+          },
+          {
+            "id": "9a3f589585083318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagens/Artilherista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artilherista"
+            }
+          },
+          {
+            "id": "54ddd6e2d4b6e12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sovereign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sovereign"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,16 +242,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "9ffcd5fa1976ef72",
   "lastOpenFiles": [
-    "Combate de Naves.md",
+    "Rpg/Personagens/Nômade.md",
     "Sovereign.md",
-    "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
+    "Drifter.md",
+    "Berserker.md",
+    "Combate de Naves.md",
+    "Rpg/Universo.md",
+    "Apostle.md",
     "Crosslink.md",
     "Rpg/Personagens/Arbiter.md",
-    "Drifter.md",
-    "Rpg/Personagens/Nômade.md",
     "Nave.md",
     "Níveis de Base.md",
     "Sistema de Salas.md",
@@ -222,7 +281,6 @@
     "Rpg/Personagens/Itens Gerais.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Rpg/Personagens/Armas.md",
-    "Lucky 44 (Cartas da Sorte).md",
     "Pasted image 20260801171925.png",
     "Sem título.base",
     "Recording 20260414191404.m4a",
