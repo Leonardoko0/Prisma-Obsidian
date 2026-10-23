@@ -25,7 +25,7 @@ Ao utilizar você entra no estado de Bloodlust: Você recebe mais
 ## **Árvore de habilidade**
 
 | Nível | Proficiência | Acerto | Dano |     |       Características        |
-| :---: | :----------: | :----: | :--: | --- | :--------------------------: |
+| :---: | :----------: | :----: | :--: | :-: | :--------------------------: |
 |  1*   |      +2      |        |      |     |        Calamity Serum        |
 |  2*   |      +2      |        |      |     | Treinamento (Serum Laranja)  |
 |  3*   |      +2      |        |      |     |          Subclasse           |
