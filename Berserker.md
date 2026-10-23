@@ -36,7 +36,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 |  1*   |      +2      |   +2   | +1dD |      1d6      |        Calamity Serum        |
 |  2*   |      +2      |   -    |  -   |       -       | Treinamento (Serum Laranja)  |
 |  3*   |      +2      |   -    |  -   |       -       |          Subclasse           |
-|  4*   |      +2      |   -    |  -   |       -       | Melhoramento de Atributo ()  |
+|  4*   |      +2      |   -    |  -   |       -       |  Melhoramento de Atributo    |
 |  5*   |      +3      |   -    |  -   |     1d8+2     |         Treinamento          |
 |  6*   |      +3      |   +3   |  -   |       -       |   Treinamento de Perícias    |
 |  7*   |      +3      |   -    | 2dD  |       -       |   Proficiencia de Combate    |
@@ -63,8 +63,6 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
 **LV 2, :** 
-
-**LV 4, :** 
 
 **LV 8, :** 
 
