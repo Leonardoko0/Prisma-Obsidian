@@ -9,4 +9,4 @@
 **Armadura:** Leve, Média e pesadas
 
 ## Calamity Serum
-O Calamity Serum
+O Calamity Serum é um estímulante com uma formula 
