@@ -42,7 +42,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 |  7*   |      +3      |   -    |  -   |       -       |      Proficiencia de Combate       |
 |  8*   |      +3      |   -    |  -   |       -       |    Melhoramento de Atributo ( )    |
 |  9*   |      +4      |   -    |  -   |       -       |             Subclasse              |
-|  10*  |      +4      |   -    |  -   |     2d8+4     |      Treinamento (Imparável)       |
+|  10*  |      +4      |   -    |  -   |     2d8+4     |           Treinamento ()           |
 |  11*  |      +4      |   +4   |  -   |       -       |      Treinamento de Perícias       |
 |  12*  |      +4      |   -    | 3dD  |       -       |      Melhoramento de Atributo      |
 |  13*  |      +5      |   -    |  -   |       -       |      Proficiência de Combate       |
