@@ -27,6 +27,7 @@ Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração de
 Ao falhar em manter o estimulante ativo, você sofre a condição Ressaca Calamita.
 
 ### Ressaca Calamita
+Ao não possuir ⍒ para manter os estimula ativo
 
 ## **Árvore de habilidade**
 
