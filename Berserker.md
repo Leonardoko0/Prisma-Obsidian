@@ -40,9 +40,9 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 |  5*   |      +3      |   -    |  -   |     1d8+2     |            Treinamento             |
 |  6*   |      +3      |   +3   | 2dD  |       -       |      Treinamento de Perícias       |
 |  7*   |      +3      |   -    |  -   |       -       |      Proficiencia de Combate       |
-|  8*   |      +3      |   -    |  -   |       -       |    Melhoramento de Atributo ( )    |
+|  8*   |      +3      |   -    |  -   |       -       |   Melhoramento de Atributo (2X)    |
 |  9*   |      +4      |   -    |  -   |       -       |             Subclasse              |
-|  10*  |      +4      |   -    |  -   |     2d8+4     |           Treinamento ()           |
+|  10*  |      +4      |   -    |  -   |     2d8+4     |       Treinamento (Overdose)       |
 |  11*  |      +4      |   +4   |  -   |       -       |      Treinamento de Perícias       |
 |  12*  |      +4      |   -    | 3dD  |       -       |      Melhoramento de Atributo      |
 |  13*  |      +5      |   -    |  -   |       -       |      Proficiência de Combate       |
@@ -65,7 +65,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 4, Serum L:** Ao atacar você pode gastar 1 ⍒ para receber metade de um dos efeitos de Bloodlust. O dano é dividido pela metade, ou seja: Se o dano extra for 1d8 ele se torna 1d4. A mesma coisa ocorre com Sangue-Pesado
 
-**LV 8, :** 
+**LV 8, 2X :** 
 
 **LV 10, :**
 
