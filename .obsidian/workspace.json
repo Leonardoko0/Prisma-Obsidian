@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +242,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9a3f589585083318",
+  "active": "9ffcd5fa1976ef72",
   "lastOpenFiles": [
+    "Drifter.md",
+    "Rpg/Personagens/Artilherista.md",
     "Rpg/Personagens/Nômade.md",
     "Berserker.md",
-    "Drifter.md",
     "Sovereign.md",
-    "Rpg/Personagens/Artilherista.md",
     "Combate de Naves.md",
     "Rpg/Universo.md",
     "Apostle.md",
