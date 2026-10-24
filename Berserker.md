@@ -74,16 +74,11 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 3, Murasama:** 
 
-**LV 9, Killing Tool:** Se torne proficiente em enganação. Aprenda mais truques
-**Luta falsa:** Gaste 1PP ou 1 Carga para fintar (Carisma, Enganação) x (Salvaguarda de Sentido), você pode realizar esse movimento até um máximo de duas vezes, se você já tiver vantagem contra o alvo ganhe +2 no ataque e + Dano extra da Kira (LV 9: +6/LV 11 +8/LV16 + 10)
-**Navalha:** Gaste 2PP e 2 cargas para dar um ataque direcionado que causa +2d6 corte e caso o alvo esteja desprevenido no acerto role dano como se fosse um critico
+**LV 9, Killing Tool:**
 
-**LV 14, Memories broken:** Todas as habilidades necessárias para ser uma maquina de guerra estão quase reunidas
-**Dash And Bash:** Pode gastar 1PP para junto da investida tentar derrubar o alvo
-**Pulo Duplo:** Gaste uma carga para pular um segunda vez no ar com o dobro da força de um pulo comum
+**LV 14, Memories broken:** 
 
-**LV 20, Let's Dance:** 1 vez por descanso longo, gaste sua ação prismática: Desbloqueie seu potencial máximo em combate, Você ganha 10 Cargas, e ganha uma vida temporária de 15d12/100, atacar com a Kira não consome PP
-Você perde 10 de vida temporária a cada rodada e após sua vida extra acabar faça um Salvaguarda de Constituição DT 30 se falhar fique inconsciente  
+**LV 20, Let's Dance:** 
 ## Aberrante
 Mutação Genética
 ## Injetor Original
