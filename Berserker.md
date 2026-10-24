@@ -72,13 +72,13 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 17, Mestre da Veisalgia:** A desvantagem de -(Proficiência) é cortada pela metade (-3)
 ## Juggernaut
 
-**LV 3, Murasama:** 
+**LV 3, :** 
 
-**LV 9, Killing Tool:**
+**LV 9, :**
 
-**LV 14, Memories broken:** 
+**LV 14, :** 
 
-**LV 20, Let's Dance:** 
+**LV 20, :** 
 ## Aberrante
 Mutação Genética
 ## Injetor Original
