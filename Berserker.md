@@ -24,7 +24,7 @@ Ao utilizar o estimulante, você entra no estado de Bloodlust, recebendo bônus 
 
 Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração depende da quantidade de "Gotas" que você possui. Na primeira rodada, você gasta 1⍒. A cada rodada adicional, o custo aumenta em 1⍒. Ou seja o custo é 1⍒ na primeira rodada, 2⍒ na segunda, 3⍒ na terceira e assim por diante.
 
-Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Calamita. Ao final do Com
+Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Calamita. Ao final do Combate você perde todos seus ⍒.
 
 ### Veisalgia Calamita
 Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina e consome as reservas do Berserker, deixando-o em estado de Veisalgia. Você perde todo o Sangue-Pesado restante e não pode realizar reações durante 2 rodadas. Além disso você recebe -(Proficiência) em todos os testes físicos pelo mesmo período.
