@@ -72,9 +72,9 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 17, Mestre da Veisalgia:** A desvantagem de -(Proficiência) é cortada pela metade (-3)
 ## Juggernaut
 
-**LV 3, Carcaça Dura:** Seus pontos de vida agora são calculados em d8, além disso você ganha uma redução 
+**LV 3, Carcaça Dura:** Seus pontos de vida agora são calculados em d8, além disso você ganha uma redução de dano igual a 2. Aumenta para +5 no nível 7 e +10 no nível 14
 
-**LV 9, :**
+**LV 9, Injetor:**
 
 **LV 14, :** 
 
