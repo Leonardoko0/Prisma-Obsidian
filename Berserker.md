@@ -69,4 +69,4 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 10, Overdose:** Você pode escolher durar mais uma rodada antes da Veisalgia Calamita te consumir, porém você ficará uma terceira rodada sem reações e com atributos negativos.
 
-**LV 17, Mestre da Veisalgia:** 
+**LV 17, Mestre da Veisalgia:** A desvantagem de -(Proficiência) é cortada pela metade (-3)
