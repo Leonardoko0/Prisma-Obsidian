@@ -71,6 +71,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 17, Mestre da Veisalgia:** A desvantagem de -(Proficiência) é cortada pela metade (-3)
 ## Juggernaut
+1d12
 ## Aberrante
 Mutação Genética
 ##
