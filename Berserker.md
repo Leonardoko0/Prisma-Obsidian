@@ -74,7 +74,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 3, Carcaça Dura:** Seus pontos de vida agora são calculados em d8. Além disso, você pode gastar 1pp e sua ação de movimento para receber a metade de seus Sangue-Pesado.
 
-**LV 9, Injetor Durável:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora
+**LV 9, Injetor Durável:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora você perde o seu bônus em acerto que se transforma em 2x Resistência a dano. Ou seja, 
 
 **LV 14, :** 
 
