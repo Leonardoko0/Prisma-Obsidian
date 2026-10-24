@@ -80,6 +80,19 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, :** 
 ## Aberrante
-Mutação Genética
+**LV 3, :** 
+
+**LV 9, :**
+
+**LV 14, :** 
+
+**LV 20, :** 
 ## Injetor Original
+**LV 3, :** 
+
+**LV 9, :**
+
+**LV 14, :** 
+
+**LV 20, :** 
 Loucura
