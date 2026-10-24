@@ -27,7 +27,7 @@ Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração de
 Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Calamita.
 
 ### Veisalgia Calamita
-Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina e consome as reservas do Berserker, deixando-o em estado de Veisalgia. Você perde todo o Sangue-Pesado restante e não pode realizar reações durante 2 rodadas. Além disso você recebe -2 em todos os testes por duas rodadas
+Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina e consome as reservas do Berserker, deixando-o em estado de Veisalgia. Você perde todo o Sangue-Pesado restante e não pode realizar reações durante 2 rodadas. Além disso você recebe -2 em todos os testes físicos pelo mesmo período.
 
 ## **Árvore de habilidade**
 
@@ -67,6 +67,6 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 8, 2X:** Enquanto Bloodlust estiver ativo, gaste 2pp para dobrar um de seus efeitos.
 
-**LV 10, Overdose:** Você pode escolher durar mais uma rodada antes da Veisalgia Calamita te consumir, porém você ficará uma terceira rodada sem reações
+**LV 10, Overdose:** Você pode escolher durar mais uma rodada antes da Veisalgia Calamita te consumir, porém você ficará uma terceira rodada sem reações e com atributos 
 
 **LV 17, :** 
