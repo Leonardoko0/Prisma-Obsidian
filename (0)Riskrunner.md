@@ -31,7 +31,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 |  11*  |      +4      |     |     |     |   Treinamento de Perícias   |
 |  12*  |      +4      |     |     |     |  Melhoramento de Atributo   |
 |  13*  |      +5      |     |     |     |   Proficiência de Combate   |
-|  14*  |      +5      |     |     |     |  Subclasse (Âncora Rápida)  |
+|  14*  |      +5      |     |     |     | Subclasse (Trava de Balas)  |
 |  15*  |      +5      |     |     |     |         Treinamento         |
 |  16*  |      +5      |     |     |     |   Treinamento de Atributo   |
 |  17*  |      +6      |     |     |     |   Treinamento de Perícias   |
