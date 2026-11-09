@@ -49,7 +49,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 ### Habilidade Ativa
 **LV 2, Conversor Peso:** Você pode gastar 1 Estamina para se mover 3m/2 Tiles enquanto atira com a VULKA
 
-**LV 5, Ataque Pinça:** 
+**LV 5, Stomp:** Você pode gastar 2 Estamina para parar de atirar com sua Minigun no mesmo momento. Todas suas cargas de ☀ restantes 
 
 **LV 10, Âncora inversa:** 
 
