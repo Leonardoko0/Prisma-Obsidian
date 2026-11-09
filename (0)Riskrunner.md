@@ -7,3 +7,5 @@
 **Salvaguardas**: 
 
 **Armadura:** Leve e Média
+
+⁍
