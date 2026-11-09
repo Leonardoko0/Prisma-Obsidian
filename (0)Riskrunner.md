@@ -9,6 +9,6 @@
 **Armadura:** Leve e Média
 
 ## TYPE-19 VULKA-MG
-** Uma Mini
+** Uma Minigun com o tamanho
 
 ☀
