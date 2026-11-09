@@ -8,4 +8,3 @@
 
 **Armadura:** Leve e Média
 
-⁍<i class="fa-solid fa-fire"></i>
