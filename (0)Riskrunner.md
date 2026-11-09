@@ -47,7 +47,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
-**LV 2, Conversor Peso:** Você p
+**LV 2, Conversor Peso:** Você pode gastar 1 Estamina para se mover 3m/2 Tiles enquanto atira com a VULKA
 
 **LV 5, Ataque Pinça:** 
 
