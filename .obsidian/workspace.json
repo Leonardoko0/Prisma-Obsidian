@@ -94,9 +94,9 @@
               "type": "bases",
               "state": {
                 "file": "Sem título 1.base",
-                "viewName": "Visualizaçao padrão"
+                "viewName": "Classes"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-list",
               "title": "Sem título 1"
             }
           }

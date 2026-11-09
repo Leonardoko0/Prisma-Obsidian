@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Visualizaçao padrão
+  - type: list
+    name: Classes
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 170
+    image: note.aliases
+    imageFit: contain
+    imageAspectRatio: 0.25
