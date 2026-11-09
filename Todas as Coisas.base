@@ -1,8 +1,11 @@
 views:
   - type: table
     name: Visualizaçao padrão
-  - type: list
+  - type: cards
     name: Classes
+    groupBy:
+      property: file.ext
+      direction: ASC
     sort:
       - property: file.name
         direction: ASC
