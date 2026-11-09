@@ -9,6 +9,6 @@
 **Armadura:** Leve e Média
 
 ## TYPE-19 VULKA-MG
-**Uma Minigun com quase o tamanho de seu portador, sua capacidade de disparo é equivalente a de uma arma montada de uma nave, seus disparos acabam com qualquer coisa que ousar a ficar a frente de seu cano**
+**Uma Minigun que possui quase o tamanho de seu portador. Sua capacidade de disparo é comparável à uma arma montada em uma nave, e seus projéteis são capazes de estourar qualquer coisa que ouse permanecer à frente de seu cano.**
 
 ☀
