@@ -72,22 +72,9 @@
               "icon": "lucide-file",
               "title": "Drifter"
             }
-          },
-          {
-            "id": "54ddd6e2d4b6e12a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Todas as Coisas.base",
-                "viewName": "Classes"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Todas as Coisas"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +226,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "54ddd6e2d4b6e12a",
+  "active": "0ffb3791aec29c70",
   "lastOpenFiles": [
-    "Rpg/Regras/Ação Padrão.md",
+    "Drifter.md",
     "Todas as Coisas.base",
+    "Sistema de Base.md",
+    "Imagems/Pasted image 20260415182201.png",
+    "Sem título.canvas",
+    "Rpg/Regras/Ação Padrão.md",
     "Rpg/Personagens/Classes.md",
     "Borba.md",
     "Rpg/Organizações/BlackDown.md",
@@ -257,7 +248,6 @@
     "Berserker.md",
     "(-)Executioner.md",
     "Rpg/Personagens/Nômade.md",
-    "Drifter.md",
     "Rpg/Personagens/Artilherista.md",
     "Combate de Naves.md",
     "Rpg/Universo.md",
@@ -266,20 +256,16 @@
     "Rpg/Personagens/Arbiter.md",
     "Nave.md",
     "Níveis de Base.md",
-    "Sistema de Salas.md",
-    "Fighters.md",
     "Pasted image 20261017233324.png",
     "Pasted image 20261017231725.png",
     "Pasted image 20261017231708.png",
     "Pasted image 20261017231646.png",
-    "Sem título.canvas",
     "Minha PEÇA.canvas",
     "Pasted image 20261015150020.png",
     "Pasted image 20261015145603.png",
     "Pasted image 20261015144817.png",
     "Pasted image 20261015144813.png",
     "Pasted image 20261015144741.png",
-    "Pasted image 20260801171925.png",
     "Sem título.base",
     "Recording 20260414191404.m4a",
     "Sem título 1.canvas",

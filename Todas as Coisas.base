@@ -4,9 +4,8 @@ views:
   - type: cards
     name: Classes
     groupBy:
-      property: file.size
-      direction: DESC
-    groupOrder: []
+      property: file.tags
+      direction: ASC
     sort:
       - property: file.name
         direction: ASC
