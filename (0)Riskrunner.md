@@ -13,7 +13,7 @@
 ### Carregador de Chumba
 Você gasta sua ação de movimento para transformar PP em Cargas de Balas ☀. Você pode transferir no máximo 2PP por ação de movimento. 1PP = 1☀
 ### Furador de Inimigo
-Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumidas. Ao iniciar a habilidade,
+Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumidas. Ao iniciar a habilidade, você não pode mais se mover
 
 você não pode se mover e atira toda rodada. 1☀ na primeira 2☀ na segunda 3☀ na terceira e assim por diante. Gasta sua ação completa e todas as ações completas seguintes até suas ☀ acabarem
 
