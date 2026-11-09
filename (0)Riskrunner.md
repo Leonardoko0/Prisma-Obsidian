@@ -8,3 +8,7 @@
 
 **Armadura:** Leve e Média
 
+
+
+
+☀
