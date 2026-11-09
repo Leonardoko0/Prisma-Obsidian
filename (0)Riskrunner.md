@@ -51,7 +51,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 **LV 5, Stomp:** Você pode gastar 2 Estamina para parar de atirar com sua Minigun no mesmo momento. Todas suas cargas de ☀ restantes são perdidas após utilizar essa habilidade
 
-**LV 10, Carga Extra:** Ao atirar você pode gastar 1pp para começar seus disparos atirando e gastando 
+**LV 10, Carga Extra:** Ao atirar você pode gastar 1pp para começar seus disparos atirando e gastando 2 ☀
 
 **LV 14, Âncora Rápida:** 
 
