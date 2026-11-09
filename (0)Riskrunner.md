@@ -22,7 +22,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 |  2*   |      +2      |     |     |     | Treinamento(Conversor Peso)  |
 |  3*   |      +2      |     |     |     |          Subclasse           |
 |  4*   |      +2      |     |     |     |   Melhoramento de Atributo   |
-|  5*   |      +3      |     |     |     |  Treinamento(Ataque Pinça)   |
+|  5*   |      +3      |     |     |     |     Treinamento (Stomp)      |
 |  6*   |      +3      |     |     |     |   Treinamento de Perícias    |
 |  7*   |      +3      |     |     |     |   Proficiencia de Combate    |
 |  8*   |      +3      |     |     |     |   Melhoramento de Atributo   |
