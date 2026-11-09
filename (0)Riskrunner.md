@@ -47,12 +47,12 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ### Habilidade Ativa
-**LV 2, Anchor RSB:** Permite utilizar as habilidades da **Anchor RSB**. Olhar a descrição acima da árvore de habilidades
+**LV 2, Conversor Peso:** Você p
 
-**LV 5, Ataque Pinça:** Caso você já tenha atacado uma vez com o **M.B Type Dread**. No seu segundo e ultimo ataque da lâmina transforme o ataque em um pulo extremamente veloz e brutal que causa dano de Perfuração. Olhar Árvore de Habilidades
+**LV 5, Ataque Pinça:** 
 
-**LV 10, Âncora inversa:** Você agora pode marcar qualquer lugar a 12m/8 tiles de você com a Âncora gastando sua ação de movimento e 1 de Estâmina. 
+**LV 10, Âncora inversa:** 
 
-**LV 14, Âncora Rápida:** Você não gasta mais pp para se puxar para a Âncora
+**LV 14, Âncora Rápida:** 
 
-**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Drifter
+**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Riskrunner.
