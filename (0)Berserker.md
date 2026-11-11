@@ -20,7 +20,7 @@ A Habilidade do Berserker é medida por "Gotas". São elas que vão ser gastas a
 - Toda vez que você eliminar um alvo. 2 Gota (⍒)
 
 ### Utilizando
-Ao utilizar o estimulante, você entra no estado de Bloodlust, recebendo bônus em ataques e no dano causado. Além disso, sempre que atacar um alvo, você recebe uma quantidade de vida temporária chamada Sangue-Pesado. No inicio de cada rodada, a quantidade de Sangue-Pesado que você possui é reduzida pela metade.
+Ao utilizar o estimulante, você entra no estado de Bloodlust, recebendo bônus em ataques e no dano causado. Além disso, sempre que atacar um alvo, você recebe uma quantidade de vida temporária chamada Sangue-Pesado. No inicio de cada um de seus turnos, a quantidade de Sangue-Pesado que você possui é reduzida pela metade.
 
 Gaste 4 PP e uma ação de movimento para ativar o estimulante. Sua duração depende da quantidade de "Gotas" que você possui. Na primeira rodada, você gasta 1⍒. A cada rodada adicional, o custo aumenta em 1⍒. Ou seja o custo é 1⍒ na primeira rodada, 2⍒ na segunda, 3⍒ na terceira e assim por diante.
 
