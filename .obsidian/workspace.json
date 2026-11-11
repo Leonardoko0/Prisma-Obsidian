@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "81b607466cd57712",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.15.0"
+            }
+          },
+          {
             "id": "eb7ad93e17ffede9",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +268,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e6bb6b896350e45b",
+  "active": "9ffcd5fa1976ef72",
   "lastOpenFiles": [
     "Drifter.md",
     "(0)Riskrunner.md",
