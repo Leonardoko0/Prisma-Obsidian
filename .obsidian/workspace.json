@@ -76,15 +76,17 @@
             }
           },
           {
-            "id": "81b607466cd57712",
+            "id": "d1c77e9331ed3bea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Rpg/Personagens/Artilherista.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.15.0"
+              "icon": "lucide-file",
+              "title": "Artilherista"
             }
           },
           {
@@ -113,20 +115,6 @@
               },
               "icon": "lucide-file",
               "title": "Crosslink"
-            }
-          },
-          {
-            "id": "d1c77e9331ed3bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagens/Artilherista.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Artilherista"
             }
           }
         ],
@@ -284,13 +272,13 @@
   },
   "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
-    "Drifter.md",
     "Rpg/Personagens/Artilherista.md",
+    "Drifter.md",
     "(0)Riskrunner.md",
+    "Rpg/Personagens/Nômade.md",
     "Apostle.md",
     "Crosslink.md",
     "(0)Berserker.md",
-    "Rpg/Personagens/Nômade.md",
     "Pasted image 20261109183148.png",
     "Todas as Coisas.base",
     "Sistema de Base.md",
