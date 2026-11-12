@@ -61,6 +61,6 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Riskrunner.
 
-##
-##
+## Gravitino
+## CaboomZoka
 ##
