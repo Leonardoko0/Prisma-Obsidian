@@ -63,4 +63,4 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 ## Gravitino
 ## KaboomZooka
-##
+## PedraLascada
