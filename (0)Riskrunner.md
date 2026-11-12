@@ -53,6 +53,6 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 **LV 10, Carga Extra:** Ao atirar você pode gastar 1pp para começar seus disparos atirando e gastando 2 ☀. Seus tiros sequentes seguiram a ordem, 3☀, 4☀, etc
 
-**LV 14, Trava de Balas:** Ao realizar um "Stomp" você r
+**LV 14, Trava de Balas:** Ao realizar um "Stomp" você recupera as 
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Riskrunner.
