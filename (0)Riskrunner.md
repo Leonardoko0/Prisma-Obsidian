@@ -17,7 +17,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 
 | Dano  | Alcance | Crítico |              Propriedades              |
 | :---: | :-----: | :-----: | :------------------------------------: |
-| 1d4+2 | 25M/50M |   3x    | (Carga) Pesado, Perdurante, Barulhento |
+| 1d4+2 |   12m   |   3x    | (Carga) Pesado, Perdurante, Barulhento |
 ## **Árvore de Habilidade**
 
 | Nível | Proficiência | VULKA-MG |     |     |       Características       |
