@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -282,9 +282,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d1c77e9331ed3bea",
+  "active": "dacd8db30fc10ac5",
   "lastOpenFiles": [
     "(0)Riskrunner.md",
+    "Rpg/Personagens/Artilherista.md",
     "(0)Berserker.md",
     "Drifter.md",
     "Rpg/Personagens/Nômade.md",
@@ -308,7 +309,6 @@
     "Carros e motos (Adicionar nome).md",
     "Sovereign.md",
     "(-)Executioner.md",
-    "Rpg/Personagens/Artilherista.md",
     "Combate de Naves.md",
     "Rpg/Universo.md",
     "Rpg/Personagens/Arbiter.md",
