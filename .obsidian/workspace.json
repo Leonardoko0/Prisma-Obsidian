@@ -129,7 +129,8 @@
               "title": "Artilherista"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,7 +282,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
     "(0)Riskrunner.md",
     "Apostle.md",
