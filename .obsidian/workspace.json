@@ -117,7 +117,8 @@
               "title": "Crosslink"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,18 +270,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
+    "Crosslink.md",
+    "Sistema de Base.md",
     "Rpg/Personagens/Nômade.md",
     "(0)Riskrunner.md",
     "(0)Berserker.md",
     "Drifter.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
-    "Crosslink.md",
     "Pasted image 20261109183148.png",
     "Todas as Coisas.base",
-    "Sistema de Base.md",
     "Imagems/Pasted image 20260415182201.png",
     "Sem título.canvas",
     "Rpg/Regras/Ação Padrão.md",
