@@ -68,7 +68,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 
 **LV 9, Portal:** Ao acertar gaste 2 ☀ para atirar um alvo 12m para cima, ele deve gastar sua reação para realizar um salvaguarda (DT 10) evitando metade do dano
 
-**LV 14, Levrim:** Gaste 1pp para ao iniciar disparos com a VULKA com 3 ☀ ou mais voc  
+**LV 14, Levrim:** Gaste 1pp para ao iniciar disparos com a VULKA com 3 ☀ ou mais, você faz o alvo levitar 3m no ar.    
 
 **LV 20, :**
 ## KaboomZooka
