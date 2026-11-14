@@ -64,7 +64,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 ## Gravitino
 Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo por disparo. Seus tiros não sofrem efeito da gravidade e seu alcance se torna 15m
 
-**LV 3, Empuxo e Impulso:** Ao atirar com a Minigun, 
+**LV 3, Empuxo e Impulso:** Ao atirar e acertar, Gaste 1 ☀ para empurrar o alvo acertado 4,5m para qualquer direção 
 
 **LV 9, :**
 
