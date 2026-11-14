@@ -68,8 +68,22 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 
 **LV 9, :**
 
+**LV 14, :**
+
+**LV 20, :**
+## KaboomZooka
 **LV 3, :**
 
-**LV 3, :**
-## KaboomZooka
+**LV 9, :**
+
+**LV 14, :**
+
+**LV 20, :**
 ## Pedra-Lascada
+**LV 3, :**
+
+**LV 9, :**
+
+**LV 14, :**
+
+**LV 20, :**
