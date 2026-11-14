@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 202.5
   },
   "right": {
     "id": "4b99027977eea2f4",
@@ -270,10 +270,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "244f6db6d1cccb94",
+  "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
-    "(0)Riskrunner.md",
     "Rpg/Personagens/Nômade.md",
+    "(0)Riskrunner.md",
     "(0)Berserker.md",
     "Crosslink.md",
     "Sistema de Base.md",
