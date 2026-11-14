@@ -62,6 +62,14 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Riskrunner.
 
 ## Gravitino
-Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo por disparo. Seus tiros não sofrem efeito da gravidade e seu alcans
+Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo por disparo. Seus tiros não sofrem efeito da gravidade e seu alcance se torna 15m
+
+**LV 3, :**
+
+**LV 9, :**
+
+**LV 3, :**
+
+**LV 3, :**
 ## KaboomZooka
 ## Pedra-Lascada
