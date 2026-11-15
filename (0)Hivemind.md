@@ -51,5 +51,7 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ## Habilidade Ativa
 
-L
+**LV 4,**
+
+**LV 14,**
 
