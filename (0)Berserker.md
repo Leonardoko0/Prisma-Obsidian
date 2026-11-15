@@ -98,7 +98,9 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 14, :** Agora você pode gastar pp para melhorar suas próprias capacidades pelo combate.
 
-Melhorar Alcance de Habilidade: (4 PP) 
+- Melhorar Alcance de Habilidade: (4 PP) Você dobra o alcance de sua habilidade. Pode ser melhorada 2x para um total de 24m
+- 
+
 
 **LV 20, :** 
 ## Injetor Original
