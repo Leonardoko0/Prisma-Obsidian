@@ -14,8 +14,8 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 ### -DIVIDIR
 ### -ESPALHAR (LV 3)
 ### -CAÇAR (LV 5)
-### -DEFENDER ()
-### -POSICIONAR
+### -DEFENDER (LV 7)
+### -POSICIONAR (LV 10)
 
 
 
