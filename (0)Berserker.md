@@ -87,6 +87,7 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 **LV 3, :** Você possui uma lista de injetores que duram uma rodada.
 
 - DNO-N 100: (2 ⍒) Aumenta o Dano do alvo em 1D. Esse dano é aumentando em +1 nos LV 6,12 e 18
+- ACRT-N 102: (1 ⍒) Aumenta o acerto para ataques padrões em +2. Bônus aumentado nos 
 
 
 **LV 9, :**
