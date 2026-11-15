@@ -102,7 +102,9 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 - Melhorar Duração de Habilidade: (5 PP) Você aumenta a duração de suas habilidade em 1 rodada
 - Reação Injetável: (4 PP) Ao usar uma reação você pode usar sua habilidade como um efeito adicional
 
-**LV 20, :** 
+**LV 20, :** Você possui uma quantidade de estimulantes capazes de mudar o mundo
+
+- Veisalgia Demoníaca: Você faz um alvo entrar no est
 ## Injetor Original
 Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques direcionado além disso sua Veisalgia se torna Veisalgia Demoníaca
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
