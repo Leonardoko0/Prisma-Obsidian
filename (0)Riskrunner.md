@@ -86,9 +86,9 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 **LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma.
 - 1) Você aumenta o Alcance para 15m
 - 2) Você melhora sua distância para 16,5 m e causa x impacto extra ao acertar
-- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe x dano de impa
+- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe x dano de impacto
 
-**LV 9, :**
+**LV 9, :** Ao acertar um alvo atirando com potência 2
 
 **LV 14, :**
 
