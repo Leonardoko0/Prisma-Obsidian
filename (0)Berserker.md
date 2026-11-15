@@ -80,7 +80,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 14, Besta Armadurada:** Ao ter sua armadura temporária quebrada pela primeira vez no combate, Você ativa um estado de Bloodlust superior por uma rodada. Seu dano extra é dobrado e seu sangue pesado recebido nessa rodada se torna vida real
 
-**LV 20, Fortaleza Impossivel:**  
+**LV 20, Fortaleza impossível:** Ao estar no estado de Bloodlust e sua armadura quebrar, gaste 1pp para regenera-la totalmente 
 ## Aberrante
 **LV 3, :** 
 
