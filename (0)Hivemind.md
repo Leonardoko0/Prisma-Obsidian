@@ -6,5 +6,8 @@
 **Salvaguardas**: 
 
 **Armadura:** Leve 
-##  The HIVE Actuator
-**Um cilindro metálico repleto de mariposas e um composto dissonante de feromônio, As mariposas são um com a colmeia e a colmeia é**
+## The HIVE Actuator
+**Um cilindro metálico repleto de mariposas e um composto dissonante de feromônios. As mariposas são uma só com a colmeia, e a colmeia é uma só com as mariposas.**
+
+A Hive é equipamento que 
+
