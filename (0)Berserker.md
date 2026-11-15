@@ -90,7 +90,8 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, :** 
 ## Injetor Original
-**LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher enrre ganhar o 
+Você utiliza o injetor Berserker
+**LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher entre ganhar o Sangue-Pesado como vida ou causar essa mesma quantidade como dano extra.
 
 **LV 9, :**
 
