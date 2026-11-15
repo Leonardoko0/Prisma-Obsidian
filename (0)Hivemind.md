@@ -65,7 +65,10 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 
 **LV 3, Caçada Lâminada:** Gasta 2pp e sua ação atirando uma rajada de Mariposas em um inimigo a 9m, causando dano igual 3x V Nuvem 
 
-**LV 9, Carapaça de Ferro:** você pode gastar 1 de Estâmina para transformas 1tile de mariposa em um Semi Cover e mais uma vez para Três Quartos de Cover 
+**LV 9, Carapaça de Ferro:** Você pode gastar 1 de Estâmina para transformas 1tile de mariposa em um Semi Cover e mais uma vez para Três Quartos de Cover 
+
+- Semi Cover: 
+- Três Quartos Cover:
 
 **LV 14, :** .
 
