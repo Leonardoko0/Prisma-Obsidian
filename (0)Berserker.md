@@ -78,9 +78,9 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 | LV 11 |      15      |    7     |      4      |
 | LV 17 |      20      |    10    |      5      |
 
-**LV 14, Besta Armadurada:** Ao ter sua armadura temporária quebrada pela primeira vez no combate, Você ativa um estado de Bloodlust superior por uma rodada. Seu dano extra é dobrado e seu sangue pesado recebido nessa rodada se torna vida real
+**LV 14, Besta Armadurada:** Ao ter sua Armadura Temporária quebrada pela primeira vez durante um combate, você ativa um estado superior de Bloodlust por 1 rodada. Durante esse estado, seu dano adicional é dobrado e o Sangue-Pesado recebido nessa rodada é convertido em vida real.
 
-**LV 20, Fortaleza impossível:** Ao estar no estado de Bloodlust e sua armadura quebrar, gaste 1pp para regenera-la totalmente. Você também pode fazer isso gastando 2pp e sua reação para receber 20 de absorção neste ataque
+**LV 20, Fortaleza impossível:** Enquanto estiver no estado de Bloodlust, caso sua Armadura Temporária seja quebrada, você pode gastar 1 PP para regenerá-la completamente. Além disso, você pode gastar 2 PP e sua reação para receber 20 de Absorção contra o ataque que provocou a quebra.
 ## Química Irregular
 Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m e você gasta uma ação de movimento ou padrão e 1pp para atirar
 
