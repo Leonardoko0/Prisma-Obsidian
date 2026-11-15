@@ -2,7 +2,7 @@
 
 **Pontos de vida**: 1d6 + modificador de vigor
 
-**Proficiências**: Atletismo
+**Proficiências**: Escolha três entre Atletismo, Destreza Manual, Intimidação E duas perícias extras.
 
 **Salvaguardas**: Fortitude e Tenacidade
 
