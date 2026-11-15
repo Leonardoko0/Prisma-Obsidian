@@ -92,5 +92,5 @@ Sua contagem de população é dividida pela metade. Agora você deve eclodir ca
 **Implantar:** Gaste 2 pp e 1 de estâmina para seu próximo ataque colocar ovos em um acerto.
 Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 
-**LV 9, :**
+**LV 9, Enxames:** Você pode juntar nuvens de para fazer uma nuvem com tamanho de 4
 ##
