@@ -68,12 +68,12 @@ As mariposas recebem uma mutação que transforma suas asas em lâminas metálic
 
 **LV 3, Caçada Lâminada:** Gasta 2pp e sua ação atirando uma rajada de Mariposas em um inimigo a 9m, causando dano igual 3x V Nuvem 
 
-**LV 9, Carapaça de Ferro:** Você pode gastar 1 de Estâmina para transformas 1tile de mariposa em um Semi Cover e mais uma vez para Três Quartos de Cover 
+**LV 9, Carapaça de Ferro:** Você pode gastar 1 Estâmina para transformar 1 Tile de mariposas em uma cobertura. Gastando mais 1 Estâmina, você aprimora essa cobertura.
 
 - Semi Cover: Recebe +2 na DT e não pode sofrer ataques direcionados
 - Três Quartos Cover: Recebe +5 na DT e não pode sofrer ataques direcionados
 
-**LV 14, Metalpreso:** Toda vez que um alvo terminar sua rodada dentro da nuvem de mariposas ele ganha um dot de "Metalriposa Presa". Cada Dot faz o alvo perder 1,5m movimento e podem acumular até 3
+**LV 14, Metalpreso:** Toda vez que um alvo terminar sua rodada dentro de uma nuvem de mariposas, ele recebe 1 Dot de ""Metalriposa Presa"". Cada Dot reduz seu Movimento em 1,5 m, podendo acumular até 3 vezes.
 - 2 Dots, Perde 3m e permite usar "Arrancar Talo"
 - 3 Dots, Perde 4,5m e permite usar "Metalizar"
 
