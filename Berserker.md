@@ -67,7 +67,6 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 17, Mestre da Veisalgia:** A desvantagem de -(Proficiência) é cortada pela metade (-3)
 ## Juggernaut
-
 **LV 3, Carcaça Dura:** Seus pontos de vida agora são calculados em d8. Além disso, você pode gastar 1pp e sua ação de movimento para receber a metade de seus Sangue-Pesado.
 
 **LV 9, Injetor Metal:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora você perde o seu bônus em acerto que se transforma em armadura temporária. 
