@@ -18,11 +18,13 @@ A cada 3 populações adicionais, o custo aumenta em 1 PP. Assim, de 1 a 3 popul
 ### -ESPALHAR (LV 3)
 Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 2x2/4 tiles. Você pode gastar +5 populações e +1pp para gerar uma área 3x3. Mínimo 4 Populações
 ### -CAÇAR (LV 5)
-Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas o perseguiram causando o dano de veneno padrão equivalente ao número de populações usada na habilidade e o V Nuvem caso o alvo termine sua rodada dentro desse 9m de você. A Habilidade termina após uma rodada ou caso o alvo saia do alcance de 9m.
+Gaste 2 PP para disparar de 1 a 2 populações de mariposas contra um alvo a até 9 m de distância.
+As mariposas perseguem o alvo, causando o dano de Veneno padrão equivalente à quantidade de populações utilizadas na habilidade. Além disso, o alvo sofre o efeito de V Nuvem caso termine sua rodada a até 9 m de você.
+A habilidade termina após 1 rodada ou caso o alvo saia do alcance de 9 m.
 ### -DEFENDER (LV 7)
-Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo Mínimo 6 Populações
+Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo. Mínimo 6 Populações
 ### -POSICIONAR (LV 10)
-Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro desses 12m. Essa ação pode ser feita duas vezes no mesmo combate
+Em uma área de 12m de raio . Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro desses 12m. Essa ação pode ser feita duas vezes no mesmo turno
 ## Árvore de Habilidade
 
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
