@@ -92,12 +92,12 @@ Sua arma se transforma em um lançador de mísseis pesado. Seus disparos consome
 
 **LV 14, Terremoto:** Ao acertar um alvo com um disparo de Potência 2, ele fica Caído. Ao acertar com um disparo de Potência 3, ele sofre Fratura na Perna.
 
-**LV 20, Armagedom:** Ao entrar em potência , você pode gastar 2pp e sua ação de movimento para entrar em potência 4 e seguindo o mesmo processo vc pode chegar em potência 5.
+**LV 20, Armagedom:** Ao entrar em potência 3, você pode gastar 2pp e sua ação de movimento para entrar em potência 4 e seguindo o mesmo processo vc pode chegar em potência 5.
 - 4) O raio da explosão aumenta em 1, o raio de fratura em 2 e aumente o impacto para 
 - 5) Aumenta o dano da explosão para 20d4+60 e aumenta o raio da explosão em +1
 ## Pedra-Lascada
 
-**LV 3, Fragmentos:** Ao atirar com 2 ou + ☀, você causa um dano igual a um terço em alvos adjacentes por cada disparo.
+**LV 3, Fragmentos:** Ao disparar com 2 ☀ ou mais, você causa dano de fragmentação aos alvos adjacentes equivalente a um terço do dano causado pelo disparo. Esse efeito é aplicado para cada disparo realizado.
 
 **LV 9, Tiro quebradiço:** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
 
