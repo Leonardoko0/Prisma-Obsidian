@@ -11,33 +11,35 @@
 
 A Hive é equipamento que permite você usar diversas formações de mariposas para causar dano de veneno em alvos que passarem pela nuvem ou terminarem suas rodadas dentro delas. Por padrão cada tile é equivalente a uma população de mariposa e a formação dura uma rodada.
 
+Suas Mariposas são parte de você e você escolhem quem atacar e quem não atacar
+
 ### -DIVIDIR
 ### -ESPALHAR (LV 3)
 ### -CAÇAR (LV 5)
 ### -DEFENDER (LV 7)
 ### -POSICIONAR (LV 10)
-| Nível | Proficiência | População | Veneno |     |          Características           |
-| :---: | :----------: | :-------: | :----: | --- | :--------------------------------: |
-|  1*   |      +2      |     2     |        |     |         The HIVE Actuator          |
-|  2*   |      +2      |     3     |        |     |            Treinamento             |
-|  3*   |      +2      |     4     |        |     |        Subclasse (ESPALHAR)        |
-|  4*   |      +2      |     5     |        |     | Melhoramento de Atributo (MANTER)  |
-|  5*   |      +3      |     6     |        |     |        Treinamento (CAÇAR)         |
-|  6*   |      +3      |     7     |        |     |      Treinamento de Perícias       |
-|  7*   |      +3      |     8     |        |     | Proficiência de Combate (DEFENDER) |
-|  8*   |      +3      |     9     |        |     |      Melhoramento de Atributo      |
-|  9*   |      +4      |    10     |        |     |             Subclasse              |
-|  10*  |      +4      |    11     |        |     |      Treinamento (POSICIONAR)      |
-|  11*  |      +4      |    12     |        |     |      Treinamento de Perícias       |
-|  12*  |      +4      |    13     |        |     |      Melhoramento de Atributo      |
-|  13*  |      +5      |    14     |        |     |      Proficiência de Combate       |
-|  14*  |      +5      |    15     |        |     |             Subclasse              |
-|  15*  |      +5      |    16     |        |     |            Treinamento             |
-|  16*  |      +5      |    17     |        |     |      Treinamento de Atributo       |
-|  17*  |      +6      |    18     |        |     |      Treinamento de Perícias       |
-|  18*  |      +6      |    19     |        |     |            Treinamento             |
-|  19*  |      +6      |    20     |        |     |      Melhoramento de Atributo      |
-|  20*  |      +6      |    20     |        |     |             Subclasse              |
+| Nível | Proficiência | População | Veneno |          Características           |
+| :---: | :----------: | :-------: | :----: | :--------------------------------: |
+|  1*   |      +2      |     2     |        |         The HIVE Actuator          |
+|  2*   |      +2      |     3     |        |            Treinamento             |
+|  3*   |      +2      |     4     |        |        Subclasse (ESPALHAR)        |
+|  4*   |      +2      |     5     |        | Melhoramento de Atributo (MANTER)  |
+|  5*   |      +3      |     6     |        |        Treinamento (CAÇAR)         |
+|  6*   |      +3      |     7     |        |      Treinamento de Perícias       |
+|  7*   |      +3      |     8     |        | Proficiência de Combate (DEFENDER) |
+|  8*   |      +3      |     9     |        |      Melhoramento de Atributo      |
+|  9*   |      +4      |    10     |        |             Subclasse              |
+|  10*  |      +4      |    11     |        |      Treinamento (POSICIONAR)      |
+|  11*  |      +4      |    12     |        |      Treinamento de Perícias       |
+|  12*  |      +4      |    13     |        |      Melhoramento de Atributo      |
+|  13*  |      +5      |    14     |        |      Proficiência de Combate       |
+|  14*  |      +5      |    15     |        |             Subclasse              |
+|  15*  |      +5      |    16     |        |            Treinamento             |
+|  16*  |      +5      |    17     |        |      Treinamento de Atributo       |
+|  17*  |      +6      |    18     |        |      Treinamento de Perícias       |
+|  18*  |      +6      |    19     |        |            Treinamento             |
+|  19*  |      +6      |    20     |        |      Melhoramento de Atributo      |
+|  20*  |      +6      |    20     |        |             Subclasse              |
 ### Melhoramentos
 **LV** **4/8/12/16/19** **Melhoramento de Atributo:** aumente atributos da sua escolha, distribua 2 pontos entre elas como bem intender
 
