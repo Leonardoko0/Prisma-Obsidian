@@ -92,7 +92,7 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 14, :** Ao acertar com potência 2 o alvo fica caído e ao acertar com potência 3 ele recebe fratura perna
 
-**LV 20, :**
+**LV 20, :** Ao entrar em P3 , você pode gastar 2pp e sua ação de movimento para entrar em p5,
 ## Pedra-Lascada
 **LV 3, :**
 
