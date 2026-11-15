@@ -90,7 +90,7 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 9, :** Ao acertar um alvo atirando com potência 2, gaste 1pp para o disparo atravessar o alvo causando x dano de impacto e se locomovendo + 16,5 m para outro alvo.
 
-**LV 14, :** 
+**LV 14, :** Ao acertar com potência 2 o alvo fica caído e ao acertar com potência 3 ele recebe fratura perna
 
 **LV 20, :**
 ## Pedra-Lascada
