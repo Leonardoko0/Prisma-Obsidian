@@ -69,7 +69,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 **LV 9, Portal:** Ao acertar gaste 1 ☀ para atirar um alvo 12m para cima, ele deve gastar sua reação para realizar um salvaguarda (DT 10) evitando metade do dano.  Causa 1d6 a cada 3m
 
 **LV 14, Levrim:** Gaste 1pp para ao iniciar disparos com a VULKA com 3 ☀ ou mais, você faz o alvo levitar 3m no ar. O alvo pode realizar um salvaguarda de Int (DT Ataque) evitando condição.
-Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes recebem vantagem além disso vc sofre -2 defesa. 
+- Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes recebem vantagem além disso vc sofre -2 defesa. 
 
 **LV 20, Ressonância Magnética:** Gaste 10pp -1 a cada ☀ gasto, para atirar todas as suas ☀ de uma só vez. Ao acertar o alvo, suas balas empurram o alvo 6m para direções aleatórias definidas por 1d8.
 - 1) Baixo: Empurra o chão causando dano = 2 ☀
@@ -86,8 +86,7 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 **LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma.
 - 1) Você aumenta o Alcance para 15m
 - 2) Você melhora sua distância para 16,5 m e causa x impacto extra ao acertar
-- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe x dano de impacto
-- 
+- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe 2d6 dano de impacto
 
 **LV 9, :** Ao acertar um alvo atirando com potência 2 ou maior, gaste 1pp para o disparo atravessar o alvo causando x dano de impacto e se locomovendo + 16,5 m para outro alvo.
 
