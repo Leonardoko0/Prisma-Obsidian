@@ -89,6 +89,7 @@ Sua contagem de população é dividida pela metade. Agora você deve eclodir ca
 
 **LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento para colocar ovos em um tile adjacente. Os ovos demoram 2 rodadas para nascer e -1 rodada toda vez que um alvo receber dano adjacentemente a ele
 
-**Implantar:** Gaste 2 pp e 1 de estâmina para seu próximo ataque colocar ovos 
+**Implantar:** Gaste 2 pp e 1 de estâmina para seu próximo ataque colocar ovos em um acerto.
+Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem ao Nascer
 
 ##
