@@ -94,5 +94,6 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 
 **LV 9, Enxames:** Você pode juntar duas nuvens adjacentes para fazer uma nuvem com tamanho de 4 tiles, juntando dois desse novos enxames você cria um enxame com 7 tiles. Seu formato pode ser alterado com ação uma ação de movimento e dois de estâmina contando que o tile central permaneça inalterado
 
-**LV 14, :** V
+**LV 14, :** Você pode gastar 1pp ao colocar um ovo para melhora-lo
+- Ovos Receptores: Quando um 
 ##
