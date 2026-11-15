@@ -72,6 +72,7 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 
 **LV 14, Metalpreso:** Toda vez que um alvo terminar sua rodada dentro da nuvem de mariposas ele ganha um dot de "Metalriposa Presa". Cada Dot faz o alvo perder 1,5m movimento e podem acumular até 3
 - 2 Dots, Perde 3m e permite usar Arrancar talo
+- 3 Dots, Perde 4,5m e permite usar 
 
 **LV 20, :** .
 ##
