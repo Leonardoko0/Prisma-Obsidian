@@ -3,11 +3,11 @@ Drifter é uma classe de linha de frente extremamente versátil que possui a cap
 
 **Pontos de vida**: 1d6 + modificador de vigor
 
-**Proficiências**: Escolha três entre Acrobacia, Atletismo, Destreza manual, Furtividade, História, Percepção, Religião, Subterfúgio. E duas perícias extras. 
+**Proficiências**: Escolha duas entre Acrobacia, Atletismo, Destreza manual, Furtividade, Percepção, Subterfúgio. E duas perícias extras.  
 
 **Salvaguardas**: Reflexo e Lucidez
 
-**Armadura:** Leve e Média
+**Armadura:** Leve e Médias
 ## **M.B Type Dread**
 **Um implante de louva-a-deus retrátil, oculto no interior do braço do portador. Forjada a partir de um metal gélido e escuro, originado de uma Dissonância, a lâmina não sofre os efeitos da passagem do tempo.**
 
