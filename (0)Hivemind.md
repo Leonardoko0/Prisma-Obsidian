@@ -80,6 +80,6 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 
 **LV 20, Furacão de 1000 Lâminas:** Gaste sua ação completa, 10pp -1 a cada Dot feito no combate e toda a população de mariposa
 
-Você puxa todas 
+Você puxa todas as mariposas criando um furação de 
 ##
 ##
