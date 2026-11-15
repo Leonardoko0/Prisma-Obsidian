@@ -21,7 +21,7 @@ Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas o per
 ### -DEFENDER (LV 7)
 Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo
 ### -POSICIONAR (LV 10)
-Em uma área de 12m
+Em uma área de 12m. Gaste 2PP e sua ação de movimento para posicionar 
 ## Árvore de Habilidade
 
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
