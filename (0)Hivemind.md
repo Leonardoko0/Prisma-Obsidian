@@ -110,7 +110,7 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **Soldado:** Custa 1 cera para gerar a formação. Soldados causam mais um dado e dura uma rodada extra. Causa +1 dado no nível 10
 
-**LV 9, Quantibeedade:** Custa 2 Cera. Ao utilizar Caça
+**LV 9, Quantibeedade:** Ao utilizar a habilidade "CAÇAR"
 
 **LV 14, :**
 
