@@ -104,10 +104,10 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 ## Colmeia Rainha
 As mariposas criam um senso de comunidade aprimorado e se dividem em funções e trabalhos
 
-**LV 9, Carapaça de Ferro:**
+**LV 3, :**
 
-**LV 9, Carapaça de Ferro:**
+**LV 9, :**
 
-**LV 9, Carapaça de Ferro:**
+**LV 14, :**
 
-**LV 9, Carapaça de Ferro:**
+**LV 20, :**
