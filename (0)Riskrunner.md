@@ -97,7 +97,7 @@ Sua arma se transforma em um lançador de mísseis pesado. Seus disparos consome
 - 5) Aumenta o dano da explosão para 20d4+60 e aumenta o raio da explosão em +1
 ## Pedra-Lascada
 
-**LV 3, Fragmentos:** Ao disparar com 2 ☀ ou mais, você causa dano de fragmentação aos alvos adjacentes equivalente a um terço do dano causado pelo disparo. Esse efeito é aplicado para cada disparo realizado.
+**LV 3, Fragmentos:** Ao disparar com 2 ☀ ou mais, você causa dano de fragmentação aos alvos adjacentes equivalente a um terço do dano causado pelo disparo.
 
 **LV 9, Tiro quebradiço:** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
 
