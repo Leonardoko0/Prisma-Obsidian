@@ -78,6 +78,8 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 - Metalizar: Gaste sua ação e 2pp para metalizar o alvo no lugar por uma rodada
 - Metalizado: Não pode realizar ações nem reações. Recebe 10 de resistência
 
-**LV 20, Furacão de 1000 Lâminas:** Gaste sua ação completa e 10pp -1 a cada Dot feito no combate
+**LV 20, Furacão de 1000 Lâminas:** Gaste sua ação completa, 10pp -1 a cada Dot feito no combate e toda a população de mariposa
+
+Você puxa todas 
 ##
 ##
