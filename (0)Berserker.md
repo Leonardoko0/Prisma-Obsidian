@@ -114,8 +114,8 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 
 **LV 3, Instinto Primitivo:** Ao ativar seu injetor, você aumenta seu dano adicional em 1 dado. Além disso, pode escolher entre receber seu Sangue-Pesado como vida ou causar uma quantidade igual como dano adicional.
 
-**LV 9, :** Seu injetor é melhora suas capacidades físicas. Você recebe vantagem em todos os testes realizados com força ou agilidade enquanto o injetor estiver ativo. Além disso você recebe mais 3m de movimento
+**LV 9, Veias Saltadas:** Seu injetor é melhora suas capacidades físicas. Você recebe vantagem em todos os testes realizados com força ou agilidade enquanto o injetor estiver ativo. Além disso você recebe mais 3m de movimento
 
-**LV 14, Descontrolar Controlável:** Você pode desativar seu estimulante de forma controlada gastando 2pp. Ao fazer isso seu próximo ataque é um crítico garantido porém, claro, você estará na Veisalgia Demoníaca
+**LV 14, Descontrolar Controlável:** Você pode desativar seu estimulante de maneira controlada, gastando 2 PP. Ao fazer isso, seu próximo ataque se torna um crítico garantido. Entretanto, você entra imediatamente em Veisalgia Demoníaca.
 
 **LV 20, Mal Encarnado:** Você solta suas amarras e correntes prendendo você a ideias racionais e se transformando em uma real besta. Você gasta 10pp -1 por rodada com o estimulante ativo, para ativar o real Bloodlust. Você ativa a Veisalgia Demoníaca e seu dano é dobrado e seu crítico também, você recebe uma vida temporária de 100 e seu Sangue-Pesado não decai mais, seu movimento é aumentado em 12m. Toda vez que você for realizar um ataque em um alvo indesejado, faça um salvaguarda de Lucidez (DT 20) se passar você não ataca o alvo
