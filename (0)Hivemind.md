@@ -100,5 +100,5 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 - Nascimento Prematuro: Caso um inimigo passe adjacentemente ao ovo ele nasce causam V Nuvem e morrem
 - Ovos da Rainha: Nasce uma nuvem de 4 tiles porém demora uma rodada extra para nascer
 
-**LV 20, Bulbo do Vampiro:** Você pode gastar 5pp e sua ação principal para todos os inimigos em um raio de 12m ficarem implantados com "Ovos da Rainha". Ao eclodirem todo dano causado 
+**LV 20, Bulbo do Vampiro:** Você pode gastar 5pp e sua ação principal para todos os inimigos em um raio de 12m ficarem implantados com "Ovos da Rainha". Ao eclodirem todo dano causado e regenerado da sua vida
 ##
