@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(0)Riskrunner.md",
+                "file": "Riskrunner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(0)Riskrunner"
+              "title": "Riskrunner"
             }
           },
           {
@@ -272,12 +272,12 @@
   },
   "active": "244f6db6d1cccb94",
   "lastOpenFiles": [
-    "(0)Riskrunner.md",
-    "Rpg/Personagens/Nômade.md",
-    "Rpg/Personagens/Artilherista.md",
-    "Drifter.md",
+    "Riskrunner.md",
     "Crosslink.md",
     "Apostle.md",
+    "Rpg/Personagens/Artilherista.md",
+    "Rpg/Personagens/Nômade.md",
+    "Drifter.md",
     "(0)Berserker.md",
     "Sistema de Base.md",
     "Pasted image 20261109183148.png",
