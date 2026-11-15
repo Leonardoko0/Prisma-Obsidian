@@ -106,7 +106,7 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **LV 3, :** Você pode definir a função das mariposas antes de colocar uma formação.
 
-**Operarias:**
+**Operarias:** Pode ter 5 abelhas operarias totais. 
 
 **LV 9, :**
 
