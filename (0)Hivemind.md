@@ -17,7 +17,7 @@ Você gasta 2 PP e sua ação padrão para atirar um quantidade variável de mar
 ### -ESPALHAR (LV 3)
 Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 2x2/4 tiles. Você pode gastar +5 populações e +1pp para gerar uma área 3x3. Mínimo 4 Populações
 ### -CAÇAR (LV 5)
-Gaste 
+Gaste 2 pp para atira
 ### -DEFENDER (LV 7)
 ### -POSICIONAR (LV 10)
 ## Árvore de Habilidade
