@@ -13,8 +13,9 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 
 ### -DIVIDIR
 ### -ESPALHAR
-###
-###
+### -CAÇAR
+### -DEFENDER
+### -POSICIONAR
 
 
 
