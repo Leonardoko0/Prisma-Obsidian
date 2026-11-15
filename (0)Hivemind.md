@@ -86,8 +86,9 @@ Sua contagem de população é dividida pela metade. Agora você deve eclodir ca
 - Seu dano muda para Erebus
 - Você pode mover as nuvens 3m gastando 1 Estâmina ou 1 PP
 - Quando um alvo termina sua rodada dentro da nuvem ele é implantado com ovos
+- 
 
-**LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento para colocar ovos em um tile adjacente. Os ovos demoram 2 rodadas para nascer e -1 rodada toda vez que um alvo receber dano adjacentemente a ele
+**LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento para colocar ovos em um tile adjacente. Os ovos demoram 2 rodadas para nascer e -1 rodada toda vez que um alvo receber dano adjacentemente a ele. 
 
 **Implantar:** Gaste 2 pp e 1 de estâmina para seu próximo ataque colocar ovos em um acerto.
 Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
@@ -96,5 +97,6 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 
 **LV 14, :** Você pode gastar 1pp ao colocar um ovo para melhora-lo
 - Ovos Receptores: Caso um inimigo passe adjacentemente ao ovo ele nasce uma rodada mais cedo. pode acumular até o nascimento
-- Nascimento Prematuro: Caso um inimigo passe adjacentemente ao 
+- Nascimento Prematuro: Caso um inimigo passe adjacentemente ao ovo ele nasce causam V Nuvem e morrem
+- Ovos da Rainha: Nasce uma nuvem de 4 tiles 
 ##
