@@ -71,7 +71,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 **LV 14, Levrim:** Gaste 1pp para ao iniciar disparos com a VULKA com 3 ☀ ou mais, você faz o alvo levitar 3m no ar. O alvo pode realizar um salvaguarda de Int (DT Ataque) evitando condição
 Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes recebem vantagem além disso vc sofre -2 defesa. 
 
-**LV 20, Ressonância Magnética:** Gaste 10pp -1 a cada ☀ gasto, para atirar todas as suas ☀ de uma só vez. ao acertar o alvo
+**LV 20, Ressonância Magnética:** Gaste 10pp -1 a cada ☀ gasto, para atirar todas as suas ☀ de uma só vez. Ao acertar o alvo, suas balas empurram o alvo 6m 
 ## KaboomZooka
 **LV 3, :**
 
