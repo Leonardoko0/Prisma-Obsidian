@@ -9,11 +9,13 @@
 ## The HIVE Actuator
 **Um cilindro metálico repleto de mariposas e um composto dissonante de feromônios. As mariposas são uma só com a colmeia, e a colmeia é uma só com as mariposas.**
 
-A Hive é equipamento que permite você usar diversas formações de mariposas para causar dano de veneno em alvos que passarem pela nuvem ou terminarem suas rodadas dentro delas. Por padrão cada tile é equivalente a uma população de mariposa e a formação dura duas rodadas.
+A Hive é equipamento que permite você usar diversas formações de mariposas para causar dano de veneno em alvos que passarem pela nuvem ou terminarem suas rodadas dentro delas. Por padrão cada tile é equivalente a uma população de mariposa, e cada formação permanece ativa por 2 rodadas.
 
 *Suas Mariposas são parte de você e é você escolhe quem atacar e quem não atacar*
 ### -DIVIDIR
-Você gasta 2 PP e sua ação padrão para atirar um quantidade variável de mariposas de forma linear. A cada 3 populações extras custa 1pp a mais e assim em diante. Ou seja de 1 a 3 tiles custa 2 PP padrão, de 3 a 6 custa +1 PP e assim vai indo
+Você gasta 2 PP e sua ação padrão para disparar uma quantidade variável de populações de mariposas em uma formação linear.
+
+A cada 3 populações adicionais, o custo aumenta em 1 PP. Assim, de 1 a 3 populações, o custo é de 2 PP; de 4 a 6, 3 PP; de 7 a 9, 4 PP, e assim sucessivamente.
 ### -ESPALHAR (LV 3)
 Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 2x2/4 tiles. Você pode gastar +5 populações e +1pp para gerar uma área 3x3. Mínimo 4 Populações
 ### -CAÇAR (LV 5)
