@@ -71,8 +71,10 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 - Três Quartos Cover: Recebe +5 na DT e não pode sofrer ataques direcionados
 
 **LV 14, Metalpreso:** Toda vez que um alvo terminar sua rodada dentro da nuvem de mariposas ele ganha um dot de "Metalriposa Presa". Cada Dot faz o alvo perder 1,5m movimento e podem acumular até 3
-- 2 Dots, Perde 3m e permite usar Arrancar talo
-- 3 Dots, Perde 4,5m e permite usar 
+- 2 Dots, Perde 3m e permite usar "Arrancar Talo"
+- 3 Dots, Perde 4,5m e permite usar "Metalizar"
+
+- Arrancar Talo: Gaste sua ação do movimento e 2 estâmina para arrancar 2
 
 **LV 20, :** .
 ##
