@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -284,7 +284,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ffcd5fa1976ef72",
+  "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
     "Rpg/Personagens/Nômade.md",
     "Riskrunner.md",
