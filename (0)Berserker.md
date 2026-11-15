@@ -84,7 +84,12 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 ## Química Irregular
 Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m
 
-**LV 3, :** Voc
+**LV 3, :** Você possui uma lista de injetores que duram uma rodada.
+
+|     | Nível 3 | Nível 3 | Nível 3 | Nível 3 |     |
+| --- | ------- | ------- | ------- | ------- | --- |
+|     |         |         |         |         |     |
+
 
 **LV 9, :**
 
