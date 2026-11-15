@@ -21,7 +21,7 @@ Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas o per
 ### -DEFENDER (LV 7)
 Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo
 ### -POSICIONAR (LV 10)
-Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro desses 12m.
+Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro desses 12m. Essa ação pode ser feita duas vezes no mesmo combate
 ## Árvore de Habilidade
 
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
@@ -56,7 +56,7 @@ Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicio
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ## Habilidade Ativa
 
-**LV 4, -MANTER:**
+**LV 4, -MANTER:** Gaste 1pp para manter uma formação ativa
 
 **LV 14, -CONCENTRAR:**
 
