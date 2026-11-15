@@ -77,7 +77,7 @@ As mariposas recebem uma mutação que transforma suas asas em lâminas metálic
 - 2 Dots, Perde 3m e permite usar "Arrancar Talo"
 - 3 Dots, Perde 4,5m e permite usar "Metalizar"
 
-- Arrancar Talo: Gaste sua ação do movimento e 2 estâmina para arrancar um pedaço causando 2x Veneno. Gasta 2 Dots
+- Arrancar Talo: Gaste sua ação de movimento e 2 Estâmina para arrancar um pedaço metálico do alvo, causando dano equivalente a 2x Veneno. Remove 2 Dots de "Metalriposa Presa".
 - Metalizar: Gaste sua ação e 2pp para metalizar o alvo no lugar por uma rodada
 - Metalizado: Não pode realizar ações nem reações. Recebe 10 de resistência
 
