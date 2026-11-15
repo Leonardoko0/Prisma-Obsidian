@@ -91,11 +91,11 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 20, :** 
 ## Injetor Original
 Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques direcionado além disso sua Veisalgia se torna Veisalgia Demoníaca
-- Veisalgia Demoníaca: Vo^c 
+- Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
 
 **LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher entre ganhar o Sangue-Pesado como vida ou causar essa mesma quantidade como dano extra.
 
-**LV 9, :**
+**LV 9, :** Você pode gast
 
 **LV 14, :** 
 
