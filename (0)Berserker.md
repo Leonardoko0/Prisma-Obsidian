@@ -92,7 +92,7 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 9, :** Sua lista de injetores aumenta ainda mais
 
-- 
+- VEL-N 89: (1 ⍒) Aumenta o Movimento em 3m. Quantidade aumentada em 3 nos níveis 6, 11 e  
 
 **LV 14, :** 
 
