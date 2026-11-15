@@ -68,7 +68,7 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 **LV 9, Carapaça de Ferro:** Você pode gastar 1 de Estâmina para transformas 1tile de mariposa em um Semi Cover e mais uma vez para Três Quartos de Cover 
 
 - Semi Cover: Recebe +2 na DT e não pode sofrer ataques direcionados
-- Três Quartos Cover: Recebe +5 n
+- Três Quartos Cover: Recebe +5 na DT e não pode sofrer ataques direcionados
 
 **LV 14, :** .
 
