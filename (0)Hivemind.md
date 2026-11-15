@@ -70,7 +70,7 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 - Semi Cover: Recebe +2 na DT e não pode sofrer ataques direcionados
 - Três Quartos Cover: Recebe +5 na DT e não pode sofrer ataques direcionados
 
-**LV 14, Metapreso:** 
+**LV 14, Metalpreso:**  
 
 **LV 20, :** .
 ##
