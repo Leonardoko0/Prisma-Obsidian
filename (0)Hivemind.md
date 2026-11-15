@@ -85,7 +85,8 @@ Você puxa todas as mariposas criando um furação de raio 1 que dura 3 rodadas.
 Sua contagem de população é dividida pela metade. Agora você deve eclodir casulos para as nuvens serem geradas
 - Seu dano muda para Erebus
 - Você pode mover as nuvens 3m gastando 1 Estâmina ou 1 PP
-- 
-**LV 3, :**
+- Quando um alvo termina sua rodada dentro da nuvem ele é implantado com ovos
+
+**LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento
 
 ##
