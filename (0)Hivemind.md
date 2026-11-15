@@ -15,7 +15,7 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 ### -DIVIDIR
 Você gasta 2 PP e sua ação padrão para atirar um quantidade variável de mariposas de forma linear. A cada 3 populações extras custa 1pp a mais e assim em diante. Ou seja de 1 a 3 tiles custa 2 PP padrão, de 3 a 6 custa +1 PP e assim vai indo
 ### -ESPALHAR (LV 3)
-Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 4 tiles. A cada 
+Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 2x2/4 tiles. Você pode gastar +5 populações e +1pp para gerar uma área 3x3
 ### -CAÇAR (LV 5)
 ### -DEFENDER (LV 7)
 ### -POSICIONAR (LV 10)
