@@ -131,8 +131,7 @@
               "title": "Vestimentas e Armaduras"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,10 +283,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9ffcd5fa1976ef72",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Riskrunner.md",
     "Berserker.md",
+    "Riskrunner.md",
     "Rpg/Personagens/Nômade.md",
     "Crosslink.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
