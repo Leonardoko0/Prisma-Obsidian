@@ -94,7 +94,7 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 20, :** Ao entrar em potência , você pode gastar 2pp e sua ação de movimento para entrar em potência 4 e seguindo o mesmo processo vc pode chegar em potência 5.
 - 4) O raio da explosão aumenta em 1, o raio de fratura em 2 e aumente o impacto para 
-- 5) Aumenta o dano da explosão para x e aumenta o raio da explosão em +1
+- 5) Aumenta o dano da explosão para 20d4+60 e aumenta o raio da explosão em +1
 ## Pedra-Lascada
 
 **LV 3, :** Ao atirar com 2 ou + ☀, você causa um dano igual a um terço em alvos adjacentes por cada disparo.
