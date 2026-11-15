@@ -100,7 +100,7 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 - Melhorar Alcance de Habilidade: (3 PP) Você dobra o alcance de sua habilidade. Pode ser melhorada 2x para um total de 24m
 - Melhorar Duração de Habilidade: (5 PP) Você aumenta a duração de suas habilidade em 1 rodada
-- 
+- Reação Injetável: (4 PP) Ao usar uma reação você pode usar sua habilidade como um efeito adicional
 
 **LV 20, :** 
 ## Injetor Original
