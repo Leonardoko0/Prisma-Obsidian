@@ -81,7 +81,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 - 7) Inferior Esquerda: Empurra 6m
 - 8) Cima: Empurra 12m 
 ## KaboomZooka
-Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação completa para realizar um disparo e também você não precisa mais recarregar suas balas. seu dano se torna 3☀
+Sua arma se transforma em um lançador de mísseis pesado. Seus disparos consomem 3 PP e uma ação completa. Você não precisa mais recarregar sua arma, e seu dano passa a ser de 3 ☀.
 
 **LV 3, Potências:** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma. o dano de impacto é dobrado no nível 10
 - 1) Você aumenta o Alcance para 15m
