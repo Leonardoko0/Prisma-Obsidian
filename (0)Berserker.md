@@ -90,7 +90,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, :** 
 ## Injetor Original
-Você utiliza um injetor Berserker antiquado com mais cap 
+Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques d 
 **LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher entre ganhar o Sangue-Pesado como vida ou causar essa mesma quantidade como dano extra.
 
 **LV 9, :**
