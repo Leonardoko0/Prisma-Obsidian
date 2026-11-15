@@ -83,7 +83,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 ## KaboomZooka
 Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação completa para realizar um disparo e também você não precisa mais recarregar suas balas. seu dano se torna 3☀
 
-**LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma. o dano de impacto é dobrado no nível 10
+**LV 3, Potências:** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma. o dano de impacto é dobrado no nível 10
 - 1) Você aumenta o Alcance para 15m
 - 2) Você melhora sua distância para 16,5 m e causa 1d6 impacto extra ao acertar
 - 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebem 2d6 dano de impacto
@@ -99,8 +99,8 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 3, Fragmentos:** Ao atirar com 2 ou + ☀, você causa um dano igual a um terço em alvos adjacentes por cada disparo.
 
-**LV 9, :** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
+**LV 9, Tiro quebradiço:** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
 
-**LV 14, :** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em todos os tiles adjacentes ao alvo. Alvos que pisarem recebem um dano igual a ☀
+**LV 14, Bala Estrepes:** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em todos os tiles adjacentes ao alvo. Alvos que pisarem recebem um dano igual a ☀
 
-**LV 20, :** Seus fragmentos causam metade do dano total. Além disso inimigos acertados adjacentemente atiram fragmentos para todos os lados causando um quarto do dano inicial
+**LV 20, Fragmentação Absoluta:** Seus fragmentos causam metade do dano total. Além disso inimigos acertados adjacentemente atiram fragmentos para todos os lados causando um quarto do dano inicial
