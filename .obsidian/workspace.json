@@ -145,7 +145,8 @@
               "title": "Lista de Oq Fazer"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -297,13 +298,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "129fdb495341a08d",
+  "active": "244f6db6d1cccb94",
   "lastOpenFiles": [
+    "Berserker.md",
+    "(0)Hivemind.md",
     "Lista de Oq Fazer.md",
     "Rpg/Prisma.md",
-    "(0)Hivemind.md",
     "Riskrunner.md",
-    "Berserker.md",
     "Rpg/Personagens/Nômade.md",
     "Crosslink.md",
     "Apostle.md",

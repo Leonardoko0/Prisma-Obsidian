@@ -55,7 +55,6 @@ Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicio
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 ## Habilidade Ativa
-
 **LV 4, -MANTER:** Gaste 1pp para manter uma formação ativa
 
 **LV 14, -CONCENTRAR:** Você pode gastar o dobro do custo da sua habilidade (tanto em PP quanto em População) para concentrar e causar o dobro do dano
