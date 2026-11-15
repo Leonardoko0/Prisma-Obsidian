@@ -103,7 +103,7 @@ Seus injetores possuem alcance de 6 m e exigem 1 PP e uma ação de movimento ou
 - Melhorar Duração de Habilidade: (5 PP) Você aumenta a duração de suas habilidade em 1 rodada
 - Reação Injetável: (4 PP) Ao usar uma reação você pode usar sua habilidade como um efeito adicional
 
-**LV 20, Estimulantes:** Você possui estimulantes capazes de mudar o mundo
+**LV 20, Estimulante :** Você possui estimulantes capazes de mudar o mundo
 
 - Veisalgia Demoníaca: (3 ⍒) Você faz um alvo entrar no estado de Veisalgia Demoníaca
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
