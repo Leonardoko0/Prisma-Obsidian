@@ -7,4 +7,4 @@
 
 **Armadura:** Leve 
 ##  The HIVE Actuator
-**Um cilindro repleto de mariposas e um composto **
+**Um cilindro mátalico repleto de mariposas e um composto dissonante de feromônio, **
