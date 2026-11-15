@@ -19,7 +19,7 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 ### -POSICIONAR (LV 10)
 | Nível | Proficiência | População | Veneno | V Nuvem |           Características            |
 | :---: | :----------: | :-------: | :----: | ------- | :----------------------------------: |
-|  1*   |      +2      |     2     |        |         |          The HIVE Actuator           |
+|  1*   |      +2      |     2     |  1d4   | 1d6     |          The HIVE Actuator           |
 |  2*   |      +2      |     3     |        |         |             Treinamento              |
 |  3*   |      +2      |     4     |        |         |         Subclasse (ESPALHAR)         |
 |  4*   |      +2      |     5     |        |         |  Melhoramento de Atributo (MANTER)   |
