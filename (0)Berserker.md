@@ -72,7 +72,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 9, Injetor Metal:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora você perde o seu bônus em acerto que se transforma em armadura temporária. No nível 9 você recebe 10 pontos de armadura que regenera 3 por rodada, no nível 11 se torna 15 pontos e 4 regeneração e no nível 17 se torna 20 pontos e 5 regeneração 
 
-**LV 14, Besta Armadurada:**  
+**LV 14, Besta Armadurada:** Ao ter sua armadura temporária
 
 **LV 20, :** 
 ## Aberrante
