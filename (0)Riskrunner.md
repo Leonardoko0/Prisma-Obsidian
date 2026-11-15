@@ -83,12 +83,12 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 ## KaboomZooka
 Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação completa para realizar um disparo e também você não precisa mais recarregar suas balas.
 
-**LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma.
+**LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp e sua ação de movimento para ativar uma potência da sua arma. o dano de impacto é dobrado no nível 10
 - 1) Você aumenta o Alcance para 15m
-- 2) Você melhora sua distância para 16,5 m e causa x impacto extra ao acertar
-- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe 2d6 dano de impacto
+- 2) Você melhora sua distância para 16,5 m e causa 1d6 impacto extra ao acertar
+- 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebem 2d6 dano de impacto
 
-**LV 9, :** Ao acertar um alvo atirando com potência 2 ou maior, gaste 1pp para o disparo atravessar o alvo causando x dano de impacto e se locomovendo + 16,5 m para outro alvo.
+**LV 9, :** Ao acertar um alvo atirando com potência 2 ou maior, gaste 1pp para o disparo atravessar o alvo causando 2d6 dano de impacto e se locomovendo + 16,5 m para outro alvo.
 
 **LV 14, :** Ao acertar com potência 2 o alvo fica caído e ao acertar com potência 3 ele recebe fratura perna
 
