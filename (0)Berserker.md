@@ -125,4 +125,4 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 - Recebe 100 pontos de Vida Temporária.
 - Seu Sangue-Pesado não decai mais.
 - Seu Movimento aumenta em 12 m.
-- Além disso, sempre que realizar um ataque contra um alvo indesejado, você deve realizar uma salvaguarda de Lucidez (DT 20). Em caso de sucesso, você consegue resistir à Veisalgia Demoníaca e não ataca o alvo.
+Além disso, sempre que realizar um ataque contra um alvo indesejado, você pode realizar uma salvaguarda de Lucidez (DT 20). Em caso de sucesso, você consegue resistir a Veisalgia Demoníaca e não ataca o alvo.
