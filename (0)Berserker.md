@@ -90,7 +90,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, :** 
 ## Injetor Original
-**LV 3, :** Ao ativar seu injetor, 
+**LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher enrre ganhar o 
 
 **LV 9, :**
 
