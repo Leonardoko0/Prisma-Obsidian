@@ -58,5 +58,6 @@ Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicio
 
 **LV 4, -MANTER:** Gaste 1pp para manter uma formação ativa
 
-**LV 14, -CONCENTRAR:**
+**LV 14, -CONCENTRAR:** Você pode gastar o dobro do custo da sua habilidade (tanto em PP quanto em População) para concentrar e causar o dobro do dano
 
+**LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Hivemind.
