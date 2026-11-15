@@ -73,8 +73,9 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 9, Injetor Metal:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora você perde o seu bônus em acerto que se transforma em armadura temporária. 
 
 
-| LV 9  |     |     |     |
+| Nível |     |     |     |
 | ----- | --- | --- | --- |
+| LV 9  |     |     |     |
 | LV 11 |     |     |     |
 | LV 17 |     |     |     |
 
