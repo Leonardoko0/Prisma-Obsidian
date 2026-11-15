@@ -17,8 +17,9 @@ Você gasta 2 PP e sua ação padrão para atirar um quantidade variável de mar
 ### -ESPALHAR (LV 3)
 Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua ação padrão para atirar uma quantidade de cargas em forma quadrada de 2x2/4 tiles. Você pode gastar +5 populações e +1pp para gerar uma área 3x3. Mínimo 4 Populações
 ### -CAÇAR (LV 5)
-Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas causaram o dano de veneno padrão e o V Nuvem equivalente a número de populações uscaso o alvo termine sua rodada dentro desse 9m de você. A Habilidade termina após uma rodada ou caso o alvo saia do alcance de 9m
+Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas causaram o dano de veneno padrão a número de populações usada na habilidade e o V Nuvem equivalente caso o alvo termine sua rodada dentro desse 9m de você. A Habilidade termina após uma rodada ou caso o alvo saia do alcance de 9m
 ### -DEFENDER (LV 7)
+Gaste 2 PP
 ### -POSICIONAR (LV 10)
 ## Árvore de Habilidade
 
