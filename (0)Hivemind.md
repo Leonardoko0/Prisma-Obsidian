@@ -19,8 +19,9 @@ Você tem um alcance de 6m para posicionar essa habilidade. Gaste 2PP e sua aç�
 ### -CAÇAR (LV 5)
 Gaste 2 pp para atirar de 1 a 2 populações em um alvo a 9m. As mariposas o perseguiram causando o dano de veneno padrão equivalente ao número de populações usada na habilidade e o V Nuvem caso o alvo termine sua rodada dentro desse 9m de você. A Habilidade termina após uma rodada ou caso o alvo saia do alcance de 9m
 ### -DEFENDER (LV 7)
-Gaste 2 PP
+Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo
 ### -POSICIONAR (LV 10)
+Em uma área de 12m
 ## Árvore de Habilidade
 
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
