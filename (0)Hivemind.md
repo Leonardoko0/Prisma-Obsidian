@@ -12,9 +12,9 @@
 A Hive é equipamento que permite você usar diversas formações de mariposas para causar dano de veneno em alvos que passarem pela nuvem ou terminarem suas rodadas dentro delas. Por padrão cada tile é equivalente a uma população de mariposa e a formação dura uma rodada.
 
 ### -DIVIDIR
-### -ESPALHAR
-### -CAÇAR
-### -DEFENDER
+### -ESPALHAR (LV 3)
+### -CAÇAR (LV 5)
+### -DEFENDER ()
 ### -POSICIONAR
 
 
