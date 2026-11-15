@@ -72,14 +72,14 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes recebem vantagem além disso vc sofre -2 defesa. 
 
 **LV 20, Ressonância Magnética:** Gaste 10pp -1 a cada ☀ gasto, para atirar todas as suas ☀ de uma só vez. Ao acertar o alvo, suas balas empurram o alvo 6m para direções aleatórias definidas por 1d8.
-- 1) Baixo:
-- 2) Superior
-- 3) Superior Direita
-- 4) Superior Esquerda
-- 5) Inferior
-- 6) 
-- 7)
-- 8)
+- 1) Baixo: Empu
+- 2) Superior: Empurra 6m
+- 3) Superior Direita: Empurra 6m
+- 4) Superior Esquerda: Empurra 6m
+- 5) Inferior: Empurra 6m
+- 6) Inferior Direita: Empurra 6m
+- 7) Inferior Esquerda: Empurra 6m
+- 8) Cima: Empurra 12m 
 ## KaboomZooka
 **LV 3, :**
 
