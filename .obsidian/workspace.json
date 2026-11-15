@@ -137,16 +137,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Lista de Oq Fazer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Lista de Oq Fazer"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,9 +297,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e018528253b9a977",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Sem título 1.md",
+    "Lista de Oq Fazer.md",
     "Rpg/Prisma.md",
     "(0)Hivemind.md",
     "Riskrunner.md",
