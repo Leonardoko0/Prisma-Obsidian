@@ -13,7 +13,7 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 
 *Suas Mariposas são parte de você e você escolhe quem atacar e quem não atacar*
 ### -DIVIDIR
-Você gasta 2 PP e sua ação padrão 
+Você gasta 2 PP e sua ação padrão para atirar um quantidade variável de mariposas de forma linear. Mínimo de duas populações.
 ### -ESPALHAR (LV 3)
 ### -CAÇAR (LV 5)
 ### -DEFENDER (LV 7)
