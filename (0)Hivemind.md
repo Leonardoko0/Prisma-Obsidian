@@ -99,4 +99,6 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 - Ovos Receptores: Caso um inimigo passe adjacentemente ao ovo ele nasce uma rodada mais cedo. pode acumular até o nascimento
 - Nascimento Prematuro: Caso um inimigo passe adjacentemente ao ovo ele nasce causam V Nuvem e morrem
 - Ovos da Rainha: Nasce uma nuvem de 4 tiles porém demora uma rodada extra para nascer
+
+**LV 20, Carapaça de Ferro:**
 ##
