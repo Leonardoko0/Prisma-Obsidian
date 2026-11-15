@@ -73,11 +73,11 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 9, Injetor Metal:** Seu injetor deixa de ser ofensivo e se torna defensivo. Agora você perde o seu bônus em acerto que se transforma em armadura temporária. 
 
 
-| Nível |     |     |     |
-| ----- | --- | --- | --- |
-| LV 9  |     |     |     |
-| LV 11 |     |     |     |
-| LV 17 |     |     |     |
+| Nível | Durabilidade | Absorção | Regeneração |
+| :---: | :----------: | :------: | :---------: |
+| LV 9  |      10      |    5     |      3      |
+| LV 11 |      15      |    7     |      4      |
+| LV 17 |      20      |    10    |             |
 
 **LV 14, Besta Armadurada:** Ao ter sua armadura temporária
 
