@@ -2,9 +2,9 @@
 
 **Pontos de vida**: 1d6 + modificador de vigor
 
-**Proficiências**:
+**Proficiências**: Atletismo
 
-**Salvaguardas**: 
+**Salvaguardas**: Fortitude e Tenacidade
 
 **Armadura:** Leve e Média
 
