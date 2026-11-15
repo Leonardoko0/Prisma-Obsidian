@@ -88,12 +88,12 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 - 2) Você melhora sua distância para 16,5 m e causa x impacto extra ao acertar
 - 3) Você carrega sua arma ao máximo causando uma explosão de impacto quando a bala acertar o alvo. Todos adjacentes devem fazer um salvaguarda de reflexo (DT Ataque) ou recebe x dano de impacto
 
-**LV 9, :** Ao acertar um alvo atirando com potência 2, gaste 1pp para o disparo atravessar o alvo causando x dano de impacto e se locomovendo + 16,5 m para outro alvo.
+**LV 9, :** Ao acertar um alvo atirando com potência 2 ou maior, gaste 1pp para o disparo atravessar o alvo causando x dano de impacto e se locomovendo + 16,5 m para outro alvo.
 
 **LV 14, :** Ao acertar com potência 2 o alvo fica caído e ao acertar com potência 3 ele recebe fratura perna
 
 **LV 20, :** Ao entrar em potência , você pode gastar 2pp e sua ação de movimento para entrar em potência 4 e seguindo o mesmo processo vc pode chegar em potência 5.
-- 4)
+- 4) O raio da explosão aumenta em 1 e o raio de fratura em 2
 - 5)
 ## Pedra-Lascada
 **LV 3, :**
