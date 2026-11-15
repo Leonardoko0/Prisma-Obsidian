@@ -61,6 +61,14 @@ Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicio
 
 **LV 3/9/14/20 Subclasse:** São suas técnicas provenientes de um estilo, são o conjunto de habilidade que faz você ser diferente de outro Hivemind.
 ## Onthophagus Taurus Metalical
-As mariposas recebem uma mutação que faz suas asas se tornarem me
+As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o dano de veneno é transformado em dano de corte.
+
+**LV 3, Instinto Primitivo:** 
+
+**LV 9, Veias Saltadas:** 
+
+**LV 14, :** .
+
+**LV 20, :** .
 ##
 ##
