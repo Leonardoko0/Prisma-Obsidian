@@ -75,7 +75,7 @@ As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o 
 - 3 Dots, Perde 4,5m e permite usar "Metalizar"
 
 - Arrancar Talo: Gaste sua ação do movimento e 2 estâmina para arrancar um pedaço causando 2x Veneno. Gasta 2 Dots
-- Metalizar: Gaste sua ação 
+- Metalizar: Gaste sua ação e 2pp para travar o alvo no lugar por uma rodada
 
 **LV 20, :** .
 ##
