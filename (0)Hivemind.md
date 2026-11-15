@@ -115,6 +115,6 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **LV 14, Salão real:** Ao utilizar a Habilidade "POSICIONAR" gaste 3 Cera e posicione um Zangão
 
-**Zangão:** Todos os insetos em um alcance de 
+**Zangão:** Todos os insetos em um alcance de 6m causam 2 dados de dano a mais. Ele não causa dano e dura uma quantidade indefinida de rodadas
 
 **LV 20, :**
