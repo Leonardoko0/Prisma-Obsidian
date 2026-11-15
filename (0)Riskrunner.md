@@ -64,7 +64,7 @@ Você saca sua Minigun e começa a atirar até todas as suas ☀ sejam consumida
 ## Gravitino
 Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo por disparo. Seus tiros não sofrem efeito da gravidade e seu alcance se torna 15m
 
-**LV 3, Empuxo e Impulso:** Ao atirar e acertar, Gaste 1 ☀ para empurrar o alvo acertado 4,5m para qualquer direção. Ao utilizar a Minigun, no segundo turno disparando, essa ação se torna gratuita.
+**LV 3, Empuxo e Impulso:** Ao acertar um disparo, você pode gastar 1 ☀ para empurrar o alvo atingido em 4,5 m em qualquer direção. Ao utilizar a Minigun, essa habilidade se torna gratuita a partir do segundo turno consecutivo de disparos.
 
 **LV 9, Portal:** Ao acertar gaste 1 ☀ para atirar um alvo 12m para cima, ele deve gastar sua reação para realizar um salvaguarda (DT 10) evitando metade do dano.  Causa 1d6 a cada 3m
 
