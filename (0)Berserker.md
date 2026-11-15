@@ -97,4 +97,3 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 **LV 14, :** 
 
 **LV 20, :** 
-Loucura
