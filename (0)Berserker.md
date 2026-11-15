@@ -104,8 +104,8 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 20, :** Você possui uma quantidade de estimulantes capazes de mudar o mundo
 
-- Veisalgia Demoníaca: Você faz um alvo entrar no estado de Veisalgia Demoníaca
-- Expansão de Tudo: Você faz um alvo receber vantagem em todos os teste e salvaguarda realizados
+- Veisalgia Demoníaca: (3 ⍒) Você faz um alvo entrar no estado de Veisalgia Demoníaca
+- Expansão de Tudo: (⍒) Você faz um alvo receber vantagem em todos os teste e salvaguarda realizados
 - 
 ## Injetor Original
 Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques direcionado além disso sua Veisalgia se torna Veisalgia Demoníaca
