@@ -102,6 +102,6 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 9, :** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
 
-**LV 14, :** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em 
+**LV 14, :** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em todos os tiles adjacentes ao alvo. Alvos que pisarem recebem um dano igual a ☀
 
-**LV 20, :**
+**LV 20, :** 
