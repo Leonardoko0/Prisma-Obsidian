@@ -24,7 +24,7 @@ A habilidade termina após 1 rodada ou caso o alvo saia do alcance de 9 m.
 ### -DEFENDER (LV 7)
 Gaste 2 PP e sua reação. Ao ser acertado, libere mariposas em todos os tiles adjacentes causando o dano de Veneno e V Nuvem no alvo. Mínimo 6 Populações
 ### -POSICIONAR (LV 10)
-Em uma área de 12m de raio . Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro desses 12m. Essa ação pode ser feita duas vezes no mesmo turno
+Em uma área de 12m de raio. Gaste 2PP e sua ação de movimento ou padrão para posicionar 2 populações dentro dessa área. Essa ação pode ser feita duas vezes no mesmo turno
 ## Árvore de Habilidade
 
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
