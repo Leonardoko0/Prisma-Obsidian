@@ -104,4 +104,4 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 
 **LV 14, :** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em todos os tiles adjacentes ao alvo. Alvos que pisarem recebem um dano igual a ☀
 
-**LV 20, :** Seus fragmentos causam metade do dano total. Além disso inimigos acertados adjace
+**LV 20, :** Seus fragmentos causam metade do dano total. Além disso inimigos acertados adjacentemente atiram fragmentos para todos os lados causando um quarto do dano inicial
