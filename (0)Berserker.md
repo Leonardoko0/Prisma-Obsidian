@@ -82,7 +82,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, Fortaleza impossível:** Ao estar no estado de Bloodlust e sua armadura quebrar, gaste 1pp para regenera-la totalmente. Você também pode fazer isso gastando 2pp e sua reação para receber 20 de absorção neste ataque
 ## Química Irregular
-Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m
+Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m e você gasta uma ação de movimento ou padrão para atirar
 
 **LV 3, :** Você possui uma lista de injetores que duram uma rodada.
 
@@ -92,7 +92,8 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 9, :** Sua lista de injetores aumenta ainda mais
 
-- VEL-N 89: (1 ⍒) Aumenta o Movimento em 3m. Quantidade aumentada em 3 nos níveis 6, 11 e  
+- VEL-N 89: (1 ⍒) Aumenta o Movimento em 3m. Quantidade aumentada em 1,5 nos níveis 6, 11 e 17 
+- 
 
 **LV 14, :** 
 
