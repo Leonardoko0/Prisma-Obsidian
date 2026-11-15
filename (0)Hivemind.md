@@ -87,6 +87,8 @@ Sua contagem de população é dividida pela metade. Agora você deve eclodir ca
 - Você pode mover as nuvens 3m gastando 1 Estâmina ou 1 PP
 - Quando um alvo termina sua rodada dentro da nuvem ele é implantado com ovos
 
-**LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento
+**LV 3, Ovos de Sangue:** Gasta 1pp e sua ação de movimento para colocar ovos em um tile adjacente. Os ovos demoram 2 rodadas para nascer e -1 rodada toda vez que um alvo receber dano adjacentemente a ele
+
+Gastando 3
 
 ##
