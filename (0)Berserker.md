@@ -97,13 +97,13 @@ Seus injetores possuem alcance de 6 m e exigem 1 PP e uma ação de movimento ou
 - Veisalgia Calamita: (2 ⍒) Você faz o alvo perder sua reação
 - BRK-N 17: (2 ⍒) Você faz o dano recebido por um alvo ser aumentado em 2D. Esse dano é aumentado em +1d nos níveis 12 e 18
 
-**LV 14, :** Agora você pode gastar pp para melhorar suas próprias capacidades pelo combate.
+**LV 14, Química Pessoal:** Agora você pode gastar pp para melhorar suas próprias capacidades pelo combate.
 
 - Melhorar Alcance de Habilidade: (3 PP) Você dobra o alcance de sua habilidade. Pode ser melhorada 2x para um total de 24m
 - Melhorar Duração de Habilidade: (5 PP) Você aumenta a duração de suas habilidade em 1 rodada
 - Reação Injetável: (4 PP) Ao usar uma reação você pode usar sua habilidade como um efeito adicional
 
-**LV 20, :** Você possui estimulantes capazes de mudar o mundo
+**LV 20, Estimulantes:** Você possui estimulantes capazes de mudar o mundo
 
 - Veisalgia Demoníaca: (3 ⍒) Você faz um alvo entrar no estado de Veisalgia Demoníaca
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
