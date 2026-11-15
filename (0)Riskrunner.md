@@ -97,7 +97,8 @@ Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação c
 - 4) O raio da explosão aumenta em 1, o raio de fratura em 2 e aumente o impacto para 
 - 5) Aumenta o dano da explosão para x e aumenta o raio da explosão em +1
 ## Pedra-Lascada
-**LV 3, :**
+
+**LV 3, :** 
 
 **LV 9, :**
 
