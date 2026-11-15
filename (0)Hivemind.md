@@ -7,4 +7,4 @@
 
 **Armadura:** Leve 
 ##  The HIVE Actuator
-**Um cilindro mátalico repleto de mariposas e um composto dissonante de feromônio, **
+**Um cilindro metálico repleto de mariposas e um composto dissonante de feromônio, As mariposas são um com a colmeia e a colmeia é**
