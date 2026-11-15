@@ -104,7 +104,9 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 ## Colmeia Rainha
 As mariposas criam um senso de comunidade aprimorado e se dividem em funções e trabalhos
 
-**LV 3, :** Você pode definir a função ds antes de colocar uma formação
+**LV 3, :** Você pode definir a função das mariposas antes de colocar uma formação.
+
+**Operarias:**
 
 **LV 9, :**
 
