@@ -71,7 +71,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 **LV 14, Levrim:** Ao iniciar uma sequência de disparos com a VULKA, tendo 3 ou + ☀ no pente, você pode gastar 1 PP para fazer o alvo levitar 3 m no ar. O alvo pode realizar uma salvaguarda de Inteligência (DT de Ataque) para evitar a condição.
 - Levitado: O alvo não pode se movimentar, sofre desvantagem em seus ataques e concede vantagem aos ataques realizados contra ele. Além disso, sofre -2 na Defesa.
 
-**LV 20, Ressonância Magnética:** Gaste 10pp -1 a cada ☀ gasto, para atirar todas as suas ☀ de uma só vez. Ao acertar o alvo, suas balas empurram o alvo 6m para direções aleatórias definidas por 1d8.
+**LV 20, Ressonância Magnética:** Gaste 10 PP, reduzidos em 1 PP para cada ☀ gastos, para disparar todos os seus ☀ de uma só vez. Ao acertar o alvo, seus disparos o empurram em direções aleatórias, determinadas por 1d8.
 - 1) Baixo: Empurra o chão causando dano = 2 ☀
 - 2) Superior: Empurra 6m
 - 3) Superior Direita: Empurra 6m
