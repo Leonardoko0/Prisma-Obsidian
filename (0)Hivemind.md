@@ -102,4 +102,12 @@ Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 
 **LV 20, Bulbo do Vampiro:** Você pode gastar 5pp e sua ação principal para todos os inimigos em um raio de 12m ficarem implantados com "Ovos da Rainha". Ao eclodirem todo dano causado e regenerado da sua vida
 ## Colmeia Rainha
+As mariposas criam um senso de comunidade aprimorado e se dividem em funções e trabalhos
 
+**LV 9, Carapaça de Ferro:**
+
+**LV 9, Carapaça de Ferro:**
+
+**LV 9, Carapaça de Ferro:**
+
+**LV 9, Carapaça de Ferro:**
