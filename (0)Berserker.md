@@ -82,11 +82,11 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 
 **LV 20, Fortaleza impossível:** Ao estar no estado de Bloodlust e sua armadura quebrar, gaste 1pp para regenera-la totalmente. Você também pode fazer isso gastando 2pp e sua reação para receber 20 de absorção neste ataque
 ## Química Irregular
-Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m e você gasta uma ação de movimento ou padrão para atirar
+Seu estimulante é divido em diversos outros com vários efeitos positivos e negativos. Agora você utiliza ⍒ como cargas para atirar seus estimulantes. Seu alcance é de 6m e você gasta uma ação de movimento ou padrão e 1pp para atirar
 
 **LV 3, :** Você possui uma lista de injetores que duram uma rodada.
 
-- DNO-N 100: (2 ⍒) Aumenta o Dano do alvo em 1D. Esse dano é aumentando em +1 nos níveis 6, 12 e 18
+- DNO-N 100: (2 ⍒) Aumenta o Dano do alvo em 1D. Esse dano é aumentando em +1d nos níveis 6, 12 e 18
 - ACRT-N 102: (1 ⍒) Aumenta o acerto para ataques padrões em +2. Bônus aumentado em 1 nos níveis 6, 11 e 17
 - VDI-N 619: (2 ⍒) Você recupera vida uma quantidade igual a 1d6. Quantidade aumentada no níveis 5 (1d8+2) 10 (2d8+3) 15 (3d8+6) 20 (4d8+8)
 
@@ -94,7 +94,7 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 - VEL-N 89: (1 ⍒) Aumenta o Movimento em 4,5m. Quantidade aumentada em 1,5 nos níveis 11 e 17 
 - Veisalgia Calamita: (2 ⍒) Você faz o alvo perder sua reação
-- BRK-N 17: (2 ⍒) Você faz o dano recebido por um alvo ser aumentado em 2D
+- BRK-N 17: (2 ⍒) Você faz o dano recebido por um alvo ser aumentado em 2D. Esse dano é aumentado em +1d nos níveis 12 e 18
 
 **LV 14, :** 
 
