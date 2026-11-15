@@ -106,7 +106,7 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **LV 3, :** Você pode definir a função das mariposas antes de colocar uma formação.
 
-**Operarias:** Pode ter 5 abelhas operarias totais. 
+**Operarias:** Pode ter 5 abelhas operarias totais. Operarias causam metade do dano porém geram 1 cera quando o inimigo passa pela Nuvem e 2 quando um inimigo finaliza dentro 
 
 **LV 9, :**
 
