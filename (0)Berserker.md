@@ -88,7 +88,7 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 - DNO-N 100: (2 ⍒) Aumenta o Dano do alvo em 1D. Esse dano é aumentando em +1 nos nÍveis 6, 12 e 18
 - ACRT-N 102: (1 ⍒) Aumenta o acerto para ataques padrões em +2. Bônus aumentado em 1 nos níveis 6, 11 e 17
-- VD
+- VDI-N 619: (2 ⍒) Você recupera vida uma quantidade igual a 1d6. Quantidade aumentada no níveis 5 (1d8+2)
 
 
 **LV 9, :**
