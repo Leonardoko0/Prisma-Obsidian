@@ -96,7 +96,9 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 - Veisalgia Calamita: (2 ⍒) Você faz o alvo perder sua reação
 - BRK-N 17: (2 ⍒) Você faz o dano recebido por um alvo ser aumentado em 2D. Esse dano é aumentado em +1d nos níveis 12 e 18
 
-**LV 14, :** 
+**LV 14, :** Agora você pode gastar pp para melhorar suas próprias capacidades pelo combate.
+
+Melhorar Alcance de Habilidade: (4 PP) 
 
 **LV 20, :** 
 ## Injetor Original
