@@ -78,7 +78,7 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 | LV 11 |      15      |    7     |      4      |
 | LV 17 |      20      |    10    |      5      |
 
-**LV 14, Besta Armadurada:** Ao ter sua armadura temporária
+**LV 14, Besta Armadurada:** Ao ter sua armadura temporária quebrada pela primeira vez no combate, Você ativa um estado de Bloodlust superior por uma rodada. Seu dano
 
 **LV 20, :** 
 ## Aberrante
