@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -270,15 +270,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dacd8db30fc10ac5",
+  "active": "690ab00ddbc4d67e",
   "lastOpenFiles": [
+    "Riskrunner.md",
+    "Crosslink.md",
     "Apostle.md",
     "Rpg/Personagens/Artilherista.md",
     "Drifter.md",
     "Berserker.md",
     "(0)Hivemind.md",
-    "Riskrunner.md",
-    "Crosslink.md",
     "Rpg/Personagens/Nômade.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Sistema de Base.md",
