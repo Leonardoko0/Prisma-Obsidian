@@ -108,7 +108,6 @@ Seus injetores possuem alcance de 6 m e exigem 1 PP e uma ação de movimento ou
 - Veisalgia Demoníaca: (3 ⍒) Você faz um alvo entrar no estado de Veisalgia Demoníaca
 - Expansão de Tudo: (3 ⍒) Você faz um alvo receber vantagem em todos os teste e salvaguarda realizados
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
-- 
 ## Injetor Original
 Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques direcionado. Além disso sua Veisalgia se torna Veisalgia Demoníaca
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
@@ -125,4 +124,4 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 - Recebe 100 pontos de Vida Temporária.
 - Seu Sangue-Pesado não decai mais.
 - Seu Movimento aumenta em 12 m.
-Além disso, sempre que realizar um ataque contra um alvo indesejado, você pode realizar uma salvaguarda de Lucidez (DT 20). Em caso de sucesso, você consegue resistir a Veisalgia Demoníaca e não ataca o alvo.
+Além disso, sempre que realizar um ataque contra um alvo indesejado, você pode realizar uma salvaguarda de Lucidez (DT 20). Caso seja um sucesso, você consegue resistir e não ataca o alvo.
