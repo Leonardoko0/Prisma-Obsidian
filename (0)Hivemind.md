@@ -63,7 +63,7 @@ Em uma área de 12m. Gaste 2PP e sua ação de movimento ou padrão para posicio
 ## Onthophagus Taurus Metalical
 As mariposas recebem uma mutação que faz suas asas se tornarem metal. Agora o dano de veneno é transformado em dano de corte.
 
-**LV 3, Caçada Lâminada:** Gasta 2pp e sua ação atirando uma rajada de Mariposas em um inimigo a 9m
+**LV 3, Caçada Lâminada:** Gasta 2pp e sua ação atirando uma rajada de Mariposas em um inimigo a 9m, causando dano igual 3x V Nuvem 
 
 **LV 9, :** 
 
