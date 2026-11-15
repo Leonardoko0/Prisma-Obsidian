@@ -97,6 +97,6 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 
 **LV 9, :** Seu injetor é melhora suas capacidades físicas de forma incrível. Você recebe vantagem em todos os testes realizados com força ou agilidade enquanto o injetor estiver ativo. Além disso você recebe mais 3m de movimento
 
-**LV 14, Descontrolar Controlável:**  
+**LV 14, Descontrolar Controlável:** Você pode desativar seu estimulante de forma controlada   
 
 **LV 20, :** 
