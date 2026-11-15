@@ -17,6 +17,8 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 ### -CAÇAR (LV 5)
 ### -DEFENDER (LV 7)
 ### -POSICIONAR (LV 10)
+## Árvore de Habilidade
+
 | Nível | Proficiência | População | Veneno | V Nuvem |          Características           |
 | :---: | :----------: | :-------: | :----: | ------- | :--------------------------------: |
 |  1*   |      +2      |     2     |  1d4   | 1d6     |         The HIVE Actuator          |
@@ -47,5 +49,7 @@ A Hive é equipamento que permite você usar diversas formações de mariposas p
 **LV 6/11/17 Treinamento de Perícia:** Treine uma quantidade de X perícias baseado no seu intelecto
 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
+## Habilidade Ativa
 
+L
 

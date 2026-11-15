@@ -25,7 +25,7 @@ Ao falhar em manter o estimulante ativo, você sofre a condição Veisalgia Cala
 ### Veisalgia Calamita
 Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina e consome as reservas do Berserker, deixando-o em estado de Veisalgia. Você perde todo o Sangue-Pesado restante e não pode realizar reações durante 2 rodadas. Além disso você recebe -(Proficiência) em todos os testes físicos pelo mesmo período.
 
-## **Árvore de habilidade**
+## **Árvore de Habilidade**
 
 | Nível | Proficiência | Acerto | Dano | Sangue-Pesado |            Características             |
 | :---: | :----------: | :----: | :--: | :-----------: | :------------------------------------: |
