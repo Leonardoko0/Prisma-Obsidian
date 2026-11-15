@@ -108,6 +108,7 @@ Seus injetores possuem alcance de 6 m e exigem 1 PP e uma ação de movimento ou
 - Veisalgia Demoníaca: (3 ⍒) Você faz um alvo entrar no estado de Veisalgia Demoníaca
 - Expansão de Tudo: (3 ⍒) Você faz um alvo receber vantagem em todos os teste e salvaguarda realizados
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
+- 
 ## Injetor Original
 Você utiliza um injetor Berserker antiquado com mais capacidades de ataques porém com menos controle. Enquanto estiver com o Bloodlust ativo, você não pode realizar ataques a distância ou realizar ataques direcionado. Além disso sua Veisalgia se torna Veisalgia Demoníaca
 - Veisalgia Demoníaca: Você fica descontrolado por 1 rodada e deve atacar o alvo mais próximo sem se importar com sua vida ou se for um alvo amigo
@@ -118,4 +119,6 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 
 **LV 14, Descontrolar Controlável:** Você pode desativar seu estimulante de maneira controlada, gastando 2 PP. Ao fazer isso, seu próximo ataque se torna um crítico garantido. Entretanto, você entra imediatamente em Veisalgia Demoníaca.
 
-**LV 20, Mal Encarnado:** Você rompe suas amarras e abandona qualquer resquício de racionalidade, transformando-se em uma real besta. Você pode gastar 10 PP -1 PP por rodada enquanto o estimulante estiver ativo.
+**LV 20, Mal Encarnado:** Você rompe suas amarras e abandona qualquer resquício de racionalidade, transformando-se em uma real besta. Você pode gastar 10 PP -1 PP por rodada do estimulante ativo.
+- Seu dano é dobrado
+- Seu dano crítico é dobrado.
