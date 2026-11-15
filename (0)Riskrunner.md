@@ -66,7 +66,7 @@ Sua arma se torna um lançador de balas gravitacionais que atira duas ☀ fixo p
 
 **LV 3, Empuxo e Impulso:** Ao atirar e acertar, Gaste 1 ☀ para empurrar o alvo acertado 4,5m para qualquer direção. Ao utilizar a Minigun, no segundo turno disparando, essa ação se torna gratuita.
 
-**LV 9, Portal:** Ao acertar gaste 2 ☀ para atirar um alvo 12m para cima, ele deve gastar sua reação para realizar um salvaguarda (DT 10) evitando metade do dano
+**LV 9, Portal:** Ao acertar gaste 2 ☀ para atirar um alvo 12m para cima, ele deve gastar sua reação para realizar um salvaguarda (DT 10) evitando metade do dano.  Causa 
 
 **LV 14, Levrim:** Gaste 1pp para ao iniciar disparos com a VULKA com 3 ☀ ou mais, você faz o alvo levitar 3m no ar. O alvo pode realizar um salvaguarda de Int (DT Ataque) evitando condição
 Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes recebem vantagem além disso vc sofre -2 defesa. 
