@@ -81,8 +81,9 @@ Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes rec
 - 7) Inferior Esquerda: Empurra 6m
 - 8) Cima: Empurra 12m 
 ## KaboomZooka
-Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação completa para realizar um disparo e tamb
-**LV 3, :**
+Sua arma se torna um lança misseis pesado. Agora você gasta 3pp e sua ação completa para realizar um disparo e também você não precisa mais recarregar suas balas.
+
+**LV 3, :** Antes de um disparo você deve gastar de 1 a 3 pp para ativar uma potência da sua arma
 
 **LV 9, :**
 
