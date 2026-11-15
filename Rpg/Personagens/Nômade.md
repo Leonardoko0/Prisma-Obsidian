@@ -53,7 +53,6 @@ Gaste 2 PP, para atacar o alvo com a lâmina, ao atingir um dos seus 5 selos é 
 **LV 7/13 Proficiência de Combate:** As proficiências de combate são treinamentos com tipos específicos de armas, que permitem que você utilize armas mais complicadas
 
 ### Habilidade Ativa
-
 **LV 2, Karui Suteppu:** Aumenta seu movimento em 1,5m a cada Selo
 
 **LV 4, Kaifuku:** Sugue a energia corrupta da lâmina utilizando-a para curar suas feridas. Gaste 1 Selo para curar 1d6 de vida que se esvai no final do combate. O poder curativo da lâmina aumenta nos níveis 8/13/16
