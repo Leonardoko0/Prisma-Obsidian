@@ -92,8 +92,8 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 9, :** Sua lista de injetores aumenta ainda mais
 
-- VEL-N 89: (1 ⍒) Aumenta o Movimento em 3m. Quantidade aumentada em 1,5 nos níveis 6, 11 e 17 
-- 
+- VEL-N 89: (1 ⍒) Aumenta o Movimento em 4,5m. Quantidade aumentada em 1,5 nos níveis 11 e 17 
+- Veisalgia Calamita: (2 ⍒) 
 
 **LV 14, :** 
 
