@@ -81,6 +81,7 @@ Levitado: Não pode se movimentar, sofre desvantagens em ataques e atacantes rec
 - 7) Inferior Esquerda: Empurra 6m
 - 8) Cima: Empurra 12m 
 ## KaboomZooka
+Sua arma se torna um lança misseis pesado.
 **LV 3, :**
 
 **LV 9, :**
