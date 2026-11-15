@@ -84,5 +84,8 @@ Você puxa todas as mariposas criando um furação de raio 1 que dura 3 rodadas.
 ## Casulo Sanguíneo 
 Sua contagem de população é dividida pela metade. Agora você deve eclodir casulos para as nuvens serem geradas
 - Seu dano muda para Erebus
-- Você pode mover as nuvens 
+- Você pode mover as nuvens 3m gastando 1 Estâmina ou 1 PP
+- 
+**LV 3, :**
+
 ##
