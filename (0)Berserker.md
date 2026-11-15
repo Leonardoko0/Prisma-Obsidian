@@ -86,9 +86,10 @@ Seu estimulante é divido em diversos outros com vários efeitos positivos e neg
 
 **LV 3, :** Você possui uma lista de injetores que duram uma rodada.
 
-| Estimulante | Nível 3 | Nível 6 | Nível 11 | Nível 17 |
-| :---------: | :-----: | :-----: | :------: | :------: |
-|  ACRT-N 11  |         |         |          |          |
+| Estimulante |  Nível 3  | Nível 6 | Nível 11 | Nível 17 |
+| :---------: | :-------: | :-----: | :------: | :------: |
+|  ACRT-N 11  | +2 acerto |   +3    |    +4    |    +5    |
+|  DNO-N 100  | +1D dano  |         |          |          |
 
 
 **LV 9, :**
