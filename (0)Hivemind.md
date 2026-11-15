@@ -113,6 +113,8 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 **LV 9, :** Ao utilizar a habilidade "CAÇAR" gaste 2 de cera para fazer suas mariposas explodirem em contato com o alvo, ele recebe 3x V Nuvem e ficam encerado por 1d2 rodadas
 - Encerado: Aumenta todo dano causado pelas mariposas em 2 dados e abaixa o movimento em 3m
 
-**LV 14, Salão real:** Custa 3 Cera e só pode ser posicionado com a habilidade "POSICIONAR". O 
+**LV 14, Salão real:** Ao utilizar a Habilidade "POSICIONAR" gaste 3 Cera e posicione um Zangão
+
+
 
 **LV 20, :**
