@@ -119,6 +119,10 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 
 **LV 14, Descontrolar Controlável:** Você pode desativar seu estimulante de maneira controlada, gastando 2 PP. Ao fazer isso, seu próximo ataque se torna um crítico garantido. Entretanto, você entra imediatamente em Veisalgia Demoníaca.
 
-**LV 20, Mal Encarnado:** Você rompe suas amarras e abandona qualquer resquício de racionalidade, transformando-se em uma real besta. Você pode gastar 10 PP -1 PP por rodada do estimulante ativo.
+**LV 20, Mal Encarnado:** Você rompe suas amarras e abandona qualquer resquício de racionalidade, transformando-se em uma real besta. Você pode gastar 10 PP -1 PP por rodada do estimulante ativo para entrar em Bloodlust verdadeiro por 4 rodadas.
 - Seu dano é dobrado
 - Seu dano crítico é dobrado.
+- Recebe 100 pontos de Vida Temporária.
+- Seu Sangue-Pesado não decai mais.
+- Seu Movimento aumenta em 12 m.
+- Além disso, sempre que realizar um ataque contra um alvo indesejado, você deve realizar uma salvaguarda de Lucidez (DT 20). Em caso de sucesso, você consegue resistir à Veisalgia Demoníaca e não ataca o alvo.
