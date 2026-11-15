@@ -95,7 +95,7 @@ Você utiliza um injetor Berserker antiquado com mais capacidades de ataques por
 
 **LV 3, :** Ao ativar o injetor, você aumenta o dano bônus em 1 dado e pode escolher entre ganhar o Sangue-Pesado como vida ou causar essa mesma quantidade como dano extra.
 
-**LV 9, :** Seu injetor é melhora suas capacidades físicas de forma incrível. Você recebe vantagem em todos os testes realizados com força ou agilida
+**LV 9, :** Seu injetor é melhora suas capacidades físicas de forma incrível. Você recebe vantagem em todos os testes realizados com força ou agilidade enquanto o injetor estiver ativo. 
 
 **LV 14, :** 
 
