@@ -99,7 +99,7 @@ Sua arma se transforma em um lançador de mísseis pesado. Seus disparos consome
 
 **LV 3, Fragmentos:** Ao disparar com 2 ☀ ou mais, você causa dano de fragmentação aos alvos adjacentes equivalente a um terço do dano causado pelo disparo.
 
-**LV 9, Tiro quebradiço:** O dano de fragmentação é aplicado ao alvo principal também, além disso alvos acertados pelos fragmentos recebem fratura no braço. Salvaguarda de Con (DT 15) a DT aumenta para 20 no nível 12 e no nível 18 para 25
+**LV 9, Tiro quebradiço:** O dano de fragmentação também passa a ser aplicado ao alvo principal. Além disso, os alvos atingidos pelos fragmentos sofrem Fratura no Braço, podendo fazer um salvaguarda de Con para evitar a condição. A DT da salvaguarda é 15, aumentando para 20 no nível 12 e para 25 no nível 18.
 
 **LV 14, Bala Estrepes:** Gaste 1pp ao atirar com a Minigun para estrepes feitos de fragmentos cair em todos os tiles adjacentes ao alvo. Alvos que pisarem recebem um dano igual a ☀
 
