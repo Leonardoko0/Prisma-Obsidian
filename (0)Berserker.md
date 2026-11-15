@@ -85,13 +85,13 @@ Ao não possuir ⍒ suficiente para manter o estimulante ativo, o efeito termina
 Seu estimulante é dividido em diversos injetores, cada um com efeitos positivos e negativos diferentes. Agora, você utiliza ⍒ como cargas para disparar seus estimulantes.
 Seus injetores possuem alcance de 6 m e exigem 1 PP e uma ação de movimento ou padrão para serem disparados.
 
-**LV 3, :** Você possui uma lista de injetores que duram uma rodada.
+**LV 3, Injetor +100:** Você possui uma lista de injetores que duram uma rodada.
 
 - DNO-N 100: (2 ⍒) Aumenta o Dano do alvo em 1D. Esse dano é aumentando em +1d nos níveis 6, 12 e 18
 - ACRT-N 102: (1 ⍒) Aumenta o acerto para ataques padrões em +2. Bônus aumentado em 1 nos níveis 6, 11 e 17
 - VDI-N 619: (2 ⍒) Você recupera vida uma quantidade igual a 1d6. Quantidade aumentada no níveis 5 (1d8+2) 10 (2d8+3) 15 (3d8+6) 20 (4d8+8)
 
-**LV 9, :** Sua lista de injetores aumenta ainda mais
+**LV 9, injetor -100 :** Sua lista de injetores aumenta ainda mais
 
 - VEL-N 89: (1 ⍒) Aumenta o Movimento em 4,5m. Quantidade aumentada em 1,5 nos níveis 11 e 17 
 - Veisalgia Calamita: (2 ⍒) Você faz o alvo perder sua reação
