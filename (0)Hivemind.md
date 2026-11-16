@@ -83,7 +83,7 @@ As mariposas recebem uma mutação que transforma suas asas em lâminas metálic
 
 **LV 20, Furacão de 1000 Lâminas:** Gaste sua ação completa, 10pp -1 a cada Dot feito no combate e toda a população de mariposa
 
-Você puxa todas as mariposas criando um furação de raio 1 que dura 3 rodadas. Você pode mover 6m por rodada ou 18 gastando 1 rodada completa. Causa 5x Veneno no contado e 5x V nuvem ao terminar a rodada dentro do furacão. Você pode abaixar o dano para 4x para aumentar o raio em 1. Você pode fazer isso até sobrar o dano padrão e com 5 raios
+Você puxa todas as mariposas criando um furação de raio 1 que dura 3 rodadas. Você pode mover 6m por rodada ou 18 gastando 1 rodada completa. Causa 5x Veneno no contado e 5x V Nuvem ao terminar a rodada dentro do furacão. Você pode abaixar o dano para 4x para aumentar o raio em 1. Você pode fazer isso até sobrar o dano padrão e com 5 raios
 ## Casulo Sanguíneo 
 Sua contagem de população é dividida pela metade. Agora você deve eclodir casulos para as nuvens serem geradas
 - Seu dano muda para Erebus
