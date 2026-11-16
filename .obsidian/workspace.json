@@ -33,8 +33,7 @@
               "title": "Lista de Oq Fazer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +185,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8df18f82d85e24c4",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
+    "Lista de Oq Fazer.md",
+    "Rpg/Personagens/Raça.md",
+    "Tipos.md",
     "Sistema de Salas.md",
     "Rpg/Prisma.md",
     "Fama.md",
-    "Lista de Oq Fazer.md",
     "Tipo de Danos.md",
     "Combate Com Hordas.md",
     "Pasted image 20261115215435.png",
@@ -217,9 +218,7 @@
     "Melhorias.md",
     "Missões Principais.md",
     "(-)Blitzer.md",
-    "Tipos.md",
     "Rpg/Inimigos/Bestiário.md",
-    "Carros e motos (Adicionar nome).md",
     "Pasted image 20261017233324.png",
     "Pasted image 20261017231725.png",
     "Pasted image 20261017231708.png",
