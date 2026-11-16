@@ -45,7 +45,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 "Quando jogada com a Lua na mesa todos os jogadores podem ganhar os efeitos de um taro a sua escolha (sem repetir)". Esta carta pode ser trocada por outra aleatória a qualquer momento"
 ### O Julgamento 20
 ### O Mundo 21
-"Você para tudo e todos e pode agir "
+"Você para tudo e todos e pode agir assim que sacar essa carta. se for seu turno ganhe mais turno logo após esse."
 ## **Cartas Vermelhas**
 ### O Mago 1
 "Revele outra carta, se for positiva negue seus efeitos"
