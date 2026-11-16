@@ -1,6 +1,6 @@
 #Prisma [[Prisma]]
 - ~~Terminar as Cartas de Tarot~~
-- Terminar de balancear os Aparatos
+- ~~Terminar de balancear os Aparatos ~~
 - Implantes
 - Novos Itens Gerais e Operacionais (Slints para ossos, bandagens)
 - Dinheiro: Explicar relativamente o custo das coisas e explicar pontos de influencia
