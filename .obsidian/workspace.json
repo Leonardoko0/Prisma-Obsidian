@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,13 +284,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "690ab00ddbc4d67e",
+  "active": "e6bb6b896350e45b",
   "lastOpenFiles": [
+    "Berserker.md",
+    "Hivemind.md",
     "Crosslink.md",
     "Rpg/Personagens/Artilherista.md",
-    "Hivemind.md",
     "Riskrunner.md",
-    "Berserker.md",
     "Rpg/Personagens/Nômade.md",
     "Lista de Oq Fazer.md",
     "Rpg/Prisma.md",
