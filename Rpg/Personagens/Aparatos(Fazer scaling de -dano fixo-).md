@@ -49,7 +49,7 @@ Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 
 Um trio de facas leves e aerodinâmica, prontas para serem jogadas, sendo muito mais efetivas quando jogadas na surdina. No nível 7 aumenta o dano para 2d6 e no nível 13 para 2d8.
 
-Errar facas não desencadeia a percepção do alvo, após arremessar a faca se deforma e se torna impossível de ser arremessada uma segunda vez. Além disso, em cenas de furtividade, eliminar um alvo utilizando uma ca
+Errar facas não desencadeia a percepção do alvo, após arremessar a faca se deforma e se torna impossível de ser arremessada uma segunda vez. Além disso, em cenas de furtividade, eliminar um alvo utilizando uma carga gasta apenas um terço de Sombra
   
 ### Bomba de Gás Lacrimogênio 
 - 2 Usos
