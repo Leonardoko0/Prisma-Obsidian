@@ -30,7 +30,7 @@ O holograma possui 5 de vida e pode fazer ações simples, ele é incapaz de seg
 O cigarro Koldera possui alta concentração de nicotina o que os transformam em reais estimulantes de combate, porém como tudo que é bom se usado demais causa falência dos órgãos 
 
 Ao usar recebe vantagem em salvaguardas de moral, melhor concentração: +2 em acertos. Utilizar Koldera Black após um evento traumático resulta em uma maior dependência em troca de evitar efeitos mentais negativos
-### Faca Balística (reescrever)
+### Faca Balística
 - 3 Usos
 - Ação de Movimento
 
@@ -45,9 +45,9 @@ Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 - 3 Usos
 - Ação principal
 - 12m/24m, 2d6, 2X, 18
-- Arremessado furtivamente: 12m/24m, 2d6, 3X, 16
+- Arremessado furtivamente: 12m/24m, 2d4, 3X, 16
 
-Um trio de facas leves e aerodinâmica, prontas para serem jogadas, sendo muito mais efetivas quando jogadas na surdina
+Um trio de facas leves e aerodinâmica, prontas para serem jogadas, sendo muito mais efetivas quando jogadas na surdina.
 
 Errar facas não desencadeia a percepção do alvo, após arremessar a faca se deforma e se torna impossível de ser arremessada uma segunda vez
   
