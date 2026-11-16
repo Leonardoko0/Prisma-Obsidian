@@ -41,7 +41,7 @@ Troca suas ações de pancada por uma facada, Troque o dano para 1d4 corte, caso
 Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 
 - Envenenado por VMN24: pode realizar um salvaguarda de constituição para evitar efeito (DT15), na falha tome +1d4 de dano, na segunda rodada envenenado o alvo sofre 1d8 extra, vomita perdendo sua ação de movimento e finaliza o efeito. No nível 7 a DT sobe para 20 e no nível 13 para 25
-### Facas de Arremesso (reescrever)
+### Facas de Arremesso
 - 3 Usos
 - Ação principal
 - 12m/24m, 2d4, 2X, 18
@@ -63,9 +63,9 @@ Ao usar a bomba cobre uma área de 2x2 com fumaça escura, alvos pegos nessa ár
 - 1 Uso
 - Ação padrão
 -  Área Hexagonal de raio 2
-- 1d6+2 Corte
+- 1d4+1 Corte
 
-Uma bomba caseira de arame farpado. Cair em uma dessas causa bastante dor e limita o movimento do alvo, além disso ela pode ser utilizada para controle de área.
+Uma bomba caseira de arame farpado. Cair em uma dessas causa bastante dor e limita o movimento do alvo, além disso ela pode ser utilizada para controle de área. 
 
 Ao usar: jogue em um espaço, todos os tiles adjacentes ficaram cobertos por arame, andar por esse arame causa 1d6+2 Corte e corta o movimento pela metade pela próxima rodada
 ### Jack Daniel No.88
