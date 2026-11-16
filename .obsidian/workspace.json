@@ -47,8 +47,7 @@
               "title": "Sistema de Salas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8df18f82d85e24c4",
+  "active": "129fdb495341a08d",
   "lastOpenFiles": [
-    "Sistema de Salas.md",
     "Lista de Oq Fazer.md",
+    "Sistema de Salas.md",
     "Pasted image 20261115215435.png",
     "Pasted image 20261115215434.png",
     "Rpg/Prisma.md",
