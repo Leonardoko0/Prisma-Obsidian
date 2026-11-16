@@ -112,7 +112,7 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **Operarias:** Pode ter 6 abelhas operarias totais. Operarias causam metade do dano porém geram 1 cera quando o inimigo passa pela Nuvem e 2 quando um inimigo finaliza dentro da Nuvem
 
-**Soldado:** Custa 1 cera para gerar a formação. Soldados causam mais um dado e dura uma rodada extra. Causa +1 dado no nível 10
+**Soldado:** Custa 1 cera para gerar a formação. Soldados causam mais um dado de dano e duram uma rodada extra. Causa +1 dado no nível 10
 
 **LV 9, :** Ao utilizar a habilidade "CAÇAR" gaste 2 de cera para fazer suas mariposas explodirem em contato com o alvo, ele recebe 3x V Nuvem e ficam encerado por 1d2 rodadas
 - Encerado: Aumenta todo dano causado pelas mariposas em 2 dados e abaixa o movimento em 3m
