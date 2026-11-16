@@ -11,4 +11,5 @@
 - Fazer o sistema de melhoramento de arma
 - Sistemática de combate de Horda
 - Terminar sistemática de utilizar habilidades fora de combate
+- **PRISMA V1 COMPLETO**
 --- 
