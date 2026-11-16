@@ -40,7 +40,7 @@ Troca suas ações de pancada por uma facada, Troque o dano para 1d4 corte, caso
 
 Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 
-- Envenenado por VMN24: pode realizar um salvaguarda de constituição para evitar efeito (DT15), na falha tome 1d4 de dano, na segunda rodada envenenado o alvo sofre 1d8 extra, vomita perdendo sua ação de movimento e finaliza o efeito
+- Envenenado por VMN24: pode realizar um salvaguarda de constituição para evitar efeito (DT15), na falha tome +1d4 de dano, na segunda rodada envenenado o alvo sofre 1d8 extra, vomita perdendo sua ação de movimento e finaliza o efeito. No nível 7 a DT sobe para 20 e no nível 13 para 25
 ### Facas de Arremesso (reescrever)
 - 3 Usos
 - Ação principal
