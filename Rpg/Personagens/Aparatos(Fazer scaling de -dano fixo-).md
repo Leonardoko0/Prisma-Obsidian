@@ -145,13 +145,13 @@ Ao usar: Quando utilizar a ação fintar receba vantagem no teste de enganação
 Um equipamento de alta capacidade que solta cargas elétricas no alvo quando é acertado por um ataque com potencia 
 
 Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e causa 5 dados do mesmo tipo de dano da arma em dano elétrico em um objeto ou parede de tamanho médio ou maior
-### Modulo de Contra Momentum (reescrever)
+### Modulo de Contra Momentum
 - 2 Uso
 - Reação
 
 Um equipamento que absorve impacto e por um curto período de tempo o utiliza contra o atacante
 
-Ao usar: Ao usar Retalhação, quando receber o próximo ataque resista a 10 desse dano e esse dano será adicionado no seu ataque
+Ao usar: Ao usar Retalhação, quando receber o próximo ataque acumule a 7 desse dano e esse dano será adicionado no seu ataque
 
 "Minha obra prima eles disseram e talvez estivessem certos" - Mestre Oktus após criar a bobina de contra Momentum
 
