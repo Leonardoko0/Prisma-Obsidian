@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +228,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3cc3d1870cd97304",
+  "active": "8df18f82d85e24c4",
   "lastOpenFiles": [
-    "Lista de Oq Fazer.md",
     "Rpg/Personagens/Aparatos.md",
+    "Lista de Oq Fazer.md",
     "Cenas Furtivas.md",
     "Sovereign.md",
     "Lucky 44.md",
