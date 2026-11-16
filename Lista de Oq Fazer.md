@@ -6,6 +6,9 @@
 - Dinheiro: Explicar relativamente o custo das coisas e explicar pontos de influencia
 - Anotar Sistema de Briga de Bar
 - Fazer algumas novas armas (Arco e blá blá blá)
+- Terminar os Tipos de Dano
 - Terminar o Sistema de Salas
 - Fazer o sistema de melhoramento de arma
 - Sistemática de combate de Horda
+- Terminar sistemática de utilizar habilidades fora de combate
+-
