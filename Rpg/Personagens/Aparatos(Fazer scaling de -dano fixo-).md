@@ -44,12 +44,12 @@ Você pode atirar a carga por 6m ao acertar o alvo fica envenenado por VMN24
 ### Facas de Arremesso (reescrever)
 - 3 Usos
 - Ação principal
-- 12m/24m, 2d6, 2X, 18
+- 12m/24m, 2d4, 2X, 18
 - Arremessado furtivamente: 12m/24m, 2d4, 3X, 16
 
-Um trio de facas leves e aerodinâmica, prontas para serem jogadas, sendo muito mais efetivas quando jogadas na surdina.
+Um trio de facas leves e aerodinâmica, prontas para serem jogadas, sendo muito mais efetivas quando jogadas na surdina. No nível 7 aumenta o dano para 2d6 e no nível 13 para 2d8.
 
-Errar facas não desencadeia a percepção do alvo, após arremessar a faca se deforma e se torna impossível de ser arremessada uma segunda vez
+Errar facas não desencadeia a percepção do alvo, após arremessar a faca se deforma e se torna impossível de ser arremessada uma segunda vez. Além disso, em cenas de furtividade, eliminar um alvo utilizando uma ca
   
 ### Bomba de Gás Lacrimogênio 
 - 2 Usos
