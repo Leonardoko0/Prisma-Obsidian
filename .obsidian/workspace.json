@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lucky 44 (Cartas da Sorte).md",
+                "file": "Lucky 44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucky 44 (Cartas da Sorte)"
+              "title": "Lucky 44"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +200,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9dcbbb9ba9e83e38",
+  "active": "8df18f82d85e24c4",
   "lastOpenFiles": [
+    "Lucky 44.md",
     "Lista de Oq Fazer.md",
     "Rpg/Personagens/Raça.md",
     "Tipos.md",
@@ -233,7 +234,6 @@
     "Melhorias.md",
     "Missões Principais.md",
     "(-)Blitzer.md",
-    "Rpg/Inimigos/Bestiário.md",
     "Pasted image 20261017233324.png",
     "Pasted image 20261017231725.png",
     "Pasted image 20261017231708.png",
