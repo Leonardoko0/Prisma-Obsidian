@@ -1,7 +1,7 @@
 #classes [[Classes de Backline]]
 **Pontos de vida**: 1d4 + modificador de vigor
 
-**Proficiências**: Escolha três entre Adestramento, Ciências, Diplomacia, Éter, Intuição,m E duas perícias extras.
+**Proficiências**: Escolha três entre Adestramento, Ciências, Diplomacia, Éter, Intuição, Percepção, Tática E duas perícias extras.
 
 **Salvaguardas**: Moral e Lucidez
 
