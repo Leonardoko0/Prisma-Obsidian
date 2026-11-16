@@ -106,7 +106,7 @@ Você pode alterar o formato do enxame gastando uma ação de movimento e 2 Est�
 
 **LV 20, Bulbo do Vampiro:** Você pode gastar 5pp e sua ação principal para todos os inimigos em um raio de 12m ficarem implantados com "Ovos da Rainha". Ao eclodirem todo dano causado e regenerado da sua vida
 ## Colmeia Rainha
-As mariposas criam um senso de comunidade aprimorado e se dividem em funções e trabalhos
+As mariposas criam um senso de comunidade aprimorado e se dividem em funções e trabalhos. Além disso você utiliza Cera como material para utilizar suas mariposas
 
 **LV 3, :** Você pode definir a função das mariposas antes de colocar uma formação.
 
