@@ -96,7 +96,8 @@ Sua contagem de população é dividida pela metade. Agora você deve eclodir ca
 **Implantar:** Gaste 2 pp e 1 de estâmina para seu próximo ataque colocar ovos em um acerto.
 Ovos implantados nascem no inicio da próxima rodada e causam V Nuvem
 
-**LV 9, Enxames:** Você pode juntar duas nuvens adjacentes para fazer uma nuvem com tamanho de 4 tiles, juntando dois desse novos enxames você cria um enxame com 7 tiles. Seu formato pode ser alterado com ação uma ação de movimento e dois de estâmina contando que o tile central permaneça inalterado
+**LV 9, Enxames:** Você pode unir duas nuvens adjacentes, formando uma única nuvem de 4 Tiles. Ao unir duas dessas novas formações, você cria um enxame de 7 Tiles.
+Você pode alterar o formato do enxame gastando uma ação de movimento e 2 Estâmina, desde que o Tile central permaneça inalterado.
 
 **LV 14, :** Você pode gastar 1pp ao colocar um ovo para melhora-lo
 - Ovos Receptores: Caso um inimigo passe adjacentemente ao ovo ele nasce uma rodada mais cedo. pode acumular até o nascimento
