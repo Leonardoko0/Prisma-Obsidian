@@ -138,13 +138,13 @@ Um equipamento ocular ligado com a medula, que se mostra um equipamento que indi
 Ao usar: Quando utilizar a ação fintar receba vantagem no teste de enganação
  
 "Protocolo de movimentação O.L.H.O iniciando"
-### Aríete de Choque (reescrever)
+### Aríete de Choque
 - 1 Uso
 - Apenas em investidas 
 
 Um equipamento de alta capacidade que solta cargas elétricas no alvo quando é acertado por um ataque com potencia 
 
-Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e causa 3 dados do mesmo tipo de dano da arma em dano elétrico
+Ao usar: Sua investida não custa Estâmina, recebe +3 espaços de movimento e causa 5 dados do mesmo tipo de dano da arma em dano elétrico em um objeto ou parede de tamanho médio ou maior
 ### Modulo de Contra Momentum (reescrever)
 - 2 Uso
 - Reação
