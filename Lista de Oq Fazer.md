@@ -7,4 +7,5 @@
 - Anotar Sistema de Briga de Bar
 - Fazer algumas novas armas (Arco e blá blá blá)
 - Terminar o Sistema de Salas
-- 
+- Fazer o sistema de melhoramento de arma
+- Sistemática de combate de Horda
