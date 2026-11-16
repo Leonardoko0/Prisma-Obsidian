@@ -97,6 +97,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 "Funciona como um Sol azul mas caso haja dois Sol em jogo, todos os taros desta e da próxima sessão agem como vermelhos. Todos aqueles que ainda não viraram devem virar uma carta"
 ### O Julgamento 20
 ### O Mundo 21
+"Você é parado por tudo e todos,"
 ## *O Louco 0*
 **Azul**
 "Saque uma nova carta do baralho, ela e o resto da sua mão se tornam ativas simultaneamente"
