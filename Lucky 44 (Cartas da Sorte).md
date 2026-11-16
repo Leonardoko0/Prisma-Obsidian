@@ -97,6 +97,7 @@ O baralho é composto por 44 cartas, 21 positivas (Azuis), 21 negativas (Vermelh
 ### O Sol 19
 "Funciona como um Sol azul mas caso haja dois Sol em jogo, todos os taros desta e da próxima sessão agem como vermelhos. Todos aqueles que ainda não viraram devem virar uma carta"
 ### O Julgamento 20
+"O julgamento chega para todos. Para cada ação Negativa/Mal realizada nessa missão, você recebe um ponto de Julgamento que todo teste que você fizer "
 ### O Mundo 21
 "Você é parado por tudo e todos, você perde 1d2+1 Turnos"
 ## *O Louco 0*
