@@ -59,15 +59,15 @@ Errar facas não desencadeia a percepção do alvo, após arremessar a faca se d
 Uma bomba de controle de rebelião que serve para desorientar inimigos, projetada para ser portátil e segura, seu uso pode virar combates com inimigos despreparados
 
 Ao usar a bomba cobre uma área de 2x2 com fumaça escura, alvos pegos nessa área devem fazer um salvaguarda de Sentido (DT=Arremesso) na falha o alvo fica atordoado por 1 turno.
-### Bomba de Concertina (reescrever)
+### Bomba de Concertina
 - 1 Uso
 - Ação padrão
--  Área Hexagonal de raio 2
+-  Área Hexagonal de raio 1
 - 1d4+1 Corte
 
 Uma bomba caseira de arame farpado. Cair em uma dessas causa bastante dor e limita o movimento do alvo, além disso ela pode ser utilizada para controle de área. 
 
-Ao usar: jogue em um espaço, todos os tiles adjacentes ficaram cobertos por arame, andar por esse arame causa 1d6+2 Corte e corta o movimento pela metade pela próxima rodada
+Ao usar: jogue em um espaço, todos os tiles adjacentes ficaram cobertos por arame, andar por esse arame causa 1d6+2 Corte e corta o movimento pela metade pela próxima rodada. No nível 7 aumenta o dano para 1d6+2 e no nível 13 para 1d8+3
 ### Jack Daniel No.88
 - 1 Uso
 - Ação Padrão
