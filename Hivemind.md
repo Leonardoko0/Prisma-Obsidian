@@ -119,6 +119,6 @@ As mariposas criam um senso de comunidade aprimorado e se dividem em funções e
 
 **LV 14, Salão real:** Ao utilizar a Habilidade "POSICIONAR" gaste 3 Cera e posicione um Zangão
 
-**Zangão:** Todos os insetos em um alcance de 6m causam 2 dados de dano a mais. Ele não causa dano e dura uma quantidade indefinida de rodadas além disso ele pode se mover 3m no inicio de seu turno
+**Zangão:** Todos os insetos em um alcance de 6m causam 2 dados de dano a mais. Ele não causa dano e dura uma quantidade indefinida de rodadas, além disso ele pode se mover 3m no inicio de seu turno
 
-**LV 20, A Rainha Está Morta:** Gaste sua ação padrão e 10pp -1 a cada Cera para fazer todas suas abelhas explodirem causando dano a todas as criaturas adjacentes a elas. O dano causado é igual a 4x V Nuvem, caso o alvo seja acertado mais de uma vez ele fica atordoado por 1 rodada.
+**LV 20, A Rainha Está Morta:** Gaste sua ação padrão e 10pp -1 para cada Cera, para fazer todas suas abelhas explodirem causando dano á criaturas adjacentes a elas. O dano causado é igual a 4x V Nuvem, caso o alvo seja acertado mais de uma vez ele fica atordoado por 1 rodada.
