@@ -311,6 +311,7 @@ Transforma-se em um santuário de contemplação, equipado com tecnologia de hol
 **Nível 2:** 4500u/ 3𖠂
 **Nível 3:** 10500u/ 5𖠂
 ### Canil
+1
 ### Depósito
 - Tamanho: 11x11
 **Nível 1:** 750u/ 1𖠂
