@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "95b1acdaf5da1165",
+  "active": "a32daa116b1ebce5",
   "lastOpenFiles": [
+    "Sistema de Salas.md",
     "Rpg/Personagens/Vestimentas e Armaduras.md",
     "Lucky 44.md",
     "Rpg/Personagens/Nômade.md",
@@ -225,7 +226,6 @@
     "Lista de Oq Fazer.md",
     "Rpg/Personagens/Raça.md",
     "Tipos.md",
-    "Sistema de Salas.md",
     "Rpg/Prisma.md",
     "Fama.md",
     "Tipo de Danos.md",
